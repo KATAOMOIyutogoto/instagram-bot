@@ -427,74 +427,102 @@ def main():
             )
         )
 
-        # まず href と「ピン留めかどうか」をリスト化（最初の12件くらい見れば十分）
+        # まず href、ピン留めかどうか、リンク要素をリスト化（最初の12件くらい見れば十分）
         candidates = []
         for link in post_links[:12]:
             href = link.get_attribute("href") or ""
             if not href:
                 continue
             pinned = _is_pinned_post(link)
-            candidates.append((href, pinned))
+            candidates.append((href, pinned, link))
 
+        # すべての候補について投稿日時を取得して、最新のものを選択
+        post_with_dates = []  # (href, pinned, post_datetime) のリスト
+        
+        for href, pinned, link in candidates:
+            # まずプロフィールページのカードから投稿日を取得を試みる
+            card_date = _date_from_card_alt(link)
+            
+            if card_date:
+                # カードから取得できた場合（naive datetimeをUTCに変換）
+                # card_dateはnaive datetimeなので、UTCとして扱う
+                post_dt = card_date.replace(tzinfo=timezone.utc)
+                logger.info(f"候補 {href} (ピン留め: {pinned}) - カードから日付取得: {post_dt}")
+                post_with_dates.append((href, pinned, post_dt))
+            else:
+                # カードから取得できない場合は、投稿ページにアクセスして取得
+                logger.info(f"候補 {href} (ピン留め: {pinned}) - 投稿ページから日付取得を試みます")
+                current_url = driver.current_url
+                try:
+                    driver.get(href)
+                    try:
+                        t = WebDriverWait(driver, 12).until(
+                            EC.presence_of_element_located((By.TAG_NAME, "time"))
+                        )
+                        dt_str = t.get_attribute("datetime") or ""
+                        if dt_str:
+                            post_dt = dt.fromisoformat(dt_str.replace("Z", "+00:00"))
+                            logger.info(f"候補 {href} (ピン留め: {pinned}) - 投稿ページから日付取得: {post_dt}")
+                            post_with_dates.append((href, pinned, post_dt))
+                        else:
+                            logger.warning(f"候補 {href} - datetime属性が見つかりませんでした → スキップ")
+                    except Exception as e:
+                        logger.warning(f"候補 {href} - 日付取得で例外: {e} → スキップ")
+                    finally:
+                        # プロフィールページに戻る
+                        try:
+                            driver.back()
+                            wait.until(EC.presence_of_all_elements_located(
+                                (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
+                            ))
+                        except Exception as back_error:
+                            logger.error(f"プロフィールページに戻れませんでした: {back_error}")
+                            # プロフィールページに直接アクセス
+                            driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
+                            time.sleep(5)
+                except Exception as e:
+                    logger.error(f"候補 {href} - 投稿ページへのアクセスでエラー: {e} → スキップ")
+                    # プロフィールページに戻る
+                    try:
+                        if driver.current_url != current_url:
+                            driver.back()
+                            wait.until(EC.presence_of_all_elements_located(
+                                (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
+                            ))
+                    except Exception as back_error:
+                        logger.error(f"プロフィールページに戻れませんでした: {back_error}")
+                        # プロフィールページに直接アクセス
+                        driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
+                        time.sleep(5)
+
+        # 投稿日時が最新のものを選択
         latest_post_url = None
-
-        # 候補を順番にチェック
-        for href, pinned in candidates:
-            if not pinned:
-                # 非ピン留めはそのまま採用
-                latest_post_url = href
-                logger.info(f"選定: 非ピン留め {href}")
-                break
-
-            # ピン留め → 日付を確認
-            logger.info(f"候補はピン留め: {href} → 日付確認")
-            driver.get(href)
-            try:
-                t = WebDriverWait(driver, 12).until(
-                    EC.presence_of_element_located((By.TAG_NAME, "time"))
-                )
-                dt_str = t.get_attribute("datetime") or ""
-                if not dt_str:
-                    logger.warning("time要素は見つかったが datetime属性なし → 採用（安全側）")
-                    latest_post_url = href
-                    break
-
-                post_dt = dt.fromisoformat(dt_str.replace("Z", "+00:00"))
-                now_utc = dt.now(timezone.utc)
+        if post_with_dates:
+            # 投稿日時でソート（新しい順）
+            post_with_dates.sort(key=lambda x: x[2], reverse=True)
+            
+            # MAX_AGE_DAYSのチェック
+            now_utc = dt.now(timezone.utc)
+            for href, pinned, post_dt in post_with_dates:
                 age = now_utc - post_dt
-
-                if MAX_AGE_DAYS > 0 and age >= timedelta(days=MAX_AGE_DAYS):
-                    logger.info(f"ピン留めだが3日以上前({age.days}日) → スキップ")
+                if MAX_AGE_DAYS > 0 and age > timedelta(days=MAX_AGE_DAYS):
+                    logger.info(f"候補 {href} (ピン留め: {pinned}) - {MAX_AGE_DAYS}日より古い({age.days}日) → スキップ")
                     continue
                 else:
-                    logger.info("ピン留めだが3日以内 → 採用")
                     latest_post_url = href
+                    logger.info(f"選定: {href} (ピン留め: {pinned}, 投稿日時: {post_dt}, 経過日数: {age.days}日)")
                     break
-            except Exception as e:
-                logger.warning(f"ピン留め日付確認で例外: {e} → 採用（安全側）")
-                latest_post_url = href
-                break
 
-        # 採用できたらそのページへ、できなければ次へ
+        # 採用できたらそのページへ、できなければ終了
         if latest_post_url:
             driver.get(latest_post_url)
             time.sleep(2)
+            print(f"最新投稿のURL: {latest_post_url}")
             logger.info("最新投稿ページにアクセスしました")
         else:
-            logger.info("条件に合致する投稿が見つかりませんでした（全部ピン留め3日超え等）")
+            logger.info(f"条件に合致する投稿が見つかりませんでした（すべての候補が{MAX_AGE_DAYS}日より古い等）")
             driver.quit()
             return 1
-
-        if latest_post_url:
-            print(f"最新投稿のURL: {latest_post_url}")
-            # 投稿ページに直接アクセス
-            driver.get(latest_post_url)
-            time.sleep(2)
-            print("最新投稿ページにアクセスしました")
-            logger.info("最新投稿ページにアクセスしました")
-        else:
-            print("最新の非固定投稿が見つかりませんでした")
-            logger.info("最新の非固定投稿が見つかりませんでした")
 
     except Exception as e:
         print(f"エラーが発生しました: {str(e)}")

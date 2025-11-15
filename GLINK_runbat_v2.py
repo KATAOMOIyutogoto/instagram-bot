@@ -174,6 +174,17 @@ def process_command(command_type, arg, logger):
             for business_id in business_ids:
                 execute_python_script("postGBP.py", "story", arg, business_id, process_id)
 
+        # バックアップ処理
+        if backup_media_files(arg):
+            logger.info("メディアファイルのバックアップが完了しました")
+        else:
+            logger.error("メディアファイルのバックアップに失敗しました")
+
+        if backup_temp_file(arg, process_id):
+            logger.info("説明文ファイルのバックアップが完了しました")
+        else:
+            logger.error("説明文ファイルのバックアップに失敗しました")
+
     ### GLINK_V2 ###
     elif command_type == ExecutionType.GLINK_V2:
         logger.info(f"GLINK_v2_postフローを開始: {arg}")
@@ -186,6 +197,17 @@ def process_command(command_type, arg, logger):
         if post_success:
             for business_id in business_ids:
                 post_gbp_success = execute_python_script("postGBP.py", "post", arg, business_id, process_id)
+
+        # バックアップ処理
+        if backup_media_files(arg):
+            logger.info("メディアファイルのバックアップが完了しました")
+        else:
+            logger.error("メディアファイルのバックアップに失敗しました")
+
+        if backup_temp_file(arg, process_id):
+            logger.info("説明文ファイルのバックアップが完了しました")
+        else:
+            logger.error("説明文ファイルのバックアップに失敗しました")
 
     ### GLINK_V3 ###
     elif command_type == ExecutionType.GLINK_V3:
@@ -211,29 +233,29 @@ def process_command(command_type, arg, logger):
         if backup_temp_file(arg, process_id):
             logger.info("説明文ファイルのバックアップが完了しました")
         else:
-            logger.error("説明文ファイルのバックアップに失敗しましたss")
+            logger.error("説明文ファイルのバックアップに失敗しました")
 
         # POST/GBPフロー（MEO/GBPの結果に関わらず実行）
         logger.info("postフローを開始します")
-        process_id = datetime.now().strftime("%Y%m%d_%H%M%S")
-        logger.info(f"process_id: {process_id}")
+        post_process_id = datetime.now().strftime("%Y%m%d_%H%M%S")
+        logger.info(f"process_id: {post_process_id}")
 
-        post_success = execute_python_script("post.py", arg, process_id)
+        post_success = execute_python_script("post.py", arg, post_process_id)
 
         if post_success:
             for business_id in business_ids:
-                post_gbp_success = execute_python_script("postGBP.py", "post", arg, business_id, process_id)
+                post_gbp_success = execute_python_script("postGBP.py", "post", arg, business_id, post_process_id)
 
-    # 共通のメディアファイルバックアップ処理
-    if backup_media_files(arg):
-        logger.info("メディアファイルのバックアップが完了しました")
-    else:
-        logger.error("メディアファイルのバックアップに失敗しました")
+        # バックアップ処理
+        if backup_media_files(arg):
+            logger.info("メディアファイルのバックアップが完了しました")
+        else:
+            logger.error("メディアファイルのバックアップに失敗しました")
 
-    if backup_temp_file(arg, process_id):
-        logger.info("説明文ファイルのバックアップが完了しました")
-    else:
-        logger.error("説明文ファイルのバックアップに失敗しましたsss")
+        if backup_temp_file(arg, post_process_id):
+            logger.info("説明文ファイルのバックアップが完了しました")
+        else:
+            logger.error("説明文ファイルのバックアップに失敗しました")
 
 
 ### メディアクリーンアップ ###

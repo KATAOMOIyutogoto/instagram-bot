@@ -272,7 +272,7 @@ def upload_images_to_post_v2(driver, media_folder, logger):
 
     except Exception as e:
         logger.error(f"アップロード処理中にエラーが発生しました: {str(e)}")
-        return None
+        return False
 
 ### iframe切り替え ###
 def switch_to_post_frame(driver):
@@ -444,6 +444,7 @@ def main():
         upload_result = upload_images_to_post_v2(driver, media_folder, logger)
         if not upload_result:
             logger.error("メディアアップロード失敗")
+            driver.quit()
             return 1
 
         driver, filepath = upload_result

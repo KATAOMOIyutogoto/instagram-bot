@@ -997,42 +997,41 @@ def main():
             logger.info("処理終了")
             return 1
 
-    finally:
-        ### 説明文取得 ###
-        filepath = check_media(USERNAME)
-        description = None
-        if filepath:
-            print(f"ファイルパス: {filepath}")
+    # 説明文取得（メディアが取得できた場合のみ）
+    filepath = check_media(USERNAME)
+    description = None
+    if filepath:
+        print(f"ファイルパス: {filepath}")
 
-            # ディレクトリパスを構築
-            description_dir = os.path.join("media", USERNAME, "description")
-            if not os.path.exists(description_dir):
-                os.makedirs(description_dir)
+        # ディレクトリパスを構築
+        description_dir = os.path.join("media", USERNAME, "description")
+        if not os.path.exists(description_dir):
+            os.makedirs(description_dir)
 
-            # 一時ファイルのパス（プロセスIDを含む）
-            temp_file_path = os.path.join(description_dir, f"{process_id}.txt")
+        # 一時ファイルのパス（プロセスIDを含む）
+        temp_file_path = os.path.join(description_dir, f"{process_id}.txt")
 
-            # メディア種別取得
-            file_extension = filepath.lower().split(".")[-1]
+        # メディア種別取得
+        file_extension = filepath.lower().split(".")[-1]
 
-            # 動画
-            # if file_extension in ["mp4", "mov", "avi", "wmv", "flv", "mkv"]:
-            #     description = get_video_description(filepath)
-            #     logger.info(f"説明文: {description}")
-                # description = format_description_GPT(description, USERNAME, logger)
+        # 動画
+        # if file_extension in ["mp4", "mov", "avi", "wmv", "flv", "mkv"]:
+        #     description = get_video_description(filepath)
+        #     logger.info(f"説明文: {description}")
+            # description = format_description_GPT(description, USERNAME, logger)
 
-            # 画像
-            # else:
-                # description = get_image_description_GPT(filepath, logger)
+        # 画像
+        # else:
+            # description = get_image_description_GPT(filepath, logger)
 
-            logger.info(f"説明文_AI: {description}")
+        logger.info(f"説明文_AI: {description}")
 
-            description = clean_description(description, USERNAME, logger)
-            logger.info(f"説明文_最終: {description}")
+        description = clean_description(description, USERNAME, logger)
+        logger.info(f"説明文_最終: {description}")
 
-            # データを一時ファイルに書き込み
-            with open(temp_file_path, "w", encoding="utf-8") as f:
-                f.write(description)
+        # データを一時ファイルに書き込み
+        with open(temp_file_path, "w", encoding="utf-8") as f:
+            f.write(description)
 
 
 if __name__ == "__main__":
