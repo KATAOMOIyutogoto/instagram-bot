@@ -483,6 +483,7 @@ def main():
         # まず href、ピン留めかどうかをリスト化（最初の6件くらい見れば十分）
         candidates = []
         max_candidates = min(6, len(post_links))  # 実際に取得できた数と6件の小さい方
+        logger.info(f"検索対象: 取得投稿数={len(post_links)}件, max_candidates={max_candidates}件")
         for link in post_links[:max_candidates]:
             href = link.get_attribute("href") or ""
             if not href:
