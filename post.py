@@ -539,9 +539,58 @@ def main():
             
             if card_date:
                 # カードから取得できた場合（naive datetimeをUTCに変換）
-                post_dt = card_date.replace(tzinfo=timezone.utc)
-                logger.info(f"候補 {href} (ピン留め: {pinned}) - カードから日付取得: {post_dt}")
-                post_with_dates.append((href, pinned, post_dt))
+                # ただし、カードから取得した日付は時刻が00:00:00のため、
+                # 同じ日付の候補を区別するために投稿ページから正確な日時を取得する
+                post_dt_from_card = card_date.replace(tzinfo=timezone.utc)
+                logger.info(f"候補 {href} (ピン留め: {pinned}) - カードから日付取得: {post_dt_from_card} (時刻情報なしのため、投稿ページから正確な日時を取得します)")
+                # 投稿ページから正確な日時を取得
+                try:
+                    driver.get(href)
+                    try:
+                        t = WebDriverWait(driver, 12).until(
+                            EC.presence_of_element_located((By.TAG_NAME, "time"))
+                        )
+                        dt_str = t.get_attribute("datetime") or ""
+                        if dt_str:
+                            post_dt = dt.fromisoformat(dt_str.replace("Z", "+00:00"))
+                            logger.info(f"候補 {href} (ピン留め: {pinned}) - 投稿ページから日付取得: {post_dt}")
+                            post_with_dates.append((href, pinned, post_dt))
+                        else:
+                            # 投稿ページから取得できない場合はカードの日付を使用
+                            logger.warning(f"候補 {href} - 投稿ページからdatetime属性が見つかりませんでした。カードの日付を使用します")
+                            post_with_dates.append((href, pinned, post_dt_from_card))
+                    except Exception as e:
+                        logger.warning(f"候補 {href} - 投稿ページから日付取得で例外: {e}。カードの日付を使用します")
+                        post_with_dates.append((href, pinned, post_dt_from_card))
+                    finally:
+                        # プロフィールページに戻る
+                        try:
+                            driver.back()
+                            wait.until(EC.presence_of_all_elements_located(
+                                (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
+                            ))
+                            time.sleep(0.5)  # 安定化のための待機
+                        except Exception as back_error:
+                            logger.error(f"プロフィールページに戻れませんでした: {back_error}")
+                            # プロフィールページに直接アクセス
+                            driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
+                            time.sleep(3)
+                            wait.until(EC.presence_of_all_elements_located(
+                                (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
+                            ))
+                except Exception as e:
+                    logger.error(f"候補 {href} - 投稿ページへのアクセスでエラー: {e}。カードの日付を使用します")
+                    post_with_dates.append((href, pinned, post_dt_from_card))
+                    # プロフィールページに戻る
+                    try:
+                        driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
+                        time.sleep(3)
+                        wait.until(EC.presence_of_all_elements_located(
+                            (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
+                        ))
+                    except Exception as back_error:
+                        logger.error(f"プロフィールページへの復帰に失敗: {back_error}")
+                        continue
             else:
                 # カードから取得できない場合は、投稿ページにアクセスして取得
                 logger.info(f"候補 {href} (ピン留め: {pinned}) - 投稿ページから日付取得を試みます")
