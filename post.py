@@ -427,8 +427,8 @@ def main():
             )
         )
 
-        # まず href、ピン留めかどうかをリスト化（最初の6件くらい見れば十分）
-        candidates = []
+        # まず href、ピン留めかどうか、リンク要素をリスト化（最初の6件くらい見れば十分）
+        candidates_with_link = []
         max_candidates = min(6, len(post_links))  # 実際に取得できた数と6件の小さい方
         logger.info(f"検索対象: 取得投稿数={len(post_links)}件, max_candidates={max_candidates}件")
         for link in post_links[:max_candidates]:
@@ -436,80 +436,72 @@ def main():
             if not href:
                 continue
             pinned = _is_pinned_post(link)
-            candidates.append((href, pinned))
+            candidates_with_link.append((href, pinned, link))
 
-        logger.info(f"候補数: {len(candidates)}件")
+        logger.info(f"候補数: {len(candidates_with_link)}件")
 
         # すべての候補について投稿日時を取得して、最新のものを選択
         # 日付が分かっていない投稿は全て日時を確認した後に最新の投稿を検索する
         post_with_dates = []  # (href, pinned, post_datetime) のリスト
         
-        logger.info(f"全{len(candidates)}件の候補について日時を取得します")
-        for i, (href, pinned) in enumerate(candidates, 1):
-            logger.info(f"[{i}/{len(candidates)}] 候補 {href} (ピン留め: {pinned}) の日付取得を開始")
+        logger.info(f"全{len(candidates_with_link)}件の候補について日時を取得します")
+        for i, (href, pinned, link) in enumerate(candidates_with_link, 1):
+            logger.info(f"[{i}/{len(candidates_with_link)}] 候補 {href} (ピン留め: {pinned}) の日付取得を開始")
             
-            # プロフィールページにいることを確認（必要に応じて再アクセス）
-            try:
+            # まずプロフィールページのカードから投稿日を取得を試みる
+            card_date = _date_from_card_alt(link)
+            
+            if card_date:
+                # カードから取得できた場合（naive datetimeをUTCに変換）
+                # card_dateはnaive datetimeなので、UTCとして扱う
+                post_dt = card_date.replace(tzinfo=timezone.utc)
+                logger.info(f"候補 {href} (ピン留め: {pinned}) - カードから日付取得: {post_dt}")
+                post_with_dates.append((href, pinned, post_dt))
+            else:
+                # カードから取得できない場合は、投稿ページにアクセスして取得
+                logger.info(f"候補 {href} (ピン留め: {pinned}) - 投稿ページから日付取得を試みます")
                 current_url = driver.current_url
-                if not current_url.startswith(f"https://www.instagram.com/{USERNAME}"):
-                    logger.info("プロフィールページにいないため、再アクセスします")
-                    driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
-                    time.sleep(2)
-                    wait.until(EC.presence_of_all_elements_located(
-                        (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
-                    ))
-            except Exception as e:
-                logger.warning(f"プロフィールページの確認でエラー: {e}")
-                driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
-                time.sleep(2)
-            
-            # すべての候補について、投稿ページから正確な日時を取得する
-            logger.info(f"候補 {href} (ピン留め: {pinned}) - 投稿ページから日付取得を試みます")
-            post_dt = None
-            try:
-                driver.get(href)
                 try:
-                    t = WebDriverWait(driver, 12).until(
-                        EC.presence_of_element_located((By.TAG_NAME, "time"))
-                    )
-                    dt_str = t.get_attribute("datetime") or ""
-                    if dt_str:
-                        post_dt = dt.fromisoformat(dt_str.replace("Z", "+00:00"))
-                        logger.info(f"候補 {href} (ピン留め: {pinned}) - 投稿ページから日付取得: {post_dt}")
-                        post_with_dates.append((href, pinned, post_dt))
-                    else:
-                        logger.warning(f"候補 {href} - datetime属性が見つかりませんでした → スキップ")
+                    driver.get(href)
+                    try:
+                        t = WebDriverWait(driver, 12).until(
+                            EC.presence_of_element_located((By.TAG_NAME, "time"))
+                        )
+                        dt_str = t.get_attribute("datetime") or ""
+                        if dt_str:
+                            post_dt = dt.fromisoformat(dt_str.replace("Z", "+00:00"))
+                            logger.info(f"候補 {href} (ピン留め: {pinned}) - 投稿ページから日付取得: {post_dt}")
+                            post_with_dates.append((href, pinned, post_dt))
+                        else:
+                            logger.warning(f"候補 {href} - datetime属性が見つかりませんでした → スキップ")
+                    except Exception as e:
+                        logger.warning(f"候補 {href} - 日付取得で例外: {e} → スキップ")
+                    finally:
+                        # プロフィールページに戻る
+                        try:
+                            driver.back()
+                            wait.until(EC.presence_of_all_elements_located(
+                                (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
+                            ))
+                        except Exception as back_error:
+                            logger.error(f"プロフィールページに戻れませんでした: {back_error}")
+                            # プロフィールページに直接アクセス
+                            driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
+                            time.sleep(5)
                 except Exception as e:
-                    logger.warning(f"候補 {href} - 日付取得で例外: {e} → スキップ")
-                finally:
+                    logger.error(f"候補 {href} - 投稿ページへのアクセスでエラー: {e} → スキップ")
                     # プロフィールページに戻る
                     try:
-                        driver.back()
-                        wait.until(EC.presence_of_all_elements_located(
-                            (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
-                        ))
-                        time.sleep(0.5)  # 安定化のための待機
+                        if driver.current_url != current_url:
+                            driver.back()
+                            wait.until(EC.presence_of_all_elements_located(
+                                (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
+                            ))
                     except Exception as back_error:
                         logger.error(f"プロフィールページに戻れませんでした: {back_error}")
                         # プロフィールページに直接アクセス
                         driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
-                        time.sleep(3)
-                        wait.until(EC.presence_of_all_elements_located(
-                            (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
-                        ))
-            except Exception as e:
-                logger.error(f"候補 {href} - 投稿ページへのアクセスでエラー: {e} → スキップ")
-                # プロフィールページに戻る
-                try:
-                    driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
-                    time.sleep(3)
-                    wait.until(EC.presence_of_all_elements_located(
-                        (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
-                    ))
-                except Exception as back_error:
-                    logger.error(f"プロフィールページへの復帰に失敗: {back_error}")
-                    # エラーが続く場合は次の候補に進む
-                    continue
+                        time.sleep(5)
 
         # すべての候補について日時を取得した後、最新の投稿を検索
         logger.info(f"日時取得完了: {len(post_with_dates)}件の候補から日時を取得しました")
