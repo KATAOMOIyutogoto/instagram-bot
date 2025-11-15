@@ -415,16 +415,41 @@ def main():
     try:
         logger.info("最新投稿を読み込みます")
 
-        time.sleep(5)
+        time.sleep(2)
 
-        wait = WebDriverWait(driver, 20)
+        wait = WebDriverWait(driver, 10)
 
-        # プロフィールグリッドから投稿リンクを直接取得
-        # プロフィールグリッドから投稿リンクを取得
-        post_links = wait.until(
-            EC.presence_of_all_elements_located(
-                (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
+        # プロフィールグリッドが読み込まれるまで待つ
+        # まず投稿グリッドのコンテナが存在することを確認
+        try:
+            wait.until(EC.presence_of_element_located(
+                (By.CSS_SELECTOR, 'article section')
+            ))
+            logger.info("投稿グリッドのコンテナを確認しました")
+        except Exception:
+            logger.warning("投稿グリッドのコンテナが見つかりませんでした")
+
+        # 最低3件の投稿が表示されるまで待つ（遅延読み込み対策）
+        logger.info("投稿リンクの読み込みを待機中...")
+        post_links = []
+        max_wait_time = 10
+        start_time = time.time()
+        
+        while len(post_links) < 3 and (time.time() - start_time) < max_wait_time:
+            post_links = driver.find_elements(
+                By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]'
             )
+            if len(post_links) < 3:
+                logger.info(f"投稿数が3件未満({len(post_links)}件)のため、待機中...")
+                time.sleep(0.5)
+            else:
+                logger.info(f"最低3件の投稿を確認しました: {len(post_links)}件")
+                break
+        
+        # さらに少し待って、可能な限り多くの投稿を取得
+        time.sleep(1)
+        post_links = driver.find_elements(
+            By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]'
         )
         
         logger.info(f"初期表示で取得した投稿数: {len(post_links)}件")
@@ -438,7 +463,7 @@ def main():
             while len(post_links) < 6 and scroll_attempts < max_scroll_attempts:
                 # ページの最後までスクロール
                 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                time.sleep(2)  # 投稿の読み込みを待つ
+                time.sleep(1)  # 投稿の読み込みを待つ
                 
                 # 再度投稿リンクを取得
                 new_post_links = driver.find_elements(
@@ -455,7 +480,7 @@ def main():
             
             logger.info(f"最終的に取得した投稿数: {len(post_links)}件")
 
-        # まず href、ピン留めかどうか、リンク要素をリスト化（最初の6件くらい見れば十分）
+        # まず href、ピン留めかどうかをリスト化（最初の6件くらい見れば十分）
         candidates = []
         max_candidates = min(6, len(post_links))  # 実際に取得できた数と6件の小さい方
         for link in post_links[:max_candidates]:
@@ -463,25 +488,54 @@ def main():
             if not href:
                 continue
             pinned = _is_pinned_post(link)
-            candidates.append((href, pinned, link))
+            candidates.append((href, pinned))
+
+        logger.info(f"候補数: {len(candidates)}件")
 
         # すべての候補について投稿日時を取得して、最新のものを選択
         post_with_dates = []  # (href, pinned, post_datetime) のリスト
         
-        for href, pinned, link in candidates:
-            # まずプロフィールページのカードから投稿日を取得を試みる
-            card_date = _date_from_card_alt(link)
+        for i, (href, pinned) in enumerate(candidates, 1):
+            logger.info(f"[{i}/{len(candidates)}] 候補 {href} (ピン留め: {pinned}) の日付取得を開始")
+            
+            # プロフィールページにいることを確認（必要に応じて再アクセス）
+            try:
+                current_url = driver.current_url
+                if not current_url.startswith(f"https://www.instagram.com/{USERNAME}"):
+                    logger.info("プロフィールページにいないため、再アクセスします")
+                    driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
+                    time.sleep(3)
+                    wait.until(EC.presence_of_all_elements_located(
+                        (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
+                    ))
+            except Exception as e:
+                logger.warning(f"プロフィールページの確認でエラー: {e}")
+                driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
+                time.sleep(2)
+            
+            # プロフィールページのカードから投稿日を取得を試みる
+            card_date = None
+            try:
+                # プロフィールページから該当のリンク要素を再取得
+                current_post_links = driver.find_elements(
+                    By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]'
+                )
+                for link in current_post_links[:max_candidates]:
+                    link_href = link.get_attribute("href") or ""
+                    if link_href == href:
+                        card_date = _date_from_card_alt(link)
+                        break
+            except Exception as e:
+                logger.debug(f"カードからの日付取得をスキップ: {e}")
             
             if card_date:
                 # カードから取得できた場合（naive datetimeをUTCに変換）
-                # card_dateはnaive datetimeなので、UTCとして扱う
                 post_dt = card_date.replace(tzinfo=timezone.utc)
                 logger.info(f"候補 {href} (ピン留め: {pinned}) - カードから日付取得: {post_dt}")
                 post_with_dates.append((href, pinned, post_dt))
             else:
                 # カードから取得できない場合は、投稿ページにアクセスして取得
                 logger.info(f"候補 {href} (ピン留め: {pinned}) - 投稿ページから日付取得を試みます")
-                current_url = driver.current_url
                 try:
                     driver.get(href)
                     try:
@@ -504,25 +558,28 @@ def main():
                             wait.until(EC.presence_of_all_elements_located(
                                 (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
                             ))
+                            time.sleep(0.5)  # 安定化のための待機
                         except Exception as back_error:
                             logger.error(f"プロフィールページに戻れませんでした: {back_error}")
                             # プロフィールページに直接アクセス
                             driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
-                            time.sleep(5)
+                            time.sleep(3)
+                            wait.until(EC.presence_of_all_elements_located(
+                                (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
+                            ))
                 except Exception as e:
                     logger.error(f"候補 {href} - 投稿ページへのアクセスでエラー: {e} → スキップ")
                     # プロフィールページに戻る
                     try:
-                        if driver.current_url != current_url:
-                            driver.back()
-                            wait.until(EC.presence_of_all_elements_located(
-                                (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
-                            ))
-                    except Exception as back_error:
-                        logger.error(f"プロフィールページに戻れませんでした: {back_error}")
-                        # プロフィールページに直接アクセス
                         driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
-                        time.sleep(5)
+                        time.sleep(3)
+                        wait.until(EC.presence_of_all_elements_located(
+                            (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
+                        ))
+                    except Exception as back_error:
+                        logger.error(f"プロフィールページへの復帰に失敗: {back_error}")
+                        # エラーが続く場合は次の候補に進む
+                        continue
 
         # 投稿日時が最新のものを選択
         latest_post_url = None
