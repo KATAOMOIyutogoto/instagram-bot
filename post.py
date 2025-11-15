@@ -443,8 +443,12 @@ def main():
         # すべての候補について投稿日時を取得して、最新のものを選択
         # 日付が分かっていない投稿は全て日時を確認した後に最新の投稿を検索する
         post_with_dates = []  # (href, pinned, post_datetime) のリスト
+        candidates_with_card_date = []  # (href, pinned, link, card_date) のリスト（カードから日付を取得できた候補）
+        candidates_without_card_date = []  # (href, pinned, link) のリスト（カードから日付を取得できなかった候補）
         
         logger.info(f"全{len(candidates_with_link)}件の候補について日時を取得します")
+        
+        # まず、すべての候補についてカードから日付を取得を試みる
         for i, (href, pinned, link) in enumerate(candidates_with_link, 1):
             logger.info(f"[{i}/{len(candidates_with_link)}] 候補 {href} (ピン留め: {pinned}) の日付取得を開始")
             
@@ -452,56 +456,80 @@ def main():
             card_date = _date_from_card_alt(link)
             
             if card_date:
-                # カードから取得できた場合（naive datetimeをUTCに変換）
-                # card_dateはnaive datetimeなので、UTCとして扱う
-                post_dt = card_date.replace(tzinfo=timezone.utc)
-                logger.info(f"候補 {href} (ピン留め: {pinned}) - カードから日付取得: {post_dt}")
-                post_with_dates.append((href, pinned, post_dt))
+                # カードから取得できた場合
+                candidates_with_card_date.append((href, pinned, link, card_date))
+                logger.info(f"候補 {href} (ピン留め: {pinned}) - カードから日付取得: {card_date.date()}")
             else:
-                # カードから取得できない場合は、投稿ページにアクセスして取得
-                logger.info(f"候補 {href} (ピン留め: {pinned}) - 投稿ページから日付取得を試みます")
-                current_url = driver.current_url
+                # カードから取得できない場合は、投稿ページから取得する必要がある
+                candidates_without_card_date.append((href, pinned, link))
+                logger.info(f"候補 {href} (ピン留め: {pinned}) - カードから日付取得不可、投稿ページから取得が必要")
+        
+        # 同じ日付の候補が複数あるかチェック
+        date_counts = {}
+        for href, pinned, link, card_date in candidates_with_card_date:
+            date_key = card_date.date()
+            if date_key not in date_counts:
+                date_counts[date_key] = []
+            date_counts[date_key].append((href, pinned, link, card_date))
+        
+        # 同じ日付の候補が複数ある場合は、それらすべてについて投稿ページから正確な日時を取得
+        needs_precise_date = []
+        for date_key, candidates in date_counts.items():
+            if len(candidates) > 1:
+                logger.info(f"同じ日付({date_key})の候補が{len(candidates)}件あるため、すべての候補について投稿ページから正確な日時を取得します")
+                needs_precise_date.extend(candidates)
+            else:
+                # 同じ日付が1件のみの場合は、カードから取得した日付を使用（時刻は00:00:00）
+                href, pinned, link, card_date = candidates[0]
+                post_dt = card_date.replace(tzinfo=timezone.utc)
+                logger.info(f"候補 {href} (ピン留め: {pinned}) - カードから日付取得（単一）: {post_dt}")
+                post_with_dates.append((href, pinned, post_dt))
+        
+        # カードから取得できなかった候補と、同じ日付が複数ある候補について、投稿ページから正確な日時を取得
+        all_needs_precise = candidates_without_card_date + [(href, pinned, link) for href, pinned, link, _ in needs_precise_date]
+        
+        for i, (href, pinned, link) in enumerate(all_needs_precise, 1):
+            logger.info(f"[{i}/{len(all_needs_precise)}] 候補 {href} (ピン留め: {pinned}) - 投稿ページから日付取得を試みます")
+            current_url = driver.current_url
+            try:
+                driver.get(href)
                 try:
-                    driver.get(href)
-                    try:
-                        t = WebDriverWait(driver, 12).until(
-                            EC.presence_of_element_located((By.TAG_NAME, "time"))
-                        )
-                        dt_str = t.get_attribute("datetime") or ""
-                        if dt_str:
-                            post_dt = dt.fromisoformat(dt_str.replace("Z", "+00:00"))
-                            logger.info(f"候補 {href} (ピン留め: {pinned}) - 投稿ページから日付取得: {post_dt}")
-                            post_with_dates.append((href, pinned, post_dt))
-                        else:
-                            logger.warning(f"候補 {href} - datetime属性が見つかりませんでした → スキップ")
-                    except Exception as e:
-                        logger.warning(f"候補 {href} - 日付取得で例外: {e} → スキップ")
-                    finally:
-                        # プロフィールページに戻る
-                        try:
-                            driver.back()
-                            wait.until(EC.presence_of_all_elements_located(
-                                (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
-                            ))
-                        except Exception as back_error:
-                            logger.error(f"プロフィールページに戻れませんでした: {back_error}")
-                            # プロフィールページに直接アクセス
-                            driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
-                            time.sleep(5)
+                    # extract_datetime関数を使用して正確な日時を取得
+                    dt_str = extract_datetime(driver, logger, timeout=12)
+                    if dt_str:
+                        post_dt = dt.fromisoformat(dt_str.replace("Z", "+00:00"))
+                        logger.info(f"候補 {href} (ピン留め: {pinned}) - 投稿ページから日付取得: {post_dt}")
+                        post_with_dates.append((href, pinned, post_dt))
+                    else:
+                        logger.warning(f"候補 {href} - datetime属性が見つかりませんでした → スキップ")
                 except Exception as e:
-                    logger.error(f"候補 {href} - 投稿ページへのアクセスでエラー: {e} → スキップ")
+                    logger.warning(f"候補 {href} - 日付取得で例外: {e} → スキップ")
+                finally:
                     # プロフィールページに戻る
                     try:
-                        if driver.current_url != current_url:
-                            driver.back()
-                            wait.until(EC.presence_of_all_elements_located(
-                                (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
-                            ))
+                        driver.back()
+                        wait.until(EC.presence_of_all_elements_located(
+                            (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
+                        ))
                     except Exception as back_error:
                         logger.error(f"プロフィールページに戻れませんでした: {back_error}")
                         # プロフィールページに直接アクセス
                         driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
                         time.sleep(5)
+            except Exception as e:
+                logger.error(f"候補 {href} - 投稿ページへのアクセスでエラー: {e} → スキップ")
+                # プロフィールページに戻る
+                try:
+                    if driver.current_url != current_url:
+                        driver.back()
+                        wait.until(EC.presence_of_all_elements_located(
+                            (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
+                        ))
+                except Exception as back_error:
+                    logger.error(f"プロフィールページに戻れませんでした: {back_error}")
+                    # プロフィールページに直接アクセス
+                    driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
+                    time.sleep(5)
 
         # すべての候補について日時を取得した後、最新の投稿を検索
         logger.info(f"日時取得完了: {len(post_with_dates)}件の候補から日時を取得しました")
