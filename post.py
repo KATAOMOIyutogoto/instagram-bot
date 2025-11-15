@@ -426,10 +426,39 @@ def main():
                 (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
             )
         )
+        
+        logger.info(f"初期表示で取得した投稿数: {len(post_links)}件")
 
-        # まず href、ピン留めかどうか、リンク要素をリスト化（最初の12件くらい見れば十分）
+        # 6件未満の場合はスクロールして追加の投稿を読み込む
+        if len(post_links) < 6:
+            logger.info(f"投稿数が6件未満({len(post_links)}件)のため、スクロールして追加の投稿を読み込みます")
+            scroll_attempts = 0
+            max_scroll_attempts = 3
+            
+            while len(post_links) < 6 and scroll_attempts < max_scroll_attempts:
+                # ページの最後までスクロール
+                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                time.sleep(2)  # 投稿の読み込みを待つ
+                
+                # 再度投稿リンクを取得
+                new_post_links = driver.find_elements(
+                    By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]'
+                )
+                
+                if len(new_post_links) > len(post_links):
+                    post_links = new_post_links
+                    logger.info(f"スクロール後、投稿数: {len(post_links)}件")
+                    scroll_attempts = 0  # 新しい投稿が見つかったらリセット
+                else:
+                    scroll_attempts += 1
+                    logger.info(f"追加の投稿が見つかりませんでした (試行: {scroll_attempts}/{max_scroll_attempts})")
+            
+            logger.info(f"最終的に取得した投稿数: {len(post_links)}件")
+
+        # まず href、ピン留めかどうか、リンク要素をリスト化（最初の6件くらい見れば十分）
         candidates = []
-        for link in post_links[:12]:
+        max_candidates = min(6, len(post_links))  # 実際に取得できた数と6件の小さい方
+        for link in post_links[:max_candidates]:
             href = link.get_attribute("href") or ""
             if not href:
                 continue
