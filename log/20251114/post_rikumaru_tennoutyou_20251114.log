@@ -1,0 +1,301 @@
+================================================================================
+2025-11-14 02:19:25,570 - INFO - 処理開始 PROCESSID:20251114_021922
+2025-11-14 02:19:25,571 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-11-14 02:19:25,571 - INFO - 処理を開始します
+2025-11-14 02:19:25,648 - INFO - 選択されたプロファイル: Profile 13
+2025-11-14 02:19:25,648 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-14 02:19:30,241 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-11-14 02:19:41,578 - INFO - 最新投稿を読み込みます
+2025-11-14 02:19:46,871 - INFO - 選定: 非ピン留め https://www.instagram.com/rikumaru_tennoutyou/reel/DQ_Uf-MkvOF/?hl=ja
+2025-11-14 02:19:52,515 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 02:19:56,210 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 02:19:56,394 - INFO - datetime属性の抽出を開始します
+2025-11-14 02:19:56,513 - INFO - 抽出されたdatetime: 2025-11-13T09:55:37.000Z
+2025-11-14 02:19:56,513 - INFO - rikumaru_tennoutyou の投稿日時: 2025-11-13T09:55:37.000Z
+2025-11-14 02:19:56,659 - INFO - date:2025-11-13 18:55:37+09:00
+2025-11-14 02:19:56,659 - INFO - post_date:20251113
+2025-11-14 02:19:56,698 - INFO - 1枚目: blob:https://www.instagram.com/03b46919-2234-4a1b-b01b-06b55c8f992a
+2025-11-14 02:19:56,698 - INFO - [caption/by_username] 開始
+2025-11-14 02:19:56,840 - INFO - [caption/by_username] 説明文確定（先頭100）: '寿司と地酒 りくまる 天王町店
+……………………………………………………
+［営業時間］
+〇火曜日～金曜日〇
+ランチ
+12:00〜14:30
+ディナー
+16:00~22:00
+※ラストオーダー30分前と'
+2025-11-14 02:19:56,841 - INFO - [caption/by_username] 説明文を保存: media\rikumaru_tennoutyou\description\20251114_021922
+2025-11-14 02:19:58,305 - INFO - 生成URL:https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m86/AQPk3K5xZc8Luab3ENUt5_WJhBHQp2GCJOj7z_kchWg9gAE4Jw_uG_6Mh044jt7QMuafCrxl2_FRzSrHHmZBxCW0ZZge5d2IuInpFnI.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=QKjgt-16YyQQ7kNvwEY8LcS&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTAxNjU2OTUxODQ5ODQxLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE1LCJiaXRyYXRlIjoxNDM3OTc1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=FoUN-PXhU7zdzOFAn8Zycg&_nc_zt=28&oh=00_AfhOFO-gggDmiVwBKNPNN6qdcx5CxlGIXl_of9l4m-AmFQ&oe=691869CF&bytestart=0&byteend=2744135
+2025-11-14 02:19:58,307 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=rikumaru_tennoutyou, key=AQPk3K5xZc8Luab3ENUt5_WJhBHQp2GCJOj7z_kchWg9gAE4Jw_uG_6Mh044jt7QMuafCrxl2_FRzSrHHmZBxCW0ZZge5d2IuInpFnI, dt=2025-11-13T09:55:37.000Z, url=https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m86/AQPk3K5xZc8Luab3ENUt5_WJhBHQp2GCJOj7z_kchWg9gAE4Jw_uG_6Mh044jt7QMuafCrxl2_FRzSrHHmZBxCW0ZZge5d2IuInpFnI.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=QKjgt-16YyQQ7kNvwEY8LcS&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTAxNjU2OTUxODQ5ODQxLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE1LCJiaXRyYXRlIjoxNDM3OTc1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=FoUN-PXhU7zdzOFAn8Zycg&_nc_zt=28&oh=00_AfhOFO-gggDmiVwBKNPNN6qdcx5CxlGIXl_of9l4m-AmFQ&oe=691869CF&bytestart=0&byteend=2744135, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('rikumaru_tennoutyou', 'AQPk3K5xZc8Luab3ENUt5_WJhBHQp2GCJOj7z_kchWg9gAE4Jw_uG_6Mh044jt7QMuafCrxl2_FRzSrHHmZBxCW0ZZge5d2IuInpFnI', 'https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m86/AQPk3K5xZc8Luab3ENUt5_WJhBHQp2GCJOj7z_kchWg9gAE4Jw_uG_6Mh044jt7QMuafCrxl2_FRzSrHHmZBxCW0ZZge5d2IuInpFnI.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=QKjgt-16YyQQ7kNvwEY8LcS&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTAxNjU2OTUxODQ5ODQxLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE1LCJiaXRyYXRlIjoxNDM3OTc1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=FoUN-PXhU7zdzOFAn8Zycg&_nc_zt=28&oh=00_AfhOFO-gggDmiVwBKNPNN6qdcx5CxlGIXl_of9l4m-AmFQ&oe=691869CF&bytestart=0&byteend=2744135', '2025-11-13T09:55:37.000Z')
+2025-11-14 02:19:58,308 - INFO - このレコードは存在します
+2025-11-14 02:19:58,308 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 05:17:25,419 - INFO - 処理開始 PROCESSID:20251114_051722
+2025-11-14 05:17:25,419 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-11-14 05:17:25,419 - INFO - 処理を開始します
+2025-11-14 05:17:25,486 - INFO - 選択されたプロファイル: Profile 10
+2025-11-14 05:17:25,486 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-14 05:17:30,013 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-11-14 05:17:42,221 - INFO - 最新投稿を読み込みます
+2025-11-14 05:17:47,691 - INFO - 選定: 非ピン留め https://www.instagram.com/rikumaru_tennoutyou/reel/DQ_Uf-MkvOF/?hl=ja
+2025-11-14 05:17:52,632 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 05:17:56,387 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 05:17:56,474 - INFO - datetime属性の抽出を開始します
+2025-11-14 05:17:56,525 - INFO - 抽出されたdatetime: 2025-11-13T09:55:37.000Z
+2025-11-14 05:17:56,525 - INFO - rikumaru_tennoutyou の投稿日時: 2025-11-13T09:55:37.000Z
+2025-11-14 05:17:56,543 - INFO - date:2025-11-13 18:55:37+09:00
+2025-11-14 05:17:56,543 - INFO - post_date:20251113
+2025-11-14 05:17:56,618 - INFO - 1枚目: blob:https://www.instagram.com/c3c85673-f1d5-487b-8939-de0255ed2bfa
+2025-11-14 05:17:56,618 - INFO - [caption/by_username] 開始
+2025-11-14 05:17:56,788 - INFO - [caption/by_username] 説明文確定（先頭100）: '寿司と地酒 りくまる 天王町店
+……………………………………………………
+［営業時間］
+〇火曜日～金曜日〇
+ランチ
+12:00〜14:30
+ディナー
+16:00~22:00
+※ラストオーダー30分前と'
+2025-11-14 05:17:56,790 - INFO - [caption/by_username] 説明文を保存: media\rikumaru_tennoutyou\description\20251114_051722
+2025-11-14 05:17:58,520 - INFO - 生成URL:https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m86/AQPk3K5xZc8Luab3ENUt5_WJhBHQp2GCJOj7z_kchWg9gAE4Jw_uG_6Mh044jt7QMuafCrxl2_FRzSrHHmZBxCW0ZZge5d2IuInpFnI.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=QKjgt-16YyQQ7kNvwEY8LcS&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTAxNjU2OTUxODQ5ODQxLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE1LCJiaXRyYXRlIjoxNDM3OTc1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Wwjxv64wplSJkXyU79iaSw&_nc_zt=28&oh=00_AfhPNthkDG5s9PqFTIVLMTAip22IaM8nNUklupZUuBOGuQ&oe=6918A20F&bytestart=0&byteend=2744135
+2025-11-14 05:17:58,522 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=rikumaru_tennoutyou, key=AQPk3K5xZc8Luab3ENUt5_WJhBHQp2GCJOj7z_kchWg9gAE4Jw_uG_6Mh044jt7QMuafCrxl2_FRzSrHHmZBxCW0ZZge5d2IuInpFnI, dt=2025-11-13T09:55:37.000Z, url=https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m86/AQPk3K5xZc8Luab3ENUt5_WJhBHQp2GCJOj7z_kchWg9gAE4Jw_uG_6Mh044jt7QMuafCrxl2_FRzSrHHmZBxCW0ZZge5d2IuInpFnI.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=QKjgt-16YyQQ7kNvwEY8LcS&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTAxNjU2OTUxODQ5ODQxLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE1LCJiaXRyYXRlIjoxNDM3OTc1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Wwjxv64wplSJkXyU79iaSw&_nc_zt=28&oh=00_AfhPNthkDG5s9PqFTIVLMTAip22IaM8nNUklupZUuBOGuQ&oe=6918A20F&bytestart=0&byteend=2744135, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('rikumaru_tennoutyou', 'AQPk3K5xZc8Luab3ENUt5_WJhBHQp2GCJOj7z_kchWg9gAE4Jw_uG_6Mh044jt7QMuafCrxl2_FRzSrHHmZBxCW0ZZge5d2IuInpFnI', 'https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m86/AQPk3K5xZc8Luab3ENUt5_WJhBHQp2GCJOj7z_kchWg9gAE4Jw_uG_6Mh044jt7QMuafCrxl2_FRzSrHHmZBxCW0ZZge5d2IuInpFnI.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=QKjgt-16YyQQ7kNvwEY8LcS&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTAxNjU2OTUxODQ5ODQxLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE1LCJiaXRyYXRlIjoxNDM3OTc1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Wwjxv64wplSJkXyU79iaSw&_nc_zt=28&oh=00_AfhPNthkDG5s9PqFTIVLMTAip22IaM8nNUklupZUuBOGuQ&oe=6918A20F&bytestart=0&byteend=2744135', '2025-11-13T09:55:37.000Z')
+2025-11-14 05:17:58,523 - INFO - このレコードは存在します
+2025-11-14 05:17:58,523 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 08:13:22,771 - INFO - 処理開始 PROCESSID:20251114_081319
+2025-11-14 08:13:22,771 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-11-14 08:13:22,771 - INFO - 処理を開始します
+2025-11-14 08:13:22,833 - INFO - 選択されたプロファイル: Profile 9
+2025-11-14 08:13:22,833 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-14 08:13:27,271 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-11-14 08:13:38,947 - INFO - 最新投稿を読み込みます
+2025-11-14 08:13:44,254 - INFO - 選定: 非ピン留め https://www.instagram.com/rikumaru_tennoutyou/reel/DRBx5Z8gUZL/?hl=ja
+2025-11-14 08:13:47,386 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 08:13:51,968 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 08:13:52,118 - INFO - datetime属性の抽出を開始します
+2025-11-14 08:13:52,163 - INFO - 抽出されたdatetime: 2025-11-14T07:04:19.000Z
+2025-11-14 08:13:52,163 - INFO - rikumaru_tennoutyou の投稿日時: 2025-11-14T07:04:19.000Z
+2025-11-14 08:13:52,192 - INFO - date:2025-11-14 16:04:19+09:00
+2025-11-14 08:13:52,193 - INFO - post_date:20251114
+2025-11-14 08:13:52,222 - INFO - 1枚目: blob:https://www.instagram.com/3be2f3fe-89d8-48b3-9fdf-2d6a44aedc86
+2025-11-14 08:13:52,222 - INFO - [caption/by_username] 開始
+2025-11-14 08:13:52,313 - INFO - [caption/by_username] 説明文確定（先頭100）: '寿司と地酒 りくまる 天王町店
+……………………………………………………
+［営業時間］
+〇火曜日～金曜日〇
+ランチ
+12:00〜14:30
+ディナー
+16:00~22:00
+※ラストオーダー30分前と'
+2025-11-14 08:13:52,315 - INFO - [caption/by_username] 説明文を保存: media\rikumaru_tennoutyou\description\20251114_081319
+2025-11-14 08:13:53,672 - INFO - 生成URL:https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m367/AQMJ5gbHfGsKKPqv3ltqYqMHewBQLt3hcv5kem4IwnW7qjEmA1Yt4Y5RkJjiU4sO95sOsN_H_c2BDotJQO3v-56iGxs9ev2TwciwW9ZJf54tdw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=qD0bhjJzCioQ7kNvwHnX_vb&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzIwNjU1MTU2NTI3ODc2LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI5LCJiaXRyYXRlIjoxMTE5NDA5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=iCX0WFwm9cStICFxqp_gMQ&_nc_zt=28&oh=00_Afjn2QrrLskfSQo7oqUyMBxpTBBb2sBnQ_YaMKb8fTsMZQ&oe=691CD0DE&bytestart=0&byteend=3430130
+2025-11-14 08:13:53,705 - INFO - INSERT(with-key): user=rikumaru_tennoutyou, key=AQMJ5gbHfGsKKPqv3ltqYqMHewBQLt3hcv5kem4IwnW7qjEmA1Yt4Y5RkJjiU4sO95sOsN_H_c2BDotJQO3v-56iGxs9ev2TwciwW9ZJf54tdw, dt=2025-11-14T07:04:19.000Z
+2025-11-14 08:13:55,723 - INFO - ダウンロードを開始します: media\rikumaru_tennoutyou\rikumaru_tennoutyou_20251114081355.mp4
+2025-11-14 08:13:56,875 - INFO - ダウンロード完了: media\rikumaru_tennoutyou\rikumaru_tennoutyou_20251114081355.mp4
+2025-11-14 08:13:56,876 - INFO - 説明文:寿司と地酒 りくまる 天王町店
+……………………………………………………
+［営業時間］
+〇火曜日～金曜日〇
+ランチ
+12:00〜14:30
+ディナー
+16:00~22:00
+※ラストオーダー30分前となります！
+
+〇土曜日、日曜日〇
+12:00〜22:00
+※ラストオーダー30分前となります！
+
+✕月曜日✕
+定休日
+
+ご予約、お問い合わせはこちら⤵
+https://shop.jouren.jp/guest/media/rikumaru
+
+住所📍
+〒240-0003
+神奈川県横浜市保土ケ谷区天王町2丁目45-3
+最寄駅:天王町駅YBP口直結（相鉄線）
+
+肉の佐藤　アルバイト・正社員 募集中 採用情報⤵
+https://das-foods.mitekudasaiyou-a.com/
+
+ご来店お待ちしております。
+……………………………………………………
+#りくまる #天王町 #天王町寿司 #寿司 #お鮨 #グルメ #天王町駅 #天王町駅グルメ #天王町おすすめグルメ #天王町グルメ #居酒屋おすすめ #ディナー #天王町居酒屋おすすめ #昼飲み #天王町お鮨 #天王町ランチ #天王町日本酒 #天王町地酒 #天王町宴会 #天王町飲み #天王町おすすめ #地酒 #日本酒 #ランチ #天王町昼飲み #ワンちゃん歓迎 #大将 #大谷翔平 #ザロイヤルファミリー #ドジャース
+2025-11-14 08:13:59,430 - INFO - 処理終了
+================================================================================
+2025-11-14 08:14:06,458 - INFO - 処理開始: Mode=post, Username=rikumaru_tennoutyou, GBP=13128231858886333706
+2025-11-14 08:14:06,458 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMzEyODIzMTg1ODg4NjMzMzcwNiJd.
+2025-11-14 08:14:30,489 - INFO - 元の動画サイズ: 720x1280
+2025-11-14 08:14:30,492 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-11-14 08:14:30,492 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\rikumaru_tennoutyou\rikumaru_tennoutyou_20251114081355.mp4
+2025-11-14 08:14:40,581 - INFO - Waiting for description field...
+2025-11-14 08:14:40,639 - INFO - Setting description via JS (no send_keys)...
+2025-11-14 08:14:41,749 - INFO - Looking for button section...
+2025-11-14 08:14:46,430 - INFO - Trying to select CALL option...
+2025-11-14 08:14:46,683 - INFO - CALL option successfully selected
+2025-11-14 08:14:48,684 - INFO - Clicking submit button...
+2025-11-14 08:14:57,411 - INFO - 処理完了
+================================================================================
+2025-11-14 11:15:04,795 - INFO - 処理開始 PROCESSID:20251114_111501
+2025-11-14 11:15:04,795 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-11-14 11:15:04,795 - INFO - 処理を開始します
+2025-11-14 11:15:04,859 - INFO - 選択されたプロファイル: Profile 10
+2025-11-14 11:15:04,859 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-14 11:15:09,671 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-11-14 11:15:21,418 - INFO - 最新投稿を読み込みます
+2025-11-14 11:15:27,031 - INFO - 選定: 非ピン留め https://www.instagram.com/rikumaru_tennoutyou/reel/DRBx5Z8gUZL/?hl=ja
+2025-11-14 11:15:32,475 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 11:15:36,429 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 11:15:36,617 - INFO - datetime属性の抽出を開始します
+2025-11-14 11:15:36,661 - INFO - 抽出されたdatetime: 2025-11-14T07:04:19.000Z
+2025-11-14 11:15:36,661 - INFO - rikumaru_tennoutyou の投稿日時: 2025-11-14T07:04:19.000Z
+2025-11-14 11:15:36,673 - INFO - date:2025-11-14 16:04:19+09:00
+2025-11-14 11:15:36,673 - INFO - post_date:20251114
+2025-11-14 11:15:36,746 - INFO - 1枚目: blob:https://www.instagram.com/18edabf0-9a2e-41f9-a61b-3e1854fb4e96
+2025-11-14 11:15:36,747 - INFO - [caption/by_username] 開始
+2025-11-14 11:15:36,881 - INFO - [caption/by_username] 説明文確定（先頭100）: '寿司と地酒 りくまる 天王町店
+……………………………………………………
+［営業時間］
+〇火曜日～金曜日〇
+ランチ
+12:00〜14:30
+ディナー
+16:00~22:00
+※ラストオーダー30分前と'
+2025-11-14 11:15:36,883 - INFO - [caption/by_username] 説明文を保存: media\rikumaru_tennoutyou\description\20251114_111501
+2025-11-14 11:15:38,625 - INFO - 生成URL:https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m367/AQMJ5gbHfGsKKPqv3ltqYqMHewBQLt3hcv5kem4IwnW7qjEmA1Yt4Y5RkJjiU4sO95sOsN_H_c2BDotJQO3v-56iGxs9ev2TwciwW9ZJf54tdw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=qD0bhjJzCioQ7kNvwHnX_vb&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzIwNjU1MTU2NTI3ODc2LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI5LCJiaXRyYXRlIjoxMTE5NDA5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=8S0X7I3ILFL_DC6w1aWguw&_nc_zt=28&oh=00_AfiaoWjSIi4heB5XA15LqviYUHK54SFJqnvzaKSEWlKWKw&oe=691CD0DE&bytestart=0&byteend=3430130
+2025-11-14 11:15:38,627 - INFO - DUP(with-key): user=rikumaru_tennoutyou, key=AQMJ5gbHfGsKKPqv3ltqYqMHewBQLt3hcv5kem4IwnW7qjEmA1Yt4Y5RkJjiU4sO95sOsN_H_c2BDotJQO3v-56iGxs9ev2TwciwW9ZJf54tdw, dt=2025-11-14T07:04:19.000Z
+2025-11-14 11:15:38,627 - INFO - このレコードは存在します
+2025-11-14 11:15:38,628 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 14:12:47,885 - INFO - 処理開始 PROCESSID:20251114_141244
+2025-11-14 14:12:47,885 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-11-14 14:12:47,885 - INFO - 処理を開始します
+2025-11-14 14:12:47,947 - INFO - 選択されたプロファイル: Profile 10
+2025-11-14 14:12:47,947 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-14 14:12:52,359 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-11-14 14:13:04,020 - INFO - 最新投稿を読み込みます
+2025-11-14 14:13:09,311 - INFO - 選定: 非ピン留め https://www.instagram.com/rikumaru_tennoutyou/reel/DRBx5Z8gUZL/?hl=ja
+2025-11-14 14:13:12,473 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 14:13:17,855 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 14:13:17,892 - INFO - datetime属性の抽出を開始します
+2025-11-14 14:13:17,927 - INFO - 抽出されたdatetime: 2025-11-14T07:04:19.000Z
+2025-11-14 14:13:17,927 - INFO - rikumaru_tennoutyou の投稿日時: 2025-11-14T07:04:19.000Z
+2025-11-14 14:13:17,940 - INFO - date:2025-11-14 16:04:19+09:00
+2025-11-14 14:13:17,940 - INFO - post_date:20251114
+2025-11-14 14:13:17,964 - INFO - 1枚目: blob:https://www.instagram.com/af691ab5-bbe5-4df4-824a-cba5df592693
+2025-11-14 14:13:17,967 - INFO - [caption/by_username] 開始
+2025-11-14 14:13:18,170 - INFO - [caption/by_username] 説明文確定（先頭100）: '寿司と地酒 りくまる 天王町店
+……………………………………………………
+［営業時間］
+〇火曜日～金曜日〇
+ランチ
+12:00〜14:30
+ディナー
+16:00~22:00
+※ラストオーダー30分前と'
+2025-11-14 14:13:18,172 - INFO - [caption/by_username] 説明文を保存: media\rikumaru_tennoutyou\description\20251114_141244
+2025-11-14 14:13:19,634 - INFO - 生成URL:https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m367/AQMJ5gbHfGsKKPqv3ltqYqMHewBQLt3hcv5kem4IwnW7qjEmA1Yt4Y5RkJjiU4sO95sOsN_H_c2BDotJQO3v-56iGxs9ev2TwciwW9ZJf54tdw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=qD0bhjJzCioQ7kNvwHnX_vb&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzIwNjU1MTU2NTI3ODc2LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI5LCJiaXRyYXRlIjoxMTE5NDA5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=qqXDcvxC36ZMg1Mkm-89eA&_nc_zt=28&oh=00_AfiFWXef-9sFYiczi96LPnYlRG4zoOKTMq4txMpak6QP-A&oe=691D091E&bytestart=0&byteend=4128785
+2025-11-14 14:13:19,636 - INFO - DUP(with-key): user=rikumaru_tennoutyou, key=AQMJ5gbHfGsKKPqv3ltqYqMHewBQLt3hcv5kem4IwnW7qjEmA1Yt4Y5RkJjiU4sO95sOsN_H_c2BDotJQO3v-56iGxs9ev2TwciwW9ZJf54tdw, dt=2025-11-14T07:04:19.000Z
+2025-11-14 14:13:19,637 - INFO - このレコードは存在します
+2025-11-14 14:13:19,637 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 17:08:23,272 - INFO - 処理開始 PROCESSID:20251114_170819
+2025-11-14 17:08:23,272 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-11-14 17:08:23,272 - INFO - 処理を開始します
+2025-11-14 17:08:23,331 - INFO - 選択されたプロファイル: Profile 9
+2025-11-14 17:08:23,331 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-14 17:08:27,786 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-11-14 17:08:39,531 - INFO - 最新投稿を読み込みます
+2025-11-14 17:08:44,836 - INFO - 選定: 非ピン留め https://www.instagram.com/rikumaru_tennoutyou/reel/DRBx5Z8gUZL/?hl=ja
+2025-11-14 17:08:49,826 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 17:08:53,369 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 17:08:53,531 - INFO - datetime属性の抽出を開始します
+2025-11-14 17:08:53,592 - INFO - 抽出されたdatetime: 2025-11-14T07:04:19.000Z
+2025-11-14 17:08:53,592 - INFO - rikumaru_tennoutyou の投稿日時: 2025-11-14T07:04:19.000Z
+2025-11-14 17:08:53,599 - INFO - date:2025-11-14 16:04:19+09:00
+2025-11-14 17:08:53,599 - INFO - post_date:20251114
+2025-11-14 17:08:53,626 - INFO - 1枚目: blob:https://www.instagram.com/6d9342ed-c645-4ef5-b91e-c5f8dffe3c50
+2025-11-14 17:08:53,626 - INFO - [caption/by_username] 開始
+2025-11-14 17:08:53,786 - INFO - [caption/by_username] 説明文確定（先頭100）: '寿司と地酒 りくまる 天王町店
+……………………………………………………
+［営業時間］
+〇火曜日～金曜日〇
+ランチ
+12:00〜14:30
+ディナー
+16:00~22:00
+※ラストオーダー30分前と'
+2025-11-14 17:08:53,791 - INFO - [caption/by_username] 説明文を保存: media\rikumaru_tennoutyou\description\20251114_170819
+2025-11-14 17:08:55,237 - INFO - 生成URL:https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m367/AQMJ5gbHfGsKKPqv3ltqYqMHewBQLt3hcv5kem4IwnW7qjEmA1Yt4Y5RkJjiU4sO95sOsN_H_c2BDotJQO3v-56iGxs9ev2TwciwW9ZJf54tdw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=qD0bhjJzCioQ7kNvwHnX_vb&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzIwNjU1MTU2NTI3ODc2LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI5LCJiaXRyYXRlIjoxMTE5NDA5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=w5r6DzGWBGBd29FlUYKJng&_nc_zt=28&oh=00_Afhjswmh9aFz3-n1zCQlMBS6VRsAukF3V8aT9XFfVet2Yw&oe=691D415E&bytestart=0&byteend=3430130
+2025-11-14 17:08:55,241 - INFO - DUP(with-key): user=rikumaru_tennoutyou, key=AQMJ5gbHfGsKKPqv3ltqYqMHewBQLt3hcv5kem4IwnW7qjEmA1Yt4Y5RkJjiU4sO95sOsN_H_c2BDotJQO3v-56iGxs9ev2TwciwW9ZJf54tdw, dt=2025-11-14T07:04:19.000Z
+2025-11-14 17:08:55,242 - INFO - このレコードは存在します
+2025-11-14 17:08:55,242 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 19:59:27,026 - INFO - 処理開始 PROCESSID:20251114_195923
+2025-11-14 19:59:27,026 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-11-14 19:59:27,026 - INFO - 処理を開始します
+2025-11-14 19:59:27,093 - INFO - 選択されたプロファイル: Profile 12
+2025-11-14 19:59:27,093 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-14 19:59:31,439 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-11-14 19:59:42,807 - INFO - 最新投稿を読み込みます
+2025-11-14 19:59:48,257 - INFO - 選定: 非ピン留め https://www.instagram.com/rikumaru_tennoutyou/reel/DRBx5Z8gUZL/?hl=ja
+2025-11-14 19:59:51,923 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 19:59:56,279 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 19:59:56,428 - INFO - datetime属性の抽出を開始します
+2025-11-14 19:59:56,627 - INFO - 抽出されたdatetime: 2025-11-14T07:04:19.000Z
+2025-11-14 19:59:56,627 - INFO - rikumaru_tennoutyou の投稿日時: 2025-11-14T07:04:19.000Z
+2025-11-14 19:59:56,643 - INFO - date:2025-11-14 16:04:19+09:00
+2025-11-14 19:59:56,643 - INFO - post_date:20251114
+2025-11-14 19:59:56,704 - INFO - 1枚目: blob:https://www.instagram.com/10abd32e-0f30-41c0-85a5-0254ed2a49d3
+2025-11-14 19:59:56,704 - INFO - [caption/by_username] 開始
+2025-11-14 19:59:56,834 - INFO - [caption/by_username] 説明文確定（先頭100）: '寿司と地酒 りくまる 天王町店
+……………………………………………………
+［営業時間］
+〇火曜日～金曜日〇
+ランチ
+12:00〜14:30
+ディナー
+16:00~22:00
+※ラストオーダー30分前と'
+2025-11-14 19:59:56,835 - INFO - [caption/by_username] 説明文を保存: media\rikumaru_tennoutyou\description\20251114_195923
+2025-11-14 19:59:58,275 - INFO - 生成URL:https://scontent-fra5-1.cdninstagram.com/o1/v/t2/f2/m367/AQMJ5gbHfGsKKPqv3ltqYqMHewBQLt3hcv5kem4IwnW7qjEmA1Yt4Y5RkJjiU4sO95sOsN_H_c2BDotJQO3v-56iGxs9ev2TwciwW9ZJf54tdw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ohc=qD0bhjJzCioQ7kNvwHnX_vb&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzIwNjU1MTU2NTI3ODc2LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI5LCJiaXRyYXRlIjoxMTE5NDA5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=au5Ek4GWad_0vcVWBRLReg&_nc_zt=28&oh=00_AfjdXoTftdISDSTk0QG1lzRIwXd3c_255ISc6D4qi5NBzQ&oe=691D415E&bytestart=0&byteend=3430130
+2025-11-14 19:59:58,277 - INFO - DUP(with-key): user=rikumaru_tennoutyou, key=AQMJ5gbHfGsKKPqv3ltqYqMHewBQLt3hcv5kem4IwnW7qjEmA1Yt4Y5RkJjiU4sO95sOsN_H_c2BDotJQO3v-56iGxs9ev2TwciwW9ZJf54tdw, dt=2025-11-14T07:04:19.000Z
+2025-11-14 19:59:58,277 - INFO - このレコードは存在します
+2025-11-14 19:59:58,277 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 22:50:30,198 - INFO - 処理開始 PROCESSID:20251114_225027
+2025-11-14 22:50:30,198 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-11-14 22:50:30,198 - INFO - 処理を開始します
+2025-11-14 22:50:30,255 - INFO - 選択されたプロファイル: Profile 12
+2025-11-14 22:50:30,257 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-14 22:50:34,585 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-11-14 22:50:46,209 - INFO - 最新投稿を読み込みます
+2025-11-14 22:50:51,467 - INFO - 選定: 非ピン留め https://www.instagram.com/rikumaru_tennoutyou/reel/DRBx5Z8gUZL/?hl=ja
+2025-11-14 22:50:56,344 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 22:51:00,362 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 22:51:00,540 - INFO - datetime属性の抽出を開始します
+2025-11-14 22:51:00,588 - INFO - 抽出されたdatetime: 2025-11-14T07:04:19.000Z
+2025-11-14 22:51:00,589 - INFO - rikumaru_tennoutyou の投稿日時: 2025-11-14T07:04:19.000Z
+2025-11-14 22:51:00,600 - INFO - date:2025-11-14 16:04:19+09:00
+2025-11-14 22:51:00,600 - INFO - post_date:20251114
+2025-11-14 22:51:00,685 - INFO - 1枚目: blob:https://www.instagram.com/54fb4e05-99c5-4ffb-a412-baf8d5d52d17
+2025-11-14 22:51:00,685 - INFO - [caption/by_username] 開始
+2025-11-14 22:51:00,820 - INFO - [caption/by_username] 説明文確定（先頭100）: '寿司と地酒 りくまる 天王町店
+……………………………………………………
+［営業時間］
+〇火曜日～金曜日〇
+ランチ
+12:00〜14:30
+ディナー
+16:00~22:00
+※ラストオーダー30分前と'
+2025-11-14 22:51:00,821 - INFO - [caption/by_username] 説明文を保存: media\rikumaru_tennoutyou\description\20251114_225027
+2025-11-14 22:51:02,334 - INFO - 生成URL:https://scontent-fra5-1.cdninstagram.com/o1/v/t2/f2/m367/AQMJ5gbHfGsKKPqv3ltqYqMHewBQLt3hcv5kem4IwnW7qjEmA1Yt4Y5RkJjiU4sO95sOsN_H_c2BDotJQO3v-56iGxs9ev2TwciwW9ZJf54tdw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ohc=qD0bhjJzCioQ7kNvwHnX_vb&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzIwNjU1MTU2NTI3ODc2LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI5LCJiaXRyYXRlIjoxMTE5NDA5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=C7OHcDF-lWp4y8xBT6Y3cg&_nc_zt=28&oh=00_Afhh2-XaLKrggtogMXYGxPEXaPXPow-qfy_Sj5bCgnVSIA&oe=691D799E&bytestart=0&byteend=3430130
+2025-11-14 22:51:02,336 - INFO - DUP(with-key): user=rikumaru_tennoutyou, key=AQMJ5gbHfGsKKPqv3ltqYqMHewBQLt3hcv5kem4IwnW7qjEmA1Yt4Y5RkJjiU4sO95sOsN_H_c2BDotJQO3v-56iGxs9ev2TwciwW9ZJf54tdw, dt=2025-11-14T07:04:19.000Z
+2025-11-14 22:51:02,336 - INFO - このレコードは存在します
+2025-11-14 22:51:02,336 - INFO - 全件レコードが存在します

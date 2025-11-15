@@ -1,0 +1,375 @@
+================================================================================
+2025-11-07 02:56:39,950 - INFO - 処理開始 PROCESSID:20251107_025636
+2025-11-07 02:56:39,950 - INFO - 対象ユーザー: lumi.hairsalon
+2025-11-07 02:56:39,952 - INFO - 処理を開始します
+2025-11-07 02:56:40,018 - INFO - 選択されたプロファイル: Profile 10
+2025-11-07 02:56:40,018 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-07 02:56:44,606 - INFO - lumi.hairsalon のプロフィールページにアクセスします
+2025-11-07 02:56:56,634 - INFO - 最新投稿を読み込みます
+2025-11-07 02:57:02,288 - INFO - 選定: 非ピン留め https://www.instagram.com/toyasangapapa/p/DQqVquMkQZ_/?hl=ja
+2025-11-07 02:57:07,008 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 02:57:10,513 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 02:57:10,613 - INFO - datetime属性の抽出を開始します
+2025-11-07 02:57:10,643 - INFO - 抽出されたdatetime: 2025-11-05T04:35:19.000Z
+2025-11-07 02:57:10,643 - INFO - lumi.hairsalon の投稿日時: 2025-11-05T04:35:19.000Z
+2025-11-07 02:57:10,656 - INFO - date:2025-11-05 13:35:19+09:00
+2025-11-07 02:57:10,656 - INFO - post_date:20251105
+2025-11-07 02:57:10,729 - INFO - カルーセル推定: 10枚
+2025-11-07 02:57:10,781 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573059362_18293587801272185_380412572805643518_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc1ODkxMjEyMjc4NTk3MTk0Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=zvsfL6VnRRYQ7kNvwGsw_74&_nc_oc=AdmvDnbZDNQTVY1a6ukf4aLFcRY6E3ouvZdmBqy7MiqEC9ITtb0Wo4E3k4R87FgiUEU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_Afjud6tlhYs8lnPXQY-SC6CfsQ0zsU2SoQUcwUwATEfMrA&oe=69132C98
+2025-11-07 02:57:10,788 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/575312683_18293587810272185_5353047913359875525_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1ODkxMjEyMjc3NzU2OTQ2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=U147OS3Qt8IQ7kNvwG6LsMV&_nc_oc=AdlMP5fC7pn59C_P1GlaLOfE3ouCONvuACdZb5e5grhA3Ro4DP3_XagI1kIaUi52UN0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_Afgugy2FHAF8fC7wI_-wDX8HY9A0i1tL5ClnHEVHH3LLFA&oe=69132AAF
+2025-11-07 02:57:52,694 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/572928536_18293587819272185_7218697024355940837_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODkxMjEyMjc3NzU4MTcyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=4-0i4WQO8cUQ7kNvwGbdBAS&_nc_oc=Adn-ZOas31y24MFrhENjxocdbVL0aY7OtWeJDmMJ7kdkuhlQHFsr3kOenx2FZ046Dx4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_AfiVga9lLLN11Br3loZQEsX7rceOSFVSFW_KnF-AonTnkQ&oe=691334AF
+2025-11-07 02:57:53,763 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574757161_18293587828272185_3042868076429746099_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1ODkxMjEyMjc3NzYwMzQ1Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=eY_9W6J1sYkQ7kNvwEztVQR&_nc_oc=AdmOmN5Qh94MP8kYbZEGQLcM7Cxs0Quijr7_R03O138Oz6wlne0SwXKvCAkot_Wefgc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_AfiCGSp5CPwUtftyRxdjRjd1N67YO6-TIxrb792Xk-sx1Q&oe=69131952
+2025-11-07 02:57:54,828 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574349839_18293587837272185_7017145869387423365_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODkxMjEyMjc2OTIzMDkyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=eJzusLOqXgwQ7kNvwGa9Ked&_nc_oc=Adm4SGCQfvhlXUeEZV4isVO5LGy4CLQx1tukl0S0ogAhYY8BLPZtJpX1fAQSGBHk_-o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_AfiTuvtiw9QzzkSDcnfLJGysvh6hO2PWNeEMrbamIfvEFw&oe=69131866
+2025-11-07 02:57:55,939 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/575579273_18293587846272185_4027329466697632839_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1ODkxMjEyMjc3NzU5MTY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ifqElyi0TF8Q7kNvwFOba7n&_nc_oc=AdktRWMWMx0FDv86k5FBa98b05By5OkW_vLqEfhsGJh35kYzaJJVTQ9kUlM1rKamllo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_AfjRVtMmkyRs1X3KZwS9AzyYfy2eRSfr9p_ukXcEhOwcqw&oe=69132645
+2025-11-07 02:57:57,122 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573308931_18293587855272185_1122804293120222554_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc1ODkxMjEyMjc3NzU4MzQxNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=xrIsQXuLb7gQ7kNvwH5jjlW&_nc_oc=AdmKG6pDbqP-WQ0X1txhXo--LBNAMYnlIntYXRZeWmp0eMZZHciyEtxoqOuJBFQlwcg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_Afg3PbCXbEWl2lufz4r0MDGTj8gIXN-y7mj3LovI1CiUDA&oe=6913416F
+2025-11-07 02:57:58,163 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573977741_18293587870272185_1835278481391061172_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1ODkxMjEyMjc2OTIxMzQ3Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=OQb6l-356noQ7kNvwE9fwpp&_nc_oc=Adm4CDpPVn-nGTLGPlhX15SnJr-eiBRWFQ1Mta1KZp5BK3f5K6-f5didbEwUj_RdJ5c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_Afj-0ozKRFs-C3lkm6N2QpZq0xla-LyPQujgLh5LJnO4CA&oe=69132069
+2025-11-07 02:57:59,184 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573600025_18293587879272185_8029151850719052051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc1ODkxMjEyMjc4NjAxMTEwOA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=K8VlnbTDuW0Q7kNvwHA3WBz&_nc_oc=Adnzi9q3mzG10jknBHXd2X9zKkvwmpf2IsjLvkV2CQpVjBEj5P59eZx0K6J_9e_M8q8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_AfjNSFfbA5IcVPboveVvPZ1cn_65RiE-eeLvKynM1nvxCw&oe=691343A6
+2025-11-07 02:58:00,239 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573545114_18293587888272185_8342086580647476809_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc1ODkxMjEyMjc4NTk4Nzc3NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=XsMMF4It6QYQ7kNvwEbhQ7I&_nc_oc=AdkcdXIGGIX2UXlHub3c4AQwhHXr4HTr8uhSBAND-TNgOuvAU0MA_h1z9g38oCz8bdE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_AfiXoeTRul6iDrwYkcTXRW_AWXvrnFpt3kFRpeof37b2Ow&oe=69131832
+2025-11-07 02:58:00,272 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573059362_18293587801272185_380412572805643518_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc1ODkxMjEyMjc4NTk3MTk0Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=zvsfL6VnRRYQ7kNvwGsw_74&_nc_oc=AdmvDnbZDNQTVY1a6ukf4aLFcRY6E3ouvZdmBqy7MiqEC9ITtb0Wo4E3k4R87FgiUEU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_Afjud6tlhYs8lnPXQY-SC6CfsQ0zsU2SoQUcwUwATEfMrA&oe=69132C98
+2025-11-07 02:58:00,272 - INFO - 2枚目: https://scontent.cdninstagram.com/v/t51.82787-15/575312683_18293587810272185_5353047913359875525_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1ODkxMjEyMjc3NzU2OTQ2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=U147OS3Qt8IQ7kNvwG6LsMV&_nc_oc=AdlMP5fC7pn59C_P1GlaLOfE3ouCONvuACdZb5e5grhA3Ro4DP3_XagI1kIaUi52UN0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_Afgugy2FHAF8fC7wI_-wDX8HY9A0i1tL5ClnHEVHH3LLFA&oe=69132AAF
+2025-11-07 02:58:00,272 - INFO - 3枚目: https://scontent.cdninstagram.com/v/t51.82787-15/572928536_18293587819272185_7218697024355940837_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODkxMjEyMjc3NzU4MTcyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=4-0i4WQO8cUQ7kNvwGbdBAS&_nc_oc=Adn-ZOas31y24MFrhENjxocdbVL0aY7OtWeJDmMJ7kdkuhlQHFsr3kOenx2FZ046Dx4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_AfiVga9lLLN11Br3loZQEsX7rceOSFVSFW_KnF-AonTnkQ&oe=691334AF
+2025-11-07 02:58:00,272 - INFO - 4枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574757161_18293587828272185_3042868076429746099_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1ODkxMjEyMjc3NzYwMzQ1Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=eY_9W6J1sYkQ7kNvwEztVQR&_nc_oc=AdmOmN5Qh94MP8kYbZEGQLcM7Cxs0Quijr7_R03O138Oz6wlne0SwXKvCAkot_Wefgc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_AfiCGSp5CPwUtftyRxdjRjd1N67YO6-TIxrb792Xk-sx1Q&oe=69131952
+2025-11-07 02:58:00,272 - INFO - 5枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574349839_18293587837272185_7017145869387423365_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODkxMjEyMjc2OTIzMDkyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=eJzusLOqXgwQ7kNvwGa9Ked&_nc_oc=Adm4SGCQfvhlXUeEZV4isVO5LGy4CLQx1tukl0S0ogAhYY8BLPZtJpX1fAQSGBHk_-o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_AfiTuvtiw9QzzkSDcnfLJGysvh6hO2PWNeEMrbamIfvEFw&oe=69131866
+2025-11-07 02:58:00,272 - INFO - 6枚目: https://scontent.cdninstagram.com/v/t51.82787-15/575579273_18293587846272185_4027329466697632839_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1ODkxMjEyMjc3NzU5MTY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ifqElyi0TF8Q7kNvwFOba7n&_nc_oc=AdktRWMWMx0FDv86k5FBa98b05By5OkW_vLqEfhsGJh35kYzaJJVTQ9kUlM1rKamllo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_AfjRVtMmkyRs1X3KZwS9AzyYfy2eRSfr9p_ukXcEhOwcqw&oe=69132645
+2025-11-07 02:58:00,272 - INFO - 7枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573308931_18293587855272185_1122804293120222554_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc1ODkxMjEyMjc3NzU4MzQxNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=xrIsQXuLb7gQ7kNvwH5jjlW&_nc_oc=AdmKG6pDbqP-WQ0X1txhXo--LBNAMYnlIntYXRZeWmp0eMZZHciyEtxoqOuJBFQlwcg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_Afg3PbCXbEWl2lufz4r0MDGTj8gIXN-y7mj3LovI1CiUDA&oe=6913416F
+2025-11-07 02:58:00,272 - INFO - 8枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573977741_18293587870272185_1835278481391061172_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1ODkxMjEyMjc2OTIxMzQ3Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=OQb6l-356noQ7kNvwE9fwpp&_nc_oc=Adm4CDpPVn-nGTLGPlhX15SnJr-eiBRWFQ1Mta1KZp5BK3f5K6-f5didbEwUj_RdJ5c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_Afj-0ozKRFs-C3lkm6N2QpZq0xla-LyPQujgLh5LJnO4CA&oe=69132069
+2025-11-07 02:58:00,273 - INFO - 9枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573600025_18293587879272185_8029151850719052051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc1ODkxMjEyMjc4NjAxMTEwOA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=K8VlnbTDuW0Q7kNvwHA3WBz&_nc_oc=Adnzi9q3mzG10jknBHXd2X9zKkvwmpf2IsjLvkV2CQpVjBEj5P59eZx0K6J_9e_M8q8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_AfjNSFfbA5IcVPboveVvPZ1cn_65RiE-eeLvKynM1nvxCw&oe=691343A6
+2025-11-07 02:58:00,273 - INFO - 10枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573545114_18293587888272185_8342086580647476809_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc1ODkxMjEyMjc4NTk4Nzc3NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=XsMMF4It6QYQ7kNvwEbhQ7I&_nc_oc=AdkcdXIGGIX2UXlHub3c4AQwhHXr4HTr8uhSBAND-TNgOuvAU0MA_h1z9g38oCz8bdE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kfnfctKVQ0rMOmT8D2r8MQ&oh=00_AfiXoeTRul6iDrwYkcTXRW_AWXvrnFpt3kFRpeof37b2Ow&oe=69131832
+2025-11-07 02:58:00,273 - INFO - [caption/by_username] 開始
+2025-11-07 02:59:21,012 - INFO - [caption/by_username] 説明文確定（先頭100）: 'トヤコラム👨🏻‍⚕️
+　
+詳しいやり方とタイミングを解説！！
+ブラッシング実践編！！
+　
+
+ - - - - - - - - - - - - - - - - - - - - 
+　
+【こんなお悩みありま'
+2025-11-07 02:59:21,014 - INFO - [caption/by_username] 説明文を保存: media\lumi.hairsalon\description\20251107_025636
+2025-11-07 02:59:21,014 - INFO - 画像URLを取得しました
+2025-11-07 02:59:21,016 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc4NTk3MTk0Mg==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 02:59:21,016 - INFO - このレコードは存在します
+2025-11-07 02:59:21,016 - INFO - 画像URLを取得しました
+2025-11-07 02:59:21,017 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc3NzU2OTQ2OQ==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 02:59:21,017 - INFO - このレコードは存在します
+2025-11-07 02:59:21,017 - INFO - 画像URLを取得しました
+2025-11-07 02:59:21,018 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc3NzU4MTcyMg==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 02:59:21,018 - INFO - このレコードは存在します
+2025-11-07 02:59:21,018 - INFO - 画像URLを取得しました
+2025-11-07 02:59:21,020 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc3NzYwMzQ1Nw==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 02:59:21,020 - INFO - このレコードは存在します
+2025-11-07 02:59:21,020 - INFO - 画像URLを取得しました
+2025-11-07 02:59:21,022 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc2OTIzMDkyMQ==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 02:59:21,022 - INFO - このレコードは存在します
+2025-11-07 02:59:21,022 - INFO - 画像URLを取得しました
+2025-11-07 02:59:21,023 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc3NzU5MTY2Nw==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 02:59:21,023 - INFO - このレコードは存在します
+2025-11-07 02:59:21,023 - INFO - 画像URLを取得しました
+2025-11-07 02:59:21,024 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc3NzU4MzQxNw==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 02:59:21,024 - INFO - このレコードは存在します
+2025-11-07 02:59:21,025 - INFO - 画像URLを取得しました
+2025-11-07 02:59:21,025 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc2OTIxMzQ3Mg==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 02:59:21,025 - INFO - このレコードは存在します
+2025-11-07 02:59:21,026 - INFO - 画像URLを取得しました
+2025-11-07 02:59:21,027 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc4NjAxMTEwOA==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 02:59:21,027 - INFO - このレコードは存在します
+2025-11-07 02:59:21,027 - INFO - 画像URLを取得しました
+2025-11-07 02:59:21,028 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc4NTk4Nzc3NA==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 02:59:21,028 - INFO - このレコードは存在します
+2025-11-07 02:59:21,028 - INFO - カルーセル集計: 想定10 / 収集10 / 新規DL0 / 既存スキップ10 / 失敗0
+2025-11-07 02:59:21,028 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-11-07 02:59:21,028 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-07 05:59:33,273 - INFO - 処理開始 PROCESSID:20251107_055929
+2025-11-07 05:59:33,273 - INFO - 対象ユーザー: lumi.hairsalon
+2025-11-07 05:59:33,273 - INFO - 処理を開始します
+2025-11-07 05:59:33,339 - INFO - 選択されたプロファイル: Profile 13
+2025-11-07 05:59:33,339 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-07 05:59:37,875 - INFO - lumi.hairsalon のプロフィールページにアクセスします
+2025-11-07 05:59:49,319 - INFO - 最新投稿を読み込みます
+2025-11-07 05:59:54,594 - INFO - 選定: 非ピン留め https://www.instagram.com/toyasangapapa/p/DQqVquMkQZ_/?hl=ja
+2025-11-07 05:59:58,420 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 06:00:02,001 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 06:00:02,113 - INFO - datetime属性の抽出を開始します
+2025-11-07 06:00:02,156 - INFO - 抽出されたdatetime: 2025-11-05T04:35:19.000Z
+2025-11-07 06:00:02,156 - INFO - lumi.hairsalon の投稿日時: 2025-11-05T04:35:19.000Z
+2025-11-07 06:00:02,166 - INFO - date:2025-11-05 13:35:19+09:00
+2025-11-07 06:00:02,166 - INFO - post_date:20251105
+2025-11-07 06:00:02,230 - INFO - カルーセル推定: 10枚
+2025-11-07 06:00:02,260 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573059362_18293587801272185_380412572805643518_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc1ODkxMjEyMjc4NTk3MTk0Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=zvsfL6VnRRYQ7kNvwGsw_74&_nc_oc=AdmvDnbZDNQTVY1a6ukf4aLFcRY6E3ouvZdmBqy7MiqEC9ITtb0Wo4E3k4R87FgiUEU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_Afi5AK09DVI29dW1kT5SERa4d7RwpYvvVbGDjmycJGCJGg&oe=691364D8
+2025-11-07 06:00:02,269 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/575312683_18293587810272185_5353047913359875525_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1ODkxMjEyMjc3NzU2OTQ2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=U147OS3Qt8IQ7kNvwG6LsMV&_nc_oc=AdlMP5fC7pn59C_P1GlaLOfE3ouCONvuACdZb5e5grhA3Ro4DP3_XagI1kIaUi52UN0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_AfgRBbqvbSZuphs2hNy4698gJvMeZAldBlNZ1K1oqrKd_w&oe=691362EF
+2025-11-07 06:00:44,335 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/572928536_18293587819272185_7218697024355940837_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODkxMjEyMjc3NzU4MTcyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=4-0i4WQO8cUQ7kNvwGbdBAS&_nc_oc=Adn-ZOas31y24MFrhENjxocdbVL0aY7OtWeJDmMJ7kdkuhlQHFsr3kOenx2FZ046Dx4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_AfhCqXpq2waKyyFGmKeMi2L0dyp5yUIkshP7bmv1bJuV8w&oe=69136CEF
+2025-11-07 06:00:45,430 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574757161_18293587828272185_3042868076429746099_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1ODkxMjEyMjc3NzYwMzQ1Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=eY_9W6J1sYkQ7kNvwEztVQR&_nc_oc=AdmOmN5Qh94MP8kYbZEGQLcM7Cxs0Quijr7_R03O138Oz6wlne0SwXKvCAkot_Wefgc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_Afj4js5W1qfQjotYVaWkrwkbBdiQV6kCaXJbem0zPZ5FPA&oe=69135192
+2025-11-07 06:00:46,650 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574349839_18293587837272185_7017145869387423365_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODkxMjEyMjc2OTIzMDkyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=eJzusLOqXgwQ7kNvwGa9Ked&_nc_oc=Adm4SGCQfvhlXUeEZV4isVO5LGy4CLQx1tukl0S0ogAhYY8BLPZtJpX1fAQSGBHk_-o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_Afh6BSoznJmPQHVmbl8ChtXfncGef58_qc1kis9JIvnDtA&oe=691350A6
+2025-11-07 06:00:47,756 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/575579273_18293587846272185_4027329466697632839_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1ODkxMjEyMjc3NzU5MTY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ifqElyi0TF8Q7kNvwFOba7n&_nc_oc=AdktRWMWMx0FDv86k5FBa98b05By5OkW_vLqEfhsGJh35kYzaJJVTQ9kUlM1rKamllo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_Afh0mCEHlbNJyllyBxR0HKrABhTty7HwC2emtuhY6jPx7g&oe=69135E85
+2025-11-07 06:00:48,855 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573308931_18293587855272185_1122804293120222554_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc1ODkxMjEyMjc3NzU4MzQxNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=xrIsQXuLb7gQ7kNvwH5jjlW&_nc_oc=AdmKG6pDbqP-WQ0X1txhXo--LBNAMYnlIntYXRZeWmp0eMZZHciyEtxoqOuJBFQlwcg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_AfhYTd497MDNJxbI4A9qYg5BDAX5jwMFUBzT3ieEUh5mGg&oe=6913416F
+2025-11-07 06:00:49,920 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573977741_18293587870272185_1835278481391061172_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1ODkxMjEyMjc2OTIxMzQ3Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=OQb6l-356noQ7kNvwE9fwpp&_nc_oc=Adm4CDpPVn-nGTLGPlhX15SnJr-eiBRWFQ1Mta1KZp5BK3f5K6-f5didbEwUj_RdJ5c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_AfimmE69j7JPexv4nZDG8R2XvQRNJoBz6ZOdzk1pHNXlVw&oe=691358A9
+2025-11-07 06:00:50,957 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573600025_18293587879272185_8029151850719052051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc1ODkxMjEyMjc4NjAxMTEwOA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=K8VlnbTDuW0Q7kNvwHA3WBz&_nc_oc=Adnzi9q3mzG10jknBHXd2X9zKkvwmpf2IsjLvkV2CQpVjBEj5P59eZx0K6J_9e_M8q8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_AfiUVNyMHCYbmrh1W0S1Jkvw5mSoxPduVDcyEyrSqAcTfg&oe=691343A6
+2025-11-07 06:00:52,090 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573545114_18293587888272185_8342086580647476809_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc1ODkxMjEyMjc4NTk4Nzc3NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=XsMMF4It6QYQ7kNvwEbhQ7I&_nc_oc=AdkcdXIGGIX2UXlHub3c4AQwhHXr4HTr8uhSBAND-TNgOuvAU0MA_h1z9g38oCz8bdE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_AfiegxWjEsM6NAkUT3bsHewSLr0NcIH_SzBvmsArS7oCzA&oe=69135072
+2025-11-07 06:00:52,119 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573059362_18293587801272185_380412572805643518_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc1ODkxMjEyMjc4NTk3MTk0Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=zvsfL6VnRRYQ7kNvwGsw_74&_nc_oc=AdmvDnbZDNQTVY1a6ukf4aLFcRY6E3ouvZdmBqy7MiqEC9ITtb0Wo4E3k4R87FgiUEU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_Afi5AK09DVI29dW1kT5SERa4d7RwpYvvVbGDjmycJGCJGg&oe=691364D8
+2025-11-07 06:00:52,119 - INFO - 2枚目: https://scontent.cdninstagram.com/v/t51.82787-15/575312683_18293587810272185_5353047913359875525_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1ODkxMjEyMjc3NzU2OTQ2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=U147OS3Qt8IQ7kNvwG6LsMV&_nc_oc=AdlMP5fC7pn59C_P1GlaLOfE3ouCONvuACdZb5e5grhA3Ro4DP3_XagI1kIaUi52UN0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_AfgRBbqvbSZuphs2hNy4698gJvMeZAldBlNZ1K1oqrKd_w&oe=691362EF
+2025-11-07 06:00:52,119 - INFO - 3枚目: https://scontent.cdninstagram.com/v/t51.82787-15/572928536_18293587819272185_7218697024355940837_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODkxMjEyMjc3NzU4MTcyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=4-0i4WQO8cUQ7kNvwGbdBAS&_nc_oc=Adn-ZOas31y24MFrhENjxocdbVL0aY7OtWeJDmMJ7kdkuhlQHFsr3kOenx2FZ046Dx4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_AfhCqXpq2waKyyFGmKeMi2L0dyp5yUIkshP7bmv1bJuV8w&oe=69136CEF
+2025-11-07 06:00:52,120 - INFO - 4枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574757161_18293587828272185_3042868076429746099_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1ODkxMjEyMjc3NzYwMzQ1Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=eY_9W6J1sYkQ7kNvwEztVQR&_nc_oc=AdmOmN5Qh94MP8kYbZEGQLcM7Cxs0Quijr7_R03O138Oz6wlne0SwXKvCAkot_Wefgc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_Afj4js5W1qfQjotYVaWkrwkbBdiQV6kCaXJbem0zPZ5FPA&oe=69135192
+2025-11-07 06:00:52,120 - INFO - 5枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574349839_18293587837272185_7017145869387423365_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODkxMjEyMjc2OTIzMDkyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=eJzusLOqXgwQ7kNvwGa9Ked&_nc_oc=Adm4SGCQfvhlXUeEZV4isVO5LGy4CLQx1tukl0S0ogAhYY8BLPZtJpX1fAQSGBHk_-o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_Afh6BSoznJmPQHVmbl8ChtXfncGef58_qc1kis9JIvnDtA&oe=691350A6
+2025-11-07 06:00:52,120 - INFO - 6枚目: https://scontent.cdninstagram.com/v/t51.82787-15/575579273_18293587846272185_4027329466697632839_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1ODkxMjEyMjc3NzU5MTY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ifqElyi0TF8Q7kNvwFOba7n&_nc_oc=AdktRWMWMx0FDv86k5FBa98b05By5OkW_vLqEfhsGJh35kYzaJJVTQ9kUlM1rKamllo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_Afh0mCEHlbNJyllyBxR0HKrABhTty7HwC2emtuhY6jPx7g&oe=69135E85
+2025-11-07 06:00:52,120 - INFO - 7枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573308931_18293587855272185_1122804293120222554_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc1ODkxMjEyMjc3NzU4MzQxNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=xrIsQXuLb7gQ7kNvwH5jjlW&_nc_oc=AdmKG6pDbqP-WQ0X1txhXo--LBNAMYnlIntYXRZeWmp0eMZZHciyEtxoqOuJBFQlwcg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_AfhYTd497MDNJxbI4A9qYg5BDAX5jwMFUBzT3ieEUh5mGg&oe=6913416F
+2025-11-07 06:00:52,120 - INFO - 8枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573977741_18293587870272185_1835278481391061172_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1ODkxMjEyMjc2OTIxMzQ3Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=OQb6l-356noQ7kNvwE9fwpp&_nc_oc=Adm4CDpPVn-nGTLGPlhX15SnJr-eiBRWFQ1Mta1KZp5BK3f5K6-f5didbEwUj_RdJ5c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_AfimmE69j7JPexv4nZDG8R2XvQRNJoBz6ZOdzk1pHNXlVw&oe=691358A9
+2025-11-07 06:00:52,120 - INFO - 9枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573600025_18293587879272185_8029151850719052051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc1ODkxMjEyMjc4NjAxMTEwOA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=K8VlnbTDuW0Q7kNvwHA3WBz&_nc_oc=Adnzi9q3mzG10jknBHXd2X9zKkvwmpf2IsjLvkV2CQpVjBEj5P59eZx0K6J_9e_M8q8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_AfiUVNyMHCYbmrh1W0S1Jkvw5mSoxPduVDcyEyrSqAcTfg&oe=691343A6
+2025-11-07 06:00:52,120 - INFO - 10枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573545114_18293587888272185_8342086580647476809_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc1ODkxMjEyMjc4NTk4Nzc3NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=XsMMF4It6QYQ7kNvwEbhQ7I&_nc_oc=AdkcdXIGGIX2UXlHub3c4AQwhHXr4HTr8uhSBAND-TNgOuvAU0MA_h1z9g38oCz8bdE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3Lgx9Txj_cpuRE2xs24oQg&oh=00_AfiegxWjEsM6NAkUT3bsHewSLr0NcIH_SzBvmsArS7oCzA&oe=69135072
+2025-11-07 06:00:52,121 - INFO - [caption/by_username] 開始
+2025-11-07 06:02:13,406 - INFO - [caption/by_username] 説明文確定（先頭100）: 'トヤコラム👨🏻‍⚕️
+　
+詳しいやり方とタイミングを解説！！
+ブラッシング実践編！！
+　
+
+ - - - - - - - - - - - - - - - - - - - - 
+　
+【こんなお悩みありま'
+2025-11-07 06:02:13,409 - INFO - [caption/by_username] 説明文を保存: media\lumi.hairsalon\description\20251107_055929
+2025-11-07 06:02:13,409 - INFO - 画像URLを取得しました
+2025-11-07 06:02:13,415 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc4NTk3MTk0Mg==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 06:02:13,415 - INFO - このレコードは存在します
+2025-11-07 06:02:13,415 - INFO - 画像URLを取得しました
+2025-11-07 06:02:13,416 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc3NzU2OTQ2OQ==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 06:02:13,416 - INFO - このレコードは存在します
+2025-11-07 06:02:13,417 - INFO - 画像URLを取得しました
+2025-11-07 06:02:13,418 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc3NzU4MTcyMg==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 06:02:13,418 - INFO - このレコードは存在します
+2025-11-07 06:02:13,418 - INFO - 画像URLを取得しました
+2025-11-07 06:02:13,419 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc3NzYwMzQ1Nw==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 06:02:13,419 - INFO - このレコードは存在します
+2025-11-07 06:02:13,419 - INFO - 画像URLを取得しました
+2025-11-07 06:02:13,420 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc2OTIzMDkyMQ==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 06:02:13,421 - INFO - このレコードは存在します
+2025-11-07 06:02:13,421 - INFO - 画像URLを取得しました
+2025-11-07 06:02:13,422 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc3NzU5MTY2Nw==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 06:02:13,422 - INFO - このレコードは存在します
+2025-11-07 06:02:13,422 - INFO - 画像URLを取得しました
+2025-11-07 06:02:13,423 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc3NzU4MzQxNw==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 06:02:13,423 - INFO - このレコードは存在します
+2025-11-07 06:02:13,423 - INFO - 画像URLを取得しました
+2025-11-07 06:02:13,424 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc2OTIxMzQ3Mg==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 06:02:13,424 - INFO - このレコードは存在します
+2025-11-07 06:02:13,425 - INFO - 画像URLを取得しました
+2025-11-07 06:02:13,425 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc4NjAxMTEwOA==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 06:02:13,425 - INFO - このレコードは存在します
+2025-11-07 06:02:13,426 - INFO - 画像URLを取得しました
+2025-11-07 06:02:13,427 - INFO - DUP(with-key): user=lumi.hairsalon, key=Mzc1ODkxMjEyMjc4NTk4Nzc3NA==, dt=2025-11-05T04:35:19.000Z
+2025-11-07 06:02:13,427 - INFO - このレコードは存在します
+2025-11-07 06:02:13,427 - INFO - カルーセル集計: 想定10 / 収集10 / 新規DL0 / 既存スキップ10 / 失敗0
+2025-11-07 06:02:13,427 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-11-07 06:02:13,427 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-07 08:59:48,037 - INFO - 処理開始 PROCESSID:20251107_085944
+2025-11-07 08:59:48,037 - INFO - 対象ユーザー: lumi.hairsalon
+2025-11-07 08:59:48,037 - INFO - 処理を開始します
+2025-11-07 08:59:48,109 - INFO - 選択されたプロファイル: Profile 10
+2025-11-07 08:59:48,109 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-07 08:59:52,437 - INFO - lumi.hairsalon のプロフィールページにアクセスします
+2025-11-07 09:00:04,537 - INFO - 最新投稿を読み込みます
+2025-11-07 09:00:10,217 - INFO - 選定: 非ピン留め https://www.instagram.com/toyasangapapa/reel/DQv6wAMEQTQ/?hl=ja
+2025-11-07 09:00:15,522 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 09:00:19,388 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 09:00:19,444 - INFO - datetime属性の抽出を開始します
+2025-11-07 09:00:19,473 - INFO - 抽出されたdatetime: 2025-11-07T08:54:16.000Z
+2025-11-07 09:00:19,474 - INFO - lumi.hairsalon の投稿日時: 2025-11-07T08:54:16.000Z
+2025-11-07 09:00:19,482 - INFO - date:2025-11-07 17:54:16+09:00
+2025-11-07 09:00:19,482 - INFO - post_date:20251107
+2025-11-07 09:00:19,511 - INFO - 1枚目: blob:https://www.instagram.com/577b3f76-205c-49c1-9f5e-d622dd7ef7f4
+2025-11-07 09:00:19,511 - INFO - [caption/by_username] 開始
+2025-11-07 09:01:40,660 - INFO - [caption/by_username] 説明文確定（先頭100）: 'ハイベージュ👱🏻‍♀️
+　
+　
+🙋🏻‍♀️ひさしぶりにカラーするので､明るくしたいです！でもちょっと色々染めてて…かなり前にブリーチをして､そのあとかなり暗くして…4〜5か月経って､色が落ちて明るくな'
+2025-11-07 09:01:40,663 - INFO - [caption/by_username] 説明文を保存: media\lumi.hairsalon\description\20251107_085944
+2025-11-07 09:01:42,233 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQM3WKRcBCu_LizOKz-FNYoxEdNZQe1v_eG2lZiZSpcISalKP37n64yDUuBTxou677SJ1el2uCG5cHwSjC-62XU1loeDWLJqAypCVDQ.mp4?_nc_cat=102&_nc_oc=AdlRrPRKwvinrr_zlx2i6te_uLaUzdgD5JD97QySFov4wjemfIah8rnt-x2VEOIfmcU&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=lvGSWaL0hBAQ7kNvwHBJ7OF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjItaGZyXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjExODk5OTg3Njk2NjcwMTUsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsImJpdHJhdGUiOjIwODc2NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=N15jcJSFyR0L-ZF0nQXc5Q&_nc_zt=28&oh=00_AfjMuNzDqWBnutULOKxY72n1isUQlZv9cWVIGPOoYfvPnw&oe=69139F1F&bytestart=0&byteend=4505861
+2025-11-07 09:01:42,268 - INFO - INSERT(with-key): user=lumi.hairsalon, key=AQM3WKRcBCu_LizOKz-FNYoxEdNZQe1v_eG2lZiZSpcISalKP37n64yDUuBTxou677SJ1el2uCG5cHwSjC-62XU1loeDWLJqAypCVDQ, dt=2025-11-07T08:54:16.000Z
+2025-11-07 09:01:44,273 - INFO - ダウンロードを開始します: media\lumi.hairsalon\lumi.hairsalon_20251107090144.mp4
+2025-11-07 09:01:45,295 - INFO - ダウンロード完了: media\lumi.hairsalon\lumi.hairsalon_20251107090144.mp4
+2025-11-07 09:01:45,296 - INFO - 説明文:ハイベージュ👱🏻‍♀️
+　
+　
+🙋🏻‍♀️ひさしぶりにカラーするので､明るくしたいです！でもちょっと色々染めてて…かなり前にブリーチをして､そのあとかなり暗くして…4〜5か月経って､色が落ちて明るくなってきてて…という感じです｡
+　
+↓
+　
+👨🏻‍⚕️なるほど！ちなみにどれくらい明るくしたいですか？ブリーチはしたいですか？黄色っぽくなるのは大丈夫ですか？
+　
+↓
+　
+🙋🏻‍♀️出来ればブリーチをしない方向で！黄色くなってもいいので､なるべく明るくしたいです！
+　
+↓
+　
+👨🏻‍⚕️分かりました！でもブリーチを使用しない場合､毛先に残っているブリーチをしたいた部分とそれ以外の部分の色味の差はどうしてもでてしまいます！暗い色だと馴染むんですが…
+　
+↓
+　
+🙋🏻‍♀️今回は明るくしたい気分なので､それは大丈夫です！
+　
+↓
+　
+👨🏻‍⚕️ご理解ありがとうございます！まずはどのくらい明るくなるか部分的にチェックをしてから､全体的に染めていきましょう！
+　
+↓
+　
+👨🏻‍⚕️まずはカラー剤の中でイチバン明るく出来る"ライトナー"で部分的にチェック｡思ったより中間部分が抜けたので､その色味を基本カラーとして､色味を調節しながら塗り分けました！若干毛先の色と差が出ましたが､無事に明るくなってよかったです！
+　
+
+#トヤカラー
+#Lumi
+#横浜駅東口
+#横浜美容室
+#横浜ヘアサロン
+#横浜美容師
+#ヘアカラー横浜
+2025-11-07 09:01:47,683 - INFO - 処理終了
+================================================================================
+2025-11-07 09:01:53,771 - INFO - 処理開始: Mode=post, Username=lumi.hairsalon, GBP=1208234769854629990
+2025-11-07 09:01:53,773 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMjA4MjM0NzY5ODU0NjI5OTkwIl0.
+2025-11-07 09:02:16,988 - INFO - 元の動画サイズ: 1080x1920
+2025-11-07 09:02:16,988 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-11-07 09:02:16,988 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi.hairsalon\lumi.hairsalon_20251107090144.mp4
+2025-11-07 09:02:27,075 - INFO - Waiting for description field...
+2025-11-07 09:02:27,174 - INFO - Setting description via JS (no send_keys)...
+2025-11-07 09:02:28,278 - INFO - Looking for button section...
+2025-11-07 09:02:32,811 - INFO - Trying to select CALL option...
+2025-11-07 09:02:33,058 - INFO - CALL option successfully selected
+2025-11-07 09:02:35,059 - INFO - Clicking submit button...
+2025-11-07 09:02:43,794 - INFO - 処理完了
+================================================================================
+2025-11-07 12:06:21,487 - INFO - 処理開始 PROCESSID:20251107_120618
+2025-11-07 12:06:21,487 - INFO - 対象ユーザー: lumi.hairsalon
+2025-11-07 12:06:21,487 - INFO - 処理を開始します
+2025-11-07 12:06:21,551 - INFO - 選択されたプロファイル: Profile 13
+2025-11-07 12:06:21,551 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-07 12:06:25,911 - INFO - lumi.hairsalon のプロフィールページにアクセスします
+2025-11-07 12:06:37,636 - INFO - 最新投稿を読み込みます
+2025-11-07 12:06:42,935 - INFO - 選定: 非ピン留め https://www.instagram.com/toyasangapapa/reel/DQv6wAMEQTQ/?hl=ja
+2025-11-07 12:06:46,512 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 12:06:51,268 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 12:06:51,351 - INFO - datetime属性の抽出を開始します
+2025-11-07 12:06:51,409 - INFO - 抽出されたdatetime: 2025-11-07T08:54:16.000Z
+2025-11-07 12:06:51,409 - INFO - lumi.hairsalon の投稿日時: 2025-11-07T08:54:16.000Z
+2025-11-07 12:06:51,417 - INFO - date:2025-11-07 17:54:16+09:00
+2025-11-07 12:06:51,417 - INFO - post_date:20251107
+2025-11-07 12:06:51,452 - INFO - 1枚目: blob:https://www.instagram.com/d9a4a734-e9d3-4689-a58c-3c7761d9bae4
+2025-11-07 12:06:51,453 - INFO - [caption/by_username] 開始
+2025-11-07 12:08:13,046 - INFO - [caption/by_username] 説明文確定（先頭100）: 'ハイベージュ👱🏻‍♀️
+　
+　
+🙋🏻‍♀️ひさしぶりにカラーするので､明るくしたいです！でもちょっと色々染めてて…かなり前にブリーチをして､そのあとかなり暗くして…4〜5か月経って､色が落ちて明るくな'
+2025-11-07 12:08:13,048 - INFO - [caption/by_username] 説明文を保存: media\lumi.hairsalon\description\20251107_120618
+2025-11-07 12:08:14,605 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQM3WKRcBCu_LizOKz-FNYoxEdNZQe1v_eG2lZiZSpcISalKP37n64yDUuBTxou677SJ1el2uCG5cHwSjC-62XU1loeDWLJqAypCVDQ.mp4?_nc_cat=102&_nc_oc=AdlRrPRKwvinrr_zlx2i6te_uLaUzdgD5JD97QySFov4wjemfIah8rnt-x2VEOIfmcU&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=lvGSWaL0hBAQ7kNvwHBJ7OF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjItaGZyXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjExODk5OTg3Njk2NjcwMTUsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsImJpdHJhdGUiOjIwODc2NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=U_9X_iVGm6xKXCehSmiT9Q&_nc_zt=28&oh=00_Afha-vrs2Do3cnYs4jDg7D0OLedLZJqLTTSsNWvgqwI23g&oe=69139F1F&bytestart=0&byteend=4505861
+2025-11-07 12:08:14,613 - INFO - DUP(with-key): user=lumi.hairsalon, key=AQM3WKRcBCu_LizOKz-FNYoxEdNZQe1v_eG2lZiZSpcISalKP37n64yDUuBTxou677SJ1el2uCG5cHwSjC-62XU1loeDWLJqAypCVDQ, dt=2025-11-07T08:54:16.000Z
+2025-11-07 12:08:14,614 - INFO - このレコードは存在します
+2025-11-07 12:08:14,617 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-07 15:02:46,264 - INFO - 処理開始 PROCESSID:20251107_150243
+2025-11-07 15:02:46,264 - INFO - 対象ユーザー: lumi.hairsalon
+2025-11-07 15:02:46,264 - INFO - 処理を開始します
+2025-11-07 15:02:46,321 - INFO - 選択されたプロファイル: Profile 9
+2025-11-07 15:02:46,321 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-07 15:02:50,463 - INFO - lumi.hairsalon のプロフィールページにアクセスします
+2025-11-07 15:03:01,828 - INFO - 最新投稿を読み込みます
+2025-11-07 15:03:07,101 - INFO - 選定: 非ピン留め https://www.instagram.com/toyasangapapa/reel/DQv6wAMEQTQ/?hl=ja
+2025-11-07 15:03:12,641 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 15:03:16,450 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 15:03:16,512 - INFO - datetime属性の抽出を開始します
+2025-11-07 15:03:16,594 - INFO - 抽出されたdatetime: 2025-11-07T08:54:16.000Z
+2025-11-07 15:03:16,594 - INFO - lumi.hairsalon の投稿日時: 2025-11-07T08:54:16.000Z
+2025-11-07 15:03:16,620 - INFO - date:2025-11-07 17:54:16+09:00
+2025-11-07 15:03:16,620 - INFO - post_date:20251107
+2025-11-07 15:03:16,657 - INFO - 1枚目: blob:https://www.instagram.com/b956b314-e3b5-4edf-8dd1-12c778bca814
+2025-11-07 15:03:16,657 - INFO - [caption/by_username] 開始
+2025-11-07 15:04:37,781 - INFO - [caption/by_username] 説明文確定（先頭100）: 'ハイベージュ👱🏻‍♀️
+　
+　
+🙋🏻‍♀️ひさしぶりにカラーするので､明るくしたいです！でもちょっと色々染めてて…かなり前にブリーチをして､そのあとかなり暗くして…4〜5か月経って､色が落ちて明るくな'
+2025-11-07 15:04:37,783 - INFO - [caption/by_username] 説明文を保存: media\lumi.hairsalon\description\20251107_150243
+2025-11-07 15:04:39,262 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQM3WKRcBCu_LizOKz-FNYoxEdNZQe1v_eG2lZiZSpcISalKP37n64yDUuBTxou677SJ1el2uCG5cHwSjC-62XU1loeDWLJqAypCVDQ.mp4?_nc_cat=102&_nc_oc=AdlRrPRKwvinrr_zlx2i6te_uLaUzdgD5JD97QySFov4wjemfIah8rnt-x2VEOIfmcU&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=lvGSWaL0hBAQ7kNvwHBJ7OF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjItaGZyXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjExODk5OTg3Njk2NjcwMTUsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsImJpdHJhdGUiOjIwODc2NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=g_GvOb2xyVi5fDBjE9kiEg&_nc_zt=28&oh=00_AfhjHm3jbthF3yLK1TW9GY5ZJDgFE7lqor4AkWkqIAUGFg&oe=6913D75F&bytestart=0&byteend=4505861
+2025-11-07 15:04:39,264 - INFO - DUP(with-key): user=lumi.hairsalon, key=AQM3WKRcBCu_LizOKz-FNYoxEdNZQe1v_eG2lZiZSpcISalKP37n64yDUuBTxou677SJ1el2uCG5cHwSjC-62XU1loeDWLJqAypCVDQ, dt=2025-11-07T08:54:16.000Z
+2025-11-07 15:04:39,264 - INFO - このレコードは存在します
+2025-11-07 15:04:39,264 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-07 17:56:55,306 - INFO - 処理開始 PROCESSID:20251107_175652
+2025-11-07 17:56:55,306 - INFO - 対象ユーザー: lumi.hairsalon
+2025-11-07 17:56:55,306 - INFO - 処理を開始します
+2025-11-07 17:56:55,364 - INFO - 選択されたプロファイル: Profile 13
+2025-11-07 17:56:55,366 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-07 17:56:59,900 - INFO - lumi.hairsalon のプロフィールページにアクセスします
+2025-11-07 17:57:11,988 - INFO - 最新投稿を読み込みます
+2025-11-07 17:57:17,582 - INFO - 選定: 非ピン留め https://www.instagram.com/toyasangapapa/reel/DQv6wAMEQTQ/?hl=ja
+2025-11-07 17:57:22,685 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 17:57:26,776 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 17:57:26,859 - INFO - datetime属性の抽出を開始します
+2025-11-07 17:57:26,896 - INFO - 抽出されたdatetime: 2025-11-07T08:54:16.000Z
+2025-11-07 17:57:26,896 - INFO - lumi.hairsalon の投稿日時: 2025-11-07T08:54:16.000Z
+2025-11-07 17:57:26,903 - INFO - date:2025-11-07 17:54:16+09:00
+2025-11-07 17:57:26,903 - INFO - post_date:20251107
+2025-11-07 17:57:26,924 - INFO - 1枚目: blob:https://www.instagram.com/7fa91cc5-55d0-4385-87c7-0a73faf3092d
+2025-11-07 17:57:26,924 - INFO - [caption/by_username] 開始
+2025-11-07 17:58:48,190 - INFO - [caption/by_username] 説明文確定（先頭100）: 'ハイベージュ👱🏻‍♀️
+　
+　
+🙋🏻‍♀️ひさしぶりにカラーするので､明るくしたいです！でもちょっと色々染めてて…かなり前にブリーチをして､そのあとかなり暗くして…4〜5か月経って､色が落ちて明るくな'
+2025-11-07 17:58:48,192 - INFO - [caption/by_username] 説明文を保存: media\lumi.hairsalon\description\20251107_175652
+2025-11-07 17:58:49,630 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQM3WKRcBCu_LizOKz-FNYoxEdNZQe1v_eG2lZiZSpcISalKP37n64yDUuBTxou677SJ1el2uCG5cHwSjC-62XU1loeDWLJqAypCVDQ.mp4?_nc_cat=102&_nc_oc=AdlRrPRKwvinrr_zlx2i6te_uLaUzdgD5JD97QySFov4wjemfIah8rnt-x2VEOIfmcU&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=lvGSWaL0hBAQ7kNvwHBJ7OF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjItaGZyXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjExODk5OTg3Njk2NjcwMTUsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsImJpdHJhdGUiOjIwODc2NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=rds3TFjBnVKGaSkdBU0d8A&_nc_zt=28&oh=00_Afii0VI3QwvMuFEcH2GMtwt5oC2mHW41UzjlndyqVrCGvg&oe=69140F9F&bytestart=0&byteend=4505861
+2025-11-07 17:58:49,639 - INFO - DUP(with-key): user=lumi.hairsalon, key=AQM3WKRcBCu_LizOKz-FNYoxEdNZQe1v_eG2lZiZSpcISalKP37n64yDUuBTxou677SJ1el2uCG5cHwSjC-62XU1loeDWLJqAypCVDQ, dt=2025-11-07T08:54:16.000Z
+2025-11-07 17:58:49,639 - INFO - このレコードは存在します
+2025-11-07 17:58:49,639 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-07 20:51:01,756 - INFO - 処理開始 PROCESSID:20251107_205058
+2025-11-07 20:51:01,756 - INFO - 対象ユーザー: lumi.hairsalon
+2025-11-07 20:51:01,756 - INFO - 処理を開始します
+2025-11-07 20:51:01,815 - INFO - 選択されたプロファイル: Profile 12
+2025-11-07 20:51:01,815 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-07 20:51:06,081 - INFO - lumi.hairsalon のプロフィールページにアクセスします
+2025-11-07 20:51:17,753 - INFO - 最新投稿を読み込みます
+2025-11-07 20:51:23,026 - INFO - 選定: 非ピン留め https://www.instagram.com/toyasangapapa/reel/DQv6wAMEQTQ/?hl=ja
+2025-11-07 20:51:28,450 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 20:51:32,267 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 20:51:32,352 - INFO - datetime属性の抽出を開始します
+2025-11-07 20:51:32,383 - INFO - 抽出されたdatetime: 2025-11-07T08:54:16.000Z
+2025-11-07 20:51:32,383 - INFO - lumi.hairsalon の投稿日時: 2025-11-07T08:54:16.000Z
+2025-11-07 20:51:32,389 - INFO - date:2025-11-07 17:54:16+09:00
+2025-11-07 20:51:32,389 - INFO - post_date:20251107
+2025-11-07 20:51:32,413 - INFO - 1枚目: blob:https://www.instagram.com/a90071cd-3ae1-4e0c-b408-38f49256164e
+2025-11-07 20:51:32,414 - INFO - [caption/by_username] 開始
+2025-11-07 20:52:53,977 - INFO - [caption/by_username] 説明文確定（先頭100）: 'ハイベージュ👱🏻‍♀️
+　
+　
+🙋🏻‍♀️ひさしぶりにカラーするので､明るくしたいです！でもちょっと色々染めてて…かなり前にブリーチをして､そのあとかなり暗くして…4〜5か月経って､色が落ちて明るくな'
+2025-11-07 20:52:53,982 - INFO - [caption/by_username] 説明文を保存: media\lumi.hairsalon\description\20251107_205058
+2025-11-07 20:52:55,422 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQM3WKRcBCu_LizOKz-FNYoxEdNZQe1v_eG2lZiZSpcISalKP37n64yDUuBTxou677SJ1el2uCG5cHwSjC-62XU1loeDWLJqAypCVDQ.mp4?_nc_cat=102&_nc_oc=AdlRrPRKwvinrr_zlx2i6te_uLaUzdgD5JD97QySFov4wjemfIah8rnt-x2VEOIfmcU&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=lvGSWaL0hBAQ7kNvwHBJ7OF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjItaGZyXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjExODk5OTg3Njk2NjcwMTUsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsImJpdHJhdGUiOjIwODc2NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=A8aZiXiHj22kMJ1Jf3NopA&_nc_zt=28&oh=00_AfjHr_ud2GZl1SMOx89FoXC0wWwHugI8hUDw2eJGSyT2Cw&oe=691447DF&bytestart=0&byteend=4505861
+2025-11-07 20:52:55,426 - INFO - DUP(with-key): user=lumi.hairsalon, key=AQM3WKRcBCu_LizOKz-FNYoxEdNZQe1v_eG2lZiZSpcISalKP37n64yDUuBTxou677SJ1el2uCG5cHwSjC-62XU1loeDWLJqAypCVDQ, dt=2025-11-07T08:54:16.000Z
+2025-11-07 20:52:55,426 - INFO - このレコードは存在します
+2025-11-07 20:52:55,426 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-07 23:46:06,240 - INFO - 処理開始 PROCESSID:20251107_234602
+2025-11-07 23:46:06,240 - INFO - 対象ユーザー: lumi.hairsalon
+2025-11-07 23:46:06,240 - INFO - 処理を開始します
+2025-11-07 23:46:06,299 - INFO - 選択されたプロファイル: Profile 12
+2025-11-07 23:46:06,299 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-07 23:46:10,812 - INFO - lumi.hairsalon のプロフィールページにアクセスします
+2025-11-07 23:46:22,160 - INFO - 最新投稿を読み込みます
+2025-11-07 23:46:27,442 - INFO - 選定: 非ピン留め https://www.instagram.com/toyasangapapa/reel/DQv6wAMEQTQ/?hl=ja
+2025-11-07 23:46:32,993 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 23:46:35,577 - INFO - 最新投稿ページにアクセスしました
+2025-11-07 23:46:35,765 - INFO - datetime属性の抽出を開始します
+2025-11-07 23:46:35,798 - INFO - 抽出されたdatetime: 2025-11-07T08:54:16.000Z
+2025-11-07 23:46:35,798 - INFO - lumi.hairsalon の投稿日時: 2025-11-07T08:54:16.000Z
+2025-11-07 23:46:35,815 - INFO - date:2025-11-07 17:54:16+09:00
+2025-11-07 23:46:35,815 - INFO - post_date:20251107
+2025-11-07 23:46:35,886 - INFO - 1枚目: blob:https://www.instagram.com/e62d6f66-4d0c-4be0-8d9c-8643b4e83ca0
+2025-11-07 23:46:35,886 - INFO - [caption/by_username] 開始
+2025-11-07 23:47:57,453 - INFO - [caption/by_username] 説明文確定（先頭100）: 'ハイベージュ👱🏻‍♀️
+　
+　
+🙋🏻‍♀️ひさしぶりにカラーするので､明るくしたいです！でもちょっと色々染めてて…かなり前にブリーチをして､そのあとかなり暗くして…4〜5か月経って､色が落ちて明るくな'
+2025-11-07 23:47:57,455 - INFO - [caption/by_username] 説明文を保存: media\lumi.hairsalon\description\20251107_234602
+2025-11-07 23:47:58,907 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQM3WKRcBCu_LizOKz-FNYoxEdNZQe1v_eG2lZiZSpcISalKP37n64yDUuBTxou677SJ1el2uCG5cHwSjC-62XU1loeDWLJqAypCVDQ.mp4?_nc_cat=102&_nc_oc=AdlRrPRKwvinrr_zlx2i6te_uLaUzdgD5JD97QySFov4wjemfIah8rnt-x2VEOIfmcU&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=lvGSWaL0hBAQ7kNvwHBJ7OF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjItaGZyXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjExODk5OTg3Njk2NjcwMTUsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsImJpdHJhdGUiOjIwODc2NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=kF_wicP-XOt-5EuMv6jFHQ&_nc_zt=28&oh=00_Afj4Gvj44_Gg5Y2rFjJyPcxM9GHDl_R1MGrtyAshEzCrgg&oe=691447DF&bytestart=0&byteend=4505861
+2025-11-07 23:47:58,911 - INFO - DUP(with-key): user=lumi.hairsalon, key=AQM3WKRcBCu_LizOKz-FNYoxEdNZQe1v_eG2lZiZSpcISalKP37n64yDUuBTxou677SJ1el2uCG5cHwSjC-62XU1loeDWLJqAypCVDQ, dt=2025-11-07T08:54:16.000Z
+2025-11-07 23:47:58,912 - INFO - このレコードは存在します
+2025-11-07 23:47:58,912 - INFO - 全件レコードが存在します

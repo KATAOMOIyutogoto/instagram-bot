@@ -1,0 +1,104 @@
+================================================================================
+2025-10-26 00:06:11,925 - INFO - 処理開始 PROCESSID:20251026_000608
+2025-10-26 00:06:11,925 - INFO - 対象ユーザー: hide_niku
+2025-10-26 00:06:11,925 - INFO - 処理を開始します
+2025-10-26 00:06:12,003 - INFO - 選択されたプロファイル: Profile 13
+2025-10-26 00:06:12,003 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-26 00:06:16,500 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-26 00:06:28,597 - INFO - 最新投稿を読み込みます
+2025-10-26 00:06:34,225 - INFO - 候補はピン留め: https://www.instagram.com/hide_niku/reel/DOdH_5LkjxZ/?hl=ja → 日付確認
+2025-10-26 00:06:38,170 - INFO - ピン留めだが3日以上前(44日) → スキップ
+2025-10-26 00:06:38,171 - INFO - 候補はピン留め: https://www.instagram.com/hide_niku/reel/DE7JKnSTFms/?hl=ja → 日付確認
+2025-10-26 00:06:42,559 - INFO - ピン留めだが3日以上前(281日) → スキップ
+2025-10-26 00:06:42,559 - INFO - 候補はピン留め: https://www.instagram.com/hide_niku/p/Cy0II9YSIET/?hl=ja → 日付確認
+2025-10-26 00:06:45,658 - INFO - ピン留めだが3日以上前(731日) → スキップ
+2025-10-26 00:06:45,658 - INFO - 選定: 非ピン留め https://www.instagram.com/hide_niku/p/DPyaCS1EtRY/?hl=ja
+2025-10-26 00:06:51,243 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 00:06:55,760 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 00:06:55,838 - INFO - datetime属性の抽出を開始します
+2025-10-26 00:06:55,994 - INFO - 抽出されたdatetime: 2025-10-14T11:15:09.000Z
+2025-10-26 00:06:55,994 - INFO - hide_niku の投稿日時: 2025-10-14T11:15:09.000Z
+2025-10-26 00:06:56,048 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-14T11:15:09+00:00, age=11 days, 12:51:47.048969
+================================================================================
+2025-10-26 06:12:54,380 - INFO - 処理開始 PROCESSID:20251026_061250
+2025-10-26 06:12:54,382 - INFO - 対象ユーザー: hide_niku
+2025-10-26 06:12:54,382 - INFO - 処理を開始します
+2025-10-26 06:12:54,441 - INFO - 選択されたプロファイル: Profile 9
+2025-10-26 06:12:54,443 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-26 06:13:02,095 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-26 06:13:34,947 - INFO - 最新投稿を読み込みます
+2025-10-26 06:13:45,214 - INFO - 候補はピン留め: https://www.instagram.com/hide_niku/reel/DOdH_5LkjxZ/?hl=ja → 日付確認
+2025-10-26 06:13:54,989 - INFO - ピン留めだが3日以上前(44日) → スキップ
+2025-10-26 06:13:54,989 - INFO - 候補はピン留め: https://www.instagram.com/hide_niku/reel/DE7JKnSTFms/?hl=ja → 日付確認
+2025-10-26 06:14:51,569 - WARNING - ピン留め日付確認で例外: Message: script timeout
+  (Session info: chrome=141.0.7390.123)
+Stacktrace:
+	GetHandleVerifier [0x0x121fe43+66515]
+	GetHandleVerifier [0x0x121fe84+66580]
+	(No symbol) [0x0x100da6b]
+	(No symbol) [0x0x109dc70]
+	(No symbol) [0x0x107b1cc]
+	(No symbol) [0x0x109cba7]
+	(No symbol) [0x0x107afc6]
+	(No symbol) [0x0x104c2ca]
+	(No symbol) [0x0x104d154]
+	GetHandleVerifier [0x0x1477353+2521315]
+	GetHandleVerifier [0x0x14722d3+2500707]
+	GetHandleVerifier [0x0x1247c94+229924]
+	GetHandleVerifier [0x0x12381f8+165768]
+	GetHandleVerifier [0x0x123ecad+193085]
+	GetHandleVerifier [0x0x1228158+100072]
+	GetHandleVerifier [0x0x12282f0+100480]
+	GetHandleVerifier [0x0x12125aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+ → 採用（安全側）
+2025-10-26 06:14:55,997 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 06:15:16,030 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 06:15:28,262 - INFO - datetime属性の抽出を開始します
+2025-10-26 06:15:29,247 - INFO - 抽出されたdatetime: 2025-01-17T10:58:01.000Z
+2025-10-26 06:15:29,248 - INFO - hide_niku の投稿日時: 2025-01-17T10:58:01.000Z
+2025-10-26 06:15:29,784 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-01-17T10:58:01+00:00, age=281 days, 19:17:28.784221
+================================================================================
+2025-10-26 12:49:52,829 - INFO - 処理開始 PROCESSID:20251026_124939
+2025-10-26 12:49:52,829 - INFO - 対象ユーザー: hide_niku
+2025-10-26 12:49:52,829 - INFO - 処理を開始します
+2025-10-26 12:49:52,936 - INFO - 選択されたプロファイル: Profile 12
+2025-10-26 12:49:52,936 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-26 12:50:07,648 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-26 12:50:33,812 - INFO - 最新投稿を読み込みます
+2025-10-26 12:50:42,541 - INFO - 候補はピン留め: https://www.instagram.com/hide_niku/reel/DOdH_5LkjxZ/?hl=ja → 日付確認
+2025-10-26 12:50:50,415 - INFO - ピン留めだが3日以上前(45日) → スキップ
+2025-10-26 12:50:50,415 - INFO - 候補はピン留め: https://www.instagram.com/hide_niku/reel/DE7JKnSTFms/?hl=ja → 日付確認
+2025-10-26 12:51:20,341 - INFO - ピン留めだが3日以上前(282日) → スキップ
+2025-10-26 12:51:20,342 - INFO - 候補はピン留め: https://www.instagram.com/hide_niku/p/Cy0II9YSIET/?hl=ja → 日付確認
+2025-10-26 12:51:30,377 - INFO - ピン留めだが3日以上前(732日) → スキップ
+2025-10-26 12:51:30,377 - INFO - 選定: 非ピン留め https://www.instagram.com/hide_niku/p/DPyaCS1EtRY/?hl=ja
+2025-10-26 12:51:36,192 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 12:51:44,138 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 12:51:46,034 - INFO - datetime属性の抽出を開始します
+2025-10-26 12:51:47,429 - INFO - 抽出されたdatetime: 2025-10-14T11:15:09.000Z
+2025-10-26 12:51:47,429 - INFO - hide_niku の投稿日時: 2025-10-14T11:15:09.000Z
+2025-10-26 12:51:48,131 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-14T11:15:09+00:00, age=12 days, 1:36:39.131809
+================================================================================
+2025-10-26 18:48:53,206 - INFO - 処理開始 PROCESSID:20251026_184849
+2025-10-26 18:48:53,206 - INFO - 対象ユーザー: hide_niku
+2025-10-26 18:48:53,208 - INFO - 処理を開始します
+2025-10-26 18:48:53,272 - INFO - 選択されたプロファイル: Profile 12
+2025-10-26 18:48:53,272 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-26 18:49:02,494 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-26 18:49:35,482 - INFO - 最新投稿を読み込みます
+2025-10-26 18:49:45,025 - INFO - 候補はピン留め: https://www.instagram.com/hide_niku/reel/DOdH_5LkjxZ/?hl=ja → 日付確認
+2025-10-26 18:49:52,974 - INFO - ピン留めだが3日以上前(45日) → スキップ
+2025-10-26 18:49:52,974 - INFO - 候補はピン留め: https://www.instagram.com/hide_niku/reel/DE7JKnSTFms/?hl=ja → 日付確認
+2025-10-26 18:50:02,572 - INFO - ピン留めだが3日以上前(282日) → スキップ
+2025-10-26 18:50:02,579 - INFO - 候補はピン留め: https://www.instagram.com/hide_niku/p/Cy0II9YSIET/?hl=ja → 日付確認
+2025-10-26 18:50:11,859 - INFO - ピン留めだが3日以上前(732日) → スキップ
+2025-10-26 18:50:11,866 - INFO - 選定: 非ピン留め https://www.instagram.com/hide_niku/p/DPyaCS1EtRY/?hl=ja
+2025-10-26 18:50:16,665 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 18:50:29,195 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 18:50:57,349 - INFO - datetime属性の抽出を開始します
+2025-10-26 18:50:57,865 - INFO - 抽出されたdatetime: 2025-10-14T11:15:09.000Z
+2025-10-26 18:50:57,865 - INFO - hide_niku の投稿日時: 2025-10-14T11:15:09.000Z
+2025-10-26 18:50:58,086 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-14T11:15:09+00:00, age=12 days, 7:35:49.086232

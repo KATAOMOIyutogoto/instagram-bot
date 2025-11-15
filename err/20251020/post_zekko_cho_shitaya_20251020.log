@@ -1,0 +1,165 @@
+================================================================================
+2025-10-20 00:21:47,857 - INFO - 処理開始 PROCESSID:20251020_002144
+2025-10-20 00:21:47,857 - INFO - 対象ユーザー: zekko_cho_shitaya
+2025-10-20 00:21:47,857 - INFO - 処理を開始します
+2025-10-20 00:21:47,922 - INFO - 選択されたプロファイル: Profile 13
+2025-10-20 00:21:47,922 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-20 00:21:52,344 - INFO - zekko_cho_shitaya のプロフィールページにアクセスします
+2025-10-20 00:22:05,328 - INFO - 最新投稿を読み込みます
+2025-10-20 00:22:10,614 - INFO - 選定: 非ピン留め https://www.instagram.com/zekko_cho_shitaya/p/DP0xE_1CZy9/?hl=ja
+2025-10-20 00:22:15,733 - INFO - 最新投稿ページにアクセスしました
+2025-10-20 00:22:21,620 - INFO - 最新投稿ページにアクセスしました
+2025-10-20 00:22:21,752 - INFO - datetime属性の抽出を開始します
+2025-10-20 00:22:21,887 - INFO - 抽出されたdatetime: 2025-10-17T10:47:52.000Z
+2025-10-20 00:22:21,887 - INFO - zekko_cho_shitaya の投稿日時: 2025-10-17T10:47:52.000Z
+2025-10-20 00:22:21,904 - INFO - date:2025-10-17 19:47:52+09:00
+2025-10-20 00:22:21,905 - INFO - post_date:20251017
+2025-10-20 00:22:22,045 - INFO - カルーセル推定: 1枚
+2025-10-20 00:22:22,268 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565039186_17887784799367205_2257209202356413408_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0MzgzMzAzNzk0NDIzMzE0OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxOC5oZHIuQzMifQ%3D%3D&_nc_ohc=Jt8tMDZ-3OYQ7kNvwEZKqRv&_nc_oc=AdmGM1_4Z39IvobM5-agKK_ezafZwq84MlqoD0xREFNAFehyG3Evd9-rT1aUtFU3JyE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=CrL99X83bRII-m_dbINhkw&oh=00_Afcsfj8aIr0cS0eKpAdPOs-NfgKoHzGXpBz93wwrRBJrpg&oe=68FB55C3
+2025-10-20 00:22:22,269 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565039186_17887784799367205_2257209202356413408_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0MzgzMzAzNzk0NDIzMzE0OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxOC5oZHIuQzMifQ%3D%3D&_nc_ohc=Jt8tMDZ-3OYQ7kNvwEZKqRv&_nc_oc=AdmGM1_4Z39IvobM5-agKK_ezafZwq84MlqoD0xREFNAFehyG3Evd9-rT1aUtFU3JyE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=CrL99X83bRII-m_dbINhkw&oh=00_Afcsfj8aIr0cS0eKpAdPOs-NfgKoHzGXpBz93wwrRBJrpg&oe=68FB55C3
+2025-10-20 00:22:22,269 - INFO - [caption/by_username] 開始
+2025-10-20 00:22:22,516 - INFO - [caption/by_username] 説明文確定（先頭100）: '店内に、ちょっと懐かしい“駄菓子コーナー”ができました🍭✨
+昔よく食べたお菓子を見つけて、思わず手に取ってしまう方も多いです☺️
+お子さま連れの方はもちろん、大人の方にも人気。
+お食事のあとに少しつま'
+2025-10-20 00:22:22,518 - INFO - [caption/by_username] 説明文を保存: media\zekko_cho_shitaya\description\20251020_002144
+2025-10-20 00:22:22,518 - INFO - 画像URLを取得しました
+2025-10-20 00:22:22,522 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=zekko_cho_shitaya, key=Mzc0MzgzMzAzNzk0NDIzMzE0OQ==, dt=2025-10-17T10:47:52.000Z, url=https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565039186_17887784799367205_2257209202356413408_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0MzgzMzAzNzk0NDIzMzE0OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxOC5oZHIuQzMifQ%3D%3D&_nc_ohc=Jt8tMDZ-3OYQ7kNvwEZKqRv&_nc_oc=AdmGM1_4Z39IvobM5-agKK_ezafZwq84MlqoD0xREFNAFehyG3Evd9-rT1aUtFU3JyE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=CrL99X83bRII-m_dbINhkw&oh=00_Afcsfj8aIr0cS0eKpAdPOs-NfgKoHzGXpBz93wwrRBJrpg&oe=68FB55C3, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('zekko_cho_shitaya', 'Mzc0MzgzMzAzNzk0NDIzMzE0OQ==', 'https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565039186_17887784799367205_2257209202356413408_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0MzgzMzAzNzk0NDIzMzE0OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxOC5oZHIuQzMifQ%3D%3D&_nc_ohc=Jt8tMDZ-3OYQ7kNvwEZKqRv&_nc_oc=AdmGM1_4Z39IvobM5-agKK_ezafZwq84MlqoD0xREFNAFehyG3Evd9-rT1aUtFU3JyE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=CrL99X83bRII-m_dbINhkw&oh=00_Afcsfj8aIr0cS0eKpAdPOs-NfgKoHzGXpBz93wwrRBJrpg&oe=68FB55C3', '2025-10-17T10:47:52.000Z')
+2025-10-20 00:22:22,523 - INFO - このレコードは存在します
+2025-10-20 00:22:22,523 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-20 06:13:21,777 - INFO - 処理開始 PROCESSID:20251020_061315
+2025-10-20 06:13:21,777 - INFO - 対象ユーザー: zekko_cho_shitaya
+2025-10-20 06:13:21,777 - INFO - 処理を開始します
+2025-10-20 06:13:21,897 - INFO - 選択されたプロファイル: Profile 12
+2025-10-20 06:13:21,897 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-20 06:13:33,630 - INFO - zekko_cho_shitaya のプロフィールページにアクセスします
+2025-10-20 06:13:47,591 - INFO - 最新投稿を読み込みます
+2025-10-20 06:13:53,065 - INFO - 選定: 非ピン留め https://www.instagram.com/zekko_cho_shitaya/p/DP0xE_1CZy9/?hl=ja
+2025-10-20 06:13:58,423 - INFO - 最新投稿ページにアクセスしました
+2025-10-20 06:14:01,759 - INFO - 最新投稿ページにアクセスしました
+2025-10-20 06:14:01,876 - INFO - datetime属性の抽出を開始します
+2025-10-20 06:14:02,281 - INFO - 抽出されたdatetime: 2025-10-17T10:47:52.000Z
+2025-10-20 06:14:02,281 - INFO - zekko_cho_shitaya の投稿日時: 2025-10-17T10:47:52.000Z
+2025-10-20 06:14:02,407 - INFO - date:2025-10-17 19:47:52+09:00
+2025-10-20 06:14:02,407 - INFO - post_date:20251017
+2025-10-20 06:14:03,124 - INFO - カルーセル推定: 1枚
+2025-10-20 06:14:03,292 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565039186_17887784799367205_2257209202356413408_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0MzgzMzAzNzk0NDIzMzE0OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxOC5oZHIuQzMifQ%3D%3D&_nc_ohc=Jt8tMDZ-3OYQ7kNvwEZKqRv&_nc_oc=AdmGM1_4Z39IvobM5-agKK_ezafZwq84MlqoD0xREFNAFehyG3Evd9-rT1aUtFU3JyE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=PpKnCTyf6lr5Z4xpekXD3w&oh=00_Afe3AyUroYLKg7rSWdHcWdRCR-i-7jDVozwFup6VAgiUtw&oe=68FB8E03
+2025-10-20 06:14:03,292 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565039186_17887784799367205_2257209202356413408_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0MzgzMzAzNzk0NDIzMzE0OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxOC5oZHIuQzMifQ%3D%3D&_nc_ohc=Jt8tMDZ-3OYQ7kNvwEZKqRv&_nc_oc=AdmGM1_4Z39IvobM5-agKK_ezafZwq84MlqoD0xREFNAFehyG3Evd9-rT1aUtFU3JyE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=PpKnCTyf6lr5Z4xpekXD3w&oh=00_Afe3AyUroYLKg7rSWdHcWdRCR-i-7jDVozwFup6VAgiUtw&oe=68FB8E03
+2025-10-20 06:14:03,292 - INFO - [caption/by_username] 開始
+2025-10-20 06:14:06,451 - INFO - [caption/by_username] 説明文確定（先頭100）: '店内に、ちょっと懐かしい“駄菓子コーナー”ができました🍭✨
+昔よく食べたお菓子を見つけて、思わず手に取ってしまう方も多いです☺️
+お子さま連れの方はもちろん、大人の方にも人気。
+お食事のあとに少しつま'
+2025-10-20 06:14:06,453 - INFO - [caption/by_username] 説明文を保存: media\zekko_cho_shitaya\description\20251020_061315
+2025-10-20 06:14:06,454 - INFO - 画像URLを取得しました
+2025-10-20 06:14:06,460 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=zekko_cho_shitaya, key=Mzc0MzgzMzAzNzk0NDIzMzE0OQ==, dt=2025-10-17T10:47:52.000Z, url=https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565039186_17887784799367205_2257209202356413408_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0MzgzMzAzNzk0NDIzMzE0OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxOC5oZHIuQzMifQ%3D%3D&_nc_ohc=Jt8tMDZ-3OYQ7kNvwEZKqRv&_nc_oc=AdmGM1_4Z39IvobM5-agKK_ezafZwq84MlqoD0xREFNAFehyG3Evd9-rT1aUtFU3JyE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=PpKnCTyf6lr5Z4xpekXD3w&oh=00_Afe3AyUroYLKg7rSWdHcWdRCR-i-7jDVozwFup6VAgiUtw&oe=68FB8E03, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('zekko_cho_shitaya', 'Mzc0MzgzMzAzNzk0NDIzMzE0OQ==', 'https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565039186_17887784799367205_2257209202356413408_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0MzgzMzAzNzk0NDIzMzE0OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxOC5oZHIuQzMifQ%3D%3D&_nc_ohc=Jt8tMDZ-3OYQ7kNvwEZKqRv&_nc_oc=AdmGM1_4Z39IvobM5-agKK_ezafZwq84MlqoD0xREFNAFehyG3Evd9-rT1aUtFU3JyE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=PpKnCTyf6lr5Z4xpekXD3w&oh=00_Afe3AyUroYLKg7rSWdHcWdRCR-i-7jDVozwFup6VAgiUtw&oe=68FB8E03', '2025-10-17T10:47:52.000Z')
+2025-10-20 06:14:06,461 - INFO - このレコードは存在します
+2025-10-20 06:14:06,461 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-20 12:12:15,889 - INFO - 処理開始 PROCESSID:20251020_121212
+2025-10-20 12:12:15,889 - INFO - 対象ユーザー: zekko_cho_shitaya
+2025-10-20 12:12:15,889 - INFO - 処理を開始します
+2025-10-20 12:12:15,956 - INFO - 選択されたプロファイル: Profile 10
+2025-10-20 12:12:15,956 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-20 12:12:21,092 - INFO - zekko_cho_shitaya のプロフィールページにアクセスします
+2025-10-20 12:12:33,704 - INFO - 最新投稿を読み込みます
+2025-10-20 12:12:39,108 - INFO - 選定: 非ピン留め https://www.instagram.com/zekko_cho_shitaya/p/DQB6sA-CTKd/?hl=ja
+2025-10-20 12:12:44,451 - INFO - 最新投稿ページにアクセスしました
+2025-10-20 12:12:49,227 - INFO - 最新投稿ページにアクセスしました
+2025-10-20 12:12:49,340 - INFO - datetime属性の抽出を開始します
+2025-10-20 12:12:49,428 - INFO - 抽出されたdatetime: 2025-10-20T11:51:03.000Z
+2025-10-20 12:12:49,429 - INFO - zekko_cho_shitaya の投稿日時: 2025-10-20T11:51:03.000Z
+2025-10-20 12:12:49,456 - INFO - date:2025-10-20 20:51:03+09:00
+2025-10-20 12:12:49,456 - INFO - post_date:20251020
+2025-10-20 12:12:49,613 - INFO - カルーセル推定: 3枚
+2025-10-20 12:12:49,773 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/567960456_17888326956367205_6735157432837331996_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc0NzUzNDQ2NzM1MTc5MTI1OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExMDh4MTQ3Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=vw1Tu8fduJUQ7kNvwHPX6iG&_nc_oc=AdkP6kxcefDxgia3X5JR34RMFMPBCOfRkJyGqwaLTlerCUHvj5Q9OmtN2ghu2xj8iB8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=tLrN90L0vBCYnPrzWkNoag&oh=00_Afccjxl8v3s5LIy2pCD4AR4M5P1iA3HlRBi5-MhuX8GX2g&oe=68FBE0EA
+2025-10-20 12:12:49,942 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/568639847_17888326974367205_7770803869193626726_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0NzUzNDQ2NzI1OTUwMjA1Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjk0OXgxMjY0LnNkci5DMyJ9&_nc_ohc=6MQPn7NImA4Q7kNvwFT5XGe&_nc_oc=AdnHFCRt8J6A-5kygEdss7WyD_96PkZrSGY8_oK_ogZ-shWV29Z8pVqPWrnBzly2Sg0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=tLrN90L0vBCYnPrzWkNoag&oh=00_AfdV1W-KyBL6bZoudGHyOvb9MNHa26bP1ClRfw6mL6ExZw&oe=68FBEDA3
+2025-10-20 12:13:33,998 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/567057757_17888326977367205_1496772083504623839_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc0NzUzNDQ2NzMzNTAyMzA2MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyNDR4MTY1Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=Y7vtymVS-7YQ7kNvwEugHKt&_nc_oc=Adm0J36RGnVD8SX6zw7GNk_YvjIYEl5vCgLNbbfy7oZ2-xFTuXM-FOAw0IfKpQgS_OA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=tLrN90L0vBCYnPrzWkNoag&oh=00_AfcWAu_b5slLZKX02X_lfCi5iXLa8fl51rm-3zo7cRE_tg&oe=68FBF92F
+2025-10-20 12:13:34,018 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/567960456_17888326956367205_6735157432837331996_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc0NzUzNDQ2NzM1MTc5MTI1OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExMDh4MTQ3Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=vw1Tu8fduJUQ7kNvwHPX6iG&_nc_oc=AdkP6kxcefDxgia3X5JR34RMFMPBCOfRkJyGqwaLTlerCUHvj5Q9OmtN2ghu2xj8iB8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=tLrN90L0vBCYnPrzWkNoag&oh=00_Afccjxl8v3s5LIy2pCD4AR4M5P1iA3HlRBi5-MhuX8GX2g&oe=68FBE0EA
+2025-10-20 12:13:34,018 - INFO - 2枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/568639847_17888326974367205_7770803869193626726_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0NzUzNDQ2NzI1OTUwMjA1Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjk0OXgxMjY0LnNkci5DMyJ9&_nc_ohc=6MQPn7NImA4Q7kNvwFT5XGe&_nc_oc=AdnHFCRt8J6A-5kygEdss7WyD_96PkZrSGY8_oK_ogZ-shWV29Z8pVqPWrnBzly2Sg0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=tLrN90L0vBCYnPrzWkNoag&oh=00_AfdV1W-KyBL6bZoudGHyOvb9MNHa26bP1ClRfw6mL6ExZw&oe=68FBEDA3
+2025-10-20 12:13:34,018 - INFO - 3枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/567057757_17888326977367205_1496772083504623839_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc0NzUzNDQ2NzMzNTAyMzA2MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEyNDR4MTY1Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=Y7vtymVS-7YQ7kNvwEugHKt&_nc_oc=Adm0J36RGnVD8SX6zw7GNk_YvjIYEl5vCgLNbbfy7oZ2-xFTuXM-FOAw0IfKpQgS_OA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=tLrN90L0vBCYnPrzWkNoag&oh=00_AfcWAu_b5slLZKX02X_lfCi5iXLa8fl51rm-3zo7cRE_tg&oe=68FBF92F
+2025-10-20 12:13:34,018 - INFO - [caption/by_username] 開始
+2025-10-20 12:13:34,097 - INFO - [caption/by_username] 説明文確定（先頭100）: '本日のおすすめ
+少しずつ寒くなってきましたね。
+あたたかいおでんや、秋の味覚を使った季節のおばんざい、そして新鮮なお刺身もご用意しています。
+お仕事帰りにふらっと一杯、ぜひあたたまりにいらしてください'
+2025-10-20 12:13:34,099 - INFO - [caption/by_username] 説明文を保存: media\zekko_cho_shitaya\description\20251020_121212
+2025-10-20 12:13:34,099 - INFO - 画像URLを取得しました
+2025-10-20 12:13:34,142 - INFO - INSERT(with-key): user=zekko_cho_shitaya, key=Mzc0NzUzNDQ2NzM1MTc5MTI1OA==, dt=2025-10-20T11:51:03.000Z
+2025-10-20 12:13:34,143 - INFO - メディアを取得します
+2025-10-20 12:13:36,143 - INFO - ダウンロードを開始します: media\zekko_cho_shitaya\zekko_cho_shitaya_20251020121336.jpg
+2025-10-20 12:13:38,041 - INFO - ダウンロード完了: media\zekko_cho_shitaya\zekko_cho_shitaya_20251020121336.jpg
+2025-10-20 12:13:38,122 - INFO - 元の画像サイズ: 1108x1476
+2025-10-20 12:13:38,122 - INFO - サイズ変更は不要です
+2025-10-20 12:13:38,124 - INFO - 画像URLを取得しました
+2025-10-20 12:13:38,167 - INFO - INSERT(with-key): user=zekko_cho_shitaya, key=Mzc0NzUzNDQ2NzI1OTUwMjA1Ng==, dt=2025-10-20T11:51:03.000Z
+2025-10-20 12:13:38,168 - INFO - メディアを取得します
+2025-10-20 12:13:40,169 - INFO - ダウンロードを開始します: media\zekko_cho_shitaya\zekko_cho_shitaya_20251020121340.jpg
+2025-10-20 12:13:41,924 - INFO - ダウンロード完了: media\zekko_cho_shitaya\zekko_cho_shitaya_20251020121340.jpg
+2025-10-20 12:13:41,972 - INFO - 元の画像サイズ: 949x1264
+2025-10-20 12:13:41,972 - INFO - サイズ変更は不要です
+2025-10-20 12:13:41,972 - INFO - 画像URLを取得しました
+2025-10-20 12:13:42,031 - INFO - INSERT(with-key): user=zekko_cho_shitaya, key=Mzc0NzUzNDQ2NzMzNTAyMzA2MA==, dt=2025-10-20T11:51:03.000Z
+2025-10-20 12:13:42,032 - INFO - メディアを取得します
+2025-10-20 12:13:44,033 - INFO - ダウンロードを開始します: media\zekko_cho_shitaya\zekko_cho_shitaya_20251020121344.jpg
+2025-10-20 12:13:45,751 - INFO - ダウンロード完了: media\zekko_cho_shitaya\zekko_cho_shitaya_20251020121344.jpg
+2025-10-20 12:13:45,822 - INFO - 元の画像サイズ: 1244x1657
+2025-10-20 12:13:45,822 - INFO - サイズ変更は不要です
+2025-10-20 12:13:45,824 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL3 / 既存スキップ0 / 失敗0
+2025-10-20 12:13:45,824 - INFO - 説明文:本日のおすすめ
+少しずつ寒くなってきましたね。
+あたたかいおでんや、秋の味覚を使った季節のおばんざい、そして新鮮なお刺身もご用意しています。
+お仕事帰りにふらっと一杯、ぜひあたたまりにいらしてください
+
+———— 酒肴鮨 ぜっこうちょう 下谷店 🍺————
+
+営業時間
+
+【平日】
+OPEN  16:00  CLOSE  23:00
+
+【土日】
+OPEN  12:00  CLOSE  23:00
+
+ご予約はこちら
+ホットペッパー⤵
+https://www.hotpepper.jp/strJ003942632/
+
+〒110-0004
+東京都台東区下谷３丁目１１−９ ライオンズマンション下谷
+最寄り駅: 入谷駅　三ノ輪駅
+定休日︰なし
+⁡
+
+#酒肴鮨ぜっこうちょう下谷店 #入谷居酒屋 #入谷海鮮 #入谷鮨 #入谷ディナー #入谷寿司 #入谷グルメ #入谷駅居酒屋 #入谷駅 #入谷飲み屋 #入谷和食 #入谷日本酒 #入谷飲み #入谷飲食店 #三ノ輪居酒屋 #三ノ輪海鮮 #三ノ輪鮨 #三ノ輪ディナー #三ノ輪寿司 #三ノ輪グルメ #三ノ輪駅居酒屋 #三ノ輪駅 #三ノ輪飲み屋 #三ノ輪和食 #三ノ輪日本酒 #三ノ輪飲み #三ノ輪飲食店 #入谷ご飯 #三ノ輪ご飯 #下谷居酒屋
+2025-10-20 12:13:49,625 - INFO - 処理終了
+================================================================================
+2025-10-20 12:13:59,250 - INFO - 処理開始: Mode=post, Username=zekko_cho_shitaya, GBP=03074687295375004085
+2025-10-20 12:13:59,250 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwMzA3NDY4NzI5NTM3NTAwNDA4NSJd.
+2025-10-20 12:14:52,177 - ERROR - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdcfe83+66515]
+	GetHandleVerifier [0x0xdcfec4+66580]
+	(No symbol) [0x0xbbdc48]
+	(No symbol) [0x0xc08704]
+	(No symbol) [0x0xc08aab]
+	(No symbol) [0x0xc4f482]
+	(No symbol) [0x0xc2b214]
+	(No symbol) [0x0xc4cba7]
+	(No symbol) [0x0xc2afc6]
+	(No symbol) [0x0xbfc2ca]
+	(No symbol) [0x0xbfd154]
+	GetHandleVerifier [0x0x10273b3+2521347]
+	GetHandleVerifier [0x0x1022333+2500739]
+	GetHandleVerifier [0x0xdf7cd4+229924]
+	GetHandleVerifier [0x0xde8238+165768]
+	GetHandleVerifier [0x0xdeeced+193085]
+	GetHandleVerifier [0x0xdd8198+100072]
+	GetHandleVerifier [0x0xdd8330+100480]
+	GetHandleVerifier [0x0xdc25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-20 12:14:57,519 - ERROR - 投稿画面オープン失敗

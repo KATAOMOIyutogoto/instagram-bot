@@ -1,0 +1,248 @@
+================================================================================
+2025-11-10 01:22:21,411 - INFO - 処理開始 PROCESSID:20251110_012218
+2025-11-10 01:22:21,412 - INFO - 対象ユーザー: nikunosato_tennoutyou
+2025-11-10 01:22:21,412 - INFO - 処理を開始します
+2025-11-10 01:22:21,479 - INFO - 選択されたプロファイル: Profile 12
+2025-11-10 01:22:21,479 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-10 01:22:25,886 - INFO - nikunosato_tennoutyou のプロフィールページにアクセスします
+2025-11-10 01:22:37,947 - INFO - 最新投稿を読み込みます
+2025-11-10 01:22:43,619 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_tennoutyou/reel/DQ2gCJfj1bv/?hl=ja
+2025-11-10 01:22:46,964 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 01:22:51,121 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 01:22:51,201 - INFO - datetime属性の抽出を開始します
+2025-11-10 01:22:51,264 - INFO - 抽出されたdatetime: 2025-11-09T21:55:05.000Z
+2025-11-10 01:22:51,265 - INFO - nikunosato_tennoutyou の投稿日時: 2025-11-09T21:55:05.000Z
+2025-11-10 01:22:51,278 - INFO - date:2025-11-10 06:55:05+09:00
+2025-11-10 01:22:51,278 - INFO - post_date:20251110
+2025-11-10 01:22:51,335 - INFO - 1枚目: blob:https://www.instagram.com/38a1117d-3222-473e-9b85-8bb7148fa515
+2025-11-10 01:22:51,335 - INFO - [caption/by_username] 開始
+2025-11-10 01:22:51,446 - INFO - [caption/by_username] 説明文確定（先頭100）: 'もつ焼き×串焼き 肉の佐藤 天王町店
+
+🍺✨ 昼から乾杯しませんか？
+当店は【12時オープン】！
+明るいうちからのんびり昼呑みを楽しめます♪
+お仕事仲間と、友達と、ひとり飲みも大歓迎！
+
+………………'
+2025-11-10 01:22:51,448 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_tennoutyou\description\20251110_012218
+2025-11-10 01:22:52,914 - INFO - 生成URL:https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=MDLqb9tuMkUQ7kNvwGhoD_G&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjk4Njg4NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ZnNismiCeVlM5uCVfYQGiw&_nc_zt=28&oh=00_AfjJjyYy-5wwhPcSaqL-Lqw5Bv7yTancI6NQukiiVJZivA&oe=69171190&bytestart=0&byteend=1918532
+2025-11-10 01:22:52,918 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_tennoutyou, key=AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w, dt=2025-11-09T21:55:05.000Z, url=https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=MDLqb9tuMkUQ7kNvwGhoD_G&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjk4Njg4NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ZnNismiCeVlM5uCVfYQGiw&_nc_zt=28&oh=00_AfjJjyYy-5wwhPcSaqL-Lqw5Bv7yTancI6NQukiiVJZivA&oe=69171190&bytestart=0&byteend=1918532, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_tennoutyou', 'AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w', 'https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=MDLqb9tuMkUQ7kNvwGhoD_G&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjk4Njg4NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ZnNismiCeVlM5uCVfYQGiw&_nc_zt=28&oh=00_AfjJjyYy-5wwhPcSaqL-Lqw5Bv7yTancI6NQukiiVJZivA&oe=69171190&bytestart=0&byteend=1918532', '2025-11-09T21:55:05.000Z')
+2025-11-10 01:22:52,919 - INFO - このレコードは存在します
+2025-11-10 01:22:52,919 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-10 04:23:32,894 - INFO - 処理開始 PROCESSID:20251110_042329
+2025-11-10 04:23:32,894 - INFO - 対象ユーザー: nikunosato_tennoutyou
+2025-11-10 04:23:32,894 - INFO - 処理を開始します
+2025-11-10 04:23:32,953 - INFO - 選択されたプロファイル: Profile 13
+2025-11-10 04:23:32,953 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-10 04:23:37,421 - INFO - nikunosato_tennoutyou のプロフィールページにアクセスします
+2025-11-10 04:23:48,907 - INFO - 最新投稿を読み込みます
+2025-11-10 04:23:54,215 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_tennoutyou/reel/DQ2gCJfj1bv/?hl=ja
+2025-11-10 04:23:58,966 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 04:24:02,776 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 04:24:02,903 - INFO - datetime属性の抽出を開始します
+2025-11-10 04:24:02,947 - INFO - 抽出されたdatetime: 2025-11-09T21:55:05.000Z
+2025-11-10 04:24:02,947 - INFO - nikunosato_tennoutyou の投稿日時: 2025-11-09T21:55:05.000Z
+2025-11-10 04:24:02,956 - INFO - date:2025-11-10 06:55:05+09:00
+2025-11-10 04:24:02,956 - INFO - post_date:20251110
+2025-11-10 04:24:02,990 - INFO - 1枚目: blob:https://www.instagram.com/ce5c841a-f04a-47c7-a93d-d1b15148c378
+2025-11-10 04:24:02,990 - INFO - [caption/by_username] 開始
+2025-11-10 04:24:03,118 - INFO - [caption/by_username] 説明文確定（先頭100）: 'もつ焼き×串焼き 肉の佐藤 天王町店
+
+🍺✨ 昼から乾杯しませんか？
+当店は【12時オープン】！
+明るいうちからのんびり昼呑みを楽しめます♪
+お仕事仲間と、友達と、ひとり飲みも大歓迎！
+
+………………'
+2025-11-10 04:24:03,120 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_tennoutyou\description\20251110_042329
+2025-11-10 04:24:04,477 - INFO - 生成URL:https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=MDLqb9tuMkUQ7kNvwGhoD_G&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjk4Njg4NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=fKh2c6ruIMiDvM30paOfKg&_nc_zt=28&oh=00_AfjI4XnQxyarkBNbb-m4MovINFzBPzIoLDwOslaPUFlz_g&oe=691749D0&bytestart=0&byteend=1918532
+2025-11-10 04:24:04,483 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_tennoutyou, key=AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w, dt=2025-11-09T21:55:05.000Z, url=https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=MDLqb9tuMkUQ7kNvwGhoD_G&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjk4Njg4NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=fKh2c6ruIMiDvM30paOfKg&_nc_zt=28&oh=00_AfjI4XnQxyarkBNbb-m4MovINFzBPzIoLDwOslaPUFlz_g&oe=691749D0&bytestart=0&byteend=1918532, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_tennoutyou', 'AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w', 'https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=MDLqb9tuMkUQ7kNvwGhoD_G&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjk4Njg4NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=fKh2c6ruIMiDvM30paOfKg&_nc_zt=28&oh=00_AfjI4XnQxyarkBNbb-m4MovINFzBPzIoLDwOslaPUFlz_g&oe=691749D0&bytestart=0&byteend=1918532', '2025-11-09T21:55:05.000Z')
+2025-11-10 04:24:04,483 - INFO - このレコードは存在します
+2025-11-10 04:24:04,484 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-10 07:25:59,528 - INFO - 処理開始 PROCESSID:20251110_072556
+2025-11-10 07:25:59,528 - INFO - 対象ユーザー: nikunosato_tennoutyou
+2025-11-10 07:25:59,528 - INFO - 処理を開始します
+2025-11-10 07:25:59,593 - INFO - 選択されたプロファイル: Profile 13
+2025-11-10 07:25:59,593 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-10 07:26:03,992 - INFO - nikunosato_tennoutyou のプロフィールページにアクセスします
+2025-11-10 07:26:15,449 - INFO - 最新投稿を読み込みます
+2025-11-10 07:26:20,803 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_tennoutyou/reel/DQ2gCJfj1bv/?hl=ja
+2025-11-10 07:26:25,166 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 07:26:28,771 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 07:26:28,876 - INFO - datetime属性の抽出を開始します
+2025-11-10 07:26:28,983 - INFO - 抽出されたdatetime: 2025-11-09T21:55:05.000Z
+2025-11-10 07:26:28,983 - INFO - nikunosato_tennoutyou の投稿日時: 2025-11-09T21:55:05.000Z
+2025-11-10 07:26:28,990 - INFO - date:2025-11-10 06:55:05+09:00
+2025-11-10 07:26:28,990 - INFO - post_date:20251110
+2025-11-10 07:26:29,023 - INFO - 1枚目: blob:https://www.instagram.com/359a558c-e2d5-44cb-bfa9-37b3d35104d5
+2025-11-10 07:26:29,023 - INFO - [caption/by_username] 開始
+2025-11-10 07:26:29,215 - INFO - [caption/by_username] 説明文確定（先頭100）: 'もつ焼き×串焼き 肉の佐藤 天王町店
+
+🍺✨ 昼から乾杯しませんか？
+当店は【12時オープン】！
+明るいうちからのんびり昼呑みを楽しめます♪
+お仕事仲間と、友達と、ひとり飲みも大歓迎！
+
+………………'
+2025-11-10 07:26:29,217 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_tennoutyou\description\20251110_072556
+2025-11-10 07:26:30,533 - INFO - 生成URL:https://scontent-fra3-1.cdninstagram.com/o1/v/t2/f2/m367/AQPMQ_lepP3VVP4NKCQcdMpGEL613c8xhXMTyYupDtP38x2t0rzZnw847_vuCLU28hFWeSt7xSt2hlEUeoaao5kq6L2z0RvPnsWVOtBMEuT21w.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_ohc=lsl7ySMQLxcQ7kNvwFuClIk&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNTQwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6MTU3NTc0MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=2WlLcUbYifhfYXFvYIq32A&_nc_zt=28&oh=00_AfgGz1hyF9nokRx1sN25xYYwjK2fpVb91ZG6Qy4DbnYtXw&oe=69177749&bytestart=0&byteend=992789
+2025-11-10 07:26:30,537 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_tennoutyou, key=AQPMQ_lepP3VVP4NKCQcdMpGEL613c8xhXMTyYupDtP38x2t0rzZnw847_vuCLU28hFWeSt7xSt2hlEUeoaao5kq6L2z0RvPnsWVOtBMEuT21w, dt=2025-11-09T21:55:05.000Z, url=https://scontent-fra3-1.cdninstagram.com/o1/v/t2/f2/m367/AQPMQ_lepP3VVP4NKCQcdMpGEL613c8xhXMTyYupDtP38x2t0rzZnw847_vuCLU28hFWeSt7xSt2hlEUeoaao5kq6L2z0RvPnsWVOtBMEuT21w.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_ohc=lsl7ySMQLxcQ7kNvwFuClIk&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNTQwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6MTU3NTc0MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=2WlLcUbYifhfYXFvYIq32A&_nc_zt=28&oh=00_AfgGz1hyF9nokRx1sN25xYYwjK2fpVb91ZG6Qy4DbnYtXw&oe=69177749&bytestart=0&byteend=992789, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_tennoutyou', 'AQPMQ_lepP3VVP4NKCQcdMpGEL613c8xhXMTyYupDtP38x2t0rzZnw847_vuCLU28hFWeSt7xSt2hlEUeoaao5kq6L2z0RvPnsWVOtBMEuT21w', 'https://scontent-fra3-1.cdninstagram.com/o1/v/t2/f2/m367/AQPMQ_lepP3VVP4NKCQcdMpGEL613c8xhXMTyYupDtP38x2t0rzZnw847_vuCLU28hFWeSt7xSt2hlEUeoaao5kq6L2z0RvPnsWVOtBMEuT21w.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_ohc=lsl7ySMQLxcQ7kNvwFuClIk&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNTQwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6MTU3NTc0MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=2WlLcUbYifhfYXFvYIq32A&_nc_zt=28&oh=00_AfgGz1hyF9nokRx1sN25xYYwjK2fpVb91ZG6Qy4DbnYtXw&oe=69177749&bytestart=0&byteend=992789', '2025-11-09T21:55:05.000Z')
+2025-11-10 07:26:30,538 - INFO - このレコードは存在します
+2025-11-10 07:26:30,538 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-10 10:26:33,134 - INFO - 処理開始 PROCESSID:20251110_102629
+2025-11-10 10:26:33,134 - INFO - 対象ユーザー: nikunosato_tennoutyou
+2025-11-10 10:26:33,134 - INFO - 処理を開始します
+2025-11-10 10:26:33,195 - INFO - 選択されたプロファイル: Profile 13
+2025-11-10 10:26:33,195 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-10 10:26:37,821 - INFO - nikunosato_tennoutyou のプロフィールページにアクセスします
+2025-11-10 10:26:50,221 - INFO - 最新投稿を読み込みます
+2025-11-10 10:26:55,602 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_tennoutyou/reel/DQ2gCJfj1bv/?hl=ja
+2025-11-10 10:27:00,400 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 10:27:04,459 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 10:27:04,548 - INFO - datetime属性の抽出を開始します
+2025-11-10 10:27:04,588 - INFO - 抽出されたdatetime: 2025-11-09T21:55:05.000Z
+2025-11-10 10:27:04,588 - INFO - nikunosato_tennoutyou の投稿日時: 2025-11-09T21:55:05.000Z
+2025-11-10 10:27:04,605 - INFO - date:2025-11-10 06:55:05+09:00
+2025-11-10 10:27:04,605 - INFO - post_date:20251110
+2025-11-10 10:27:04,647 - INFO - 1枚目: blob:https://www.instagram.com/1ab95a4f-9072-4f04-a8a0-85804a87e604
+2025-11-10 10:27:04,647 - INFO - [caption/by_username] 開始
+2025-11-10 10:27:04,809 - INFO - [caption/by_username] 説明文確定（先頭100）: 'もつ焼き×串焼き 肉の佐藤 天王町店
+
+🍺✨ 昼から乾杯しませんか？
+当店は【12時オープン】！
+明るいうちからのんびり昼呑みを楽しめます♪
+お仕事仲間と、友達と、ひとり飲みも大歓迎！
+
+………………'
+2025-11-10 10:27:04,811 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_tennoutyou\description\20251110_102629
+2025-11-10 10:27:06,589 - INFO - 生成URL:https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=MDLqb9tuMkUQ7kNvwGhoD_G&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjk4Njg4NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=32AmH8X-FH1YmNvFS7oxYw&_nc_zt=28&oh=00_Afiqrl1IoQX-2ROEnq8fdFYvDA4rJfZYCVz62X_Y646OyQ&oe=69178210&bytestart=0&byteend=1918532
+2025-11-10 10:27:06,630 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_tennoutyou, key=AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w, dt=2025-11-09T21:55:05.000Z, url=https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=MDLqb9tuMkUQ7kNvwGhoD_G&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjk4Njg4NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=32AmH8X-FH1YmNvFS7oxYw&_nc_zt=28&oh=00_Afiqrl1IoQX-2ROEnq8fdFYvDA4rJfZYCVz62X_Y646OyQ&oe=69178210&bytestart=0&byteend=1918532, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_tennoutyou', 'AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w', 'https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=MDLqb9tuMkUQ7kNvwGhoD_G&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjk4Njg4NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=32AmH8X-FH1YmNvFS7oxYw&_nc_zt=28&oh=00_Afiqrl1IoQX-2ROEnq8fdFYvDA4rJfZYCVz62X_Y646OyQ&oe=69178210&bytestart=0&byteend=1918532', '2025-11-09T21:55:05.000Z')
+2025-11-10 10:27:06,631 - INFO - このレコードは存在します
+2025-11-10 10:27:06,631 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-10 13:22:54,578 - INFO - 処理開始 PROCESSID:20251110_132251
+2025-11-10 13:22:54,578 - INFO - 対象ユーザー: nikunosato_tennoutyou
+2025-11-10 13:22:54,578 - INFO - 処理を開始します
+2025-11-10 13:22:54,635 - INFO - 選択されたプロファイル: Profile 9
+2025-11-10 13:22:54,635 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-10 13:22:59,057 - INFO - nikunosato_tennoutyou のプロフィールページにアクセスします
+2025-11-10 13:23:10,875 - INFO - 最新投稿を読み込みます
+2025-11-10 13:23:16,299 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_tennoutyou/reel/DQ2gCJfj1bv/?hl=ja
+2025-11-10 13:23:21,398 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 13:23:25,639 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 13:23:25,825 - INFO - datetime属性の抽出を開始します
+2025-11-10 13:23:25,909 - INFO - 抽出されたdatetime: 2025-11-09T21:55:05.000Z
+2025-11-10 13:23:25,909 - INFO - nikunosato_tennoutyou の投稿日時: 2025-11-09T21:55:05.000Z
+2025-11-10 13:23:25,980 - INFO - date:2025-11-10 06:55:05+09:00
+2025-11-10 13:23:25,980 - INFO - post_date:20251110
+2025-11-10 13:23:26,123 - INFO - 1枚目: blob:https://www.instagram.com/1a81fb89-0cd2-4955-88f0-44a7b80fe0b4
+2025-11-10 13:23:26,124 - INFO - [caption/by_username] 開始
+2025-11-10 13:23:26,289 - INFO - [caption/by_username] 説明文確定（先頭100）: 'もつ焼き×串焼き 肉の佐藤 天王町店
+
+🍺✨ 昼から乾杯しませんか？
+当店は【12時オープン】！
+明るいうちからのんびり昼呑みを楽しめます♪
+お仕事仲間と、友達と、ひとり飲みも大歓迎！
+
+………………'
+2025-11-10 13:23:26,291 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_tennoutyou\description\20251110_132251
+2025-11-10 13:23:28,211 - INFO - 生成URL:https://scontent-fra5-2.cdninstagram.com/o1/v/t2/f2/m367/AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_ohc=uC3A_vsh8GYQ7kNvwHbkuZW&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6NTcyMTk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=qXEWyl45EgJT0e4iVwYNZg&_nc_zt=28&oh=00_Afh9Vuhm-J-8BK1HPDwlm4Qbg7LNe2A7T85cF1tBU2DbkQ&oe=6917CCD1&bytestart=0&byteend=347548
+2025-11-10 13:23:28,237 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_tennoutyou, key=AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA, dt=2025-11-09T21:55:05.000Z, url=https://scontent-fra5-2.cdninstagram.com/o1/v/t2/f2/m367/AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_ohc=uC3A_vsh8GYQ7kNvwHbkuZW&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6NTcyMTk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=qXEWyl45EgJT0e4iVwYNZg&_nc_zt=28&oh=00_Afh9Vuhm-J-8BK1HPDwlm4Qbg7LNe2A7T85cF1tBU2DbkQ&oe=6917CCD1&bytestart=0&byteend=347548, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_tennoutyou', 'AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA', 'https://scontent-fra5-2.cdninstagram.com/o1/v/t2/f2/m367/AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_ohc=uC3A_vsh8GYQ7kNvwHbkuZW&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6NTcyMTk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=qXEWyl45EgJT0e4iVwYNZg&_nc_zt=28&oh=00_Afh9Vuhm-J-8BK1HPDwlm4Qbg7LNe2A7T85cF1tBU2DbkQ&oe=6917CCD1&bytestart=0&byteend=347548', '2025-11-09T21:55:05.000Z')
+2025-11-10 13:23:28,238 - INFO - このレコードは存在します
+2025-11-10 13:23:28,239 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-10 16:17:05,060 - INFO - 処理開始 PROCESSID:20251110_161701
+2025-11-10 16:17:05,060 - INFO - 対象ユーザー: nikunosato_tennoutyou
+2025-11-10 16:17:05,060 - INFO - 処理を開始します
+2025-11-10 16:17:05,122 - INFO - 選択されたプロファイル: Profile 9
+2025-11-10 16:17:05,122 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-10 16:17:09,250 - INFO - nikunosato_tennoutyou のプロフィールページにアクセスします
+2025-11-10 16:17:20,919 - INFO - 最新投稿を読み込みます
+2025-11-10 16:17:26,195 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_tennoutyou/reel/DQ2gCJfj1bv/?hl=ja
+2025-11-10 16:17:31,215 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 16:17:35,712 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 16:17:35,851 - INFO - datetime属性の抽出を開始します
+2025-11-10 16:17:35,884 - INFO - 抽出されたdatetime: 2025-11-09T21:55:05.000Z
+2025-11-10 16:17:35,884 - INFO - nikunosato_tennoutyou の投稿日時: 2025-11-09T21:55:05.000Z
+2025-11-10 16:17:35,891 - INFO - date:2025-11-10 06:55:05+09:00
+2025-11-10 16:17:35,891 - INFO - post_date:20251110
+2025-11-10 16:17:35,911 - INFO - 1枚目: blob:https://www.instagram.com/a73ec129-3624-4ce7-a8c6-a9fa4cf0f6af
+2025-11-10 16:17:35,912 - INFO - [caption/by_username] 開始
+2025-11-10 16:17:35,987 - INFO - [caption/by_username] 説明文確定（先頭100）: 'もつ焼き×串焼き 肉の佐藤 天王町店
+
+🍺✨ 昼から乾杯しませんか？
+当店は【12時オープン】！
+明るいうちからのんびり昼呑みを楽しめます♪
+お仕事仲間と、友達と、ひとり飲みも大歓迎！
+
+………………'
+2025-11-10 16:17:35,989 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_tennoutyou\description\20251110_161701
+2025-11-10 16:17:37,499 - INFO - 生成URL:https://scontent-fra5-2.cdninstagram.com/o1/v/t2/f2/m367/AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_ohc=uC3A_vsh8GYQ7kNvwHbkuZW&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6NTcyMTk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=TLNQ3kA1_b1VAa-ze2xQuA&_nc_zt=28&oh=00_AfiDge2UJlu-7Q_c7Od-Ml9ZOqy8f9bTiXZNCkwP7yj2XQ&oe=6917CCD1&bytestart=0&byteend=347548
+2025-11-10 16:17:37,504 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_tennoutyou, key=AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA, dt=2025-11-09T21:55:05.000Z, url=https://scontent-fra5-2.cdninstagram.com/o1/v/t2/f2/m367/AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_ohc=uC3A_vsh8GYQ7kNvwHbkuZW&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6NTcyMTk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=TLNQ3kA1_b1VAa-ze2xQuA&_nc_zt=28&oh=00_AfiDge2UJlu-7Q_c7Od-Ml9ZOqy8f9bTiXZNCkwP7yj2XQ&oe=6917CCD1&bytestart=0&byteend=347548, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_tennoutyou', 'AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA', 'https://scontent-fra5-2.cdninstagram.com/o1/v/t2/f2/m367/AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_ohc=uC3A_vsh8GYQ7kNvwHbkuZW&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6NTcyMTk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=TLNQ3kA1_b1VAa-ze2xQuA&_nc_zt=28&oh=00_AfiDge2UJlu-7Q_c7Od-Ml9ZOqy8f9bTiXZNCkwP7yj2XQ&oe=6917CCD1&bytestart=0&byteend=347548', '2025-11-09T21:55:05.000Z')
+2025-11-10 16:17:37,504 - INFO - このレコードは存在します
+2025-11-10 16:17:37,504 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-10 19:12:27,966 - INFO - 処理開始 PROCESSID:20251110_191224
+2025-11-10 19:12:27,966 - INFO - 対象ユーザー: nikunosato_tennoutyou
+2025-11-10 19:12:27,966 - INFO - 処理を開始します
+2025-11-10 19:12:28,030 - INFO - 選択されたプロファイル: Profile 9
+2025-11-10 19:12:28,030 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-10 19:12:32,282 - INFO - nikunosato_tennoutyou のプロフィールページにアクセスします
+2025-11-10 19:12:44,379 - INFO - 最新投稿を読み込みます
+2025-11-10 19:12:49,943 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_tennoutyou/reel/DQ2gCJfj1bv/?hl=ja
+2025-11-10 19:12:54,421 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 19:12:58,148 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 19:12:58,223 - INFO - datetime属性の抽出を開始します
+2025-11-10 19:12:58,271 - INFO - 抽出されたdatetime: 2025-11-09T21:55:05.000Z
+2025-11-10 19:12:58,271 - INFO - nikunosato_tennoutyou の投稿日時: 2025-11-09T21:55:05.000Z
+2025-11-10 19:12:58,284 - INFO - date:2025-11-10 06:55:05+09:00
+2025-11-10 19:12:58,284 - INFO - post_date:20251110
+2025-11-10 19:12:58,370 - INFO - 1枚目: blob:https://www.instagram.com/24be2446-d301-4542-895c-856592a0ad5b
+2025-11-10 19:12:58,370 - INFO - [caption/by_username] 開始
+2025-11-10 19:12:58,544 - INFO - [caption/by_username] 説明文確定（先頭100）: 'もつ焼き×串焼き 肉の佐藤 天王町店
+
+🍺✨ 昼から乾杯しませんか？
+当店は【12時オープン】！
+明るいうちからのんびり昼呑みを楽しめます♪
+お仕事仲間と、友達と、ひとり飲みも大歓迎！
+
+………………'
+2025-11-10 19:12:58,546 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_tennoutyou\description\20251110_191224
+2025-11-10 19:12:59,823 - INFO - 生成URL:https://scontent-fra5-2.cdninstagram.com/o1/v/t2/f2/m367/AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_ohc=uC3A_vsh8GYQ7kNvwHbkuZW&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6NTcyMTk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=4WzTKYz7z3n1AEFg1K7qLw&_nc_zt=28&oh=00_Afg0HjZuGTlU1qSKi8ie6J-IaapPJjUSrZlKeamnamnngg&oe=69180511&bytestart=0&byteend=347548
+2025-11-10 19:12:59,829 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_tennoutyou, key=AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA, dt=2025-11-09T21:55:05.000Z, url=https://scontent-fra5-2.cdninstagram.com/o1/v/t2/f2/m367/AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_ohc=uC3A_vsh8GYQ7kNvwHbkuZW&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6NTcyMTk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=4WzTKYz7z3n1AEFg1K7qLw&_nc_zt=28&oh=00_Afg0HjZuGTlU1qSKi8ie6J-IaapPJjUSrZlKeamnamnngg&oe=69180511&bytestart=0&byteend=347548, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_tennoutyou', 'AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA', 'https://scontent-fra5-2.cdninstagram.com/o1/v/t2/f2/m367/AQMrywgkcmDyK6kMOqLYiRVKzlyi-Ow2oFeGvcbU-OWtwDPKc_ca1a8V5ayxy5PG0jXJXCapRcBXxqsnJ6VuVl99-flPAHfHdk3joN25C_MXxA.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_ohc=uC3A_vsh8GYQ7kNvwHbkuZW&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6NTcyMTk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=4WzTKYz7z3n1AEFg1K7qLw&_nc_zt=28&oh=00_Afg0HjZuGTlU1qSKi8ie6J-IaapPJjUSrZlKeamnamnngg&oe=69180511&bytestart=0&byteend=347548', '2025-11-09T21:55:05.000Z')
+2025-11-10 19:12:59,829 - INFO - このレコードは存在します
+2025-11-10 19:12:59,830 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-10 22:05:48,470 - INFO - 処理開始 PROCESSID:20251110_220545
+2025-11-10 22:05:48,470 - INFO - 対象ユーザー: nikunosato_tennoutyou
+2025-11-10 22:05:48,470 - INFO - 処理を開始します
+2025-11-10 22:05:48,531 - INFO - 選択されたプロファイル: Profile 12
+2025-11-10 22:05:48,531 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-10 22:05:52,658 - INFO - nikunosato_tennoutyou のプロフィールページにアクセスします
+2025-11-10 22:06:04,488 - INFO - 最新投稿を読み込みます
+2025-11-10 22:06:09,744 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_tennoutyou/reel/DQ2gCJfj1bv/?hl=ja
+2025-11-10 22:06:12,920 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 22:06:17,410 - INFO - 最新投稿ページにアクセスしました
+2025-11-10 22:06:17,487 - INFO - datetime属性の抽出を開始します
+2025-11-10 22:06:17,527 - INFO - 抽出されたdatetime: 2025-11-09T21:55:05.000Z
+2025-11-10 22:06:17,527 - INFO - nikunosato_tennoutyou の投稿日時: 2025-11-09T21:55:05.000Z
+2025-11-10 22:06:17,549 - INFO - date:2025-11-10 06:55:05+09:00
+2025-11-10 22:06:17,549 - INFO - post_date:20251110
+2025-11-10 22:06:17,595 - INFO - 1枚目: blob:https://www.instagram.com/3fae2f39-7512-4e5c-8ecc-3da70973a629
+2025-11-10 22:06:17,595 - INFO - [caption/by_username] 開始
+2025-11-10 22:06:17,809 - INFO - [caption/by_username] 説明文確定（先頭100）: 'もつ焼き×串焼き 肉の佐藤 天王町店
+
+🍺✨ 昼から乾杯しませんか？
+当店は【12時オープン】！
+明るいうちからのんびり昼呑みを楽しめます♪
+お仕事仲間と、友達と、ひとり飲みも大歓迎！
+
+………………'
+2025-11-10 22:06:17,812 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_tennoutyou\description\20251110_220545
+2025-11-10 22:06:19,216 - INFO - 生成URL:https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=MDLqb9tuMkUQ7kNvwGhoD_G&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjk4Njg4NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=fLElgdEoCUtha4CNDADm2g&_nc_zt=28&oh=00_Afh2S17uBJa8LSDLRLGqjGSpDBREf-bltMdOw44oY19ehQ&oe=69182AD0&bytestart=0&byteend=1918532
+2025-11-10 22:06:19,221 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_tennoutyou, key=AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w, dt=2025-11-09T21:55:05.000Z, url=https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=MDLqb9tuMkUQ7kNvwGhoD_G&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjk4Njg4NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=fLElgdEoCUtha4CNDADm2g&_nc_zt=28&oh=00_Afh2S17uBJa8LSDLRLGqjGSpDBREf-bltMdOw44oY19ehQ&oe=69182AD0&bytestart=0&byteend=1918532, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_tennoutyou', 'AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w', 'https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQM04ju3ClZnBac2SD2gpG2QHzbwuFAytBTnLudcJSWeQiX2TDuHy8-715cbT688p9B7Z9vf3tGCNy8jLkIUhpuqKVhuZnsLJZAPT6WeoOkL0w.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=MDLqb9tuMkUQ7kNvwGhoD_G&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjU4OTk4OTI0NTEyNTY0LCJhc3NldF9hZ2VfZGF5cyI6MTQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjk4Njg4NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=fLElgdEoCUtha4CNDADm2g&_nc_zt=28&oh=00_Afh2S17uBJa8LSDLRLGqjGSpDBREf-bltMdOw44oY19ehQ&oe=69182AD0&bytestart=0&byteend=1918532', '2025-11-09T21:55:05.000Z')
+2025-11-10 22:06:19,221 - INFO - このレコードは存在します
+2025-11-10 22:06:19,221 - INFO - 全件レコードが存在します

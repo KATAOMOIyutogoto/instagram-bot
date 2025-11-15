@@ -1,0 +1,210 @@
+================================================================================
+2025-10-23 00:58:47,610 - INFO - 処理開始 PROCESSID:20251023_005844
+2025-10-23 00:58:47,610 - INFO - 対象ユーザー: teppanyaki_124
+2025-10-23 00:58:47,610 - INFO - 処理を開始します
+2025-10-23 00:58:47,678 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 00:58:47,678 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 00:58:52,365 - INFO - teppanyaki_124 のプロフィールページにアクセスします
+2025-10-23 00:59:14,530 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 00:59:17,684 - INFO - 動画の取得に失敗しました
+2025-10-23 00:59:17,685 - INFO - datetime属性の抽出を開始します
+2025-10-23 00:59:17,756 - INFO - 抽出されたdatetime: 2025-10-22T06:17:33.000Z
+2025-10-23 00:59:17,784 - INFO - 画像URLを取得しました
+2025-10-23 00:59:17,823 - INFO - INSERT(with-key): user=teppanyaki_124, key=Mzc0ODgxNzE5NzkyMjk2NzI4OA==, dt=2025-10-22T06:17:33.000Z
+2025-10-23 00:59:19,827 - INFO - ダウンロードを開始します: media\teppanyaki_124\teppanyaki_124_20251023005919.jpg
+2025-10-23 00:59:21,068 - INFO - ダウンロード完了: media\teppanyaki_124\teppanyaki_124_20251023005919.jpg
+2025-10-23 00:59:21,178 - INFO - 元の画像サイズ: 480x853
+2025-10-23 00:59:21,178 - INFO - サイズ変更は不要です
+2025-10-23 00:59:24,686 - INFO - 処理終了
+2025-10-23 00:59:24,688 - INFO - 説明文_AI: None
+2025-10-23 00:59:24,688 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 00:59:30,797 - INFO - 処理開始: Mode=story, Username=teppanyaki_124, GBP=teppanyaki124
+2025-10-23 00:59:30,797 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJ0ZXBwYW55YWtpMTI0Il0.
+2025-10-23 00:59:54,129 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\teppanyaki_124\teppanyaki_124_20251023005919.jpg
+2025-10-23 00:59:57,209 - INFO - 一時ファイルが見つかりません: media\teppanyaki_124\description\20251023_005844
+2025-10-23 00:59:57,209 - INFO - Looking for button section...
+2025-10-23 01:00:01,752 - INFO - Trying to select CALL option...
+2025-10-23 01:00:01,986 - INFO - CALL option successfully selected
+2025-10-23 01:00:03,986 - INFO - Clicking submit button...
+2025-10-23 01:00:13,984 - INFO - 処理完了
+================================================================================
+2025-10-23 05:09:14,773 - INFO - 処理開始 PROCESSID:20251023_050911
+2025-10-23 05:09:14,773 - INFO - 対象ユーザー: teppanyaki_124
+2025-10-23 05:09:14,773 - INFO - 処理を開始します
+2025-10-23 05:09:14,832 - INFO - 選択されたプロファイル: Profile 9
+2025-10-23 05:09:14,832 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-23 05:09:19,681 - INFO - teppanyaki_124 のプロフィールページにアクセスします
+2025-10-23 05:09:41,976 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 05:09:42,785 - INFO - teppanyaki_124: 動画を検出しました
+2025-10-23 05:09:42,785 - INFO - datetime属性の抽出を開始します
+2025-10-23 05:09:43,135 - INFO - 抽出されたdatetime: 2025-10-22T06:12:11.000Z
+2025-10-23 05:09:43,135 - INFO - teppanyaki_124 の投稿日時: 2025-10-22T06:12:11.000Z
+2025-10-23 05:09:44,596 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQN00InU7-7qE3Mv78lMrg8Ynf_UVzMprgItyGk2PHkLaoxCFcNe4g_Y0bwEAT5wMWJy93drEBfK7l-x5IY_S6IOTo9s0ruMW5Tx7RdgPHDIlQ.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=bA4vz8CcaqUQ7kNvwGfZclh&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTEyNjM1NjUwOTY0NTExNCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=7x4ojzfOMXp0AjbQMImJjQ&_nc_zt=28&oh=00_Aff6nnwfeT_fOgQ3pdR6qMq3xA8ObRGuoB5ybxkwSkHDfQ&oe=68FF9B0D&bytestart=0&byteend=448645
+2025-10-23 05:09:44,596 - INFO - 動画URLを取得しました
+2025-10-23 05:09:44,726 - INFO - INSERT(with-key): user=teppanyaki_124, key=AQN00InU7-7qE3Mv78lMrg8Ynf_UVzMprgItyGk2PHkLaoxCFcNe4g_Y0bwEAT5wMWJy93drEBfK7l-x5IY_S6IOTo9s0ruMW5Tx7RdgPHDIlQ, dt=2025-10-22T06:12:11.000Z
+2025-10-23 05:09:46,728 - INFO - ダウンロードを開始します: media\teppanyaki_124\teppanyaki_124_20251023050946.mp4
+2025-10-23 05:09:48,737 - INFO - ダウンロード完了: media\teppanyaki_124\teppanyaki_124_20251023050946.mp4
+2025-10-23 05:09:51,280 - INFO - 処理終了
+2025-10-23 05:09:51,281 - INFO - 説明文_AI: None
+2025-10-23 05:09:51,281 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 05:09:57,571 - INFO - 処理開始: Mode=story, Username=teppanyaki_124, GBP=teppanyaki124
+2025-10-23 05:09:57,573 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJ0ZXBwYW55YWtpMTI0Il0.
+2025-10-23 05:10:18,798 - INFO - 元の動画サイズ: 1080x1920
+2025-10-23 05:10:18,800 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-23 05:10:18,800 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\teppanyaki_124\teppanyaki_124_20251023050946.mp4
+2025-10-23 05:10:28,854 - INFO - 一時ファイルが見つかりません: media\teppanyaki_124\description\20251023_050911
+2025-10-23 05:10:28,854 - INFO - Looking for button section...
+2025-10-23 05:10:33,441 - INFO - Trying to select CALL option...
+2025-10-23 05:10:33,681 - INFO - CALL option successfully selected
+2025-10-23 05:10:35,682 - INFO - Clicking submit button...
+2025-10-23 05:10:44,323 - INFO - 処理完了
+================================================================================
+2025-10-23 09:19:11,598 - INFO - 処理開始 PROCESSID:20251023_091908
+2025-10-23 09:19:11,598 - INFO - 対象ユーザー: teppanyaki_124
+2025-10-23 09:19:11,598 - INFO - 処理を開始します
+2025-10-23 09:19:11,671 - INFO - 選択されたプロファイル: Profile 9
+2025-10-23 09:19:11,671 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-23 09:19:16,494 - INFO - teppanyaki_124 のプロフィールページにアクセスします
+2025-10-23 09:19:38,971 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 09:19:42,078 - INFO - 動画の取得に失敗しました
+2025-10-23 09:19:42,078 - INFO - datetime属性の抽出を開始します
+2025-10-23 09:19:52,453 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa6fe43+66515]
+	GetHandleVerifier [0x0xa6fe84+66580]
+	(No symbol) [0x0x85dc48]
+	(No symbol) [0x0x8a8704]
+	(No symbol) [0x0x8a8aab]
+	(No symbol) [0x0x8ef482]
+	(No symbol) [0x0x8cb214]
+	(No symbol) [0x0x8ecba7]
+	(No symbol) [0x0x8cafc6]
+	(No symbol) [0x0x89c2ca]
+	(No symbol) [0x0x89d154]
+	GetHandleVerifier [0x0xcc7353+2521315]
+	GetHandleVerifier [0x0xcc22d3+2500707]
+	GetHandleVerifier [0x0xa97c94+229924]
+	GetHandleVerifier [0x0xa881f8+165768]
+	GetHandleVerifier [0x0xa8ecad+193085]
+	GetHandleVerifier [0x0xa78158+100072]
+	GetHandleVerifier [0x0xa782f0+100480]
+	GetHandleVerifier [0x0xa625aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-23 09:20:02,744 - INFO - 画像の取得に失敗しました
+2025-10-23 09:20:05,184 - INFO - 処理終了
+================================================================================
+2025-10-23 13:31:53,512 - INFO - 処理開始 PROCESSID:20251023_133150
+2025-10-23 13:31:53,512 - INFO - 対象ユーザー: teppanyaki_124
+2025-10-23 13:31:53,512 - INFO - 処理を開始します
+2025-10-23 13:31:53,572 - INFO - 選択されたプロファイル: Profile 10
+2025-10-23 13:31:53,572 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-23 13:31:58,366 - INFO - teppanyaki_124 のプロフィールページにアクセスします
+2025-10-23 13:32:20,240 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 13:32:23,366 - INFO - 動画の取得に失敗しました
+2025-10-23 13:32:23,367 - INFO - datetime属性の抽出を開始します
+2025-10-23 13:32:33,871 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa6fe43+66515]
+	GetHandleVerifier [0x0xa6fe84+66580]
+	(No symbol) [0x0x85dc48]
+	(No symbol) [0x0x8a8704]
+	(No symbol) [0x0x8a8aab]
+	(No symbol) [0x0x8ef482]
+	(No symbol) [0x0x8cb214]
+	(No symbol) [0x0x8ecba7]
+	(No symbol) [0x0x8cafc6]
+	(No symbol) [0x0x89c2ca]
+	(No symbol) [0x0x89d154]
+	GetHandleVerifier [0x0xcc7353+2521315]
+	GetHandleVerifier [0x0xcc22d3+2500707]
+	GetHandleVerifier [0x0xa97c94+229924]
+	GetHandleVerifier [0x0xa881f8+165768]
+	GetHandleVerifier [0x0xa8ecad+193085]
+	GetHandleVerifier [0x0xa78158+100072]
+	GetHandleVerifier [0x0xa782f0+100480]
+	GetHandleVerifier [0x0xa625aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-23 13:32:44,149 - INFO - 画像の取得に失敗しました
+2025-10-23 13:32:46,596 - INFO - 処理終了
+================================================================================
+2025-10-23 18:51:07,465 - INFO - 処理開始 PROCESSID:20251023_185104
+2025-10-23 18:51:07,465 - INFO - 対象ユーザー: teppanyaki_124
+2025-10-23 18:51:07,465 - INFO - 処理を開始します
+2025-10-23 18:51:07,526 - INFO - 選択されたプロファイル: Profile 13
+2025-10-23 18:51:07,526 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-23 18:51:12,192 - INFO - teppanyaki_124 のプロフィールページにアクセスします
+2025-10-23 18:51:34,848 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 18:51:37,937 - INFO - 動画の取得に失敗しました
+2025-10-23 18:51:37,937 - INFO - datetime属性の抽出を開始します
+2025-10-23 18:51:48,311 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa6fe43+66515]
+	GetHandleVerifier [0x0xa6fe84+66580]
+	(No symbol) [0x0x85dc48]
+	(No symbol) [0x0x8a8704]
+	(No symbol) [0x0x8a8aab]
+	(No symbol) [0x0x8ef482]
+	(No symbol) [0x0x8cb214]
+	(No symbol) [0x0x8ecba7]
+	(No symbol) [0x0x8cafc6]
+	(No symbol) [0x0x89c2ca]
+	(No symbol) [0x0x89d154]
+	GetHandleVerifier [0x0xcc7353+2521315]
+	GetHandleVerifier [0x0xcc22d3+2500707]
+	GetHandleVerifier [0x0xa97c94+229924]
+	GetHandleVerifier [0x0xa881f8+165768]
+	GetHandleVerifier [0x0xa8ecad+193085]
+	GetHandleVerifier [0x0xa78158+100072]
+	GetHandleVerifier [0x0xa782f0+100480]
+	GetHandleVerifier [0x0xa625aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-23 18:51:58,602 - INFO - 画像の取得に失敗しました
+2025-10-23 18:52:02,013 - INFO - 処理終了
+================================================================================
+2025-10-23 22:50:50,025 - INFO - 処理開始 PROCESSID:20251023_225046
+2025-10-23 22:50:50,025 - INFO - 対象ユーザー: teppanyaki_124
+2025-10-23 22:50:50,025 - INFO - 処理を開始します
+2025-10-23 22:50:50,087 - INFO - 選択されたプロファイル: Profile 9
+2025-10-23 22:50:50,087 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-23 22:50:54,702 - INFO - teppanyaki_124 のプロフィールページにアクセスします
+2025-10-23 22:51:16,589 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 22:51:19,699 - INFO - 動画の取得に失敗しました
+2025-10-23 22:51:19,699 - INFO - datetime属性の抽出を開始します
+2025-10-23 22:51:29,851 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa6fe43+66515]
+	GetHandleVerifier [0x0xa6fe84+66580]
+	(No symbol) [0x0x85dc48]
+	(No symbol) [0x0x8a8704]
+	(No symbol) [0x0x8a8aab]
+	(No symbol) [0x0x8ef482]
+	(No symbol) [0x0x8cb214]
+	(No symbol) [0x0x8ecba7]
+	(No symbol) [0x0x8cafc6]
+	(No symbol) [0x0x89c2ca]
+	(No symbol) [0x0x89d154]
+	GetHandleVerifier [0x0xcc7353+2521315]
+	GetHandleVerifier [0x0xcc22d3+2500707]
+	GetHandleVerifier [0x0xa97c94+229924]
+	GetHandleVerifier [0x0xa881f8+165768]
+	GetHandleVerifier [0x0xa8ecad+193085]
+	GetHandleVerifier [0x0xa78158+100072]
+	GetHandleVerifier [0x0xa782f0+100480]
+	GetHandleVerifier [0x0xa625aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-23 22:51:40,139 - INFO - 画像の取得に失敗しました
+2025-10-23 22:51:42,567 - INFO - 処理終了

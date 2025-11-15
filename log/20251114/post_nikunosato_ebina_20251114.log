@@ -1,0 +1,276 @@
+================================================================================
+2025-11-14 01:04:46,365 - INFO - 処理開始 PROCESSID:20251114_010443
+2025-11-14 01:04:46,365 - INFO - 対象ユーザー: nikunosato_ebina
+2025-11-14 01:04:46,365 - INFO - 処理を開始します
+2025-11-14 01:04:46,426 - INFO - 選択されたプロファイル: Profile 10
+2025-11-14 01:04:46,426 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-14 01:04:50,683 - INFO - nikunosato_ebina のプロフィールページにアクセスします
+2025-11-14 01:05:02,337 - INFO - 最新投稿を読み込みます
+2025-11-14 01:05:07,618 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_ebina/reel/DRAs2QKDx3o/?hl=ja
+2025-11-14 01:05:13,128 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 01:05:16,709 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 01:05:16,907 - INFO - datetime属性の抽出を開始します
+2025-11-14 01:05:16,958 - INFO - 抽出されたdatetime: 2025-11-13T21:00:06.000Z
+2025-11-14 01:05:16,958 - INFO - nikunosato_ebina の投稿日時: 2025-11-13T21:00:06.000Z
+2025-11-14 01:05:16,967 - INFO - date:2025-11-14 06:00:06+09:00
+2025-11-14 01:05:16,967 - INFO - post_date:20251114
+2025-11-14 01:05:17,024 - INFO - 1枚目: blob:https://www.instagram.com/bf191165-1ed4-4427-a678-ae8e568f4f1a
+2025-11-14 01:05:17,024 - INFO - [caption/by_username] 開始
+2025-11-14 01:05:17,227 - INFO - [caption/by_username] 説明文確定（先頭100）: '昨日もたくさんのご来店ありがとうございました！
+本日もランチはうなぎ、17時からはやきとり、やきとんで
+元気に営業致します。
+皆様のご来店お待ち致しております。
+
+もつ焼き×串焼き 肉の佐藤 ビナガー'
+2025-11-14 01:05:17,233 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_ebina\description\20251114_010443
+2025-11-14 01:05:18,637 - INFO - 生成URL:https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTM0MzkyOTM3NzMwODA5OCwiYXNzZXRfYWdlX2RheXMiOjUyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsImJpdHJhdGUiOjI4NTAxNTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=kMf6if1ZBkczJetyjJLPvQ&_nc_zt=28&oh=00_Afh4jLxyjsgJtLpYLPnyifVcGc4hkl7Ym9_AVDii1hfcCw&oe=691C566C&bytestart=0&byteend=1815922
+2025-11-14 01:05:18,640 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_ebina, key=AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg, dt=2025-11-13T21:00:06.000Z, url=https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTM0MzkyOTM3NzMwODA5OCwiYXNzZXRfYWdlX2RheXMiOjUyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsImJpdHJhdGUiOjI4NTAxNTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=kMf6if1ZBkczJetyjJLPvQ&_nc_zt=28&oh=00_Afh4jLxyjsgJtLpYLPnyifVcGc4hkl7Ym9_AVDii1hfcCw&oe=691C566C&bytestart=0&byteend=1815922, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_ebina', 'AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg', 'https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTM0MzkyOTM3NzMwODA5OCwiYXNzZXRfYWdlX2RheXMiOjUyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsImJpdHJhdGUiOjI4NTAxNTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=kMf6if1ZBkczJetyjJLPvQ&_nc_zt=28&oh=00_Afh4jLxyjsgJtLpYLPnyifVcGc4hkl7Ym9_AVDii1hfcCw&oe=691C566C&bytestart=0&byteend=1815922', '2025-11-13T21:00:06.000Z')
+2025-11-14 01:05:18,640 - INFO - このレコードは存在します
+2025-11-14 01:05:18,640 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 04:00:26,516 - INFO - 処理開始 PROCESSID:20251114_040023
+2025-11-14 04:00:26,516 - INFO - 対象ユーザー: nikunosato_ebina
+2025-11-14 04:00:26,516 - INFO - 処理を開始します
+2025-11-14 04:00:26,572 - INFO - 選択されたプロファイル: Profile 12
+2025-11-14 04:00:26,572 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-14 04:00:31,137 - INFO - nikunosato_ebina のプロフィールページにアクセスします
+2025-11-14 04:00:43,105 - INFO - 最新投稿を読み込みます
+2025-11-14 04:00:48,675 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_ebina/reel/DRAs2QKDx3o/?hl=ja
+2025-11-14 04:00:51,802 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 04:00:55,492 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 04:00:55,793 - INFO - datetime属性の抽出を開始します
+2025-11-14 04:00:55,957 - INFO - 抽出されたdatetime: 2025-11-13T21:00:06.000Z
+2025-11-14 04:00:55,957 - INFO - nikunosato_ebina の投稿日時: 2025-11-13T21:00:06.000Z
+2025-11-14 04:00:55,989 - INFO - date:2025-11-14 06:00:06+09:00
+2025-11-14 04:00:55,989 - INFO - post_date:20251114
+2025-11-14 04:00:56,046 - INFO - 1枚目: blob:https://www.instagram.com/b45d6156-4c85-4c19-9014-bc43a7e3d25a
+2025-11-14 04:00:56,046 - INFO - [caption/by_username] 開始
+2025-11-14 04:00:56,326 - INFO - [caption/by_username] 説明文確定（先頭100）: '昨日もたくさんのご来店ありがとうございました！
+本日もランチはうなぎ、17時からはやきとり、やきとんで
+元気に営業致します。
+皆様のご来店お待ち致しております。
+
+もつ焼き×串焼き 肉の佐藤 ビナガー'
+2025-11-14 04:00:56,328 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_ebina\description\20251114_040023
+2025-11-14 04:00:57,632 - INFO - 生成URL:https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJhc3NldF9hZ2VfZGF5cyI6NTIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjg1MDE1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=3GEiKfpnP8z3CEM42tRbVg&_nc_zt=28&oh=00_AfjwveE6fF8x_SgHAmbJyuXSMrM2EBB5n9cFXesSCGeDCw&oe=691C8EAC&bytestart=0&byteend=1815922
+2025-11-14 04:00:57,637 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_ebina, key=AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg, dt=2025-11-13T21:00:06.000Z, url=https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJhc3NldF9hZ2VfZGF5cyI6NTIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjg1MDE1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=3GEiKfpnP8z3CEM42tRbVg&_nc_zt=28&oh=00_AfjwveE6fF8x_SgHAmbJyuXSMrM2EBB5n9cFXesSCGeDCw&oe=691C8EAC&bytestart=0&byteend=1815922, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_ebina', 'AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg', 'https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJhc3NldF9hZ2VfZGF5cyI6NTIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjg1MDE1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=3GEiKfpnP8z3CEM42tRbVg&_nc_zt=28&oh=00_AfjwveE6fF8x_SgHAmbJyuXSMrM2EBB5n9cFXesSCGeDCw&oe=691C8EAC&bytestart=0&byteend=1815922', '2025-11-13T21:00:06.000Z')
+2025-11-14 04:00:57,638 - INFO - このレコードは存在します
+2025-11-14 04:00:57,638 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 06:57:00,993 - INFO - 処理開始 PROCESSID:20251114_065657
+2025-11-14 06:57:00,993 - INFO - 対象ユーザー: nikunosato_ebina
+2025-11-14 06:57:00,993 - INFO - 処理を開始します
+2025-11-14 06:57:01,060 - INFO - 選択されたプロファイル: Profile 12
+2025-11-14 06:57:01,060 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-14 06:57:05,783 - INFO - nikunosato_ebina のプロフィールページにアクセスします
+2025-11-14 06:57:17,273 - INFO - 最新投稿を読み込みます
+2025-11-14 06:57:22,609 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_ebina/reel/DRAs2QKDx3o/?hl=ja
+2025-11-14 06:57:26,251 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 06:57:30,008 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 06:57:30,218 - INFO - datetime属性の抽出を開始します
+2025-11-14 06:57:30,250 - INFO - 抽出されたdatetime: 2025-11-13T21:00:06.000Z
+2025-11-14 06:57:30,250 - INFO - nikunosato_ebina の投稿日時: 2025-11-13T21:00:06.000Z
+2025-11-14 06:57:30,258 - INFO - date:2025-11-14 06:00:06+09:00
+2025-11-14 06:57:30,258 - INFO - post_date:20251114
+2025-11-14 06:57:30,303 - INFO - 1枚目: blob:https://www.instagram.com/63f4c412-6286-48c4-8644-72d246c01ff7
+2025-11-14 06:57:30,304 - INFO - [caption/by_username] 開始
+2025-11-14 06:57:30,442 - INFO - [caption/by_username] 説明文確定（先頭100）: '昨日もたくさんのご来店ありがとうございました！
+本日もランチはうなぎ、17時からはやきとり、やきとんで
+元気に営業致します。
+皆様のご来店お待ち致しております。
+
+もつ焼き×串焼き 肉の佐藤 ビナガー'
+2025-11-14 06:57:30,445 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_ebina\description\20251114_065657
+2025-11-14 06:57:31,845 - INFO - 生成URL:https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJhc3NldF9hZ2VfZGF5cyI6NTIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjg1MDE1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=pRdfrXf-iHSvPuLeBWG9lg&_nc_zt=28&oh=00_Afg7D4co2oe-nsoZelE-3Ju7KahNr_OvvXDw7v34DHOxXQ&oe=691C8EAC&bytestart=0&byteend=1815922
+2025-11-14 06:57:31,847 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_ebina, key=AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg, dt=2025-11-13T21:00:06.000Z, url=https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJhc3NldF9hZ2VfZGF5cyI6NTIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjg1MDE1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=pRdfrXf-iHSvPuLeBWG9lg&_nc_zt=28&oh=00_Afg7D4co2oe-nsoZelE-3Ju7KahNr_OvvXDw7v34DHOxXQ&oe=691C8EAC&bytestart=0&byteend=1815922, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_ebina', 'AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg', 'https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJhc3NldF9hZ2VfZGF5cyI6NTIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjg1MDE1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=pRdfrXf-iHSvPuLeBWG9lg&_nc_zt=28&oh=00_Afg7D4co2oe-nsoZelE-3Ju7KahNr_OvvXDw7v34DHOxXQ&oe=691C8EAC&bytestart=0&byteend=1815922', '2025-11-13T21:00:06.000Z')
+2025-11-14 06:57:31,848 - INFO - このレコードは存在します
+2025-11-14 06:57:31,848 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 09:57:53,589 - INFO - 処理開始 PROCESSID:20251114_095750
+2025-11-14 09:57:53,589 - INFO - 対象ユーザー: nikunosato_ebina
+2025-11-14 09:57:53,589 - INFO - 処理を開始します
+2025-11-14 09:57:53,656 - INFO - 選択されたプロファイル: Profile 9
+2025-11-14 09:57:53,656 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-14 09:57:58,160 - INFO - nikunosato_ebina のプロフィールページにアクセスします
+2025-11-14 09:58:09,719 - INFO - 最新投稿を読み込みます
+2025-11-14 09:58:14,971 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_ebina/reel/DRAs2QKDx3o/?hl=ja
+2025-11-14 09:58:19,158 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 09:58:23,174 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 09:58:23,258 - INFO - datetime属性の抽出を開始します
+2025-11-14 09:58:23,298 - INFO - 抽出されたdatetime: 2025-11-13T21:00:06.000Z
+2025-11-14 09:58:23,299 - INFO - nikunosato_ebina の投稿日時: 2025-11-13T21:00:06.000Z
+2025-11-14 09:58:23,313 - INFO - date:2025-11-14 06:00:06+09:00
+2025-11-14 09:58:23,314 - INFO - post_date:20251114
+2025-11-14 09:58:23,356 - INFO - 1枚目: blob:https://www.instagram.com/408f2ebc-d69e-46c0-964a-1ec6bc9ad93c
+2025-11-14 09:58:23,356 - INFO - [caption/by_username] 開始
+2025-11-14 09:58:23,468 - INFO - [caption/by_username] 説明文確定（先頭100）: '昨日もたくさんのご来店ありがとうございました！
+本日もランチはうなぎ、17時からはやきとり、やきとんで
+元気に営業致します。
+皆様のご来店お待ち致しております。
+
+もつ焼き×串焼き 肉の佐藤 ビナガー'
+2025-11-14 09:58:23,470 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_ebina\description\20251114_095750
+2025-11-14 09:58:24,905 - INFO - 生成URL:https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m86/AQPEIomuMYnfHKJFmxWCzslOworA-BKMcmYhI_mqW420E2QKTnqa1J5Q9U0yOw82jaZvU_nVIZm_vbRUmqGmLm9L6sDEcNfGnMVTFHA.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=ln-XRCW7UQEQ7kNvwGSC-y4&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NTI1NTk2NDA3ODM2NTYsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsImJpdHJhdGUiOjExMjE5NTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=cynp6wAs_UWZ1zWBj0baOQ&_nc_zt=28&oh=00_AfjGukCkAt-yfbdNzCEoyg4FNZ_usFDJ4tmu0yU5s3Wwyg&oe=6918CFE1&bytestart=0&byteend=1631505
+2025-11-14 09:58:24,911 - INFO - DUP(with-key): user=nikunosato_ebina, key=AQPEIomuMYnfHKJFmxWCzslOworA-BKMcmYhI_mqW420E2QKTnqa1J5Q9U0yOw82jaZvU_nVIZm_vbRUmqGmLm9L6sDEcNfGnMVTFHA, dt=2025-11-13T21:00:06.000Z
+2025-11-14 09:58:24,911 - INFO - このレコードは存在します
+2025-11-14 09:58:24,911 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 12:57:17,798 - INFO - 処理開始 PROCESSID:20251114_125714
+2025-11-14 12:57:17,798 - INFO - 対象ユーザー: nikunosato_ebina
+2025-11-14 12:57:17,798 - INFO - 処理を開始します
+2025-11-14 12:57:17,856 - INFO - 選択されたプロファイル: Profile 12
+2025-11-14 12:57:17,856 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-14 12:57:22,474 - INFO - nikunosato_ebina のプロフィールページにアクセスします
+2025-11-14 12:57:33,932 - INFO - 最新投稿を読み込みます
+2025-11-14 12:57:39,234 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_ebina/reel/DRAs2QKDx3o/?hl=ja
+2025-11-14 12:57:42,532 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 12:57:46,369 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 12:57:46,491 - INFO - datetime属性の抽出を開始します
+2025-11-14 12:57:46,543 - INFO - 抽出されたdatetime: 2025-11-13T21:00:06.000Z
+2025-11-14 12:57:46,543 - INFO - nikunosato_ebina の投稿日時: 2025-11-13T21:00:06.000Z
+2025-11-14 12:57:46,622 - INFO - date:2025-11-14 06:00:06+09:00
+2025-11-14 12:57:46,623 - INFO - post_date:20251114
+2025-11-14 12:57:46,670 - INFO - 1枚目: blob:https://www.instagram.com/cb5c3b0d-34f4-4ea7-ba14-23f79b534c71
+2025-11-14 12:57:46,670 - INFO - [caption/by_username] 開始
+2025-11-14 12:57:46,890 - INFO - [caption/by_username] 説明文確定（先頭100）: '昨日もたくさんのご来店ありがとうございました！
+本日もランチはうなぎ、17時からはやきとり、やきとんで
+元気に営業致します。
+皆様のご来店お待ち致しております。
+
+もつ焼き×串焼き 肉の佐藤 ビナガー'
+2025-11-14 12:57:46,892 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_ebina\description\20251114_125714
+2025-11-14 12:57:48,302 - INFO - 生成URL:https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJhc3NldF9hZ2VfZGF5cyI6NTIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjg1MDE1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=sjsbqpJKz1pnX3f3H-ZfFg&_nc_zt=28&oh=00_Afh5GTqYp0lcBf_9LvAvfoyhO2w_i6_A-MC7BdYcJdjMnw&oe=691CFF2C&bytestart=0&byteend=1815922
+2025-11-14 12:57:48,303 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_ebina, key=AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg, dt=2025-11-13T21:00:06.000Z, url=https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJhc3NldF9hZ2VfZGF5cyI6NTIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjg1MDE1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=sjsbqpJKz1pnX3f3H-ZfFg&_nc_zt=28&oh=00_Afh5GTqYp0lcBf_9LvAvfoyhO2w_i6_A-MC7BdYcJdjMnw&oe=691CFF2C&bytestart=0&byteend=1815922, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_ebina', 'AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg', 'https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJhc3NldF9hZ2VfZGF5cyI6NTIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMSwiYml0cmF0ZSI6Mjg1MDE1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=sjsbqpJKz1pnX3f3H-ZfFg&_nc_zt=28&oh=00_Afh5GTqYp0lcBf_9LvAvfoyhO2w_i6_A-MC7BdYcJdjMnw&oe=691CFF2C&bytestart=0&byteend=1815922', '2025-11-13T21:00:06.000Z')
+2025-11-14 12:57:48,304 - INFO - このレコードは存在します
+2025-11-14 12:57:48,304 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 15:53:15,944 - INFO - 処理開始 PROCESSID:20251114_155312
+2025-11-14 15:53:15,944 - INFO - 対象ユーザー: nikunosato_ebina
+2025-11-14 15:53:15,944 - INFO - 処理を開始します
+2025-11-14 15:53:16,009 - INFO - 選択されたプロファイル: Profile 10
+2025-11-14 15:53:16,009 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-14 15:53:20,571 - INFO - nikunosato_ebina のプロフィールページにアクセスします
+2025-11-14 15:53:32,032 - INFO - 最新投稿を読み込みます
+2025-11-14 15:53:37,317 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_ebina/reel/DRAs2QKDx3o/?hl=ja
+2025-11-14 15:53:42,702 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 15:53:46,537 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 15:53:46,634 - INFO - datetime属性の抽出を開始します
+2025-11-14 15:53:46,659 - INFO - 抽出されたdatetime: 2025-11-13T21:00:06.000Z
+2025-11-14 15:53:46,659 - INFO - nikunosato_ebina の投稿日時: 2025-11-13T21:00:06.000Z
+2025-11-14 15:53:46,680 - INFO - date:2025-11-14 06:00:06+09:00
+2025-11-14 15:53:46,680 - INFO - post_date:20251114
+2025-11-14 15:53:46,741 - INFO - 1枚目: blob:https://www.instagram.com/7ee77b3f-f0c1-4b99-9e82-d1f3e9fc84fc
+2025-11-14 15:53:46,741 - INFO - [caption/by_username] 開始
+2025-11-14 15:53:46,900 - INFO - [caption/by_username] 説明文確定（先頭100）: '昨日もたくさんのご来店ありがとうございました！
+本日もランチはうなぎ、17時からはやきとり、やきとんで
+元気に営業致します。
+皆様のご来店お待ち致しております。
+
+もつ焼き×串焼き 肉の佐藤 ビナガー'
+2025-11-14 15:53:46,901 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_ebina\description\20251114_155312
+2025-11-14 15:53:48,465 - INFO - 生成URL:https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m86/AQPqyhiqAQlC-vnlnQpjOdRd1fWOMT2ToWzMV3_W7TsAdNsGn2kzz_IGsjIEJ94aw45SC6ShEZoMNWBPx6irY18.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=NK7g8eRkWb4Q7kNvwHViWbl&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmFkLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOWV2ZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE0MzQ3MDY0NzA3OTAxNDcsImFzc2V0X2FnZV9kYXlzIjo2NDIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozOSwiYml0cmF0ZSI6MjY0ODQ3MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=z3A7DF_ruhAjo6i50sURLw&_nc_zt=28&oh=00_Afiw83Qqe_QgF-8ErUmLepKNZNFBhk5rsZjaUy5dYK-Kzg&oe=69192F52&bytestart=0&byteend=2072718
+2025-11-14 15:53:48,498 - INFO - INSERT(with-key): user=nikunosato_ebina, key=AQPqyhiqAQlC-vnlnQpjOdRd1fWOMT2ToWzMV3_W7TsAdNsGn2kzz_IGsjIEJ94aw45SC6ShEZoMNWBPx6irY18, dt=2025-11-13T21:00:06.000Z
+2025-11-14 15:53:50,500 - INFO - ダウンロードを開始します: media\nikunosato_ebina\nikunosato_ebina_20251114155350.mp4
+2025-11-14 15:53:51,537 - INFO - ダウンロード完了: media\nikunosato_ebina\nikunosato_ebina_20251114155350.mp4
+2025-11-14 15:53:51,538 - INFO - 説明文:昨日もたくさんのご来店ありがとうございました！
+本日もランチはうなぎ、17時からはやきとり、やきとんで
+元気に営業致します。
+皆様のご来店お待ち致しております。
+
+もつ焼き×串焼き 肉の佐藤 ビナガーデンズテラス店
+……………………………………………………
+［営業時間］
+〇月曜日〇
+17:00〜21:30
+
+〇火曜日～金曜日〇
+ランチ
+12:00〜13:30
+ディナー
+17:00〜21:30
+
+〇土曜日〇
+12:00〜21:30
+
+〇日曜日〇
+12:00〜21:30
+
+〒243-0438
+神奈川県海老名市めぐみ町2-1
+最寄駅:海老名駅（JR線、小田急線、相模線、相鉄線）
+
+ご来店お待ちしております。
+……………………………………………………
+#肉の佐藤 #海老名 #居酒屋 #飲み屋 #海老名居酒屋 #海老名レストラン #海老名飲み屋 #海老名ディナー #海老名昼飲み #海老名グルメ #海老名焼き鳥 #焼き鳥 #串焼き #海老名肉 #肉 #居酒屋おすすめ #ディナー #海老名居酒屋おすすめ #昼飲み #海老名串焼き #海老名ランチ #海老名もつ焼き #海老名串揚げ #海老名宴会 #海老名飲み #海老名おすすめ#海老名ランチ#海老名鰻
+2025-11-14 15:53:54,142 - INFO - 処理終了
+================================================================================
+2025-11-14 15:54:00,160 - INFO - 処理開始: Mode=post, Username=nikunosato_ebina, GBP=MSAIWDHF448536
+2025-11-14 15:54:00,162 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0FJV0RIRjQ0ODUzNiJd.
+2025-11-14 15:54:22,828 - INFO - 元の動画サイズ: 720x1280
+2025-11-14 15:54:22,828 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-11-14 15:54:22,828 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\nikunosato_ebina\nikunosato_ebina_20251114155350.mp4
+2025-11-14 15:54:32,909 - INFO - Waiting for description field...
+2025-11-14 15:54:32,944 - INFO - Setting description via JS (no send_keys)...
+2025-11-14 15:54:34,010 - INFO - Looking for button section...
+2025-11-14 15:54:38,468 - INFO - Trying to select CALL option...
+2025-11-14 15:54:38,708 - INFO - CALL option successfully selected
+2025-11-14 15:54:40,709 - INFO - Clicking submit button...
+2025-11-14 15:54:49,402 - INFO - 処理完了
+================================================================================
+2025-11-14 18:45:51,592 - INFO - 処理開始 PROCESSID:20251114_184548
+2025-11-14 18:45:51,592 - INFO - 対象ユーザー: nikunosato_ebina
+2025-11-14 18:45:51,592 - INFO - 処理を開始します
+2025-11-14 18:45:51,643 - INFO - 選択されたプロファイル: Profile 10
+2025-11-14 18:45:51,643 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-14 18:45:55,919 - INFO - nikunosato_ebina のプロフィールページにアクセスします
+2025-11-14 18:46:07,936 - INFO - 最新投稿を読み込みます
+2025-11-14 18:46:13,639 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_ebina/reel/DRAs2QKDx3o/?hl=ja
+2025-11-14 18:46:17,383 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 18:46:21,686 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 18:46:21,763 - INFO - datetime属性の抽出を開始します
+2025-11-14 18:46:21,812 - INFO - 抽出されたdatetime: 2025-11-13T21:00:06.000Z
+2025-11-14 18:46:21,813 - INFO - nikunosato_ebina の投稿日時: 2025-11-13T21:00:06.000Z
+2025-11-14 18:46:21,825 - INFO - date:2025-11-14 06:00:06+09:00
+2025-11-14 18:46:21,825 - INFO - post_date:20251114
+2025-11-14 18:46:21,889 - INFO - 1枚目: blob:https://www.instagram.com/3a312c97-05c2-46d2-be01-330291877a6d
+2025-11-14 18:46:21,889 - INFO - [caption/by_username] 開始
+2025-11-14 18:46:22,067 - INFO - [caption/by_username] 説明文確定（先頭100）: '昨日もたくさんのご来店ありがとうございました！
+本日もランチはうなぎ、17時からはやきとり、やきとんで
+元気に営業致します。
+皆様のご来店お待ち致しております。
+
+もつ焼き×串焼き 肉の佐藤 ビナガー'
+2025-11-14 18:46:22,069 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_ebina\description\20251114_184548
+2025-11-14 18:46:23,574 - INFO - 生成URL:https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTM0MzkyOTM3NzMwODA5OCwiYXNzZXRfYWdlX2RheXMiOjUyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsImJpdHJhdGUiOjI4NTAxNTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=98H4usEVgGUwgnDtCPfUHQ&_nc_zt=28&oh=00_Afg-XC1mueb3UtmOtTLvrTmXqj0txaM01HmqEt0KK3qJ6A&oe=691D376C&bytestart=0&byteend=1815922
+2025-11-14 18:46:23,578 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_ebina, key=AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg, dt=2025-11-13T21:00:06.000Z, url=https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTM0MzkyOTM3NzMwODA5OCwiYXNzZXRfYWdlX2RheXMiOjUyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsImJpdHJhdGUiOjI4NTAxNTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=98H4usEVgGUwgnDtCPfUHQ&_nc_zt=28&oh=00_Afg-XC1mueb3UtmOtTLvrTmXqj0txaM01HmqEt0KK3qJ6A&oe=691D376C&bytestart=0&byteend=1815922, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_ebina', 'AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg', 'https://scontent-fra3-2.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ohc=i8tx9RHiM3MQ7kNvwHVCbP9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTM0MzkyOTM3NzMwODA5OCwiYXNzZXRfYWdlX2RheXMiOjUyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsImJpdHJhdGUiOjI4NTAxNTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=98H4usEVgGUwgnDtCPfUHQ&_nc_zt=28&oh=00_Afg-XC1mueb3UtmOtTLvrTmXqj0txaM01HmqEt0KK3qJ6A&oe=691D376C&bytestart=0&byteend=1815922', '2025-11-13T21:00:06.000Z')
+2025-11-14 18:46:23,578 - INFO - このレコードは存在します
+2025-11-14 18:46:23,578 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 21:36:00,793 - INFO - 処理開始 PROCESSID:20251114_213557
+2025-11-14 21:36:00,793 - INFO - 対象ユーザー: nikunosato_ebina
+2025-11-14 21:36:00,793 - INFO - 処理を開始します
+2025-11-14 21:36:00,867 - INFO - 選択されたプロファイル: Profile 12
+2025-11-14 21:36:00,867 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-14 21:36:05,219 - INFO - nikunosato_ebina のプロフィールページにアクセスします
+2025-11-14 21:36:16,668 - INFO - 最新投稿を読み込みます
+2025-11-14 21:36:21,982 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_ebina/reel/DRAs2QKDx3o/?hl=ja
+2025-11-14 21:36:25,676 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 21:36:29,520 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 21:36:29,654 - INFO - datetime属性の抽出を開始します
+2025-11-14 21:36:29,688 - INFO - 抽出されたdatetime: 2025-11-13T21:00:06.000Z
+2025-11-14 21:36:29,688 - INFO - nikunosato_ebina の投稿日時: 2025-11-13T21:00:06.000Z
+2025-11-14 21:36:29,697 - INFO - date:2025-11-14 06:00:06+09:00
+2025-11-14 21:36:29,697 - INFO - post_date:20251114
+2025-11-14 21:36:29,735 - INFO - 1枚目: blob:https://www.instagram.com/90a9528c-bdf7-4607-aa41-2ca95d695509
+2025-11-14 21:36:29,735 - INFO - [caption/by_username] 開始
+2025-11-14 21:36:29,892 - INFO - [caption/by_username] 説明文確定（先頭100）: '昨日もたくさんのご来店ありがとうございました！
+本日もランチはうなぎ、17時からはやきとり、やきとんで
+元気に営業致します。
+皆様のご来店お待ち致しております。
+
+もつ焼き×串焼き 肉の佐藤 ビナガー'
+2025-11-14 21:36:29,895 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_ebina\description\20251114_213557
+2025-11-14 21:36:31,369 - INFO - 生成URL:https://scontent-fra5-1.cdninstagram.com/o1/v/t2/f2/m367/AQNGU5MGB6uwe9P2B3RVcEhbb82QuY9S9j70U0JIJv-iH6GU0trvL93pRyQLCrdYQJk483XtKvBJMq6jBS4wS4iXQ57JKsGiuYpJXqTm7hXRMg.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ohc=70AOzc4FriUQ7kNvwGW0V-6&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTY3OTMxMTcxOTM1NDU2LCJhc3NldF9hZ2VfZGF5cyI6MjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5LCJiaXRyYXRlIjo4ODE5MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=WorZ0MNZXJ02U0Ar155bAA&_nc_zt=28&oh=00_Afi17OVAQaRzbmfgXqG7-rIvUc3H8ZybP7QEhWMvRBxKuA&oe=691D8D4E&bytestart=0&byteend=706630
+2025-11-14 21:36:31,373 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_ebina, key=AQNGU5MGB6uwe9P2B3RVcEhbb82QuY9S9j70U0JIJv-iH6GU0trvL93pRyQLCrdYQJk483XtKvBJMq6jBS4wS4iXQ57JKsGiuYpJXqTm7hXRMg, dt=2025-11-13T21:00:06.000Z, url=https://scontent-fra5-1.cdninstagram.com/o1/v/t2/f2/m367/AQNGU5MGB6uwe9P2B3RVcEhbb82QuY9S9j70U0JIJv-iH6GU0trvL93pRyQLCrdYQJk483XtKvBJMq6jBS4wS4iXQ57JKsGiuYpJXqTm7hXRMg.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ohc=70AOzc4FriUQ7kNvwGW0V-6&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTY3OTMxMTcxOTM1NDU2LCJhc3NldF9hZ2VfZGF5cyI6MjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5LCJiaXRyYXRlIjo4ODE5MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=WorZ0MNZXJ02U0Ar155bAA&_nc_zt=28&oh=00_Afi17OVAQaRzbmfgXqG7-rIvUc3H8ZybP7QEhWMvRBxKuA&oe=691D8D4E&bytestart=0&byteend=706630, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_ebina', 'AQNGU5MGB6uwe9P2B3RVcEhbb82QuY9S9j70U0JIJv-iH6GU0trvL93pRyQLCrdYQJk483XtKvBJMq6jBS4wS4iXQ57JKsGiuYpJXqTm7hXRMg', 'https://scontent-fra5-1.cdninstagram.com/o1/v/t2/f2/m367/AQNGU5MGB6uwe9P2B3RVcEhbb82QuY9S9j70U0JIJv-iH6GU0trvL93pRyQLCrdYQJk483XtKvBJMq6jBS4wS4iXQ57JKsGiuYpJXqTm7hXRMg.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ohc=70AOzc4FriUQ7kNvwGW0V-6&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTY3OTMxMTcxOTM1NDU2LCJhc3NldF9hZ2VfZGF5cyI6MjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5LCJiaXRyYXRlIjo4ODE5MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=WorZ0MNZXJ02U0Ar155bAA&_nc_zt=28&oh=00_Afi17OVAQaRzbmfgXqG7-rIvUc3H8ZybP7QEhWMvRBxKuA&oe=691D8D4E&bytestart=0&byteend=706630', '2025-11-13T21:00:06.000Z')
+2025-11-14 21:36:31,373 - INFO - このレコードは存在します
+2025-11-14 21:36:31,373 - INFO - 全件レコードが存在します

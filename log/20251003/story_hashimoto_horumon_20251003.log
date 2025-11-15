@@ -1,0 +1,144 @@
+================================================================================
+2025-10-03 03:20:03,958 - INFO - 処理開始 PROCESSID:20251003_032000
+2025-10-03 03:20:03,958 - INFO - 対象ユーザー: hashimoto_horumon
+2025-10-03 03:20:03,958 - INFO - 処理を開始します
+2025-10-03 03:20:04,015 - INFO - 選択されたプロファイル: Profile 9
+2025-10-03 03:20:04,015 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-03 03:20:09,717 - INFO - hashimoto_horumon のプロフィールページにアクセスします
+2025-10-03 03:20:31,893 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 03:20:35,224 - INFO - 動画の取得に失敗しました
+2025-10-03 03:20:35,225 - INFO - datetime属性の抽出を開始します
+2025-10-03 03:20:35,312 - INFO - 抽出されたdatetime: 2025-10-02T07:59:03.000Z
+2025-10-03 03:20:35,342 - INFO - 画像URLを取得しました
+2025-10-03 03:20:35,387 - INFO - INSERT(with-key): user=hashimoto_horumon, key=MzczNDM3Mjc3NTc0MzE0NjQyNQ==, dt=2025-10-02T07:59:03.000Z
+2025-10-03 03:20:37,393 - INFO - ダウンロードを開始します: media\hashimoto_horumon\hashimoto_horumon_20251003032037.jpg
+2025-10-03 03:20:37,791 - INFO - ダウンロード完了: media\hashimoto_horumon\hashimoto_horumon_20251003032037.jpg
+2025-10-03 03:20:38,078 - INFO - 元の画像サイズ: 480x853
+2025-10-03 03:20:38,078 - INFO - サイズ変更は不要です
+2025-10-03 03:20:42,079 - INFO - 処理終了
+2025-10-03 03:20:42,081 - INFO - 説明文_AI: None
+2025-10-03 03:20:42,081 - INFO - 説明文_最終: 
+================================================================================
+2025-10-03 03:20:48,563 - INFO - 処理開始: Mode=story, Username=hashimoto_horumon, GBP=04400249651524423351
+2025-10-03 03:20:48,565 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwNDQwMDI0OTY1MTUyNDQyMzM1MSJd.
+2025-10-03 03:21:12,500 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hashimoto_horumon\hashimoto_horumon_20251003032037.jpg
+2025-10-03 03:21:15,606 - INFO - 一時ファイルが見つかりません: media\hashimoto_horumon\description\20251003_032000
+2025-10-03 03:21:15,606 - INFO - Looking for button section...
+2025-10-03 03:21:20,192 - INFO - Trying to select CALL option...
+2025-10-03 03:21:20,412 - INFO - CALL option successfully selected
+2025-10-03 03:21:22,413 - INFO - Clicking submit button...
+2025-10-03 03:21:32,734 - INFO - 処理完了
+================================================================================
+2025-10-03 08:12:25,485 - INFO - 処理開始 PROCESSID:20251003_081218
+2025-10-03 08:12:25,485 - INFO - 対象ユーザー: hashimoto_horumon
+2025-10-03 08:12:25,491 - INFO - 処理を開始します
+2025-10-03 08:12:25,595 - INFO - 選択されたプロファイル: Profile 12
+2025-10-03 08:12:25,595 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-03 08:12:37,018 - INFO - hashimoto_horumon のプロフィールページにアクセスします
+2025-10-03 08:13:09,528 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 08:13:13,613 - INFO - hashimoto_horumon: 動画を検出しました
+2025-10-03 08:13:13,613 - INFO - datetime属性の抽出を開始します
+2025-10-03 08:13:15,402 - INFO - 抽出されたdatetime: 2025-10-03T07:47:52.000Z
+2025-10-03 08:13:15,402 - INFO - hashimoto_horumon の投稿日時: 2025-10-03T07:47:52.000Z
+2025-10-03 08:13:22,108 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQNRVfiR6vnmEtgt9ypXsSRnMXTQlWy8z5l9obUpdQfGcGhTNLCKSziIi0W40GNW30o9Eeir1t5DCVk1w6G5chFwIvDawG1Ds6QJ0jc49yAiMg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=zf9pTEXrnxYQ7kNvwFdkyYQ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzM2MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTgxMjYwMjQ4NjA0ODAyMiwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=M0r74PAFBc3hzoeq_VK1zA&_nc_zt=28&oh=00_Afdac3SYLjykm5Ph-WrSCD1wXrbzMW3ybMx8AKEbQVMtGg&oe=68E55618&bytestart=0&byteend=389268
+2025-10-03 08:13:22,108 - INFO - 動画URLを取得しました
+2025-10-03 08:13:22,271 - INFO - INSERT(with-key): user=hashimoto_horumon, key=AQNRVfiR6vnmEtgt9ypXsSRnMXTQlWy8z5l9obUpdQfGcGhTNLCKSziIi0W40GNW30o9Eeir1t5DCVk1w6G5chFwIvDawG1Ds6QJ0jc49yAiMg, dt=2025-10-03T07:47:52.000Z
+2025-10-03 08:13:24,434 - INFO - ダウンロードを開始します: media\hashimoto_horumon\hashimoto_horumon_20251003081324.mp4
+2025-10-03 08:13:25,273 - INFO - ダウンロード完了: media\hashimoto_horumon\hashimoto_horumon_20251003081324.mp4
+2025-10-03 08:13:39,484 - INFO - 処理終了
+2025-10-03 08:13:39,484 - INFO - 説明文_AI: None
+2025-10-03 08:13:39,484 - INFO - 説明文_最終: 
+================================================================================
+2025-10-03 08:13:47,549 - INFO - 処理開始: Mode=story, Username=hashimoto_horumon, GBP=04400249651524423351
+2025-10-03 08:13:47,550 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwNDQwMDI0OTY1MTUyNDQyMzM1MSJd.
+2025-10-03 08:14:49,298 - INFO - 元の動画サイズ: 360x640
+2025-10-03 08:14:49,305 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-03 08:14:49,305 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\hashimoto_horumon\hashimoto_horumon_20251003081324.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\hashimoto_horumon\hashimoto_horumon_20251003081324_resized.mp4
+2025-10-03 08:15:20,809 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hashimoto_horumon\hashimoto_horumon_20251003081324_resized.mp4
+2025-10-03 08:15:20,816 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hashimoto_horumon\hashimoto_horumon_20251003081324.mp4
+2025-10-03 08:15:20,817 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hashimoto_horumon\hashimoto_horumon_20251003081324_resized.mp4
+2025-10-03 08:15:31,737 - INFO - 一時ファイルが見つかりません: media\hashimoto_horumon\description\20251003_081218
+2025-10-03 08:15:31,737 - INFO - Looking for button section...
+2025-10-03 08:15:36,330 - INFO - Trying to select CALL option...
+2025-10-03 08:15:36,560 - INFO - CALL option successfully selected
+2025-10-03 08:15:38,561 - INFO - Clicking submit button...
+2025-10-03 08:15:48,728 - INFO - 処理完了
+================================================================================
+2025-10-03 13:02:52,509 - INFO - 処理開始 PROCESSID:20251003_130245
+2025-10-03 13:02:52,516 - INFO - 対象ユーザー: hashimoto_horumon
+2025-10-03 13:02:52,516 - INFO - 処理を開始します
+2025-10-03 13:02:52,651 - INFO - 選択されたプロファイル: Profile 13
+2025-10-03 13:02:52,653 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-03 13:03:04,516 - INFO - hashimoto_horumon のプロフィールページにアクセスします
+2025-10-03 13:03:32,032 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 13:03:33,127 - INFO - hashimoto_horumon: 動画を検出しました
+2025-10-03 13:03:33,128 - INFO - datetime属性の抽出を開始します
+2025-10-03 13:03:33,199 - INFO - 抽出されたdatetime: 2025-10-03T07:47:52.000Z
+2025-10-03 13:03:33,199 - INFO - hashimoto_horumon の投稿日時: 2025-10-03T07:47:52.000Z
+2025-10-03 13:03:34,798 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQMi0Rm-ZmPi0J2paU3OMnLZhfvXAdYd2MK8LNmhbrBs7Panbhb_Z0UEFoi9oy5GyqelPFE2v88gQASZHfSuy4WvgaqSt0i3Hppeuz0QjCCYTQ.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=aEhLwYdSO-QQ7kNvwFL7pCC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTgxMjYwMjQ4NjA0ODAyMiwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=6684rrmDEw9RkNFEwrnGmA&_nc_zt=28&oh=00_Afefh9NTMJbPZPQNirFqeua2LQVzRE69MRlMYb12CgvGrA&oe=68E5AE68&bytestart=0&byteend=2548355
+2025-10-03 13:03:34,798 - INFO - 動画URLを取得しました
+2025-10-03 13:03:34,868 - INFO - INSERT(with-key): user=hashimoto_horumon, key=AQMi0Rm-ZmPi0J2paU3OMnLZhfvXAdYd2MK8LNmhbrBs7Panbhb_Z0UEFoi9oy5GyqelPFE2v88gQASZHfSuy4WvgaqSt0i3Hppeuz0QjCCYTQ, dt=2025-10-03T07:47:52.000Z
+2025-10-03 13:03:36,876 - INFO - ダウンロードを開始します: media\hashimoto_horumon\hashimoto_horumon_20251003130336.mp4
+2025-10-03 13:03:37,512 - INFO - ダウンロード完了: media\hashimoto_horumon\hashimoto_horumon_20251003130336.mp4
+2025-10-03 13:03:42,072 - INFO - 処理終了
+2025-10-03 13:03:42,074 - INFO - 説明文_AI: None
+2025-10-03 13:03:42,074 - INFO - 説明文_最終: 
+================================================================================
+2025-10-03 13:03:48,275 - INFO - 処理開始: Mode=story, Username=hashimoto_horumon, GBP=04400249651524423351
+2025-10-03 13:03:48,275 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwNDQwMDI0OTY1MTUyNDQyMzM1MSJd.
+2025-10-03 13:04:14,330 - INFO - 元の動画サイズ: 1080x1920
+2025-10-03 13:04:14,330 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-03 13:04:14,330 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hashimoto_horumon\hashimoto_horumon_20251003130336.mp4
+2025-10-03 13:04:24,400 - INFO - 一時ファイルが見つかりません: media\hashimoto_horumon\description\20251003_130245
+2025-10-03 13:04:24,400 - INFO - Looking for button section...
+2025-10-03 13:04:29,341 - INFO - Trying to select CALL option...
+2025-10-03 13:04:29,595 - INFO - CALL option successfully selected
+2025-10-03 13:04:31,596 - INFO - Clicking submit button...
+2025-10-03 13:04:41,659 - INFO - 処理完了
+================================================================================
+2025-10-03 17:35:20,263 - INFO - 処理開始 PROCESSID:20251003_173513
+2025-10-03 17:35:20,263 - INFO - 対象ユーザー: hashimoto_horumon
+2025-10-03 17:35:20,263 - INFO - 処理を開始します
+2025-10-03 17:35:20,386 - INFO - 選択されたプロファイル: Profile 13
+2025-10-03 17:35:20,386 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-03 17:35:31,471 - INFO - hashimoto_horumon のプロフィールページにアクセスします
+2025-10-03 17:36:03,303 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 17:36:04,829 - INFO - hashimoto_horumon: 動画を検出しました
+2025-10-03 17:36:04,829 - INFO - datetime属性の抽出を開始します
+2025-10-03 17:36:06,656 - INFO - 抽出されたdatetime: 2025-10-03T07:47:52.000Z
+2025-10-03 17:36:06,656 - INFO - hashimoto_horumon の投稿日時: 2025-10-03T07:47:52.000Z
+2025-10-03 17:36:12,211 - INFO - 生成URL:https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQNxDNE0EhiI2gcTLPVTItPj-4qEbhtxwpdm45nszCxzccsjmK3lAvnZszu1g1fs5LH3Txkn9rghB6XEJdx34AlCuo9UFFAANdKU_Rezx-ugzg.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=j35L6kIK3lUQ7kNvwF-EhM-&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMxLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxODEyNjAyNDg2MDQ4MDIyLCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=2d_fVhXBToD6LARniVfulg&_nc_zt=28&oh=00_Afeo2j-m-21MRB0kJbh7A-bPg2F7ZnP6KCpkaOBI8RsGww&oe=68E5C00A&bytestart=0&byteend=1755469
+2025-10-03 17:36:12,219 - INFO - 動画URLを取得しました
+2025-10-03 17:36:12,384 - INFO - INSERT(with-key): user=hashimoto_horumon, key=AQNxDNE0EhiI2gcTLPVTItPj-4qEbhtxwpdm45nszCxzccsjmK3lAvnZszu1g1fs5LH3Txkn9rghB6XEJdx34AlCuo9UFFAANdKU_Rezx-ugzg, dt=2025-10-03T07:47:52.000Z
+2025-10-03 17:36:14,991 - INFO - ダウンロードを開始します: media\hashimoto_horumon\hashimoto_horumon_20251003173614.mp4
+2025-10-03 17:36:17,263 - INFO - ダウンロード完了: media\hashimoto_horumon\hashimoto_horumon_20251003173614.mp4
+2025-10-03 17:36:28,856 - INFO - 処理終了
+2025-10-03 17:36:28,866 - INFO - 説明文_AI: None
+2025-10-03 17:36:28,866 - INFO - 説明文_最終: 
+================================================================================
+2025-10-03 17:36:40,309 - INFO - 処理開始: Mode=story, Username=hashimoto_horumon, GBP=04400249651524423351
+2025-10-03 17:36:40,309 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwNDQwMDI0OTY1MTUyNDQyMzM1MSJd.
+2025-10-03 17:37:43,231 - INFO - 元の動画サイズ: 720x1280
+2025-10-03 17:37:43,232 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-03 17:37:43,232 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hashimoto_horumon\hashimoto_horumon_20251003173614.mp4
+2025-10-03 17:37:54,093 - INFO - 一時ファイルが見つかりません: media\hashimoto_horumon\description\20251003_173513
+2025-10-03 17:37:54,093 - INFO - Looking for button section...
+2025-10-03 17:38:05,495 - INFO - Trying to select CALL option...
+2025-10-03 17:38:06,079 - INFO - CALL option successfully selected
+2025-10-03 17:38:08,080 - INFO - Clicking submit button...
+2025-10-03 17:38:17,802 - INFO - 処理完了
+================================================================================
+2025-10-03 22:14:23,246 - INFO - 処理開始 PROCESSID:20251003_221419
+2025-10-03 22:14:23,246 - INFO - 対象ユーザー: hashimoto_horumon
+2025-10-03 22:14:23,246 - INFO - 処理を開始します
+2025-10-03 22:14:23,302 - INFO - 選択されたプロファイル: Profile 10
+2025-10-03 22:14:23,302 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-03 22:14:28,232 - INFO - hashimoto_horumon のプロフィールページにアクセスします
+2025-10-03 22:14:50,685 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 22:14:51,850 - INFO - hashimoto_horumon: 動画を検出しました
+2025-10-03 22:14:51,850 - INFO - datetime属性の抽出を開始します
+2025-10-03 22:14:52,263 - INFO - 抽出されたdatetime: 2025-10-03T07:47:52.000Z
+2025-10-03 22:14:52,264 - INFO - hashimoto_horumon の投稿日時: 2025-10-03T07:47:52.000Z
+2025-10-03 22:14:53,662 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQMi0Rm-ZmPi0J2paU3OMnLZhfvXAdYd2MK8LNmhbrBs7Panbhb_Z0UEFoi9oy5GyqelPFE2v88gQASZHfSuy4WvgaqSt0i3Hppeuz0QjCCYTQ.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=aEhLwYdSO-QQ7kNvwFL7pCC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE4MTI2MDI0ODYwNDgwMjIsInZpX3VzZWNhc2VfaWQiOjEwMTAwLCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=FlTnLxgZq9-0yuWb8X3WqQ&_nc_zt=28&oh=00_AffnxjTGkNeIKc4acN3hrcnxrqWXZEP8Fe6NCFjYiQ-Aeg&oe=68E61EE8&bytestart=0&byteend=2548355
+2025-10-03 22:14:53,662 - INFO - 動画URLを取得しました
+2025-10-03 22:14:53,667 - INFO - DUP(with-key): user=hashimoto_horumon, key=AQMi0Rm-ZmPi0J2paU3OMnLZhfvXAdYd2MK8LNmhbrBs7Panbhb_Z0UEFoi9oy5GyqelPFE2v88gQASZHfSuy4WvgaqSt0i3Hppeuz0QjCCYTQ, dt=2025-10-03T07:47:52.000Z

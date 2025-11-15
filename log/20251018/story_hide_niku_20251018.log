@@ -1,0 +1,105 @@
+================================================================================
+2025-10-18 00:54:28,381 - INFO - 処理開始 PROCESSID:20251018_005425
+2025-10-18 00:54:28,381 - INFO - 対象ユーザー: hide_niku
+2025-10-18 00:54:28,382 - INFO - 処理を開始します
+2025-10-18 00:54:28,442 - INFO - 選択されたプロファイル: Profile 10
+2025-10-18 00:54:28,442 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-18 00:54:33,238 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-18 00:54:56,895 - INFO - プロフィール写真のクリックに成功しました
+2025-10-18 00:54:57,895 - INFO - hide_niku: 動画を検出しました
+2025-10-18 00:54:57,895 - INFO - datetime属性の抽出を開始します
+2025-10-18 00:54:57,918 - INFO - 抽出されたdatetime: 2025-10-17T02:55:03.000Z
+2025-10-18 00:54:57,918 - INFO - hide_niku の投稿日時: 2025-10-17T02:55:03.000Z
+2025-10-18 00:54:59,257 - INFO - 生成URL:https://scontent-lhr6-2.cdninstagram.com/o1/v/t16/f2/m69/AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB.mp4?strext=1&_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=pPlRvIma0QMQ7kNvwEZukve&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3IyZXZldnA5LXIxZ2VuMnZwOV9xODAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6NTg2MTczMDQxMDAxODExLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=zYnAhLIltA6gnU_G6mRXxQ&_nc_zt=28&oh=00_AfcW7pOWwWL1EwDE0HMsKfHUyFIDXf0iOUQKfGEGUhfzzg&oe=68F8D2D7&bytestart=0&byteend=793868
+2025-10-18 00:54:59,258 - INFO - 動画URLを取得しました
+2025-10-18 00:54:59,272 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=hide_niku, key=AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB, dt=2025-10-17T02:55:03.000Z, url=https://scontent-lhr6-2.cdninstagram.com/o1/v/t16/f2/m69/AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB.mp4?strext=1&_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=pPlRvIma0QMQ7kNvwEZukve&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3IyZXZldnA5LXIxZ2VuMnZwOV9xODAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6NTg2MTczMDQxMDAxODExLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=zYnAhLIltA6gnU_G6mRXxQ&_nc_zt=28&oh=00_AfcW7pOWwWL1EwDE0HMsKfHUyFIDXf0iOUQKfGEGUhfzzg&oe=68F8D2D7&bytestart=0&byteend=793868, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('hide_niku', 'AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB', 'https://scontent-lhr6-2.cdninstagram.com/o1/v/t16/f2/m69/AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB.mp4?strext=1&_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=pPlRvIma0QMQ7kNvwEZukve&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3IyZXZldnA5LXIxZ2VuMnZwOV9xODAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6NTg2MTczMDQxMDAxODExLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=zYnAhLIltA6gnU_G6mRXxQ&_nc_zt=28&oh=00_AfcW7pOWwWL1EwDE0HMsKfHUyFIDXf0iOUQKfGEGUhfzzg&oe=68F8D2D7&bytestart=0&byteend=793868', '2025-10-17T02:55:03.000Z')
+================================================================================
+2025-10-18 05:05:55,577 - INFO - 処理開始 PROCESSID:20251018_050552
+2025-10-18 05:05:55,577 - INFO - 対象ユーザー: hide_niku
+2025-10-18 05:05:55,577 - INFO - 処理を開始します
+2025-10-18 05:05:55,639 - INFO - 選択されたプロファイル: Profile 10
+2025-10-18 05:05:55,639 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-18 05:06:00,527 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-18 05:06:23,356 - INFO - プロフィール写真のクリックに成功しました
+2025-10-18 05:06:26,577 - INFO - 動画の取得に失敗しました
+2025-10-18 05:06:26,577 - INFO - datetime属性の抽出を開始します
+2025-10-18 05:06:26,668 - INFO - 抽出されたdatetime: 2025-10-17T08:01:14.000Z
+2025-10-18 05:06:26,693 - INFO - 画像URLを取得しました
+2025-10-18 05:06:26,695 - INFO - DUP(with-key): user=hide_niku, key=Mzc0NTI0NTUyMjU1NjAwNDU4NQ==, dt=2025-10-17T08:01:14.000Z
+================================================================================
+2025-10-18 09:16:56,402 - INFO - 処理開始 PROCESSID:20251018_091653
+2025-10-18 09:16:56,402 - INFO - 対象ユーザー: hide_niku
+2025-10-18 09:16:56,402 - INFO - 処理を開始します
+2025-10-18 09:16:56,466 - INFO - 選択されたプロファイル: Profile 13
+2025-10-18 09:16:56,466 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-18 09:17:00,942 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-18 09:17:26,071 - INFO - プロフィール写真のクリックに成功しました
+2025-10-18 09:17:26,783 - INFO - hide_niku: 動画を検出しました
+2025-10-18 09:17:26,783 - INFO - datetime属性の抽出を開始します
+2025-10-18 09:17:26,866 - INFO - 抽出されたdatetime: 2025-10-18T09:06:31.000Z
+2025-10-18 09:17:26,866 - INFO - hide_niku の投稿日時: 2025-10-18T09:06:31.000Z
+2025-10-18 09:17:28,213 - INFO - 生成URL:https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m367/AQO4Z_pQVilxoyAEs5cqO2CD6_I_wdhNC90GVGdzcrYzFYtlrwaFJIkL1EznqryZP_vqJeXUheDW3HzCMYJ_caBQpDzh_2WXv-IPQDA-2i_boA.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=qMlZfmt8q-EQ7kNvwG472WH&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6NDMyMTUyMzE0NDc5MDYxOCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Dj4TXAawHif36V1lT1vo8Q&_nc_zt=28&oh=00_Affs_pQbVVsQLPahn08TCVCXE7WTXlyoar9FonKTEiA6CA&oe=68F9141A&bytestart=0&byteend=889026
+2025-10-18 09:17:28,213 - INFO - 動画URLを取得しました
+2025-10-18 09:17:28,444 - INFO - INSERT(with-key): user=hide_niku, key=AQO4Z_pQVilxoyAEs5cqO2CD6_I_wdhNC90GVGdzcrYzFYtlrwaFJIkL1EznqryZP_vqJeXUheDW3HzCMYJ_caBQpDzh_2WXv-IPQDA-2i_boA, dt=2025-10-18T09:06:31.000Z
+2025-10-18 09:17:30,446 - INFO - ダウンロードを開始します: media\hide_niku\hide_niku_20251018091730.mp4
+2025-10-18 09:17:32,671 - INFO - ダウンロード完了: media\hide_niku\hide_niku_20251018091730.mp4
+2025-10-18 09:17:36,209 - INFO - 処理終了
+2025-10-18 09:17:36,209 - INFO - 説明文_AI: None
+2025-10-18 09:17:36,209 - INFO - 説明文_最終: 
+================================================================================
+2025-10-18 09:17:42,366 - INFO - 処理開始: Mode=story, Username=hide_niku, GBP=nikukappouhide
+2025-10-18 09:17:42,366 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJuaWt1a2FwcG91aGlkZSJd.
+2025-10-18 09:18:09,005 - INFO - 元の動画サイズ: 1080x1920
+2025-10-18 09:18:09,005 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-18 09:18:09,007 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hide_niku\hide_niku_20251018091730.mp4
+2025-10-18 09:18:19,068 - INFO - 一時ファイルが見つかりません: media\hide_niku\description\20251018_091653
+2025-10-18 09:18:19,068 - INFO - Looking for button section...
+2025-10-18 09:18:23,736 - INFO - Trying to select CALL option...
+2025-10-18 09:18:23,969 - INFO - CALL option successfully selected
+2025-10-18 09:18:25,970 - INFO - Clicking submit button...
+2025-10-18 09:18:34,761 - INFO - 処理完了
+================================================================================
+2025-10-18 13:29:18,086 - INFO - 処理開始 PROCESSID:20251018_132914
+2025-10-18 13:29:18,086 - INFO - 対象ユーザー: hide_niku
+2025-10-18 13:29:18,088 - INFO - 処理を開始します
+2025-10-18 13:29:18,148 - INFO - 選択されたプロファイル: Profile 12
+2025-10-18 13:29:18,148 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-18 13:29:23,101 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-18 13:29:45,617 - INFO - プロフィール写真のクリックに成功しました
+2025-10-18 13:29:46,489 - INFO - hide_niku: 動画を検出しました
+2025-10-18 13:29:46,490 - INFO - datetime属性の抽出を開始します
+2025-10-18 13:29:46,608 - INFO - 抽出されたdatetime: 2025-10-18T09:06:31.000Z
+2025-10-18 13:29:46,609 - INFO - hide_niku の投稿日時: 2025-10-18T09:06:31.000Z
+2025-10-18 13:29:48,223 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQO4Z_pQVilxoyAEs5cqO2CD6_I_wdhNC90GVGdzcrYzFYtlrwaFJIkL1EznqryZP_vqJeXUheDW3HzCMYJ_caBQpDzh_2WXv-IPQDA-2i_boA.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=qMlZfmt8q-EQ7kNvwG472WH&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6NDMyMTUyMzE0NDc5MDYxOCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=PgdmSpjx82X1-pQDqtxMCA&_nc_zt=28&oh=00_Afdbh3Fpc20_agOR6OeTQ7THl9SZzw_8rm7SFkseCzZchw&oe=68F9849A&bytestart=0&byteend=889026
+2025-10-18 13:29:48,224 - INFO - 動画URLを取得しました
+2025-10-18 13:29:48,225 - INFO - DUP(with-key): user=hide_niku, key=AQO4Z_pQVilxoyAEs5cqO2CD6_I_wdhNC90GVGdzcrYzFYtlrwaFJIkL1EznqryZP_vqJeXUheDW3HzCMYJ_caBQpDzh_2WXv-IPQDA-2i_boA, dt=2025-10-18T09:06:31.000Z
+================================================================================
+2025-10-18 17:39:25,114 - INFO - 処理開始 PROCESSID:20251018_173921
+2025-10-18 17:39:25,114 - INFO - 対象ユーザー: hide_niku
+2025-10-18 17:39:25,114 - INFO - 処理を開始します
+2025-10-18 17:39:25,172 - INFO - 選択されたプロファイル: Profile 10
+2025-10-18 17:39:25,172 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-18 17:39:29,675 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-18 17:39:52,892 - INFO - プロフィール写真のクリックに成功しました
+2025-10-18 17:39:53,564 - INFO - hide_niku: 動画を検出しました
+2025-10-18 17:39:53,565 - INFO - datetime属性の抽出を開始します
+2025-10-18 17:39:53,883 - INFO - 抽出されたdatetime: 2025-10-18T09:06:31.000Z
+2025-10-18 17:39:53,884 - INFO - hide_niku の投稿日時: 2025-10-18T09:06:31.000Z
+2025-10-18 17:39:55,549 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQO4Z_pQVilxoyAEs5cqO2CD6_I_wdhNC90GVGdzcrYzFYtlrwaFJIkL1EznqryZP_vqJeXUheDW3HzCMYJ_caBQpDzh_2WXv-IPQDA-2i_boA.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=qMlZfmt8q-EQ7kNvwG472WH&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMi5kYXNoX3ZwOS1iYXNpYy1nZW4yXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjQzMjE1MjMxNDQ3OTA2MTgsInZpX3VzZWNhc2VfaWQiOjEwMTAwLCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=6yePEPFbhX_aAW7mkqxbQw&_nc_zt=28&oh=00_AffZGEG4qQ9fXy1uMXqjadxOmjHABTQOXpVHi7Ba3bDDiQ&oe=68F9BCDA&bytestart=0&byteend=889026
+2025-10-18 17:39:55,549 - INFO - 動画URLを取得しました
+2025-10-18 17:39:55,551 - INFO - DUP(with-key): user=hide_niku, key=AQO4Z_pQVilxoyAEs5cqO2CD6_I_wdhNC90GVGdzcrYzFYtlrwaFJIkL1EznqryZP_vqJeXUheDW3HzCMYJ_caBQpDzh_2WXv-IPQDA-2i_boA, dt=2025-10-18T09:06:31.000Z
+================================================================================
+2025-10-18 21:43:53,878 - INFO - 処理開始 PROCESSID:20251018_214350
+2025-10-18 21:43:53,878 - INFO - 対象ユーザー: hide_niku
+2025-10-18 21:43:53,878 - INFO - 処理を開始します
+2025-10-18 21:43:53,941 - INFO - 選択されたプロファイル: Profile 9
+2025-10-18 21:43:53,941 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-18 21:43:59,822 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-18 21:44:25,729 - INFO - プロフィール写真のクリックに成功しました
+2025-10-18 21:44:26,404 - INFO - hide_niku: 動画を検出しました
+2025-10-18 21:44:26,404 - INFO - datetime属性の抽出を開始します
+2025-10-18 21:44:26,984 - INFO - 抽出されたdatetime: 2025-10-18T09:06:31.000Z
+2025-10-18 21:44:26,984 - INFO - hide_niku の投稿日時: 2025-10-18T09:06:31.000Z
+2025-10-18 21:44:28,362 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQO4Z_pQVilxoyAEs5cqO2CD6_I_wdhNC90GVGdzcrYzFYtlrwaFJIkL1EznqryZP_vqJeXUheDW3HzCMYJ_caBQpDzh_2WXv-IPQDA-2i_boA.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=qMlZfmt8q-EQ7kNvwG472WH&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6NDMyMTUyMzE0NDc5MDYxOCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=3h7HERYlgqDkmKcisHvdrQ&_nc_zt=28&oh=00_Afdlf5Eef5_hvFyPWaupqOk1L9io4MV1_l_lwaAKgNNWwg&oe=68F9F51A&bytestart=0&byteend=1406861
+2025-10-18 21:44:28,362 - INFO - 動画URLを取得しました
+2025-10-18 21:44:28,364 - INFO - DUP(with-key): user=hide_niku, key=AQO4Z_pQVilxoyAEs5cqO2CD6_I_wdhNC90GVGdzcrYzFYtlrwaFJIkL1EznqryZP_vqJeXUheDW3HzCMYJ_caBQpDzh_2WXv-IPQDA-2i_boA, dt=2025-10-18T09:06:31.000Z

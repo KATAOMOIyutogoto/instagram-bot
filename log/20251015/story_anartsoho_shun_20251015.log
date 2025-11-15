@@ -1,0 +1,119 @@
+================================================================================
+2025-10-15 00:46:30,463 - INFO - 処理開始 PROCESSID:20251015_004627
+2025-10-15 00:46:30,465 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-15 00:46:30,465 - INFO - 処理を開始します
+2025-10-15 00:46:30,527 - INFO - 選択されたプロファイル: Profile 12
+2025-10-15 00:46:30,527 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-15 00:46:34,947 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-15 00:46:57,281 - INFO - プロフィール写真のクリックに成功しました
+2025-10-15 00:47:00,396 - INFO - 動画の取得に失敗しました
+2025-10-15 00:47:00,396 - INFO - datetime属性の抽出を開始します
+2025-10-15 00:47:10,729 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xacfe83+66515]
+	GetHandleVerifier [0x0xacfec4+66580]
+	(No symbol) [0x0x8bdc48]
+	(No symbol) [0x0x908704]
+	(No symbol) [0x0x908aab]
+	(No symbol) [0x0x94f482]
+	(No symbol) [0x0x92b214]
+	(No symbol) [0x0x94cba7]
+	(No symbol) [0x0x92afc6]
+	(No symbol) [0x0x8fc2ca]
+	(No symbol) [0x0x8fd154]
+	GetHandleVerifier [0x0xd273b3+2521347]
+	GetHandleVerifier [0x0xd22333+2500739]
+	GetHandleVerifier [0x0xaf7cd4+229924]
+	GetHandleVerifier [0x0xae8238+165768]
+	GetHandleVerifier [0x0xaeeced+193085]
+	GetHandleVerifier [0x0xad8198+100072]
+	GetHandleVerifier [0x0xad8330+100480]
+	GetHandleVerifier [0x0xac25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-15 00:47:21,023 - INFO - 画像の取得に失敗しました
+2025-10-15 00:47:23,449 - INFO - 処理終了
+================================================================================
+2025-10-15 04:47:45,727 - INFO - 処理開始 PROCESSID:20251015_044742
+2025-10-15 04:47:45,727 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-15 04:47:45,727 - INFO - 処理を開始します
+2025-10-15 04:47:45,789 - INFO - 選択されたプロファイル: Profile 9
+2025-10-15 04:47:45,789 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-15 04:47:50,582 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-15 04:48:12,845 - INFO - プロフィール写真のクリックに成功しました
+2025-10-15 04:48:16,029 - INFO - 動画の取得に失敗しました
+2025-10-15 04:48:16,031 - INFO - datetime属性の抽出を開始します
+2025-10-15 04:48:16,115 - INFO - 抽出されたdatetime: 2025-10-15T02:17:37.000Z
+2025-10-15 04:48:16,138 - INFO - 画像URLを取得しました
+2025-10-15 04:48:16,175 - INFO - INSERT(with-key): user=anartsoho_shun, key=Mzc0MzYyMzAxMzA0NTgzNzEyNw==, dt=2025-10-15T02:17:37.000Z
+2025-10-15 04:48:18,176 - INFO - ダウンロードを開始します: media\anartsoho_shun\anartsoho_shun_20251015044818.jpg
+2025-10-15 04:48:19,291 - INFO - ダウンロード完了: media\anartsoho_shun\anartsoho_shun_20251015044818.jpg
+2025-10-15 04:48:19,474 - INFO - 元の画像サイズ: 480x853
+2025-10-15 04:48:19,475 - INFO - サイズ変更は不要です
+2025-10-15 04:48:22,358 - INFO - 処理終了
+2025-10-15 04:48:22,360 - INFO - 説明文_AI: None
+2025-10-15 04:48:22,360 - INFO - 説明文_最終: 
+================================================================================
+2025-10-15 04:48:28,488 - INFO - 処理開始: Mode=story, Username=anartsoho_shun, GBP=5450809710664299854
+2025-10-15 04:48:28,488 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICI1NDUwODA5NzEwNjY0Mjk5ODU0Il0.
+2025-10-15 04:48:50,312 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\anartsoho_shun\anartsoho_shun_20251015044818.jpg
+2025-10-15 04:48:53,547 - INFO - 一時ファイルが見つかりません: media\anartsoho_shun\description\20251015_044742
+2025-10-15 04:48:53,548 - INFO - Looking for button section...
+2025-10-15 04:48:58,293 - INFO - Trying to select CALL option...
+2025-10-15 04:48:58,512 - INFO - CALL option successfully selected
+2025-10-15 04:49:00,513 - INFO - Clicking submit button...
+2025-10-15 04:49:09,182 - INFO - 処理完了
+================================================================================
+2025-10-15 08:52:18,116 - INFO - 処理開始 PROCESSID:20251015_085214
+2025-10-15 08:52:18,116 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-15 08:52:18,116 - INFO - 処理を開始します
+2025-10-15 08:52:18,173 - INFO - 選択されたプロファイル: Profile 9
+2025-10-15 08:52:18,173 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-15 08:52:22,875 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-15 08:52:45,711 - INFO - プロフィール写真のクリックに成功しました
+2025-10-15 08:52:49,055 - INFO - 動画の取得に失敗しました
+2025-10-15 08:52:49,055 - INFO - datetime属性の抽出を開始します
+2025-10-15 08:52:49,138 - INFO - 抽出されたdatetime: 2025-10-15T02:17:37.000Z
+2025-10-15 08:52:49,175 - INFO - 画像URLを取得しました
+2025-10-15 08:52:49,179 - INFO - DUP(with-key): user=anartsoho_shun, key=Mzc0MzYyMzAxMzA0NTgzNzEyNw==, dt=2025-10-15T02:17:37.000Z
+================================================================================
+2025-10-15 12:53:55,356 - INFO - 処理開始 PROCESSID:20251015_125352
+2025-10-15 12:53:55,356 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-15 12:53:55,356 - INFO - 処理を開始します
+2025-10-15 12:53:55,415 - INFO - 選択されたプロファイル: Profile 13
+2025-10-15 12:53:55,415 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-15 12:53:59,923 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-15 12:54:24,262 - INFO - プロフィール写真のクリックに成功しました
+2025-10-15 12:54:27,583 - INFO - 動画の取得に失敗しました
+2025-10-15 12:54:27,585 - INFO - datetime属性の抽出を開始します
+2025-10-15 12:54:27,705 - INFO - 抽出されたdatetime: 2025-10-15T02:17:37.000Z
+2025-10-15 12:54:27,734 - INFO - 画像URLを取得しました
+2025-10-15 12:54:27,736 - INFO - DUP(with-key): user=anartsoho_shun, key=Mzc0MzYyMzAxMzA0NTgzNzEyNw==, dt=2025-10-15T02:17:37.000Z
+================================================================================
+2025-10-15 16:46:20,627 - INFO - 処理開始 PROCESSID:20251015_164617
+2025-10-15 16:46:20,629 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-15 16:46:20,629 - INFO - 処理を開始します
+2025-10-15 16:46:20,692 - INFO - 選択されたプロファイル: Profile 13
+2025-10-15 16:46:20,692 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-15 16:46:25,425 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-15 16:46:48,360 - INFO - プロフィール写真のクリックに成功しました
+2025-10-15 16:46:51,474 - INFO - 動画の取得に失敗しました
+2025-10-15 16:46:51,475 - INFO - datetime属性の抽出を開始します
+2025-10-15 16:46:51,580 - INFO - 抽出されたdatetime: 2025-10-15T02:17:37.000Z
+2025-10-15 16:46:51,636 - INFO - 画像URLを取得しました
+2025-10-15 16:46:51,638 - INFO - DUP(with-key): user=anartsoho_shun, key=Mzc0MzYyMzAxMzA0NTgzNzEyNw==, dt=2025-10-15T02:17:37.000Z
+================================================================================
+2025-10-15 20:35:49,425 - INFO - 処理開始 PROCESSID:20251015_203546
+2025-10-15 20:35:49,425 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-15 20:35:49,425 - INFO - 処理を開始します
+2025-10-15 20:35:49,484 - INFO - 選択されたプロファイル: Profile 13
+2025-10-15 20:35:49,484 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-15 20:35:53,916 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-15 20:36:16,355 - INFO - プロフィール写真のクリックに成功しました
+2025-10-15 20:36:19,633 - INFO - 動画の取得に失敗しました
+2025-10-15 20:36:19,633 - INFO - datetime属性の抽出を開始します
+2025-10-15 20:36:19,713 - INFO - 抽出されたdatetime: 2025-10-15T02:17:37.000Z
+2025-10-15 20:36:19,742 - INFO - 画像URLを取得しました
+2025-10-15 20:36:19,744 - INFO - DUP(with-key): user=anartsoho_shun, key=Mzc0MzYyMzAxMzA0NTgzNzEyNw==, dt=2025-10-15T02:17:37.000Z

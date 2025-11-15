@@ -1,0 +1,161 @@
+================================================================================
+2025-10-25 01:22:39,161 - INFO - 処理開始 PROCESSID:20251025_012235
+2025-10-25 01:22:39,162 - INFO - 対象ユーザー: mangetu_yokohama
+2025-10-25 01:22:39,162 - INFO - 処理を開始します
+2025-10-25 01:22:39,227 - INFO - 選択されたプロファイル: Profile 12
+2025-10-25 01:22:39,227 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-25 01:22:43,907 - INFO - mangetu_yokohama のプロフィールページにアクセスします
+2025-10-25 01:23:08,294 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 01:23:11,669 - INFO - 動画の取得に失敗しました
+2025-10-25 01:23:11,672 - INFO - datetime属性の抽出を開始します
+2025-10-25 01:23:11,773 - INFO - 抽出されたdatetime: 2025-10-24T03:33:06.000Z
+2025-10-25 01:23:11,815 - INFO - 画像URLを取得しました
+2025-10-25 01:23:11,818 - INFO - DUP(with-key): user=mangetu_yokohama, key=Mzc1MDE4NDAwMDg0MjQ0NTUxOA==, dt=2025-10-24T03:33:06.000Z
+================================================================================
+2025-10-25 05:47:36,054 - INFO - 処理開始 PROCESSID:20251025_054732
+2025-10-25 05:47:36,054 - INFO - 対象ユーザー: mangetu_yokohama
+2025-10-25 05:47:36,054 - INFO - 処理を開始します
+2025-10-25 05:47:36,117 - INFO - 選択されたプロファイル: Profile 9
+2025-10-25 05:47:36,117 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-25 05:47:41,963 - INFO - mangetu_yokohama のプロフィールページにアクセスします
+2025-10-25 05:48:04,331 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 05:48:07,804 - INFO - 動画の取得に失敗しました
+2025-10-25 05:48:07,806 - INFO - datetime属性の抽出を開始します
+2025-10-25 05:48:18,224 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7cfe43+66515]
+	GetHandleVerifier [0x0x7cfe84+66580]
+	(No symbol) [0x0x5bdc48]
+	(No symbol) [0x0x608704]
+	(No symbol) [0x0x608aab]
+	(No symbol) [0x0x64f482]
+	(No symbol) [0x0x62b214]
+	(No symbol) [0x0x64cba7]
+	(No symbol) [0x0x62afc6]
+	(No symbol) [0x0x5fc2ca]
+	(No symbol) [0x0x5fd154]
+	GetHandleVerifier [0x0xa27353+2521315]
+	GetHandleVerifier [0x0xa222d3+2500707]
+	GetHandleVerifier [0x0x7f7c94+229924]
+	GetHandleVerifier [0x0x7e81f8+165768]
+	GetHandleVerifier [0x0x7eecad+193085]
+	GetHandleVerifier [0x0x7d8158+100072]
+	GetHandleVerifier [0x0x7d82f0+100480]
+	GetHandleVerifier [0x0x7c25aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-25 05:48:28,518 - INFO - 画像の取得に失敗しました
+2025-10-25 05:48:30,956 - INFO - 処理終了
+================================================================================
+2025-10-25 10:06:14,760 - INFO - 処理開始 PROCESSID:20251025_100611
+2025-10-25 10:06:14,760 - INFO - 対象ユーザー: mangetu_yokohama
+2025-10-25 10:06:14,760 - INFO - 処理を開始します
+2025-10-25 10:06:14,820 - INFO - 選択されたプロファイル: Profile 12
+2025-10-25 10:06:14,820 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-25 10:06:20,845 - INFO - mangetu_yokohama のプロフィールページにアクセスします
+2025-10-25 10:06:43,215 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 10:06:46,596 - INFO - 動画の取得に失敗しました
+2025-10-25 10:06:46,598 - INFO - datetime属性の抽出を開始します
+2025-10-25 10:06:56,843 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7cfe43+66515]
+	GetHandleVerifier [0x0x7cfe84+66580]
+	(No symbol) [0x0x5bdc48]
+	(No symbol) [0x0x608704]
+	(No symbol) [0x0x608aab]
+	(No symbol) [0x0x64f482]
+	(No symbol) [0x0x62b214]
+	(No symbol) [0x0x64cba7]
+	(No symbol) [0x0x62afc6]
+	(No symbol) [0x0x5fc2ca]
+	(No symbol) [0x0x5fd154]
+	GetHandleVerifier [0x0xa27353+2521315]
+	GetHandleVerifier [0x0xa222d3+2500707]
+	GetHandleVerifier [0x0x7f7c94+229924]
+	GetHandleVerifier [0x0x7e81f8+165768]
+	GetHandleVerifier [0x0x7eecad+193085]
+	GetHandleVerifier [0x0x7d8158+100072]
+	GetHandleVerifier [0x0x7d82f0+100480]
+	GetHandleVerifier [0x0x7c25aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-25 10:07:07,174 - INFO - 画像の取得に失敗しました
+2025-10-25 10:07:09,553 - INFO - 処理終了
+================================================================================
+2025-10-25 14:54:30,343 - INFO - 処理開始 PROCESSID:20251025_145426
+2025-10-25 14:54:30,343 - INFO - 対象ユーザー: mangetu_yokohama
+2025-10-25 14:54:30,343 - INFO - 処理を開始します
+2025-10-25 14:54:30,403 - INFO - 選択されたプロファイル: Profile 12
+2025-10-25 14:54:30,403 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-25 14:54:34,823 - INFO - mangetu_yokohama のプロフィールページにアクセスします
+2025-10-25 14:54:56,935 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 14:55:00,204 - INFO - 動画の取得に失敗しました
+2025-10-25 14:55:00,205 - INFO - datetime属性の抽出を開始します
+2025-10-25 14:55:10,274 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7cfe43+66515]
+	GetHandleVerifier [0x0x7cfe84+66580]
+	(No symbol) [0x0x5bdc48]
+	(No symbol) [0x0x608704]
+	(No symbol) [0x0x608aab]
+	(No symbol) [0x0x64f482]
+	(No symbol) [0x0x62b214]
+	(No symbol) [0x0x64cba7]
+	(No symbol) [0x0x62afc6]
+	(No symbol) [0x0x5fc2ca]
+	(No symbol) [0x0x5fd154]
+	GetHandleVerifier [0x0xa27353+2521315]
+	GetHandleVerifier [0x0xa222d3+2500707]
+	GetHandleVerifier [0x0x7f7c94+229924]
+	GetHandleVerifier [0x0x7e81f8+165768]
+	GetHandleVerifier [0x0x7eecad+193085]
+	GetHandleVerifier [0x0x7d8158+100072]
+	GetHandleVerifier [0x0x7d82f0+100480]
+	GetHandleVerifier [0x0x7c25aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-25 14:55:20,631 - INFO - 画像の取得に失敗しました
+2025-10-25 14:55:23,034 - INFO - 処理終了
+================================================================================
+2025-10-25 20:42:58,734 - INFO - 処理開始 PROCESSID:20251025_204253
+2025-10-25 20:42:58,734 - INFO - 対象ユーザー: mangetu_yokohama
+2025-10-25 20:42:58,734 - INFO - 処理を開始します
+2025-10-25 20:42:58,802 - INFO - 選択されたプロファイル: Profile 13
+2025-10-25 20:42:58,804 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-25 20:43:03,290 - INFO - mangetu_yokohama のプロフィールページにアクセスします
+2025-10-25 20:43:25,167 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 20:43:28,454 - INFO - 動画の取得に失敗しました
+2025-10-25 20:43:28,455 - INFO - datetime属性の抽出を開始します
+2025-10-25 20:43:38,918 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7cfe43+66515]
+	GetHandleVerifier [0x0x7cfe84+66580]
+	(No symbol) [0x0x5bdc48]
+	(No symbol) [0x0x608704]
+	(No symbol) [0x0x608aab]
+	(No symbol) [0x0x64f482]
+	(No symbol) [0x0x62b214]
+	(No symbol) [0x0x64cba7]
+	(No symbol) [0x0x62afc6]
+	(No symbol) [0x0x5fc2ca]
+	(No symbol) [0x0x5fd154]
+	GetHandleVerifier [0x0xa27353+2521315]
+	GetHandleVerifier [0x0xa222d3+2500707]
+	GetHandleVerifier [0x0x7f7c94+229924]
+	GetHandleVerifier [0x0x7e81f8+165768]
+	GetHandleVerifier [0x0x7eecad+193085]
+	GetHandleVerifier [0x0x7d8158+100072]
+	GetHandleVerifier [0x0x7d82f0+100480]
+	GetHandleVerifier [0x0x7c25aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-25 20:43:49,195 - INFO - 画像の取得に失敗しました
+2025-10-25 20:43:51,610 - INFO - 処理終了

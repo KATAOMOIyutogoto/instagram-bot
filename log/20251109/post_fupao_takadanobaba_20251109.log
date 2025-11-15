@@ -1,0 +1,273 @@
+================================================================================
+2025-11-09 02:42:15,457 - INFO - 処理開始 PROCESSID:20251109_024212
+2025-11-09 02:42:15,457 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-11-09 02:42:15,457 - INFO - 処理を開始します
+2025-11-09 02:42:15,518 - INFO - 選択されたプロファイル: Profile 13
+2025-11-09 02:42:15,520 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-09 02:42:20,005 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-11-09 02:42:31,628 - INFO - 最新投稿を読み込みます
+2025-11-09 02:42:36,810 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_takadanobaba/p/DQv-Ry_kv_N/?hl=ja
+2025-11-09 02:42:40,939 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 02:42:44,756 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 02:42:44,862 - INFO - datetime属性の抽出を開始します
+2025-11-09 02:42:44,892 - INFO - 抽出されたdatetime: 2025-11-07T09:06:00.000Z
+2025-11-09 02:42:44,892 - INFO - fupao_takadanobaba の投稿日時: 2025-11-07T09:06:00.000Z
+2025-11-09 02:42:44,904 - INFO - date:2025-11-07 18:06:00+09:00
+2025-11-09 02:42:44,904 - INFO - post_date:20251107
+2025-11-09 02:42:44,943 - INFO - カルーセル推定: 1枚
+2025-11-09 02:42:45,018 - INFO - 検出(SINGLE): https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/573532447_17849425557590505_8388184025149493308_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc2MDQ5ODExNTc0NjEzNjAxMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTE3MC5zZHIuQzMifQ%3D%3D&_nc_ohc=mtm5-5P34pwQ7kNvwGwCRpM&_nc_oc=AdmVhRYjVCfXKmbMTV3mHKC7hMuxlDEX9bY6SCQBK7Sgx--AlPYlJ4l25hOILcKzOCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=nPG7KPn1JHomZk986cTLdQ&oh=00_Afi3gEx77HoWvNfAXgLnCyipa3zzFMGunzNE4gFEq5N9Dg&oe=6915EC33
+2025-11-09 02:42:45,018 - INFO - 1枚目: https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/573532447_17849425557590505_8388184025149493308_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc2MDQ5ODExNTc0NjEzNjAxMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTE3MC5zZHIuQzMifQ%3D%3D&_nc_ohc=mtm5-5P34pwQ7kNvwGwCRpM&_nc_oc=AdmVhRYjVCfXKmbMTV3mHKC7hMuxlDEX9bY6SCQBK7Sgx--AlPYlJ4l25hOILcKzOCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=nPG7KPn1JHomZk986cTLdQ&oh=00_Afi3gEx77HoWvNfAXgLnCyipa3zzFMGunzNE4gFEq5N9Dg&oe=6915EC33
+2025-11-09 02:42:45,018 - INFO - [caption/by_username] 開始
+2025-11-09 02:42:45,112 - INFO - [caption/by_username] 説明文確定（先頭100）: '【福包酒場　高田馬場店】
+
+他とは違う絶品のエビマヨはいかかですか？
+外はサクサク、中はプリプリ！衣からタレまで全てこだわった一品です。大人気です🦐
+
+ご来店お待ちしております！！
+
+#福包酒場 #福'
+2025-11-09 02:42:45,114 - INFO - [caption/by_username] 説明文を保存: media\fupao_takadanobaba\description\20251109_024212
+2025-11-09 02:42:45,114 - INFO - 画像URLを取得しました
+2025-11-09 02:42:45,120 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=fupao_takadanobaba, key=Mzc2MDQ5ODExNTc0NjEzNjAxMw==, dt=2025-11-07T09:06:00.000Z, url=https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/573532447_17849425557590505_8388184025149493308_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc2MDQ5ODExNTc0NjEzNjAxMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTE3MC5zZHIuQzMifQ%3D%3D&_nc_ohc=mtm5-5P34pwQ7kNvwGwCRpM&_nc_oc=AdmVhRYjVCfXKmbMTV3mHKC7hMuxlDEX9bY6SCQBK7Sgx--AlPYlJ4l25hOILcKzOCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=nPG7KPn1JHomZk986cTLdQ&oh=00_Afi3gEx77HoWvNfAXgLnCyipa3zzFMGunzNE4gFEq5N9Dg&oe=6915EC33, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('fupao_takadanobaba', 'Mzc2MDQ5ODExNTc0NjEzNjAxMw==', 'https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/573532447_17849425557590505_8388184025149493308_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc2MDQ5ODExNTc0NjEzNjAxMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTE3MC5zZHIuQzMifQ%3D%3D&_nc_ohc=mtm5-5P34pwQ7kNvwGwCRpM&_nc_oc=AdmVhRYjVCfXKmbMTV3mHKC7hMuxlDEX9bY6SCQBK7Sgx--AlPYlJ4l25hOILcKzOCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=nPG7KPn1JHomZk986cTLdQ&oh=00_Afi3gEx77HoWvNfAXgLnCyipa3zzFMGunzNE4gFEq5N9Dg&oe=6915EC33', '2025-11-07T09:06:00.000Z')
+2025-11-09 02:42:45,120 - INFO - このレコードは存在します
+2025-11-09 02:42:45,120 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-09 05:42:04,224 - INFO - 処理開始 PROCESSID:20251109_054200
+2025-11-09 05:42:04,226 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-11-09 05:42:04,226 - INFO - 処理を開始します
+2025-11-09 05:42:04,292 - INFO - 選択されたプロファイル: Profile 13
+2025-11-09 05:42:04,292 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-09 05:42:08,784 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-11-09 05:42:20,324 - INFO - 最新投稿を読み込みます
+2025-11-09 05:42:25,499 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_takadanobaba/p/DQv-Ry_kv_N/?hl=ja
+2025-11-09 05:42:29,490 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 05:42:33,432 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 05:42:33,491 - INFO - datetime属性の抽出を開始します
+2025-11-09 05:42:33,514 - INFO - 抽出されたdatetime: 2025-11-07T09:06:00.000Z
+2025-11-09 05:42:33,514 - INFO - fupao_takadanobaba の投稿日時: 2025-11-07T09:06:00.000Z
+2025-11-09 05:42:33,521 - INFO - date:2025-11-07 18:06:00+09:00
+2025-11-09 05:42:33,521 - INFO - post_date:20251107
+2025-11-09 05:42:33,578 - INFO - カルーセル推定: 1枚
+2025-11-09 05:42:33,703 - INFO - 検出(SINGLE): https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/573532447_17849425557590505_8388184025149493308_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc2MDQ5ODExNTc0NjEzNjAxMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTE3MC5zZHIuQzMifQ%3D%3D&_nc_ohc=mtm5-5P34pwQ7kNvwGwCRpM&_nc_oc=AdmVhRYjVCfXKmbMTV3mHKC7hMuxlDEX9bY6SCQBK7Sgx--AlPYlJ4l25hOILcKzOCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=kL873Kbza_23AYWX8r5HNw&oh=00_Afif_X-Tw1cL3ZtXd70Dq2oku--4T0lDRR3gnyFOzFhh6A&oe=6915EC33
+2025-11-09 05:42:33,703 - INFO - 1枚目: https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/573532447_17849425557590505_8388184025149493308_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc2MDQ5ODExNTc0NjEzNjAxMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTE3MC5zZHIuQzMifQ%3D%3D&_nc_ohc=mtm5-5P34pwQ7kNvwGwCRpM&_nc_oc=AdmVhRYjVCfXKmbMTV3mHKC7hMuxlDEX9bY6SCQBK7Sgx--AlPYlJ4l25hOILcKzOCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=kL873Kbza_23AYWX8r5HNw&oh=00_Afif_X-Tw1cL3ZtXd70Dq2oku--4T0lDRR3gnyFOzFhh6A&oe=6915EC33
+2025-11-09 05:42:33,703 - INFO - [caption/by_username] 開始
+2025-11-09 05:42:33,784 - INFO - [caption/by_username] 説明文確定（先頭100）: '【福包酒場　高田馬場店】
+
+他とは違う絶品のエビマヨはいかかですか？
+外はサクサク、中はプリプリ！衣からタレまで全てこだわった一品です。大人気です🦐
+
+ご来店お待ちしております！！
+
+#福包酒場 #福'
+2025-11-09 05:42:33,786 - INFO - [caption/by_username] 説明文を保存: media\fupao_takadanobaba\description\20251109_054200
+2025-11-09 05:42:33,786 - INFO - 画像URLを取得しました
+2025-11-09 05:42:33,796 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=fupao_takadanobaba, key=Mzc2MDQ5ODExNTc0NjEzNjAxMw==, dt=2025-11-07T09:06:00.000Z, url=https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/573532447_17849425557590505_8388184025149493308_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc2MDQ5ODExNTc0NjEzNjAxMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTE3MC5zZHIuQzMifQ%3D%3D&_nc_ohc=mtm5-5P34pwQ7kNvwGwCRpM&_nc_oc=AdmVhRYjVCfXKmbMTV3mHKC7hMuxlDEX9bY6SCQBK7Sgx--AlPYlJ4l25hOILcKzOCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=kL873Kbza_23AYWX8r5HNw&oh=00_Afif_X-Tw1cL3ZtXd70Dq2oku--4T0lDRR3gnyFOzFhh6A&oe=6915EC33, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('fupao_takadanobaba', 'Mzc2MDQ5ODExNTc0NjEzNjAxMw==', 'https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/573532447_17849425557590505_8388184025149493308_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc2MDQ5ODExNTc0NjEzNjAxMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTE3MC5zZHIuQzMifQ%3D%3D&_nc_ohc=mtm5-5P34pwQ7kNvwGwCRpM&_nc_oc=AdmVhRYjVCfXKmbMTV3mHKC7hMuxlDEX9bY6SCQBK7Sgx--AlPYlJ4l25hOILcKzOCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=kL873Kbza_23AYWX8r5HNw&oh=00_Afif_X-Tw1cL3ZtXd70Dq2oku--4T0lDRR3gnyFOzFhh6A&oe=6915EC33', '2025-11-07T09:06:00.000Z')
+2025-11-09 05:42:33,796 - INFO - このレコードは存在します
+2025-11-09 05:42:33,797 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-09 08:43:18,439 - INFO - 処理開始 PROCESSID:20251109_084315
+2025-11-09 08:43:18,439 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-11-09 08:43:18,439 - INFO - 処理を開始します
+2025-11-09 08:43:18,501 - INFO - 選択されたプロファイル: Profile 10
+2025-11-09 08:43:18,501 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-09 08:43:22,999 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-11-09 08:43:35,022 - INFO - 最新投稿を読み込みます
+2025-11-09 08:43:40,551 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_takadanobaba/p/DQ06eBJklsX/?hl=ja
+2025-11-09 08:43:44,762 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 08:43:47,767 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 08:43:47,832 - INFO - datetime属性の抽出を開始します
+2025-11-09 08:43:47,861 - INFO - 抽出されたdatetime: 2025-11-09T07:09:00.000Z
+2025-11-09 08:43:47,862 - INFO - fupao_takadanobaba の投稿日時: 2025-11-09T07:09:00.000Z
+2025-11-09 08:43:47,869 - INFO - date:2025-11-09 16:09:00+09:00
+2025-11-09 08:43:47,870 - INFO - post_date:20251109
+2025-11-09 08:43:47,913 - INFO - カルーセル推定: 1枚
+2025-11-09 08:43:47,946 - INFO - 検出(SINGLE): https://scontent-hkg4-2.cdninstagram.com/v/t51.82787-15/575647495_17849699202590505_609391580234589804_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzc2MTg4ODczODI3NzQ4MTIzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=oNx6-SPi-egQ7kNvwHVDlq8&_nc_oc=Adm1uolLCgtZpJYZOsQaxZp4QC5Nu0AYEOS-vaKTN_TmXyqjtQOZtM5g7DLFYoRKTrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_gid=yJw2n3rmVEGlrT33Ty4lNA&oh=00_Afg61_qfPmZPvNH4sfMoDNC2CJm8mbxkreUuQzOdEcSChQ&oe=69163B59
+2025-11-09 08:43:47,947 - INFO - 1枚目: https://scontent-hkg4-2.cdninstagram.com/v/t51.82787-15/575647495_17849699202590505_609391580234589804_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzc2MTg4ODczODI3NzQ4MTIzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=oNx6-SPi-egQ7kNvwHVDlq8&_nc_oc=Adm1uolLCgtZpJYZOsQaxZp4QC5Nu0AYEOS-vaKTN_TmXyqjtQOZtM5g7DLFYoRKTrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_gid=yJw2n3rmVEGlrT33Ty4lNA&oh=00_Afg61_qfPmZPvNH4sfMoDNC2CJm8mbxkreUuQzOdEcSChQ&oe=69163B59
+2025-11-09 08:43:47,947 - INFO - [caption/by_username] 開始
+2025-11-09 08:43:48,047 - INFO - [caption/by_username] 説明文確定（先頭100）: '【福包酒場　高田馬場店】
+
+BOX席あり！6名様までゆったり座れます。
+本日もご来店お待ちしております！
+
+#福包酒場 #福包酒場高田馬場店 #高田馬場居酒屋 #中華居酒屋 #高田馬場中華 #餃子 #'
+2025-11-09 08:43:48,049 - INFO - [caption/by_username] 説明文を保存: media\fupao_takadanobaba\description\20251109_084315
+2025-11-09 08:43:48,049 - INFO - 画像URLを取得しました
+2025-11-09 08:43:48,080 - INFO - INSERT(with-key): user=fupao_takadanobaba, key=Mzc2MTg4ODczODI3NzQ4MTIzOQ==, dt=2025-11-09T07:09:00.000Z
+2025-11-09 08:43:48,080 - INFO - メディアを取得します
+2025-11-09 08:43:50,081 - INFO - ダウンロードを開始します: media\fupao_takadanobaba\fupao_takadanobaba_20251109084350.jpg
+2025-11-09 08:43:50,496 - INFO - ダウンロード完了: media\fupao_takadanobaba\fupao_takadanobaba_20251109084350.jpg
+2025-11-09 08:43:50,585 - INFO - 元の画像サイズ: 1440x1440
+2025-11-09 08:43:50,585 - INFO - サイズ変更は不要です
+2025-11-09 08:43:50,587 - INFO - 説明文:【福包酒場　高田馬場店】
+
+BOX席あり！6名様までゆったり座れます。
+本日もご来店お待ちしております！
+
+#福包酒場 #福包酒場高田馬場店 #高田馬場居酒屋 #中華居酒屋 #高田馬場中華 #餃子 #小籠包 #高田馬場餃子 #高田馬場小籠包　#火鍋サワー #高田馬場飲み放題 #激安飲み放題 #激安居酒屋 #ネオ中華 #ネオン居酒屋 #昼飲み #ハッピーアワー #高田馬場昼飲み #餃活 #高田馬場グルメ #高田馬場ごはん #高田馬場中華 #新店舗 #オープンセール #焼売 #エビマヨ #麻婆豆腐
+2025-11-09 08:43:54,005 - INFO - 処理終了
+================================================================================
+2025-11-09 08:44:00,086 - INFO - 処理開始: Mode=post, Username=fupao_takadanobaba, GBP=15793563084212795871
+2025-11-09 08:44:00,086 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxNTc5MzU2MzA4NDIxMjc5NTg3MSJd.
+2025-11-09 08:44:22,744 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_takadanobaba\fupao_takadanobaba_20251109084350.jpg
+2025-11-09 08:44:25,922 - INFO - Waiting for description field...
+2025-11-09 08:44:25,950 - INFO - Setting description via JS (no send_keys)...
+2025-11-09 08:44:27,039 - INFO - Looking for button section...
+2025-11-09 08:44:31,701 - INFO - Trying to select CALL option...
+2025-11-09 08:44:31,969 - INFO - CALL option successfully selected
+2025-11-09 08:44:33,970 - INFO - Clicking submit button...
+2025-11-09 08:44:42,643 - INFO - 処理完了
+================================================================================
+2025-11-09 11:45:34,318 - INFO - 処理開始 PROCESSID:20251109_114530
+2025-11-09 11:45:34,318 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-11-09 11:45:34,318 - INFO - 処理を開始します
+2025-11-09 11:45:34,396 - INFO - 選択されたプロファイル: Profile 9
+2025-11-09 11:45:34,396 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-09 11:45:38,887 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-11-09 11:45:50,679 - INFO - 最新投稿を読み込みます
+2025-11-09 11:45:55,881 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_takadanobaba/p/DQ06eBJklsX/?hl=ja
+2025-11-09 11:45:59,730 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 11:46:03,548 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 11:46:03,603 - INFO - datetime属性の抽出を開始します
+2025-11-09 11:46:03,632 - INFO - 抽出されたdatetime: 2025-11-09T07:09:00.000Z
+2025-11-09 11:46:03,632 - INFO - fupao_takadanobaba の投稿日時: 2025-11-09T07:09:00.000Z
+2025-11-09 11:46:03,641 - INFO - date:2025-11-09 16:09:00+09:00
+2025-11-09 11:46:03,641 - INFO - post_date:20251109
+2025-11-09 11:46:03,688 - INFO - カルーセル推定: 1枚
+2025-11-09 11:46:03,750 - INFO - 検出(SINGLE): https://scontent-hkg4-2.cdninstagram.com/v/t51.82787-15/575647495_17849699202590505_609391580234589804_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzc2MTg4ODczODI3NzQ4MTIzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=oNx6-SPi-egQ7kNvwHVDlq8&_nc_oc=Adm1uolLCgtZpJYZOsQaxZp4QC5Nu0AYEOS-vaKTN_TmXyqjtQOZtM5g7DLFYoRKTrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_gid=1EXCGb3Mi1axaD_0Bq0gMQ&oh=00_AfilMQl1ftW6fi0MaRQHjINPBKF1UpHPBF4fJnpLaST_9w&oe=69163B59
+2025-11-09 11:46:03,750 - INFO - 1枚目: https://scontent-hkg4-2.cdninstagram.com/v/t51.82787-15/575647495_17849699202590505_609391580234589804_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzc2MTg4ODczODI3NzQ4MTIzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=oNx6-SPi-egQ7kNvwHVDlq8&_nc_oc=Adm1uolLCgtZpJYZOsQaxZp4QC5Nu0AYEOS-vaKTN_TmXyqjtQOZtM5g7DLFYoRKTrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_gid=1EXCGb3Mi1axaD_0Bq0gMQ&oh=00_AfilMQl1ftW6fi0MaRQHjINPBKF1UpHPBF4fJnpLaST_9w&oe=69163B59
+2025-11-09 11:46:03,751 - INFO - [caption/by_username] 開始
+2025-11-09 11:46:03,845 - INFO - [caption/by_username] 説明文確定（先頭100）: '【福包酒場　高田馬場店】
+
+BOX席あり！6名様までゆったり座れます。
+本日もご来店お待ちしております！
+
+#福包酒場 #福包酒場高田馬場店 #高田馬場居酒屋 #中華居酒屋 #高田馬場中華 #餃子 #'
+2025-11-09 11:46:03,848 - INFO - [caption/by_username] 説明文を保存: media\fupao_takadanobaba\description\20251109_114530
+2025-11-09 11:46:03,848 - INFO - 画像URLを取得しました
+2025-11-09 11:46:03,852 - INFO - DUP(with-key): user=fupao_takadanobaba, key=Mzc2MTg4ODczODI3NzQ4MTIzOQ==, dt=2025-11-09T07:09:00.000Z
+2025-11-09 11:46:03,853 - INFO - このレコードは存在します
+2025-11-09 11:46:03,853 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-09 14:40:53,101 - INFO - 処理開始 PROCESSID:20251109_144049
+2025-11-09 14:40:53,101 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-11-09 14:40:53,101 - INFO - 処理を開始します
+2025-11-09 14:40:53,161 - INFO - 選択されたプロファイル: Profile 10
+2025-11-09 14:40:53,161 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-09 14:40:57,383 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-11-09 14:41:08,923 - INFO - 最新投稿を読み込みます
+2025-11-09 14:41:14,109 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_takadanobaba/p/DQ06eBJklsX/?hl=ja
+2025-11-09 14:41:18,607 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 14:41:22,375 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 14:41:22,416 - INFO - datetime属性の抽出を開始します
+2025-11-09 14:41:22,471 - INFO - 抽出されたdatetime: 2025-11-09T07:09:00.000Z
+2025-11-09 14:41:22,471 - INFO - fupao_takadanobaba の投稿日時: 2025-11-09T07:09:00.000Z
+2025-11-09 14:41:22,485 - INFO - date:2025-11-09 16:09:00+09:00
+2025-11-09 14:41:22,485 - INFO - post_date:20251109
+2025-11-09 14:41:22,561 - INFO - カルーセル推定: 1枚
+2025-11-09 14:41:22,659 - INFO - 検出(SINGLE): https://scontent-hkg4-2.cdninstagram.com/v/t51.82787-15/575647495_17849699202590505_609391580234589804_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzc2MTg4ODczODI3NzQ4MTIzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=oNx6-SPi-egQ7kNvwHVDlq8&_nc_oc=Adm1uolLCgtZpJYZOsQaxZp4QC5Nu0AYEOS-vaKTN_TmXyqjtQOZtM5g7DLFYoRKTrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_gid=1wcowcFykgu8texKymI8TA&oh=00_Afi8FkarbRxXh6vhkfGm8pRh-TIRiWphwXvclOK2BGro3A&oe=69167399
+2025-11-09 14:41:22,659 - INFO - 1枚目: https://scontent-hkg4-2.cdninstagram.com/v/t51.82787-15/575647495_17849699202590505_609391580234589804_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzc2MTg4ODczODI3NzQ4MTIzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=oNx6-SPi-egQ7kNvwHVDlq8&_nc_oc=Adm1uolLCgtZpJYZOsQaxZp4QC5Nu0AYEOS-vaKTN_TmXyqjtQOZtM5g7DLFYoRKTrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_gid=1wcowcFykgu8texKymI8TA&oh=00_Afi8FkarbRxXh6vhkfGm8pRh-TIRiWphwXvclOK2BGro3A&oe=69167399
+2025-11-09 14:41:22,659 - INFO - [caption/by_username] 開始
+2025-11-09 14:41:22,740 - INFO - [caption/by_username] 説明文確定（先頭100）: '【福包酒場　高田馬場店】
+
+BOX席あり！6名様までゆったり座れます。
+本日もご来店お待ちしております！
+
+#福包酒場 #福包酒場高田馬場店 #高田馬場居酒屋 #中華居酒屋 #高田馬場中華 #餃子 #'
+2025-11-09 14:41:22,742 - INFO - [caption/by_username] 説明文を保存: media\fupao_takadanobaba\description\20251109_144049
+2025-11-09 14:41:22,742 - INFO - 画像URLを取得しました
+2025-11-09 14:41:22,746 - INFO - DUP(with-key): user=fupao_takadanobaba, key=Mzc2MTg4ODczODI3NzQ4MTIzOQ==, dt=2025-11-09T07:09:00.000Z
+2025-11-09 14:41:22,747 - INFO - このレコードは存在します
+2025-11-09 14:41:22,747 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-09 17:34:38,494 - INFO - 処理開始 PROCESSID:20251109_173435
+2025-11-09 17:34:38,494 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-11-09 17:34:38,494 - INFO - 処理を開始します
+2025-11-09 17:34:38,560 - INFO - 選択されたプロファイル: Profile 13
+2025-11-09 17:34:38,560 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-09 17:34:43,015 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-11-09 17:34:55,088 - INFO - 最新投稿を読み込みます
+2025-11-09 17:35:00,409 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_takadanobaba/p/DQ06eBJklsX/?hl=ja
+2025-11-09 17:35:04,893 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 17:35:08,441 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 17:35:08,518 - INFO - datetime属性の抽出を開始します
+2025-11-09 17:35:08,555 - INFO - 抽出されたdatetime: 2025-11-09T07:09:00.000Z
+2025-11-09 17:35:08,555 - INFO - fupao_takadanobaba の投稿日時: 2025-11-09T07:09:00.000Z
+2025-11-09 17:35:08,568 - INFO - date:2025-11-09 16:09:00+09:00
+2025-11-09 17:35:08,568 - INFO - post_date:20251109
+2025-11-09 17:35:08,617 - INFO - カルーセル推定: 1枚
+2025-11-09 17:35:08,659 - INFO - 検出(SINGLE): https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/575647495_17849699202590505_609391580234589804_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzc2MTg4ODczODI3NzQ4MTIzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=oNx6-SPi-egQ7kNvwHVDlq8&_nc_oc=Adm1uolLCgtZpJYZOsQaxZp4QC5Nu0AYEOS-vaKTN_TmXyqjtQOZtM5g7DLFYoRKTrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=s_gX1i67Z_vjllhJmYeFQQ&oh=00_AfiNfkRfc2c2LpG9qEXk6Sft46kr2Dt4Hprle1V5YhNmdw&oe=6916ABD9
+2025-11-09 17:35:08,659 - INFO - 1枚目: https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/575647495_17849699202590505_609391580234589804_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzc2MTg4ODczODI3NzQ4MTIzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=oNx6-SPi-egQ7kNvwHVDlq8&_nc_oc=Adm1uolLCgtZpJYZOsQaxZp4QC5Nu0AYEOS-vaKTN_TmXyqjtQOZtM5g7DLFYoRKTrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=s_gX1i67Z_vjllhJmYeFQQ&oh=00_AfiNfkRfc2c2LpG9qEXk6Sft46kr2Dt4Hprle1V5YhNmdw&oe=6916ABD9
+2025-11-09 17:35:08,659 - INFO - [caption/by_username] 開始
+2025-11-09 17:35:08,841 - INFO - [caption/by_username] 説明文確定（先頭100）: '【福包酒場　高田馬場店】
+
+BOX席あり！6名様までゆったり座れます。
+本日もご来店お待ちしております！
+
+#福包酒場 #福包酒場高田馬場店 #高田馬場居酒屋 #中華居酒屋 #高田馬場中華 #餃子 #'
+2025-11-09 17:35:08,842 - INFO - [caption/by_username] 説明文を保存: media\fupao_takadanobaba\description\20251109_173435
+2025-11-09 17:35:08,842 - INFO - 画像URLを取得しました
+2025-11-09 17:35:08,844 - INFO - DUP(with-key): user=fupao_takadanobaba, key=Mzc2MTg4ODczODI3NzQ4MTIzOQ==, dt=2025-11-09T07:09:00.000Z
+2025-11-09 17:35:08,844 - INFO - このレコードは存在します
+2025-11-09 17:35:08,844 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-09 20:30:17,432 - INFO - 処理開始 PROCESSID:20251109_203014
+2025-11-09 20:30:17,432 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-11-09 20:30:17,432 - INFO - 処理を開始します
+2025-11-09 20:30:17,489 - INFO - 選択されたプロファイル: Profile 13
+2025-11-09 20:30:17,489 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-09 20:30:21,648 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-11-09 20:30:34,055 - INFO - 最新投稿を読み込みます
+2025-11-09 20:30:39,497 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_takadanobaba/p/DQ06eBJklsX/?hl=ja
+2025-11-09 20:30:43,128 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 20:30:46,645 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 20:30:46,708 - INFO - datetime属性の抽出を開始します
+2025-11-09 20:30:46,739 - INFO - 抽出されたdatetime: 2025-11-09T07:09:00.000Z
+2025-11-09 20:30:46,739 - INFO - fupao_takadanobaba の投稿日時: 2025-11-09T07:09:00.000Z
+2025-11-09 20:30:46,747 - INFO - date:2025-11-09 16:09:00+09:00
+2025-11-09 20:30:46,747 - INFO - post_date:20251109
+2025-11-09 20:30:46,837 - INFO - カルーセル推定: 1枚
+2025-11-09 20:30:46,911 - INFO - 検出(SINGLE): https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/575647495_17849699202590505_609391580234589804_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzc2MTg4ODczODI3NzQ4MTIzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=oNx6-SPi-egQ7kNvwHVDlq8&_nc_oc=Adm1uolLCgtZpJYZOsQaxZp4QC5Nu0AYEOS-vaKTN_TmXyqjtQOZtM5g7DLFYoRKTrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=Kd9u3GEOQvnb6Q-7HrvaSg&oh=00_AfjWqBRBDHyuwXlx3fOpONzY0nKktJXmsBFFJFT3o1mCZQ&oe=6916E419
+2025-11-09 20:30:46,911 - INFO - 1枚目: https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/575647495_17849699202590505_609391580234589804_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzc2MTg4ODczODI3NzQ4MTIzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=oNx6-SPi-egQ7kNvwHVDlq8&_nc_oc=Adm1uolLCgtZpJYZOsQaxZp4QC5Nu0AYEOS-vaKTN_TmXyqjtQOZtM5g7DLFYoRKTrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=Kd9u3GEOQvnb6Q-7HrvaSg&oh=00_AfjWqBRBDHyuwXlx3fOpONzY0nKktJXmsBFFJFT3o1mCZQ&oe=6916E419
+2025-11-09 20:30:46,911 - INFO - [caption/by_username] 開始
+2025-11-09 20:30:47,000 - INFO - [caption/by_username] 説明文確定（先頭100）: '【福包酒場　高田馬場店】
+
+BOX席あり！6名様までゆったり座れます。
+本日もご来店お待ちしております！
+
+#福包酒場 #福包酒場高田馬場店 #高田馬場居酒屋 #中華居酒屋 #高田馬場中華 #餃子 #'
+2025-11-09 20:30:47,002 - INFO - [caption/by_username] 説明文を保存: media\fupao_takadanobaba\description\20251109_203014
+2025-11-09 20:30:47,002 - INFO - 画像URLを取得しました
+2025-11-09 20:30:47,004 - INFO - DUP(with-key): user=fupao_takadanobaba, key=Mzc2MTg4ODczODI3NzQ4MTIzOQ==, dt=2025-11-09T07:09:00.000Z
+2025-11-09 20:30:47,004 - INFO - このレコードは存在します
+2025-11-09 20:30:47,004 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-09 23:22:20,435 - INFO - 処理開始 PROCESSID:20251109_232217
+2025-11-09 23:22:20,435 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-11-09 23:22:20,435 - INFO - 処理を開始します
+2025-11-09 23:22:20,499 - INFO - 選択されたプロファイル: Profile 13
+2025-11-09 23:22:20,499 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-09 23:22:24,952 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-11-09 23:22:37,221 - INFO - 最新投稿を読み込みます
+2025-11-09 23:22:42,670 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_takadanobaba/p/DQ06eBJklsX/?hl=ja
+2025-11-09 23:22:47,060 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 23:22:50,862 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 23:22:50,909 - INFO - datetime属性の抽出を開始します
+2025-11-09 23:22:50,938 - INFO - 抽出されたdatetime: 2025-11-09T07:09:00.000Z
+2025-11-09 23:22:50,938 - INFO - fupao_takadanobaba の投稿日時: 2025-11-09T07:09:00.000Z
+2025-11-09 23:22:50,946 - INFO - date:2025-11-09 16:09:00+09:00
+2025-11-09 23:22:50,946 - INFO - post_date:20251109
+2025-11-09 23:22:50,986 - INFO - カルーセル推定: 1枚
+2025-11-09 23:22:51,027 - INFO - 検出(SINGLE): https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/575647495_17849699202590505_609391580234589804_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzc2MTg4ODczODI3NzQ4MTIzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=oNx6-SPi-egQ7kNvwHVDlq8&_nc_oc=Adm1uolLCgtZpJYZOsQaxZp4QC5Nu0AYEOS-vaKTN_TmXyqjtQOZtM5g7DLFYoRKTrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=-Jkq0GJi2t6LjMxxgX5t2A&oh=00_AfgfM-f3F1QEgPIg4m6SQmqMoz8tzX09InzLjAOiHwtEJQ&oe=6916E419
+2025-11-09 23:22:51,028 - INFO - 1枚目: https://scontent-fra3-2.cdninstagram.com/v/t51.82787-15/575647495_17849699202590505_609391580234589804_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzc2MTg4ODczODI3NzQ4MTIzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5oZHIuQzMifQ%3D%3D&_nc_ohc=oNx6-SPi-egQ7kNvwHVDlq8&_nc_oc=Adm1uolLCgtZpJYZOsQaxZp4QC5Nu0AYEOS-vaKTN_TmXyqjtQOZtM5g7DLFYoRKTrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=-Jkq0GJi2t6LjMxxgX5t2A&oh=00_AfgfM-f3F1QEgPIg4m6SQmqMoz8tzX09InzLjAOiHwtEJQ&oe=6916E419
+2025-11-09 23:22:51,028 - INFO - [caption/by_username] 開始
+2025-11-09 23:22:51,136 - INFO - [caption/by_username] 説明文確定（先頭100）: '【福包酒場　高田馬場店】
+
+BOX席あり！6名様までゆったり座れます。
+本日もご来店お待ちしております！
+
+#福包酒場 #福包酒場高田馬場店 #高田馬場居酒屋 #中華居酒屋 #高田馬場中華 #餃子 #'
+2025-11-09 23:22:51,139 - INFO - [caption/by_username] 説明文を保存: media\fupao_takadanobaba\description\20251109_232217
+2025-11-09 23:22:51,139 - INFO - 画像URLを取得しました
+2025-11-09 23:22:51,141 - INFO - DUP(with-key): user=fupao_takadanobaba, key=Mzc2MTg4ODczODI3NzQ4MTIzOQ==, dt=2025-11-09T07:09:00.000Z
+2025-11-09 23:22:51,141 - INFO - このレコードは存在します
+2025-11-09 23:22:51,141 - INFO - 全件レコードが存在します

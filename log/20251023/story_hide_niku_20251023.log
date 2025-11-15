@@ -1,0 +1,151 @@
+================================================================================
+2025-10-23 00:53:12,073 - INFO - 処理開始 PROCESSID:20251023_005308
+2025-10-23 00:53:12,074 - INFO - 対象ユーザー: hide_niku
+2025-10-23 00:53:12,074 - INFO - 処理を開始します
+2025-10-23 00:53:12,145 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 00:53:12,147 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 00:53:16,831 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-23 00:53:38,655 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 00:53:41,811 - INFO - 動画の取得に失敗しました
+2025-10-23 00:53:41,811 - INFO - datetime属性の抽出を開始します
+2025-10-23 00:53:51,859 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa6fe43+66515]
+	GetHandleVerifier [0x0xa6fe84+66580]
+	(No symbol) [0x0x85dc48]
+	(No symbol) [0x0x8a8704]
+	(No symbol) [0x0x8a8aab]
+	(No symbol) [0x0x8ef482]
+	(No symbol) [0x0x8cb214]
+	(No symbol) [0x0x8ecba7]
+	(No symbol) [0x0x8cafc6]
+	(No symbol) [0x0x89c2ca]
+	(No symbol) [0x0x89d154]
+	GetHandleVerifier [0x0xcc7353+2521315]
+	GetHandleVerifier [0x0xcc22d3+2500707]
+	GetHandleVerifier [0x0xa97c94+229924]
+	GetHandleVerifier [0x0xa881f8+165768]
+	GetHandleVerifier [0x0xa8ecad+193085]
+	GetHandleVerifier [0x0xa78158+100072]
+	GetHandleVerifier [0x0xa782f0+100480]
+	GetHandleVerifier [0x0xa625aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-23 00:54:02,153 - INFO - 画像の取得に失敗しました
+2025-10-23 00:54:04,587 - INFO - 処理終了
+================================================================================
+2025-10-23 05:03:33,162 - INFO - 処理開始 PROCESSID:20251023_050329
+2025-10-23 05:03:33,162 - INFO - 対象ユーザー: hide_niku
+2025-10-23 05:03:33,162 - INFO - 処理を開始します
+2025-10-23 05:03:33,220 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 05:03:33,220 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 05:03:37,736 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-23 05:04:00,356 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 05:04:03,471 - INFO - 動画の取得に失敗しました
+2025-10-23 05:04:03,471 - INFO - datetime属性の抽出を開始します
+2025-10-23 05:04:13,924 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa6fe43+66515]
+	GetHandleVerifier [0x0xa6fe84+66580]
+	(No symbol) [0x0x85dc48]
+	(No symbol) [0x0x8a8704]
+	(No symbol) [0x0x8a8aab]
+	(No symbol) [0x0x8ef482]
+	(No symbol) [0x0x8cb214]
+	(No symbol) [0x0x8ecba7]
+	(No symbol) [0x0x8cafc6]
+	(No symbol) [0x0x89c2ca]
+	(No symbol) [0x0x89d154]
+	GetHandleVerifier [0x0xcc7353+2521315]
+	GetHandleVerifier [0x0xcc22d3+2500707]
+	GetHandleVerifier [0x0xa97c94+229924]
+	GetHandleVerifier [0x0xa881f8+165768]
+	GetHandleVerifier [0x0xa8ecad+193085]
+	GetHandleVerifier [0x0xa78158+100072]
+	GetHandleVerifier [0x0xa782f0+100480]
+	GetHandleVerifier [0x0xa625aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-23 05:04:24,237 - INFO - 画像の取得に失敗しました
+2025-10-23 05:04:26,649 - INFO - 処理終了
+================================================================================
+2025-10-23 09:12:55,181 - INFO - 処理開始 PROCESSID:20251023_091251
+2025-10-23 09:12:55,183 - INFO - 対象ユーザー: hide_niku
+2025-10-23 09:12:55,183 - INFO - 処理を開始します
+2025-10-23 09:12:55,243 - INFO - 選択されたプロファイル: Profile 13
+2025-10-23 09:12:55,243 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-23 09:12:59,740 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-23 09:13:21,867 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 09:13:22,704 - INFO - hide_niku: 動画を検出しました
+2025-10-23 09:13:22,704 - INFO - datetime属性の抽出を開始します
+2025-10-23 09:13:22,743 - INFO - 抽出されたdatetime: 2025-10-23T06:37:44.000Z
+2025-10-23 09:13:22,743 - INFO - hide_niku の投稿日時: 2025-10-23T06:37:44.000Z
+2025-10-23 09:13:24,089 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQNseomW9m6kK1lqAMP9H0FYKIxvYKXDSUH7lpTl4rsA5inPiZ-caev0Z_YF-gV-wxPGsK2B50heokaj_sOZLPc_ar5YUX6TpLJL-RNiukkV3A.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=WLcbsfr-kdgQ7kNvwFQUBgM&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE4MzY5NjU5MzYyMzQ0NCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=yRFLaSBDEsn5C3lJIgIWxQ&_nc_zt=28&oh=00_AfdpGAz38ZM5Za6xLVzo8LSmXMgCgc9nJBa451Dv0pK8_g&oe=68FFBDC9&bytestart=0&byteend=848534
+2025-10-23 09:13:24,089 - INFO - 動画URLを取得しました
+2025-10-23 09:13:24,323 - INFO - INSERT(with-key): user=hide_niku, key=AQNseomW9m6kK1lqAMP9H0FYKIxvYKXDSUH7lpTl4rsA5inPiZ-caev0Z_YF-gV-wxPGsK2B50heokaj_sOZLPc_ar5YUX6TpLJL-RNiukkV3A, dt=2025-10-23T06:37:44.000Z
+2025-10-23 09:13:26,540 - INFO - ダウンロードを開始します: media\hide_niku\hide_niku_20251023091326.mp4
+2025-10-23 09:13:29,049 - INFO - ダウンロード完了: media\hide_niku\hide_niku_20251023091326.mp4
+2025-10-23 09:13:31,596 - INFO - 処理終了
+2025-10-23 09:13:31,596 - INFO - 説明文_AI: None
+2025-10-23 09:13:31,596 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 09:13:37,706 - INFO - 処理開始: Mode=story, Username=hide_niku, GBP=nikukappouhide
+2025-10-23 09:13:37,706 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJuaWt1a2FwcG91aGlkZSJd.
+2025-10-23 09:14:00,871 - INFO - 元の動画サイズ: 1080x1920
+2025-10-23 09:14:00,871 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-23 09:14:00,871 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hide_niku\hide_niku_20251023091326.mp4
+2025-10-23 09:14:10,931 - INFO - 一時ファイルが見つかりません: media\hide_niku\description\20251023_091251
+2025-10-23 09:14:10,931 - INFO - Looking for button section...
+2025-10-23 09:14:15,825 - INFO - Trying to select CALL option...
+2025-10-23 09:14:16,079 - INFO - CALL option successfully selected
+2025-10-23 09:14:18,080 - INFO - Clicking submit button...
+2025-10-23 09:14:26,695 - INFO - 処理完了
+================================================================================
+2025-10-23 13:26:34,561 - INFO - 処理開始 PROCESSID:20251023_132631
+2025-10-23 13:26:34,561 - INFO - 対象ユーザー: hide_niku
+2025-10-23 13:26:34,561 - INFO - 処理を開始します
+2025-10-23 13:26:34,622 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 13:26:34,622 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 13:26:39,315 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-23 13:27:01,489 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 13:27:02,092 - INFO - hide_niku: 動画を検出しました
+2025-10-23 13:27:02,092 - INFO - datetime属性の抽出を開始します
+2025-10-23 13:27:02,142 - INFO - 抽出されたdatetime: 2025-10-23T06:37:44.000Z
+2025-10-23 13:27:02,142 - INFO - hide_niku の投稿日時: 2025-10-23T06:37:44.000Z
+2025-10-23 13:27:03,443 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQNseomW9m6kK1lqAMP9H0FYKIxvYKXDSUH7lpTl4rsA5inPiZ-caev0Z_YF-gV-wxPGsK2B50heokaj_sOZLPc_ar5YUX6TpLJL-RNiukkV3A.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=WLcbsfr-kdgQ7kNvwFQUBgM&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE4MzY5NjU5MzYyMzQ0NCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UNNvWomGcMhLYK2ZcrHnzg&_nc_zt=28&oh=00_AfcWLJsXEjpFqZ-Y4RS3jNS04oeJwlmrCvt57SwxWatoug&oe=68FFF609&bytestart=0&byteend=848534
+2025-10-23 13:27:03,444 - INFO - 動画URLを取得しました
+2025-10-23 13:27:03,446 - INFO - DUP(with-key): user=hide_niku, key=AQNseomW9m6kK1lqAMP9H0FYKIxvYKXDSUH7lpTl4rsA5inPiZ-caev0Z_YF-gV-wxPGsK2B50heokaj_sOZLPc_ar5YUX6TpLJL-RNiukkV3A, dt=2025-10-23T06:37:44.000Z
+================================================================================
+2025-10-23 18:45:51,999 - INFO - 処理開始 PROCESSID:20251023_184548
+2025-10-23 18:45:51,999 - INFO - 対象ユーザー: hide_niku
+2025-10-23 18:45:51,999 - INFO - 処理を開始します
+2025-10-23 18:45:52,071 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 18:45:52,071 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 18:45:56,619 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-23 18:46:19,998 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 18:46:20,865 - INFO - hide_niku: 動画を検出しました
+2025-10-23 18:46:20,866 - INFO - datetime属性の抽出を開始します
+2025-10-23 18:46:20,936 - INFO - 抽出されたdatetime: 2025-10-23T06:37:44.000Z
+2025-10-23 18:46:20,936 - INFO - hide_niku の投稿日時: 2025-10-23T06:37:44.000Z
+2025-10-23 18:46:22,240 - INFO - 生成URL:https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m367/AQNseomW9m6kK1lqAMP9H0FYKIxvYKXDSUH7lpTl4rsA5inPiZ-caev0Z_YF-gV-wxPGsK2B50heokaj_sOZLPc_ar5YUX6TpLJL-RNiukkV3A.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=WLcbsfr-kdgQ7kNvwFQUBgM&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE4MzY5NjU5MzYyMzQ0NCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=u4XAzHw0tJdO58S1mQrzrA&_nc_zt=28&oh=00_AfcXhUeoD7-sKAJuJwA9Blv67gB8bQiMB6_woBLDNHj2HQ&oe=69006689&bytestart=0&byteend=848534
+2025-10-23 18:46:22,241 - INFO - 動画URLを取得しました
+2025-10-23 18:46:22,332 - INFO - DUP(with-key): user=hide_niku, key=AQNseomW9m6kK1lqAMP9H0FYKIxvYKXDSUH7lpTl4rsA5inPiZ-caev0Z_YF-gV-wxPGsK2B50heokaj_sOZLPc_ar5YUX6TpLJL-RNiukkV3A, dt=2025-10-23T06:37:44.000Z
+================================================================================
+2025-10-23 22:45:37,048 - INFO - 処理開始 PROCESSID:20251023_224533
+2025-10-23 22:45:37,050 - INFO - 対象ユーザー: hide_niku
+2025-10-23 22:45:37,050 - INFO - 処理を開始します
+2025-10-23 22:45:37,115 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 22:45:37,115 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 22:45:41,800 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-23 22:46:03,421 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 22:46:04,825 - INFO - hide_niku: 動画を検出しました
+2025-10-23 22:46:04,825 - INFO - datetime属性の抽出を開始します
+2025-10-23 22:46:04,889 - INFO - 抽出されたdatetime: 2025-10-23T06:37:44.000Z
+2025-10-23 22:46:04,889 - INFO - hide_niku の投稿日時: 2025-10-23T06:37:44.000Z
+2025-10-23 22:46:06,147 - INFO - 生成URL:https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m367/AQNseomW9m6kK1lqAMP9H0FYKIxvYKXDSUH7lpTl4rsA5inPiZ-caev0Z_YF-gV-wxPGsK2B50heokaj_sOZLPc_ar5YUX6TpLJL-RNiukkV3A.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=JpnBe1Rs6woQ7kNvwG_9Mko&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE4MzY5NjU5MzYyMzQ0NCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=_tSFP_2mc5FjR8b5k6X7TA&_nc_zt=28&oh=00_AfdvjthT2aIavOD0nqbPsSiVPzy_1CIfr51I4jIj5ZL6AQ&oe=69009EC9&bytestart=0&byteend=848534
+2025-10-23 22:46:06,147 - INFO - 動画URLを取得しました
+2025-10-23 22:46:06,149 - INFO - DUP(with-key): user=hide_niku, key=AQNseomW9m6kK1lqAMP9H0FYKIxvYKXDSUH7lpTl4rsA5inPiZ-caev0Z_YF-gV-wxPGsK2B50heokaj_sOZLPc_ar5YUX6TpLJL-RNiukkV3A, dt=2025-10-23T06:37:44.000Z

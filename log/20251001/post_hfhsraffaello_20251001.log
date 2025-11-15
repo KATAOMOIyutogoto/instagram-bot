@@ -1,0 +1,481 @@
+================================================================================
+2025-10-01 02:08:37,340 - INFO - 処理開始 PROCESSID:20251001_020832
+2025-10-01 02:08:37,341 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-01 02:08:37,341 - INFO - 処理を開始します
+2025-10-01 02:08:37,405 - INFO - 選択されたプロファイル: Profile 9
+2025-10-01 02:08:37,405 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-01 02:08:43,610 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-01 02:08:55,747 - INFO - 最新投稿を読み込みます
+2025-10-01 02:09:01,046 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-10-01 02:09:04,485 - INFO - ピン留めだが3日以上前(78日) → スキップ
+2025-10-01 02:09:04,485 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-10-01 02:09:07,366 - INFO - ピン留めだが3日以上前(469日) → スキップ
+2025-10-01 02:09:07,366 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DPK2rQTEh-Y/?hl=ja
+2025-10-01 02:09:12,630 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 02:09:15,539 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 02:09:15,639 - INFO - datetime属性の抽出を開始します
+2025-10-01 02:09:15,748 - INFO - 抽出されたdatetime: 2025-09-30T02:35:05.000Z
+2025-10-01 02:09:15,748 - INFO - hfhsraffaello の投稿日時: 2025-09-30T02:35:05.000Z
+2025-10-01 02:09:15,786 - INFO - date:2025-09-30 11:35:05+09:00
+2025-10-01 02:09:15,786 - INFO - post_date:20250930
+2025-10-01 02:09:15,879 - INFO - カルーセル推定: 2枚
+2025-10-01 02:09:16,150 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/553796969_18427266559101616_6362543698967119131_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTkyMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QEquIwoHr6jlZX4_Ff3GId1fGF2-9E7pE11XR46h5e8HhkpjG29osPtC8RjHTZpjTo&_nc_ohc=qvlWZSN-UWEQ7kNvwGNGTSV&_nc_gid=Lb087Qdk_JR0JTVzGkKWhQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzcyODQ2MTE0NzU2Njk0ODkzNQ%3D%3D.3-ccb7-5&oh=00_AfYeOb8nIMo4a18E0BcmWs5YqEaXzuJxILCLDsnDDhoJHQ&oe=68E246AA&_nc_sid=10d13b
+2025-10-01 02:09:16,177 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/553530705_18427266568101616_95964281154638293_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTkyMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QEquIwoHr6jlZX4_Ff3GId1fGF2-9E7pE11XR46h5e8HhkpjG29osPtC8RjHTZpjTo&_nc_ohc=0wcVDbc3PW4Q7kNvwHhcZDc&_nc_gid=Lb087Qdk_JR0JTVzGkKWhQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzcyODQ2MTE0NzQwNzU1OTU3NA%3D%3D.3-ccb7-5&oh=00_AfZLMza9noFXhJ5PSf6gBpQs-SXISYO0BOECETK3VrHycw&oe=68E26AFB&_nc_sid=10d13b
+2025-10-01 02:09:16,177 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/553796969_18427266559101616_6362543698967119131_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTkyMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QEquIwoHr6jlZX4_Ff3GId1fGF2-9E7pE11XR46h5e8HhkpjG29osPtC8RjHTZpjTo&_nc_ohc=qvlWZSN-UWEQ7kNvwGNGTSV&_nc_gid=Lb087Qdk_JR0JTVzGkKWhQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzcyODQ2MTE0NzU2Njk0ODkzNQ%3D%3D.3-ccb7-5&oh=00_AfYeOb8nIMo4a18E0BcmWs5YqEaXzuJxILCLDsnDDhoJHQ&oe=68E246AA&_nc_sid=10d13b
+2025-10-01 02:09:16,177 - INFO - 2枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/553530705_18427266568101616_95964281154638293_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTkyMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QEquIwoHr6jlZX4_Ff3GId1fGF2-9E7pE11XR46h5e8HhkpjG29osPtC8RjHTZpjTo&_nc_ohc=0wcVDbc3PW4Q7kNvwHhcZDc&_nc_gid=Lb087Qdk_JR0JTVzGkKWhQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzcyODQ2MTE0NzQwNzU1OTU3NA%3D%3D.3-ccb7-5&oh=00_AfZLMza9noFXhJ5PSf6gBpQs-SXISYO0BOECETK3VrHycw&oe=68E26AFB&_nc_sid=10d13b
+2025-10-01 02:09:16,177 - INFO - [caption/by_username] 開始
+2025-10-01 02:09:16,360 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+
+首元がすっきり見えるグラボブ✂️
+深みのあるレッドブラウンで上品に。
+大人女性におすすめの艶スタイルです🍷
+
+ご来店ありがとうございました🙏
+担当 なお
+
+======= ren'
+2025-10-01 02:09:16,362 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251001_020832
+2025-10-01 02:09:16,362 - INFO - 画像URLを取得しました
+2025-10-01 02:09:16,366 - INFO - DUP(with-key): user=hfhsraffaello, key=MzcyODQ2MTE0NzU2Njk0ODkzNQ==, dt=2025-09-30T02:35:05.000Z
+2025-10-01 02:09:16,366 - INFO - このレコードは存在します
+2025-10-01 02:09:16,366 - INFO - 画像URLを取得しました
+2025-10-01 02:09:16,367 - INFO - DUP(with-key): user=hfhsraffaello, key=MzcyODQ2MTE0NzQwNzU1OTU3NA==, dt=2025-09-30T02:35:05.000Z
+2025-10-01 02:09:16,368 - INFO - このレコードは存在します
+2025-10-01 02:09:16,368 - INFO - カルーセル集計: 想定2 / 収集2 / 新規DL0 / 既存スキップ2 / 失敗0
+2025-10-01 02:09:16,368 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-01 02:09:16,368 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-01 06:18:03,892 - INFO - 処理開始 PROCESSID:20251001_061800
+2025-10-01 06:18:03,892 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-01 06:18:03,892 - INFO - 処理を開始します
+2025-10-01 06:18:03,947 - INFO - 選択されたプロファイル: Profile 12
+2025-10-01 06:18:03,947 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-01 06:18:09,512 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-01 06:18:33,444 - INFO - 最新投稿を読み込みます
+2025-10-01 06:18:42,844 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-10-01 06:18:50,581 - INFO - ピン留めだが3日以上前(78日) → スキップ
+2025-10-01 06:18:50,588 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-10-01 06:19:00,068 - INFO - ピン留めだが3日以上前(469日) → スキップ
+2025-10-01 06:19:00,069 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DPQEOidkjhp/?hl=ja
+2025-10-01 06:19:04,736 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 06:19:12,340 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 06:19:13,844 - INFO - datetime属性の抽出を開始します
+2025-10-01 06:19:26,700 - INFO - 抽出されたdatetime: 2025-10-01T03:10:05.000Z
+2025-10-01 06:19:26,700 - INFO - hfhsraffaello の投稿日時: 2025-10-01T03:10:05.000Z
+2025-10-01 06:19:26,739 - INFO - date:2025-10-01 12:10:05+09:00
+2025-10-01 06:19:26,739 - INFO - post_date:20251001
+2025-10-01 06:19:26,907 - INFO - カルーセル推定: 3枚
+2025-10-01 06:19:27,011 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/552509686_18427282204101616_793895703686778077_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTkxMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QGcVXcT3IhCrQxL65_Y-4XIBmgZ0mDj5SlJ6IkHpDQwHwn1sgHAffDb_Fyvx2S86a0&_nc_ohc=MCjahUxM2CcQ7kNvwFroIL1&_nc_gid=jtZBm_KR68gM9G0eGYAJ0w&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzcyODU0OTUyNzk2MTEwNjMwNg%3D%3D.3-ccb7-5&oh=00_AfagA_8c0NUBiHAu-hp0OUsdlPiGJZvZ3pvslxQa-ZPnyg&oe=68E2AA4C&_nc_sid=10d13b
+2025-10-01 06:19:27,033 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/553003157_18427282300101616_8469013655225378504_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTkxMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QGcVXcT3IhCrQxL65_Y-4XIBmgZ0mDj5SlJ6IkHpDQwHwn1sgHAffDb_Fyvx2S86a0&_nc_ohc=ipPXfh56SU4Q7kNvwHRpCT5&_nc_gid=jtZBm_KR68gM9G0eGYAJ0w&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzcyODU0OTUyNzk2OTQ4NTA1OQ%3D%3D.3-ccb7-5&oh=00_Afamn2CX2px80Zen_nOQvuPk2RN7OpYjUrQR6909QTfykQ&oe=68E28F42&_nc_sid=10d13b
+2025-10-01 06:19:48,812 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/552209655_18427282309101616_1117039082287595851_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTkxMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QGcVXcT3IhCrQxL65_Y-4XIBmgZ0mDj5SlJ6IkHpDQwHwn1sgHAffDb_Fyvx2S86a0&_nc_ohc=B9CcP-Xd7zsQ7kNvwETcW69&_nc_gid=jtZBm_KR68gM9G0eGYAJ0w&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzcyODU0OTUyNzk5NDY5MTAyNA%3D%3D.3-ccb7-5&oh=00_AfYhbuOJnLnKjbmPla1fMWoCeteAbQa4re0rSRKEe3EhMQ&oe=68E290C7&_nc_sid=10d13b
+2025-10-01 06:19:49,030 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/552509686_18427282204101616_793895703686778077_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTkxMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QGcVXcT3IhCrQxL65_Y-4XIBmgZ0mDj5SlJ6IkHpDQwHwn1sgHAffDb_Fyvx2S86a0&_nc_ohc=MCjahUxM2CcQ7kNvwFroIL1&_nc_gid=jtZBm_KR68gM9G0eGYAJ0w&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzcyODU0OTUyNzk2MTEwNjMwNg%3D%3D.3-ccb7-5&oh=00_AfagA_8c0NUBiHAu-hp0OUsdlPiGJZvZ3pvslxQa-ZPnyg&oe=68E2AA4C&_nc_sid=10d13b
+2025-10-01 06:19:49,030 - INFO - 2枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/553003157_18427282300101616_8469013655225378504_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTkxMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QGcVXcT3IhCrQxL65_Y-4XIBmgZ0mDj5SlJ6IkHpDQwHwn1sgHAffDb_Fyvx2S86a0&_nc_ohc=ipPXfh56SU4Q7kNvwHRpCT5&_nc_gid=jtZBm_KR68gM9G0eGYAJ0w&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzcyODU0OTUyNzk2OTQ4NTA1OQ%3D%3D.3-ccb7-5&oh=00_Afamn2CX2px80Zen_nOQvuPk2RN7OpYjUrQR6909QTfykQ&oe=68E28F42&_nc_sid=10d13b
+2025-10-01 06:19:49,030 - INFO - 3枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/552209655_18427282309101616_1117039082287595851_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTkxMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QGcVXcT3IhCrQxL65_Y-4XIBmgZ0mDj5SlJ6IkHpDQwHwn1sgHAffDb_Fyvx2S86a0&_nc_ohc=B9CcP-Xd7zsQ7kNvwETcW69&_nc_gid=jtZBm_KR68gM9G0eGYAJ0w&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzcyODU0OTUyNzk5NDY5MTAyNA%3D%3D.3-ccb7-5&oh=00_AfYhbuOJnLnKjbmPla1fMWoCeteAbQa4re0rSRKEe3EhMQ&oe=68E290C7&_nc_sid=10d13b
+2025-10-01 06:19:49,030 - INFO - [caption/by_username] 開始
+2025-10-01 06:19:49,434 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+エドルクオンカラーレッド💄👠🌹
+白髪もしっかりカバーして発色も綺麗です✨
+明るめの白髪染めご希望の方オススメです♪
+
+担当　雪乃
+
+　　======= renaissance ha'
+2025-10-01 06:19:49,442 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251001_061800
+2025-10-01 06:19:49,442 - INFO - 画像URLを取得しました
+2025-10-01 06:19:49,526 - INFO - INSERT(with-key): user=hfhsraffaello, key=MzcyODU0OTUyNzk2MTEwNjMwNg==, dt=2025-10-01T03:10:05.000Z
+2025-10-01 06:19:49,526 - INFO - メディアを取得します
+2025-10-01 06:19:51,566 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251001061951.jpg
+2025-10-01 06:19:54,450 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251001061951.jpg
+2025-10-01 06:19:55,811 - INFO - 元の画像サイズ: 1440x1910
+2025-10-01 06:19:55,811 - INFO - サイズ変更は不要です
+2025-10-01 06:19:55,821 - INFO - 画像URLを取得しました
+2025-10-01 06:19:55,931 - INFO - INSERT(with-key): user=hfhsraffaello, key=MzcyODU0OTUyNzk2OTQ4NTA1OQ==, dt=2025-10-01T03:10:05.000Z
+2025-10-01 06:19:55,933 - INFO - メディアを取得します
+2025-10-01 06:19:57,970 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251001061957.jpg
+2025-10-01 06:19:59,956 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251001061957.jpg
+2025-10-01 06:20:01,169 - INFO - 元の画像サイズ: 1440x1910
+2025-10-01 06:20:01,176 - INFO - サイズ変更は不要です
+2025-10-01 06:20:01,178 - INFO - 画像URLを取得しました
+2025-10-01 06:20:01,554 - INFO - INSERT(with-key): user=hfhsraffaello, key=MzcyODU0OTUyNzk5NDY5MTAyNA==, dt=2025-10-01T03:10:05.000Z
+2025-10-01 06:20:01,555 - INFO - メディアを取得します
+2025-10-01 06:20:03,570 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251001062003.jpg
+2025-10-01 06:20:05,572 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251001062003.jpg
+2025-10-01 06:20:05,990 - INFO - 元の画像サイズ: 1440x1910
+2025-10-01 06:20:05,990 - INFO - サイズ変更は不要です
+2025-10-01 06:20:05,999 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL3 / 既存スキップ0 / 失敗0
+2025-10-01 06:20:06,000 - INFO - 説明文:お客様photo📸
+エドルクオンカラーレッド💄👠🌹
+白髪もしっかりカバーして発色も綺麗です✨
+明るめの白髪染めご希望の方オススメです♪
+
+担当　雪乃
+
+　　======= renaissance hair RAFFAELLO =======
+
+【営業時間】
+平日　：9:00～19:00
+土日祝：8:30～19:00
+（パーマ・カラー受付　PM　18:00まで） 
+
+定休日
+第1日曜、第2火曜、第3日月連休、第4火曜、第5火曜定休日
+冬期休暇のお知らせ1月1・2・3日 
+
+◆ご予約はこちら↓
+ホットペッパービューティー
+https://beauty.hotpepper.jp/slnH000379634/
+
+住所📍
+栃木県足利市駒場町893-2
+
+===============================
+
+#RAFFAELLO #美容室 #美容院 #美容師 #髪型 #ヘアカット #カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #縮毛矯正 #ヘアサロン #ヘッドスパ #足利市美容院 #足利市美容室 #足利市ヘアサロン #足利市ヘアカット #足利市髪質改善 #足利市美容室メンズ #足利市女性人気美容室 #エドルクオンカラー #エドルクオン #明るい白髪染め #艶カラー #赤髪 #hfhsraffaello
+2025-10-01 06:20:17,104 - INFO - 処理終了
+================================================================================
+2025-10-01 06:20:26,198 - INFO - 処理開始: Mode=post, Username=hfhsraffaello, GBP=03056610151687686385
+2025-10-01 06:20:26,198 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwMzA1NjYxMDE1MTY4NzY4NjM4NSJd.
+2025-10-01 06:21:25,600 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251001061951.jpg
+2025-10-01 06:21:28,897 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251001061957.jpg
+2025-10-01 06:21:32,075 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251001062003.jpg
+2025-10-01 06:21:35,185 - INFO - Waiting for description field...
+2025-10-01 06:21:35,485 - INFO - Setting description via JS (no send_keys)...
+2025-10-01 06:21:37,246 - INFO - Looking for button section...
+2025-10-01 06:21:49,138 - INFO - Trying to select CALL option...
+2025-10-01 06:21:50,927 - INFO - CALL option successfully selected
+2025-10-01 06:21:52,927 - INFO - Clicking submit button...
+2025-10-01 06:22:02,148 - INFO - 処理完了
+================================================================================
+2025-10-01 10:42:19,777 - INFO - 処理開始 PROCESSID:20251001_104216
+2025-10-01 10:42:19,777 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-01 10:42:19,777 - INFO - 処理を開始します
+2025-10-01 10:42:19,840 - INFO - 選択されたプロファイル: Profile 13
+2025-10-01 10:42:19,840 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-01 10:42:25,371 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-01 10:42:37,610 - INFO - 最新投稿を読み込みます
+2025-10-01 10:42:42,951 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-10-01 10:42:47,801 - INFO - ピン留めだが3日以上前(79日) → スキップ
+2025-10-01 10:42:47,801 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-10-01 10:42:50,094 - INFO - ピン留めだが3日以上前(469日) → スキップ
+2025-10-01 10:42:50,094 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DPQkBrigWRp/?hl=ja
+2025-10-01 10:42:57,233 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 10:43:02,259 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 10:43:02,366 - INFO - datetime属性の抽出を開始します
+2025-10-01 10:43:02,397 - INFO - 抽出されたdatetime: 2025-10-01T07:48:17.000Z
+2025-10-01 10:43:02,397 - INFO - hfhsraffaello の投稿日時: 2025-10-01T07:48:17.000Z
+2025-10-01 10:43:02,406 - INFO - date:2025-10-01 16:48:17+09:00
+2025-10-01 10:43:02,406 - INFO - post_date:20251001
+2025-10-01 10:43:02,464 - INFO - カルーセル推定: 9枚
+2025-10-01 10:43:02,486 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.82787-15/557980567_18424652545097894_9172865329000800829_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzczMzY0MjUxMzgxMTA4MzExNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTU3Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=1NSsRaiYomIQ7kNvwGh2DG4&_nc_oc=Adl97YBjfXOD5P2hr_mD4OUvvJ8jfRe9rpFOg1gpF-jGcPz3VVDWggQnI_7UVSHCyCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&oh=00_AfYlatkvaqh5B3YR9Jdv5WV9A_KyQYeEorA7wuxeQRVjxA&oe=68E2F1D9
+2025-10-01 10:43:02,492 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.82787-15/556896870_18424652563097894_8259361269255426105_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzczMzY0MjUxMzgyNzgzMTc4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTU3Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=RWq5JVXbPTwQ7kNvwGPpTDW&_nc_oc=AdnXQKJI_mXcgEBPT9SpW6N3wnob20GxoCLAQRNpPf1oNMCxImqk0NlHXLGBKxqk_EQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&oh=00_AfbXO_05PxI2MDpc9QUwfUXO4vXIlrT_vpNplA_oZT6ZDg&oe=68E2C365
+2025-10-01 10:43:44,128 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/556353022_18424652560097894_6218512031912604044_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHpUtq3P4Pu6GSV7DNH2vHxFy16SDUyQkxBm_f_hn4JT7wkPem3robPNFjqenqkUPI&_nc_ohc=Du0h8sz07lEQ7kNvwHkpekF&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEzODIxNzUxNg%3D%3D.3-ccb7-5&oh=00_AfavBr3Msv7NvjEhBchc2PYr5alc_AtfxR0w0vXpdGDJ_g&oe=68E2EC07&_nc_sid=10d13b
+2025-10-01 10:43:45,233 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/558971693_18424652572097894_1204076631659235370_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHpUtq3P4Pu6GSV7DNH2vHxFy16SDUyQkxBm_f_hn4JT7wkPem3robPNFjqenqkUPI&_nc_ohc=MMpikyCfSlwQ7kNvwERAHsr&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzk0NTI2NDE5NQ%3D%3D.3-ccb7-5&oh=00_Afa9HCWrpfspUN1OcLQ9QWqXvwLzFjkvSmTCOh86bw31xg&oe=68E2CE58&_nc_sid=10d13b
+2025-10-01 10:43:46,481 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/557443346_18424652590097894_6408203505436728647_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHpUtq3P4Pu6GSV7DNH2vHxFy16SDUyQkxBm_f_hn4JT7wkPem3robPNFjqenqkUPI&_nc_ohc=kR2szqUGv0AQ7kNvwGpTS7X&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzk3MDQ3NTUzMw%3D%3D.3-ccb7-5&oh=00_Afahc3xtvoTwjJIgdEk9iYYZJ93_8kOFuVROdmIsYk0E8A&oe=68E2EA32&_nc_sid=10d13b
+2025-10-01 10:43:47,791 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/556989202_18424652587097894_7419368117873597379_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHpUtq3P4Pu6GSV7DNH2vHxFy16SDUyQkxBm_f_hn4JT7wkPem3robPNFjqenqkUPI&_nc_ohc=m4G1a8i0vvQQ7kNvwHICkPt&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEzODI1OTE2OQ%3D%3D.3-ccb7-5&oh=00_AfbSHDrV6-Qz2gtfl-ZdyZVf4_k87qo56HqmO0hx-fOkTw&oe=68E2E1B7&_nc_sid=10d13b
+2025-10-01 10:43:48,942 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/557853026_18424652599097894_2368036592457443538_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHpUtq3P4Pu6GSV7DNH2vHxFy16SDUyQkxBm_f_hn4JT7wkPem3robPNFjqenqkUPI&_nc_ohc=Eo8j74eo-RsQ7kNvwEZaYIo&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDE4ODU2NDkxNw%3D%3D.3-ccb7-5&oh=00_AfYViqenzGKMNMOfK2W0nLliCjvIzTXgcNtcVgkmBQXw1Q&oe=68E2D1D5&_nc_sid=10d13b
+2025-10-01 10:43:50,018 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/557988723_18424652608097894_3989957954229750471_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHpUtq3P4Pu6GSV7DNH2vHxFy16SDUyQkxBm_f_hn4JT7wkPem3robPNFjqenqkUPI&_nc_ohc=P4xdM0SolGAQ7kNvwGA-Per&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEyOTg3MTU4Mw%3D%3D.3-ccb7-5&oh=00_AfY-KYZvYYYT8tUaelzpqVFS00NJaw71DbUwNCMzwBelWQ&oe=68E2D829&_nc_sid=10d13b
+2025-10-01 10:43:51,091 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/556773331_18424652617097894_4803973108845863769_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHpUtq3P4Pu6GSV7DNH2vHxFy16SDUyQkxBm_f_hn4JT7wkPem3robPNFjqenqkUPI&_nc_ohc=ZxbfS8nTbIoQ7kNvwFjsfaB&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzgxOTQ0ODY5Mg%3D%3D.3-ccb7-5&oh=00_AfbvMOaU2imgLzZyPgGxf6IjfxIm4u6JWRZzoWeYsLa5QA&oe=68E2E444&_nc_sid=10d13b
+2025-10-01 10:43:51,127 - INFO - 1枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.82787-15/557980567_18424652545097894_9172865329000800829_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzczMzY0MjUxMzgxMTA4MzExNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTU3Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=1NSsRaiYomIQ7kNvwGh2DG4&_nc_oc=Adl97YBjfXOD5P2hr_mD4OUvvJ8jfRe9rpFOg1gpF-jGcPz3VVDWggQnI_7UVSHCyCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&oh=00_AfYlatkvaqh5B3YR9Jdv5WV9A_KyQYeEorA7wuxeQRVjxA&oe=68E2F1D9
+2025-10-01 10:43:51,127 - INFO - 2枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.82787-15/556896870_18424652563097894_8259361269255426105_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzczMzY0MjUxMzgyNzgzMTc4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTU3Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=RWq5JVXbPTwQ7kNvwGPpTDW&_nc_oc=AdnXQKJI_mXcgEBPT9SpW6N3wnob20GxoCLAQRNpPf1oNMCxImqk0NlHXLGBKxqk_EQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&oh=00_AfbXO_05PxI2MDpc9QUwfUXO4vXIlrT_vpNplA_oZT6ZDg&oe=68E2C365
+2025-10-01 10:43:51,127 - INFO - 3枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/556353022_18424652560097894_6218512031912604044_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHpUtq3P4Pu6GSV7DNH2vHxFy16SDUyQkxBm_f_hn4JT7wkPem3robPNFjqenqkUPI&_nc_ohc=Du0h8sz07lEQ7kNvwHkpekF&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEzODIxNzUxNg%3D%3D.3-ccb7-5&oh=00_AfavBr3Msv7NvjEhBchc2PYr5alc_AtfxR0w0vXpdGDJ_g&oe=68E2EC07&_nc_sid=10d13b
+2025-10-01 10:43:51,127 - INFO - 4枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/558971693_18424652572097894_1204076631659235370_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHpUtq3P4Pu6GSV7DNH2vHxFy16SDUyQkxBm_f_hn4JT7wkPem3robPNFjqenqkUPI&_nc_ohc=MMpikyCfSlwQ7kNvwERAHsr&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzk0NTI2NDE5NQ%3D%3D.3-ccb7-5&oh=00_Afa9HCWrpfspUN1OcLQ9QWqXvwLzFjkvSmTCOh86bw31xg&oe=68E2CE58&_nc_sid=10d13b
+2025-10-01 10:43:51,127 - INFO - 5枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/557443346_18424652590097894_6408203505436728647_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHpUtq3P4Pu6GSV7DNH2vHxFy16SDUyQkxBm_f_hn4JT7wkPem3robPNFjqenqkUPI&_nc_ohc=kR2szqUGv0AQ7kNvwGpTS7X&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzk3MDQ3NTUzMw%3D%3D.3-ccb7-5&oh=00_Afahc3xtvoTwjJIgdEk9iYYZJ93_8kOFuVROdmIsYk0E8A&oe=68E2EA32&_nc_sid=10d13b
+2025-10-01 10:43:51,127 - INFO - 6枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/556989202_18424652587097894_7419368117873597379_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHpUtq3P4Pu6GSV7DNH2vHxFy16SDUyQkxBm_f_hn4JT7wkPem3robPNFjqenqkUPI&_nc_ohc=m4G1a8i0vvQQ7kNvwHICkPt&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEzODI1OTE2OQ%3D%3D.3-ccb7-5&oh=00_AfbSHDrV6-Qz2gtfl-ZdyZVf4_k87qo56HqmO0hx-fOkTw&oe=68E2E1B7&_nc_sid=10d13b
+2025-10-01 10:43:51,128 - INFO - 7枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/557853026_18424652599097894_2368036592457443538_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHpUtq3P4Pu6GSV7DNH2vHxFy16SDUyQkxBm_f_hn4JT7wkPem3robPNFjqenqkUPI&_nc_ohc=Eo8j74eo-RsQ7kNvwEZaYIo&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDE4ODU2NDkxNw%3D%3D.3-ccb7-5&oh=00_AfYViqenzGKMNMOfK2W0nLliCjvIzTXgcNtcVgkmBQXw1Q&oe=68E2D1D5&_nc_sid=10d13b
+2025-10-01 10:43:51,128 - INFO - 8枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/557988723_18424652608097894_3989957954229750471_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHpUtq3P4Pu6GSV7DNH2vHxFy16SDUyQkxBm_f_hn4JT7wkPem3robPNFjqenqkUPI&_nc_ohc=P4xdM0SolGAQ7kNvwGA-Per&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEyOTg3MTU4Mw%3D%3D.3-ccb7-5&oh=00_AfY-KYZvYYYT8tUaelzpqVFS00NJaw71DbUwNCMzwBelWQ&oe=68E2D829&_nc_sid=10d13b
+2025-10-01 10:43:51,128 - INFO - 9枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/556773331_18424652617097894_4803973108845863769_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QHpUtq3P4Pu6GSV7DNH2vHxFy16SDUyQkxBm_f_hn4JT7wkPem3robPNFjqenqkUPI&_nc_ohc=ZxbfS8nTbIoQ7kNvwFjsfaB&_nc_gid=1LUhffLQw4X9rh7fCdErlQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzgxOTQ0ODY5Mg%3D%3D.3-ccb7-5&oh=00_AfbvMOaU2imgLzZyPgGxf6IjfxIm4u6JWRZzoWeYsLa5QA&oe=68E2E444&_nc_sid=10d13b
+2025-10-01 10:43:51,128 - INFO - [caption/by_username] 開始
+2025-10-01 10:45:11,989 - INFO - [caption/by_username] 説明文確定（先頭100）: '🎉HAPPY SALE開催🎉
+
+今年も感謝の気持ちを込めて、ワクワクの抽選付きキャンペーンを開催します✨
+
+🗓受付期間：10/1〜12/31
+🎁引き渡し期間：12/1〜1/31
+
+運試しにチャレンジし'
+2025-10-01 10:45:11,991 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251001_104216
+2025-10-01 10:45:11,991 - INFO - 画像URLを取得しました
+2025-10-01 10:45:12,027 - INFO - INSERT(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzgxMTA4MzExNg==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 10:45:12,027 - INFO - メディアを取得します
+2025-10-01 10:45:14,028 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251001104514.jpg
+2025-10-01 10:45:15,425 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251001104514.jpg
+2025-10-01 10:45:15,514 - INFO - 元の画像サイズ: 1179x1572
+2025-10-01 10:45:15,514 - INFO - サイズ変更は不要です
+2025-10-01 10:45:15,516 - INFO - 画像URLを取得しました
+2025-10-01 10:45:15,557 - INFO - INSERT(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzgyNzgzMTc4NA==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 10:45:15,557 - INFO - メディアを取得します
+2025-10-01 10:45:17,558 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251001104517.jpg
+2025-10-01 10:45:19,037 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251001104517.jpg
+2025-10-01 10:45:19,088 - INFO - 元の画像サイズ: 1179x1572
+2025-10-01 10:45:19,088 - INFO - サイズ変更は不要です
+2025-10-01 10:45:19,089 - INFO - 画像URLを取得しました
+2025-10-01 10:45:19,130 - INFO - INSERT(with-key): user=hfhsraffaello, key=MzczMzY0MjUxNDEzODIxNzUxNg==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 10:45:19,132 - INFO - メディアを取得します
+2025-10-01 10:45:21,132 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251001104521.jpg
+2025-10-01 10:45:22,701 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251001104521.jpg
+2025-10-01 10:45:22,767 - INFO - 元の画像サイズ: 1179x1571
+2025-10-01 10:45:22,767 - INFO - サイズ変更は不要です
+2025-10-01 10:45:22,770 - INFO - 画像URLを取得しました
+2025-10-01 10:45:22,804 - INFO - INSERT(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzk0NTI2NDE5NQ==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 10:45:22,804 - INFO - メディアを取得します
+2025-10-01 10:45:24,805 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251001104524.jpg
+2025-10-01 10:45:26,438 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251001104524.jpg
+2025-10-01 10:45:26,490 - INFO - 元の画像サイズ: 1179x1572
+2025-10-01 10:45:26,491 - INFO - サイズ変更は不要です
+2025-10-01 10:45:26,493 - INFO - 画像URLを取得しました
+2025-10-01 10:45:26,535 - INFO - INSERT(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzk3MDQ3NTUzMw==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 10:45:26,536 - INFO - メディアを取得します
+2025-10-01 10:45:28,537 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251001104528.jpg
+2025-10-01 10:45:30,035 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251001104528.jpg
+2025-10-01 10:45:30,104 - INFO - 元の画像サイズ: 1179x1572
+2025-10-01 10:45:30,104 - INFO - サイズ変更は不要です
+2025-10-01 10:45:30,104 - INFO - 画像URLを取得しました
+2025-10-01 10:45:30,154 - INFO - INSERT(with-key): user=hfhsraffaello, key=MzczMzY0MjUxNDEzODI1OTE2OQ==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 10:45:30,154 - INFO - メディアを取得します
+2025-10-01 10:45:32,155 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251001104532.jpg
+2025-10-01 10:45:33,531 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251001104532.jpg
+2025-10-01 10:45:33,586 - INFO - 元の画像サイズ: 1179x1572
+2025-10-01 10:45:33,586 - INFO - サイズ変更は不要です
+2025-10-01 10:45:33,587 - INFO - 画像URLを取得しました
+2025-10-01 10:45:33,627 - INFO - INSERT(with-key): user=hfhsraffaello, key=MzczMzY0MjUxNDE4ODU2NDkxNw==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 10:45:33,627 - INFO - メディアを取得します
+2025-10-01 10:45:35,628 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251001104535.jpg
+2025-10-01 10:45:37,141 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251001104535.jpg
+2025-10-01 10:45:37,188 - INFO - 元の画像サイズ: 1179x1571
+2025-10-01 10:45:37,189 - INFO - サイズ変更は不要です
+2025-10-01 10:45:37,191 - INFO - 画像URLを取得しました
+2025-10-01 10:45:37,231 - INFO - INSERT(with-key): user=hfhsraffaello, key=MzczMzY0MjUxNDEyOTg3MTU4Mw==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 10:45:37,232 - INFO - メディアを取得します
+2025-10-01 10:45:39,233 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251001104539.jpg
+2025-10-01 10:45:40,689 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251001104539.jpg
+2025-10-01 10:45:40,736 - INFO - 元の画像サイズ: 1179x1571
+2025-10-01 10:45:40,736 - INFO - サイズ変更は不要です
+2025-10-01 10:45:40,738 - INFO - 画像URLを取得しました
+2025-10-01 10:45:40,783 - INFO - INSERT(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzgxOTQ0ODY5Mg==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 10:45:40,784 - INFO - メディアを取得します
+2025-10-01 10:45:42,785 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251001104542.jpg
+2025-10-01 10:45:44,419 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251001104542.jpg
+2025-10-01 10:45:44,467 - INFO - 元の画像サイズ: 1179x1572
+2025-10-01 10:45:44,467 - INFO - サイズ変更は不要です
+2025-10-01 10:45:44,468 - INFO - カルーセル集計: 想定9 / 収集9 / 新規DL9 / 既存スキップ0 / 失敗0
+2025-10-01 10:45:44,469 - INFO - 説明文:🎉HAPPY SALE開催🎉
+
+今年も感謝の気持ちを込めて、ワクワクの抽選付きキャンペーンを開催します✨
+
+🗓受付期間：10/1〜12/31
+🎁引き渡し期間：12/1〜1/31
+
+運試しにチャレンジして、お得に商品をGETしよう😊
+最大〇〇%OFFのチャンスも🎯
+
+🌟1等：〇〇OFF
+🌟2等：〇〇OFF
+🌟3等：〇〇OFF
+🌟4等：〇〇
+
+※対象商品はスタッフまでお気軽にお問い合わせください😊
+こちらに記載していない商品にもピックアップアイテムめあります㊙️
+
+年末のキレイを応援するビッグチャンス✨
+
+ぜひご参加ください☘️
+
+@hfhsraffaello 
+@p2c_tomomi 
+@p2c_naoto 
+
+========= hair design p2c =========
+
+【営業時間】
+9:00～19:00（パーマ・カラー最終受付17:00）
+
+定休日　毎週火曜日・第3月曜日 
+
+◆ご予約はこちら↓
+ホットペッパービューティー
+https://beauty.hotpepper.jp/slnH000379778/
+
+住所📍
+栃木県佐野市並木町1779 
+
+=============================
+
+#p2c #ピニック #美容室 #美容院 #美容師 #髪型 #ヘアカット　#カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #縮毛矯正 #ヘアサロン #ヘッドスパ #佐野市美容院 #佐野市美容室 #佐野市ヘアサロン #佐野市ヘアカット #佐野市髪質改善 #佐野市美容室メンズ #佐野市女性人気美容室 #佐野市並木町美容室 #佐野市並木町美容院 #佐野市並木町ヘアサロン #佐野駅 #佐野駅美容院 #佐野駅美容室 #佐野駅ヘアサロン
+2025-10-01 10:45:46,839 - INFO - 処理終了
+================================================================================
+2025-10-01 10:45:52,993 - INFO - 処理開始: Mode=post, Username=hfhsraffaello, GBP=03056610151687686385
+2025-10-01 10:45:52,993 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwMzA1NjYxMDE1MTY4NzY4NjM4NSJd.
+2025-10-01 10:46:20,893 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251001104514.jpg
+2025-10-01 10:46:25,161 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251001104517.jpg
+2025-10-01 10:46:28,263 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251001104521.jpg
+2025-10-01 10:46:31,374 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251001104524.jpg
+2025-10-01 10:46:34,447 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251001104528.jpg
+2025-10-01 10:46:37,533 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251001104532.jpg
+2025-10-01 10:46:40,602 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251001104535.jpg
+2025-10-01 10:46:43,722 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251001104539.jpg
+2025-10-01 10:46:46,789 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251001104542.jpg
+2025-10-01 10:46:49,876 - INFO - Waiting for description field...
+2025-10-01 10:46:49,898 - INFO - Setting description via JS (no send_keys)...
+2025-10-01 10:46:51,568 - INFO - Looking for button section...
+2025-10-01 10:46:56,105 - INFO - Trying to select CALL option...
+2025-10-01 10:46:56,983 - INFO - CALL option successfully selected
+2025-10-01 10:46:58,985 - INFO - Clicking submit button...
+2025-10-01 10:47:08,773 - INFO - 処理完了
+================================================================================
+2025-10-01 16:41:27,245 - INFO - 処理開始 PROCESSID:20251001_164122
+2025-10-01 16:41:27,245 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-01 16:41:27,245 - INFO - 処理を開始します
+2025-10-01 16:41:27,306 - INFO - 選択されたプロファイル: Profile 13
+2025-10-01 16:41:27,306 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-01 16:41:32,406 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-01 16:41:48,971 - INFO - 最新投稿を読み込みます
+2025-10-01 16:41:54,276 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-10-01 16:41:58,109 - INFO - ピン留めだが3日以上前(79日) → スキップ
+2025-10-01 16:41:58,109 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-10-01 16:42:03,154 - INFO - ピン留めだが3日以上前(469日) → スキップ
+2025-10-01 16:42:03,154 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DPQkBrigWRp/?hl=ja
+2025-10-01 16:42:09,266 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 16:42:15,106 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 16:42:15,153 - INFO - datetime属性の抽出を開始します
+2025-10-01 16:42:15,188 - INFO - 抽出されたdatetime: 2025-10-01T07:48:17.000Z
+2025-10-01 16:42:15,188 - INFO - hfhsraffaello の投稿日時: 2025-10-01T07:48:17.000Z
+2025-10-01 16:42:15,198 - INFO - date:2025-10-01 16:48:17+09:00
+2025-10-01 16:42:15,199 - INFO - post_date:20251001
+2025-10-01 16:42:15,257 - INFO - カルーセル推定: 9枚
+2025-10-01 16:42:15,286 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.82787-15/557980567_18424652545097894_9172865329000800829_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzczMzY0MjUxMzgxMTA4MzExNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTU3Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=1NSsRaiYomIQ7kNvwGh2DG4&_nc_oc=Adl97YBjfXOD5P2hr_mD4OUvvJ8jfRe9rpFOg1gpF-jGcPz3VVDWggQnI_7UVSHCyCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_gid=O1mVhXsEc1c97vrE636h3A&oh=00_AfaMeOjyb4gkh1m7j-k-IuEF7J7DjsvDH7OLovW8xr7f9Q&oe=68E32A19
+2025-10-01 16:42:15,301 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.82787-15/556896870_18424652563097894_8259361269255426105_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzczMzY0MjUxMzgyNzgzMTc4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTU3Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=RWq5JVXbPTwQ7kNvwGPpTDW&_nc_oc=AdnXQKJI_mXcgEBPT9SpW6N3wnob20GxoCLAQRNpPf1oNMCxImqk0NlHXLGBKxqk_EQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_gid=O1mVhXsEc1c97vrE636h3A&oh=00_AfYoBRpbxF2mCGvpXYJkCgk5celqg7XaMU0DmTjKWW51uQ&oe=68E333E5
+2025-10-01 16:42:57,220 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/556353022_18424652560097894_6218512031912604044_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG7WXnP_sylSAjfkrwPY94hNFE6n3RDq71ppkNkXtWMEov0t9tKQziLXAExArkVVAY&_nc_ohc=BYbd6_I8amsQ7kNvwFdYSWv&_nc_gid=O1mVhXsEc1c97vrE636h3A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEzODIxNzUxNg%3D%3D.3-ccb7-5&oh=00_AfZgYjGtlZjnZFzem5uVdwgp_nkXPhX7xvzf50SNMgZsDw&oe=68E32447&_nc_sid=10d13b
+2025-10-01 16:42:58,291 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/558971693_18424652572097894_1204076631659235370_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG7WXnP_sylSAjfkrwPY94hNFE6n3RDq71ppkNkXtWMEov0t9tKQziLXAExArkVVAY&_nc_ohc=MMpikyCfSlwQ7kNvwERAHsr&_nc_gid=O1mVhXsEc1c97vrE636h3A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzk0NTI2NDE5NQ%3D%3D.3-ccb7-5&oh=00_AfZV15wtHpr4thwy01gPr8DVhDiXBPomKJgy4VDo9nC9Jg&oe=68E33ED8&_nc_sid=10d13b
+2025-10-01 16:42:59,416 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/557443346_18424652590097894_6408203505436728647_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG7WXnP_sylSAjfkrwPY94hNFE6n3RDq71ppkNkXtWMEov0t9tKQziLXAExArkVVAY&_nc_ohc=kR2szqUGv0AQ7kNvwGpTS7X&_nc_gid=O1mVhXsEc1c97vrE636h3A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzk3MDQ3NTUzMw%3D%3D.3-ccb7-5&oh=00_AfbISKRtsQjzqPIs55HknokXDbOWKQLosBsQVb9z0-XJgg&oe=68E32272&_nc_sid=10d13b
+2025-10-01 16:43:00,470 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/556989202_18424652587097894_7419368117873597379_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG7WXnP_sylSAjfkrwPY94hNFE6n3RDq71ppkNkXtWMEov0t9tKQziLXAExArkVVAY&_nc_ohc=m4G1a8i0vvQQ7kNvwHICkPt&_nc_gid=O1mVhXsEc1c97vrE636h3A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEzODI1OTE2OQ%3D%3D.3-ccb7-5&oh=00_Afaq9bPLwSHXczWvY7PwYTj3rjftIQheWih6LobfxBhqzA&oe=68E319F7&_nc_sid=10d13b
+2025-10-01 16:43:01,543 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/557853026_18424652599097894_2368036592457443538_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG7WXnP_sylSAjfkrwPY94hNFE6n3RDq71ppkNkXtWMEov0t9tKQziLXAExArkVVAY&_nc_ohc=Eo8j74eo-RsQ7kNvwEZaYIo&_nc_gid=O1mVhXsEc1c97vrE636h3A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDE4ODU2NDkxNw%3D%3D.3-ccb7-5&oh=00_AfYKYwvZboCtx-4ZA0BJErEkxYxpKyedIf9jry2MAtH-DQ&oe=68E34255&_nc_sid=10d13b
+2025-10-01 16:43:02,739 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/557988723_18424652608097894_3989957954229750471_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG7WXnP_sylSAjfkrwPY94hNFE6n3RDq71ppkNkXtWMEov0t9tKQziLXAExArkVVAY&_nc_ohc=P4xdM0SolGAQ7kNvwGA-Per&_nc_gid=O1mVhXsEc1c97vrE636h3A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEyOTg3MTU4Mw%3D%3D.3-ccb7-5&oh=00_AfYYpgJAo9J_34VbtCJwssc-NCZcbcXGeyXP3EEf0rLVLQ&oe=68E31069&_nc_sid=10d13b
+2025-10-01 16:43:03,874 - INFO - 検出(UL): https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/556773331_18424652617097894_4803973108845863769_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG7WXnP_sylSAjfkrwPY94hNFE6n3RDq71ppkNkXtWMEov0t9tKQziLXAExArkVVAY&_nc_ohc=ZxbfS8nTbIoQ7kNvwFjsfaB&_nc_gid=O1mVhXsEc1c97vrE636h3A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzgxOTQ0ODY5Mg%3D%3D.3-ccb7-5&oh=00_AfaqfX3HCdjR1YoJiFU7_7u-JRQDZsJvSK3BfhAxj9SbFQ&oe=68E31C84&_nc_sid=10d13b
+2025-10-01 16:43:03,892 - INFO - 1枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.82787-15/557980567_18424652545097894_9172865329000800829_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzczMzY0MjUxMzgxMTA4MzExNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTU3Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=1NSsRaiYomIQ7kNvwGh2DG4&_nc_oc=Adl97YBjfXOD5P2hr_mD4OUvvJ8jfRe9rpFOg1gpF-jGcPz3VVDWggQnI_7UVSHCyCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_gid=O1mVhXsEc1c97vrE636h3A&oh=00_AfaMeOjyb4gkh1m7j-k-IuEF7J7DjsvDH7OLovW8xr7f9Q&oe=68E32A19
+2025-10-01 16:43:03,892 - INFO - 2枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.82787-15/556896870_18424652563097894_8259361269255426105_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzczMzY0MjUxMzgyNzgzMTc4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTU3Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=RWq5JVXbPTwQ7kNvwGPpTDW&_nc_oc=AdnXQKJI_mXcgEBPT9SpW6N3wnob20GxoCLAQRNpPf1oNMCxImqk0NlHXLGBKxqk_EQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_gid=O1mVhXsEc1c97vrE636h3A&oh=00_AfYoBRpbxF2mCGvpXYJkCgk5celqg7XaMU0DmTjKWW51uQ&oe=68E333E5
+2025-10-01 16:43:03,892 - INFO - 3枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/556353022_18424652560097894_6218512031912604044_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG7WXnP_sylSAjfkrwPY94hNFE6n3RDq71ppkNkXtWMEov0t9tKQziLXAExArkVVAY&_nc_ohc=BYbd6_I8amsQ7kNvwFdYSWv&_nc_gid=O1mVhXsEc1c97vrE636h3A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEzODIxNzUxNg%3D%3D.3-ccb7-5&oh=00_AfZgYjGtlZjnZFzem5uVdwgp_nkXPhX7xvzf50SNMgZsDw&oe=68E32447&_nc_sid=10d13b
+2025-10-01 16:43:03,892 - INFO - 4枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/558971693_18424652572097894_1204076631659235370_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG7WXnP_sylSAjfkrwPY94hNFE6n3RDq71ppkNkXtWMEov0t9tKQziLXAExArkVVAY&_nc_ohc=MMpikyCfSlwQ7kNvwERAHsr&_nc_gid=O1mVhXsEc1c97vrE636h3A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzk0NTI2NDE5NQ%3D%3D.3-ccb7-5&oh=00_AfZV15wtHpr4thwy01gPr8DVhDiXBPomKJgy4VDo9nC9Jg&oe=68E33ED8&_nc_sid=10d13b
+2025-10-01 16:43:03,892 - INFO - 5枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/557443346_18424652590097894_6408203505436728647_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG7WXnP_sylSAjfkrwPY94hNFE6n3RDq71ppkNkXtWMEov0t9tKQziLXAExArkVVAY&_nc_ohc=kR2szqUGv0AQ7kNvwGpTS7X&_nc_gid=O1mVhXsEc1c97vrE636h3A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzk3MDQ3NTUzMw%3D%3D.3-ccb7-5&oh=00_AfbISKRtsQjzqPIs55HknokXDbOWKQLosBsQVb9z0-XJgg&oe=68E32272&_nc_sid=10d13b
+2025-10-01 16:43:03,892 - INFO - 6枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/556989202_18424652587097894_7419368117873597379_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG7WXnP_sylSAjfkrwPY94hNFE6n3RDq71ppkNkXtWMEov0t9tKQziLXAExArkVVAY&_nc_ohc=m4G1a8i0vvQQ7kNvwHICkPt&_nc_gid=O1mVhXsEc1c97vrE636h3A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEzODI1OTE2OQ%3D%3D.3-ccb7-5&oh=00_Afaq9bPLwSHXczWvY7PwYTj3rjftIQheWih6LobfxBhqzA&oe=68E319F7&_nc_sid=10d13b
+2025-10-01 16:43:03,893 - INFO - 7枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/557853026_18424652599097894_2368036592457443538_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG7WXnP_sylSAjfkrwPY94hNFE6n3RDq71ppkNkXtWMEov0t9tKQziLXAExArkVVAY&_nc_ohc=Eo8j74eo-RsQ7kNvwEZaYIo&_nc_gid=O1mVhXsEc1c97vrE636h3A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDE4ODU2NDkxNw%3D%3D.3-ccb7-5&oh=00_AfYKYwvZboCtx-4ZA0BJErEkxYxpKyedIf9jry2MAtH-DQ&oe=68E34255&_nc_sid=10d13b
+2025-10-01 16:43:03,893 - INFO - 8枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/557988723_18424652608097894_3989957954229750471_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG7WXnP_sylSAjfkrwPY94hNFE6n3RDq71ppkNkXtWMEov0t9tKQziLXAExArkVVAY&_nc_ohc=P4xdM0SolGAQ7kNvwGA-Per&_nc_gid=O1mVhXsEc1c97vrE636h3A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEyOTg3MTU4Mw%3D%3D.3-ccb7-5&oh=00_AfYYpgJAo9J_34VbtCJwssc-NCZcbcXGeyXP3EEf0rLVLQ&oe=68E31069&_nc_sid=10d13b
+2025-10-01 16:43:03,893 - INFO - 9枚目: https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/556773331_18424652617097894_4803973108845863769_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QG7WXnP_sylSAjfkrwPY94hNFE6n3RDq71ppkNkXtWMEov0t9tKQziLXAExArkVVAY&_nc_ohc=ZxbfS8nTbIoQ7kNvwFjsfaB&_nc_gid=O1mVhXsEc1c97vrE636h3A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzgxOTQ0ODY5Mg%3D%3D.3-ccb7-5&oh=00_AfaqfX3HCdjR1YoJiFU7_7u-JRQDZsJvSK3BfhAxj9SbFQ&oe=68E31C84&_nc_sid=10d13b
+2025-10-01 16:43:03,893 - INFO - [caption/by_username] 開始
+2025-10-01 16:44:24,800 - INFO - [caption/by_username] 説明文確定（先頭100）: '🎉HAPPY SALE開催🎉
+
+今年も感謝の気持ちを込めて、ワクワクの抽選付きキャンペーンを開催します✨
+
+🗓受付期間：10/1〜12/31
+🎁引き渡し期間：12/1〜1/31
+
+運試しにチャレンジし'
+2025-10-01 16:44:24,802 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251001_164122
+2025-10-01 16:44:24,802 - INFO - 画像URLを取得しました
+2025-10-01 16:44:24,810 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzgxMTA4MzExNg==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 16:44:24,810 - INFO - このレコードは存在します
+2025-10-01 16:44:24,810 - INFO - 画像URLを取得しました
+2025-10-01 16:44:24,810 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzgyNzgzMTc4NA==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 16:44:24,812 - INFO - このレコードは存在します
+2025-10-01 16:44:24,812 - INFO - 画像URLを取得しました
+2025-10-01 16:44:24,812 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxNDEzODIxNzUxNg==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 16:44:24,812 - INFO - このレコードは存在します
+2025-10-01 16:44:24,812 - INFO - 画像URLを取得しました
+2025-10-01 16:44:24,814 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzk0NTI2NDE5NQ==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 16:44:24,814 - INFO - このレコードは存在します
+2025-10-01 16:44:24,814 - INFO - 画像URLを取得しました
+2025-10-01 16:44:24,816 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzk3MDQ3NTUzMw==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 16:44:24,817 - INFO - このレコードは存在します
+2025-10-01 16:44:24,817 - INFO - 画像URLを取得しました
+2025-10-01 16:44:24,817 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxNDEzODI1OTE2OQ==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 16:44:24,817 - INFO - このレコードは存在します
+2025-10-01 16:44:24,818 - INFO - 画像URLを取得しました
+2025-10-01 16:44:24,818 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxNDE4ODU2NDkxNw==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 16:44:24,818 - INFO - このレコードは存在します
+2025-10-01 16:44:24,818 - INFO - 画像URLを取得しました
+2025-10-01 16:44:24,819 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxNDEyOTg3MTU4Mw==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 16:44:24,819 - INFO - このレコードは存在します
+2025-10-01 16:44:24,819 - INFO - 画像URLを取得しました
+2025-10-01 16:44:24,820 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzgxOTQ0ODY5Mg==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 16:44:24,821 - INFO - このレコードは存在します
+2025-10-01 16:44:24,821 - INFO - カルーセル集計: 想定9 / 収集9 / 新規DL0 / 既存スキップ9 / 失敗0
+2025-10-01 16:44:24,821 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-01 16:44:24,821 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-01 20:35:23,749 - INFO - 処理開始 PROCESSID:20251001_203520
+2025-10-01 20:35:23,749 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-01 20:35:23,749 - INFO - 処理を開始します
+2025-10-01 20:35:23,808 - INFO - 選択されたプロファイル: Profile 12
+2025-10-01 20:35:23,808 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-01 20:35:28,781 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-01 20:35:40,467 - INFO - 最新投稿を読み込みます
+2025-10-01 20:35:46,117 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-10-01 20:35:48,977 - INFO - ピン留めだが3日以上前(79日) → スキップ
+2025-10-01 20:35:48,977 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-10-01 20:35:51,737 - INFO - ピン留めだが3日以上前(469日) → スキップ
+2025-10-01 20:35:51,737 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DPQkBrigWRp/?hl=ja
+2025-10-01 20:35:57,177 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 20:36:01,452 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 20:36:01,489 - INFO - datetime属性の抽出を開始します
+2025-10-01 20:36:01,535 - INFO - 抽出されたdatetime: 2025-10-01T07:48:17.000Z
+2025-10-01 20:36:01,535 - INFO - hfhsraffaello の投稿日時: 2025-10-01T07:48:17.000Z
+2025-10-01 20:36:01,546 - INFO - date:2025-10-01 16:48:17+09:00
+2025-10-01 20:36:01,546 - INFO - post_date:20251001
+2025-10-01 20:36:01,606 - INFO - カルーセル推定: 9枚
+2025-10-01 20:36:01,631 - INFO - 検出(UL): https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/557980567_18424652545097894_9172865329000800829_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzczMzY0MjUxMzgxMTA4MzExNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTU3Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=1NSsRaiYomIQ7kNvwGh2DG4&_nc_oc=Adl97YBjfXOD5P2hr_mD4OUvvJ8jfRe9rpFOg1gpF-jGcPz3VVDWggQnI_7UVSHCyCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=KQw35YA22khcE-Saf_AbJA&oh=00_AfZxpRPbR3S4iHRTmv1Tfe6uHTz16CslFcG4xmUa8AdP6A&oe=68E36259
+2025-10-01 20:36:01,644 - INFO - 検出(UL): https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/556896870_18424652563097894_8259361269255426105_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzczMzY0MjUxMzgyNzgzMTc4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTU3Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=RWq5JVXbPTwQ7kNvwGPpTDW&_nc_oc=AdnXQKJI_mXcgEBPT9SpW6N3wnob20GxoCLAQRNpPf1oNMCxImqk0NlHXLGBKxqk_EQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=KQw35YA22khcE-Saf_AbJA&oh=00_Afbk0uUsfdBHTMnqq2UmCiTN0zq5FspiDaywiqRqGRi8ZA&oe=68E36C25
+2025-10-01 20:36:22,562 - INFO - 検出(UL): https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/556353022_18424652560097894_6218512031912604044_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QGJBsOIToR8jOr_-DRcY4ErwzEfSbsBl9ZwGrmWXSsAyvsxJxkiluGhQsS2Own7y_g&_nc_ohc=BYbd6_I8amsQ7kNvwFdYSWv&_nc_gid=KQw35YA22khcE-Saf_AbJA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEzODIxNzUxNg%3D%3D.3-ccb7-5&oh=00_AfZBhTVVIjcU2ob1_EvdkN2VIEbZ8Oe3NUCznGmLB1xktg&oe=68E35C87&_nc_sid=10d13b
+2025-10-01 20:36:23,940 - INFO - 検出(UL): https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/558971693_18424652572097894_1204076631659235370_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QGJBsOIToR8jOr_-DRcY4ErwzEfSbsBl9ZwGrmWXSsAyvsxJxkiluGhQsS2Own7y_g&_nc_ohc=MMpikyCfSlwQ7kNvwERAHsr&_nc_gid=KQw35YA22khcE-Saf_AbJA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzk0NTI2NDE5NQ%3D%3D.3-ccb7-5&oh=00_AfYK7xPyahLyXkOvZZbY7jxt2vnesOjG7-yAF4tdxyzQcQ&oe=68E37718&_nc_sid=10d13b
+2025-10-01 20:36:24,994 - INFO - 検出(UL): https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/557443346_18424652590097894_6408203505436728647_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QGJBsOIToR8jOr_-DRcY4ErwzEfSbsBl9ZwGrmWXSsAyvsxJxkiluGhQsS2Own7y_g&_nc_ohc=kR2szqUGv0AQ7kNvwGpTS7X&_nc_gid=KQw35YA22khcE-Saf_AbJA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzk3MDQ3NTUzMw%3D%3D.3-ccb7-5&oh=00_AfYfXLDy-yz0SWjh06rykp5CPFMn3m0rtddt5bh24gidrg&oe=68E35AB2&_nc_sid=10d13b
+2025-10-01 20:36:26,189 - INFO - 検出(UL): https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/556989202_18424652587097894_7419368117873597379_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QGJBsOIToR8jOr_-DRcY4ErwzEfSbsBl9ZwGrmWXSsAyvsxJxkiluGhQsS2Own7y_g&_nc_ohc=m4G1a8i0vvQQ7kNvwHICkPt&_nc_gid=KQw35YA22khcE-Saf_AbJA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEzODI1OTE2OQ%3D%3D.3-ccb7-5&oh=00_AfZic4cZscs0MLPyUi16J2lkzyuDT9j_adYz6bbxnV_MMA&oe=68E35237&_nc_sid=10d13b
+2025-10-01 20:36:27,227 - INFO - 検出(UL): https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/557853026_18424652599097894_2368036592457443538_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MzczMzY0MjUxNDE4ODU2NDkxNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTU3MS5zZHIuQzMifQ%3D%3D&_nc_ohc=krkinMTNjAwQ7kNvwFIjKSB&_nc_oc=AdkRXjmoJ4DbQavA9uq6TTGBR18T8VK6WCkyNV17_ro-KgBgHGVya1HhGqa2dKd8KJo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=KQw35YA22khcE-Saf_AbJA&oh=00_AfaJ_3oKeqhr5Md87dPcz9-JpBWsmjekBpj5VkOizot9Yw&oe=68E36A43
+2025-10-01 20:36:28,270 - INFO - 検出(UL): https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/557988723_18424652608097894_3989957954229750471_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QGJBsOIToR8jOr_-DRcY4ErwzEfSbsBl9ZwGrmWXSsAyvsxJxkiluGhQsS2Own7y_g&_nc_ohc=P4xdM0SolGAQ7kNvwGA-Per&_nc_gid=KQw35YA22khcE-Saf_AbJA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEyOTg3MTU4Mw%3D%3D.3-ccb7-5&oh=00_AfZ37khnKRvLaL06PyQe3xpwDitEMnjEFfknxLPYxbBpqQ&oe=68E348A9&_nc_sid=10d13b
+2025-10-01 20:36:29,336 - INFO - 検出(UL): https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/556773331_18424652617097894_4803973108845863769_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QGJBsOIToR8jOr_-DRcY4ErwzEfSbsBl9ZwGrmWXSsAyvsxJxkiluGhQsS2Own7y_g&_nc_ohc=ZxbfS8nTbIoQ7kNvwFjsfaB&_nc_gid=KQw35YA22khcE-Saf_AbJA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzgxOTQ0ODY5Mg%3D%3D.3-ccb7-5&oh=00_AfbkVI7cIQSXU-lpZ8DWhoRCC-N6fQ3UzF38YDxiwcFTAQ&oe=68E354C4&_nc_sid=10d13b
+2025-10-01 20:36:29,355 - INFO - 1枚目: https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/557980567_18424652545097894_9172865329000800829_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzczMzY0MjUxMzgxMTA4MzExNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTU3Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=1NSsRaiYomIQ7kNvwGh2DG4&_nc_oc=Adl97YBjfXOD5P2hr_mD4OUvvJ8jfRe9rpFOg1gpF-jGcPz3VVDWggQnI_7UVSHCyCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=KQw35YA22khcE-Saf_AbJA&oh=00_AfZxpRPbR3S4iHRTmv1Tfe6uHTz16CslFcG4xmUa8AdP6A&oe=68E36259
+2025-10-01 20:36:29,355 - INFO - 2枚目: https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/556896870_18424652563097894_8259361269255426105_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzczMzY0MjUxMzgyNzgzMTc4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTU3Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=RWq5JVXbPTwQ7kNvwGPpTDW&_nc_oc=AdnXQKJI_mXcgEBPT9SpW6N3wnob20GxoCLAQRNpPf1oNMCxImqk0NlHXLGBKxqk_EQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=KQw35YA22khcE-Saf_AbJA&oh=00_Afbk0uUsfdBHTMnqq2UmCiTN0zq5FspiDaywiqRqGRi8ZA&oe=68E36C25
+2025-10-01 20:36:29,355 - INFO - 3枚目: https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/556353022_18424652560097894_6218512031912604044_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QGJBsOIToR8jOr_-DRcY4ErwzEfSbsBl9ZwGrmWXSsAyvsxJxkiluGhQsS2Own7y_g&_nc_ohc=BYbd6_I8amsQ7kNvwFdYSWv&_nc_gid=KQw35YA22khcE-Saf_AbJA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEzODIxNzUxNg%3D%3D.3-ccb7-5&oh=00_AfZBhTVVIjcU2ob1_EvdkN2VIEbZ8Oe3NUCznGmLB1xktg&oe=68E35C87&_nc_sid=10d13b
+2025-10-01 20:36:29,355 - INFO - 4枚目: https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/558971693_18424652572097894_1204076631659235370_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QGJBsOIToR8jOr_-DRcY4ErwzEfSbsBl9ZwGrmWXSsAyvsxJxkiluGhQsS2Own7y_g&_nc_ohc=MMpikyCfSlwQ7kNvwERAHsr&_nc_gid=KQw35YA22khcE-Saf_AbJA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzk0NTI2NDE5NQ%3D%3D.3-ccb7-5&oh=00_AfYK7xPyahLyXkOvZZbY7jxt2vnesOjG7-yAF4tdxyzQcQ&oe=68E37718&_nc_sid=10d13b
+2025-10-01 20:36:29,355 - INFO - 5枚目: https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/557443346_18424652590097894_6408203505436728647_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QGJBsOIToR8jOr_-DRcY4ErwzEfSbsBl9ZwGrmWXSsAyvsxJxkiluGhQsS2Own7y_g&_nc_ohc=kR2szqUGv0AQ7kNvwGpTS7X&_nc_gid=KQw35YA22khcE-Saf_AbJA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzk3MDQ3NTUzMw%3D%3D.3-ccb7-5&oh=00_AfYfXLDy-yz0SWjh06rykp5CPFMn3m0rtddt5bh24gidrg&oe=68E35AB2&_nc_sid=10d13b
+2025-10-01 20:36:29,355 - INFO - 6枚目: https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/556989202_18424652587097894_7419368117873597379_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QGJBsOIToR8jOr_-DRcY4ErwzEfSbsBl9ZwGrmWXSsAyvsxJxkiluGhQsS2Own7y_g&_nc_ohc=m4G1a8i0vvQQ7kNvwHICkPt&_nc_gid=KQw35YA22khcE-Saf_AbJA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEzODI1OTE2OQ%3D%3D.3-ccb7-5&oh=00_AfZic4cZscs0MLPyUi16J2lkzyuDT9j_adYz6bbxnV_MMA&oe=68E35237&_nc_sid=10d13b
+2025-10-01 20:36:29,355 - INFO - 7枚目: https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/557853026_18424652599097894_2368036592457443538_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MzczMzY0MjUxNDE4ODU2NDkxNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTU3MS5zZHIuQzMifQ%3D%3D&_nc_ohc=krkinMTNjAwQ7kNvwFIjKSB&_nc_oc=AdkRXjmoJ4DbQavA9uq6TTGBR18T8VK6WCkyNV17_ro-KgBgHGVya1HhGqa2dKd8KJo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=KQw35YA22khcE-Saf_AbJA&oh=00_AfaJ_3oKeqhr5Md87dPcz9-JpBWsmjekBpj5VkOizot9Yw&oe=68E36A43
+2025-10-01 20:36:29,355 - INFO - 8枚目: https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/557988723_18424652608097894_3989957954229750471_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3MS5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QGJBsOIToR8jOr_-DRcY4ErwzEfSbsBl9ZwGrmWXSsAyvsxJxkiluGhQsS2Own7y_g&_nc_ohc=P4xdM0SolGAQ7kNvwGA-Per&_nc_gid=KQw35YA22khcE-Saf_AbJA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxNDEyOTg3MTU4Mw%3D%3D.3-ccb7-5&oh=00_AfZ37khnKRvLaL06PyQe3xpwDitEMnjEFfknxLPYxbBpqQ&oe=68E348A9&_nc_sid=10d13b
+2025-10-01 20:36:29,356 - INFO - 9枚目: https://scontent-atl3-2.cdninstagram.com/v/t51.2885-15/556773331_18424652617097894_4803973108845863769_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjExNzl4MTU3Mi5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2QGJBsOIToR8jOr_-DRcY4ErwzEfSbsBl9ZwGrmWXSsAyvsxJxkiluGhQsS2Own7y_g&_nc_ohc=ZxbfS8nTbIoQ7kNvwFjsfaB&_nc_gid=KQw35YA22khcE-Saf_AbJA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzY0MjUxMzgxOTQ0ODY5Mg%3D%3D.3-ccb7-5&oh=00_AfbkVI7cIQSXU-lpZ8DWhoRCC-N6fQ3UzF38YDxiwcFTAQ&oe=68E354C4&_nc_sid=10d13b
+2025-10-01 20:36:29,356 - INFO - [caption/by_username] 開始
+2025-10-01 20:37:49,939 - INFO - [caption/by_username] 説明文確定（先頭100）: '🎉HAPPY SALE開催🎉
+
+今年も感謝の気持ちを込めて、ワクワクの抽選付きキャンペーンを開催します✨
+
+🗓受付期間：10/1〜12/31
+🎁引き渡し期間：12/1〜1/31
+
+運試しにチャレンジし'
+2025-10-01 20:37:49,940 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251001_203520
+2025-10-01 20:37:49,940 - INFO - 画像URLを取得しました
+2025-10-01 20:37:49,942 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzgxMTA4MzExNg==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 20:37:49,942 - INFO - このレコードは存在します
+2025-10-01 20:37:49,942 - INFO - 画像URLを取得しました
+2025-10-01 20:37:49,944 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzgyNzgzMTc4NA==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 20:37:49,944 - INFO - このレコードは存在します
+2025-10-01 20:37:49,944 - INFO - 画像URLを取得しました
+2025-10-01 20:37:49,944 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxNDEzODIxNzUxNg==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 20:37:49,944 - INFO - このレコードは存在します
+2025-10-01 20:37:49,946 - INFO - 画像URLを取得しました
+2025-10-01 20:37:49,946 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzk0NTI2NDE5NQ==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 20:37:49,946 - INFO - このレコードは存在します
+2025-10-01 20:37:49,946 - INFO - 画像URLを取得しました
+2025-10-01 20:37:49,946 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzk3MDQ3NTUzMw==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 20:37:49,948 - INFO - このレコードは存在します
+2025-10-01 20:37:49,948 - INFO - 画像URLを取得しました
+2025-10-01 20:37:49,948 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxNDEzODI1OTE2OQ==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 20:37:49,948 - INFO - このレコードは存在します
+2025-10-01 20:37:49,948 - INFO - 画像URLを取得しました
+2025-10-01 20:37:49,950 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxNDE4ODU2NDkxNw==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 20:37:49,950 - INFO - このレコードは存在します
+2025-10-01 20:37:49,950 - INFO - 画像URLを取得しました
+2025-10-01 20:37:49,950 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxNDEyOTg3MTU4Mw==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 20:37:49,950 - INFO - このレコードは存在します
+2025-10-01 20:37:49,950 - INFO - 画像URLを取得しました
+2025-10-01 20:37:49,952 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczMzY0MjUxMzgxOTQ0ODY5Mg==, dt=2025-10-01T07:48:17.000Z
+2025-10-01 20:37:49,952 - INFO - このレコードは存在します
+2025-10-01 20:37:49,952 - INFO - カルーセル集計: 想定9 / 収集9 / 新規DL0 / 既存スキップ9 / 失敗0
+2025-10-01 20:37:49,952 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-01 20:37:49,952 - INFO - 全件レコードが存在します

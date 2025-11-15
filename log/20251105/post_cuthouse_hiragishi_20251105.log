@@ -1,0 +1,368 @@
+================================================================================
+2025-11-05 01:14:07,800 - INFO - 処理開始 PROCESSID:20251105_011404
+2025-11-05 01:14:07,800 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-05 01:14:07,800 - INFO - 処理を開始します
+2025-11-05 01:14:07,870 - INFO - 選択されたプロファイル: Profile 9
+2025-11-05 01:14:07,872 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-05 01:14:12,300 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-05 01:14:23,917 - INFO - 最新投稿を読み込みます
+2025-11-05 01:14:29,200 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQp2PS5kulW/?hl=ja
+2025-11-05 01:14:32,407 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 01:14:36,788 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 01:14:36,834 - INFO - datetime属性の抽出を開始します
+2025-11-05 01:14:36,861 - INFO - 抽出されたdatetime: 2025-11-05T00:00:18.000Z
+2025-11-05 01:14:36,863 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-05T00:00:18.000Z
+2025-11-05 01:14:36,886 - INFO - date:2025-11-05 09:00:18+09:00
+2025-11-05 01:14:36,886 - INFO - post_date:20251105
+2025-11-05 01:14:36,935 - INFO - カルーセル推定: 1枚
+2025-11-05 01:14:36,995 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/573816937_18372919159158155_6476917525057618584_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODc3MzkwOTYxNDQyMjM1OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=-L7o2Ybv4yQQ7kNvwEGzaCE&_nc_oc=AdkUwvPe1yl03e-AgQXXpR7WHn_q7hCsJGDkVkFzm9RsU6fQ5MOEpYQ4xklZQclOYxA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=cTKFgOTN8wQSxKZPq4JUIA&oh=00_AfhoFv8JyTtmCK6uJ-6p3fLlAYha7jekroytLlxGWxWrfg&oe=69109115
+2025-11-05 01:14:36,995 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573816937_18372919159158155_6476917525057618584_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODc3MzkwOTYxNDQyMjM1OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=-L7o2Ybv4yQQ7kNvwEGzaCE&_nc_oc=AdkUwvPe1yl03e-AgQXXpR7WHn_q7hCsJGDkVkFzm9RsU6fQ5MOEpYQ4xklZQclOYxA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=cTKFgOTN8wQSxKZPq4JUIA&oh=00_AfhoFv8JyTtmCK6uJ-6p3fLlAYha7jekroytLlxGWxWrfg&oe=69109115
+2025-11-05 01:14:36,995 - INFO - [caption/by_username] 開始
+2025-11-05 01:14:37,079 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+連休明けの本日水曜日#カットハウス ポツラとまだ空きある時間帯がございます
+
+そろそろ冬支度のヘアスタイル整えておきましょーね
+
+皆様の御予約、ご来店お待ちしております
+
+———————————'
+2025-11-05 01:14:37,081 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251105_011404
+2025-11-05 01:14:37,081 - INFO - 画像URLを取得しました
+2025-11-05 01:14:37,115 - INFO - INSERT(with-key): user=cuthouse_hiragishi, key=Mzc1ODc3MzkwOTYxNDQyMjM1OA==, dt=2025-11-05T00:00:18.000Z
+2025-11-05 01:14:37,116 - INFO - メディアを取得します
+2025-11-05 01:14:39,118 - INFO - ダウンロードを開始します: media\cuthouse_hiragishi\cuthouse_hiragishi_20251105011439.jpg
+2025-11-05 01:14:41,043 - INFO - ダウンロード完了: media\cuthouse_hiragishi\cuthouse_hiragishi_20251105011439.jpg
+2025-11-05 01:14:41,292 - INFO - 元の画像サイズ: 1080x1080
+2025-11-05 01:14:41,292 - INFO - サイズ変更は不要です
+2025-11-05 01:14:41,294 - INFO - 説明文:💈
+
+連休明けの本日水曜日#カットハウス ポツラとまだ空きある時間帯がございます
+
+そろそろ冬支度のヘアスタイル整えておきましょーね
+
+皆様の御予約、ご来店お待ちしております
+
+———————————
+
+💈#カットハウス #cuthouse 💈
+
+営業時間
+OPEN ┇ 9:00  CLOSE ┇ 19:00
+
+〒062-0932
+北海道札幌市豊平区平岸2条7丁目4-27 山際ビル 2F
+最寄駅 : 平岸駅(すぐ！)
+定休日︰毎週火曜日、第3月曜日
+
+〈ご予約〉
+TEL or Hotpepper
+
+———————————
+
+#メンズカット #フェードカット #フェード #アイロンパーマ #パーマ #ツイスパ #スパイキーパーマ #メンズカラー #ヘアカラー #メンズパーマ #メンズヘア #キッズカット #キッズヘア #眉毛カット #漢の身だしなみ #男なら床屋だろ #バーバースタイル #カットハウス #札幌床屋 #平岸床屋 #札幌バーバー #平岸バーバー #平岸理容室 #札幌理容室 #札幌眉毛 #札幌メンズカット #平岸メンズカット #barber #barberstyle #cuthouse
+2025-11-05 01:14:43,870 - INFO - 処理終了
+================================================================================
+2025-11-05 01:14:50,641 - INFO - 処理開始: Mode=post, Username=cuthouse_hiragishi, GBP=cuthousehiragishi
+2025-11-05 01:14:50,641 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJjdXRob3VzZWhpcmFnaXNoaSJd.
+2025-11-05 01:15:14,278 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\cuthouse_hiragishi\cuthouse_hiragishi_20251105011439.jpg
+2025-11-05 01:15:17,392 - INFO - Waiting for description field...
+2025-11-05 01:15:17,429 - INFO - Setting description via JS (no send_keys)...
+2025-11-05 01:15:18,547 - INFO - Looking for button section...
+2025-11-05 01:15:23,059 - INFO - Trying to select CALL option...
+2025-11-05 01:15:23,326 - INFO - CALL option successfully selected
+2025-11-05 01:15:25,327 - INFO - Clicking submit button...
+2025-11-05 01:15:34,081 - INFO - 処理完了
+================================================================================
+2025-11-05 04:20:05,083 - INFO - 処理開始 PROCESSID:20251105_042001
+2025-11-05 04:20:05,083 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-05 04:20:05,083 - INFO - 処理を開始します
+2025-11-05 04:20:05,161 - INFO - 選択されたプロファイル: Profile 13
+2025-11-05 04:20:05,161 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-05 04:20:09,708 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-05 04:20:21,752 - INFO - 最新投稿を読み込みます
+2025-11-05 04:20:27,422 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQp2PS5kulW/?hl=ja
+2025-11-05 04:20:31,050 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 04:20:35,662 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 04:20:35,696 - INFO - datetime属性の抽出を開始します
+2025-11-05 04:20:35,729 - INFO - 抽出されたdatetime: 2025-11-05T00:00:18.000Z
+2025-11-05 04:20:35,730 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-05T00:00:18.000Z
+2025-11-05 04:20:35,738 - INFO - date:2025-11-05 09:00:18+09:00
+2025-11-05 04:20:35,739 - INFO - post_date:20251105
+2025-11-05 04:20:35,798 - INFO - カルーセル推定: 1枚
+2025-11-05 04:20:35,839 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/573816937_18372919159158155_6476917525057618584_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODc3MzkwOTYxNDQyMjM1OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=-L7o2Ybv4yQQ7kNvwEGzaCE&_nc_oc=AdkUwvPe1yl03e-AgQXXpR7WHn_q7hCsJGDkVkFzm9RsU6fQ5MOEpYQ4xklZQclOYxA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=IKdSsUCJIHPNniOftY5Duw&oh=00_AfjOviPemuFc0B9oQ0gWc6jvCt2WtugY-3Gyki38NGQqXA&oe=69109115
+2025-11-05 04:20:35,839 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573816937_18372919159158155_6476917525057618584_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1ODc3MzkwOTYxNDQyMjM1OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=-L7o2Ybv4yQQ7kNvwEGzaCE&_nc_oc=AdkUwvPe1yl03e-AgQXXpR7WHn_q7hCsJGDkVkFzm9RsU6fQ5MOEpYQ4xklZQclOYxA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=IKdSsUCJIHPNniOftY5Duw&oh=00_AfjOviPemuFc0B9oQ0gWc6jvCt2WtugY-3Gyki38NGQqXA&oe=69109115
+2025-11-05 04:20:35,840 - INFO - [caption/by_username] 開始
+2025-11-05 04:20:35,933 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+連休明けの本日水曜日#カットハウス ポツラとまだ空きある時間帯がございます
+
+そろそろ冬支度のヘアスタイル整えておきましょーね
+
+皆様の御予約、ご来店お待ちしております
+
+———————————'
+2025-11-05 04:20:35,935 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251105_042001
+2025-11-05 04:20:35,936 - INFO - 画像URLを取得しました
+2025-11-05 04:20:35,939 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc1ODc3MzkwOTYxNDQyMjM1OA==, dt=2025-11-05T00:00:18.000Z
+2025-11-05 04:20:35,939 - INFO - このレコードは存在します
+2025-11-05 04:20:35,940 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-05 07:26:48,411 - INFO - 処理開始 PROCESSID:20251105_072644
+2025-11-05 07:26:48,411 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-05 07:26:48,411 - INFO - 処理を開始します
+2025-11-05 07:26:48,475 - INFO - 選択されたプロファイル: Profile 9
+2025-11-05 07:26:48,475 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-05 07:26:53,161 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-05 07:27:04,965 - INFO - 最新投稿を読み込みます
+2025-11-05 07:27:10,470 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQqWt3zEtZ7/?hl=ja
+2025-11-05 07:27:14,267 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 07:27:17,836 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 07:27:17,908 - INFO - datetime属性の抽出を開始します
+2025-11-05 07:27:17,953 - INFO - 抽出されたdatetime: 2025-11-05T04:43:59.000Z
+2025-11-05 07:27:17,953 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-05T04:43:59.000Z
+2025-11-05 07:27:17,962 - INFO - date:2025-11-05 13:43:59+09:00
+2025-11-05 07:27:17,962 - INFO - post_date:20251105
+2025-11-05 07:27:18,031 - INFO - カルーセル推定: 1枚
+2025-11-05 07:27:18,110 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/573463395_18373003552158155_8935304566577128796_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg5N3g4OTcuc2RyLkMzIn0%3D&_nc_ohc=FmX1LCOuCHcQ7kNvwFjXx-z&_nc_oc=Adknqsf1bXji8IB2T9VDqMS4LMGWOEA8VKIcEVpOP2ZDGM6CWmQOQd67iXgId6g0Rzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BgqkzlSLEjCDjCxJTUDMKA&oh=00_AfgtY5xXZkmFMsTbJHr39SJC03UNjHhBVaT5F_2H0u-vxw&oe=6910E9A3
+2025-11-05 07:27:18,110 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573463395_18373003552158155_8935304566577128796_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg5N3g4OTcuc2RyLkMzIn0%3D&_nc_ohc=FmX1LCOuCHcQ7kNvwFjXx-z&_nc_oc=Adknqsf1bXji8IB2T9VDqMS4LMGWOEA8VKIcEVpOP2ZDGM6CWmQOQd67iXgId6g0Rzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BgqkzlSLEjCDjCxJTUDMKA&oh=00_AfgtY5xXZkmFMsTbJHr39SJC03UNjHhBVaT5F_2H0u-vxw&oe=6910E9A3
+2025-11-05 07:27:18,110 - INFO - [caption/by_username] 開始
+2025-11-05 07:27:18,252 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+キッズフェードでも、バチクソかっこいいキッズスタイル
+
+———————————
+
+💈#カットハウス #cuthouse 💈
+
+営業時間
+OPEN ┇ 9:00  CLOSE ┇ 19:00
+
+〒'
+2025-11-05 07:27:18,254 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251105_072644
+2025-11-05 07:27:18,254 - INFO - 画像URLを取得しました
+2025-11-05 07:27:18,283 - INFO - INSERT(with-key): user=cuthouse_hiragishi, key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw==, dt=2025-11-05T04:43:59.000Z
+2025-11-05 07:27:18,283 - INFO - メディアを取得します
+2025-11-05 07:27:20,285 - INFO - ダウンロードを開始します: media\cuthouse_hiragishi\cuthouse_hiragishi_20251105072720.jpg
+2025-11-05 07:27:21,854 - INFO - ダウンロード完了: media\cuthouse_hiragishi\cuthouse_hiragishi_20251105072720.jpg
+2025-11-05 07:27:21,929 - INFO - 元の画像サイズ: 897x897
+2025-11-05 07:27:21,929 - INFO - サイズ変更は不要です
+2025-11-05 07:27:21,930 - INFO - 説明文:💈
+
+キッズフェードでも、バチクソかっこいいキッズスタイル
+
+———————————
+
+💈#カットハウス #cuthouse 💈
+
+営業時間
+OPEN ┇ 9:00  CLOSE ┇ 19:00
+
+〒062-0932
+北海道札幌市豊平区平岸2条7丁目4-27 山際ビル 2F
+最寄駅 : 平岸駅(すぐ！)
+定休日︰火曜日
+
+〈ご予約〉
+TEL or Hotpepper
+
+———————————
+
+#キッズカット #キッズヘア #キッズヘアスタイル #キッズヘアアレンジ #お子様カット #キッズスタイル #ウェーブアップ #スキンフェード #フェード #キッズフェード #漢の身だしなみ #男なら床屋だろ #kidscut #kidshair #fadecut #fade #skinfade #fadestyle #kidsfade #barber #barberstyle #cuthouse #札幌床屋 #平岸床屋 #札幌理容室 #平岸理容室 #札幌バーバー #平岸バーバー #カットハウス #バーバースタイル
+2025-11-05 07:27:25,925 - INFO - 処理終了
+================================================================================
+2025-11-05 07:27:32,046 - INFO - 処理開始: Mode=post, Username=cuthouse_hiragishi, GBP=cuthousehiragishi
+2025-11-05 07:27:32,046 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJjdXRob3VzZWhpcmFnaXNoaSJd.
+2025-11-05 07:27:54,990 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\cuthouse_hiragishi\cuthouse_hiragishi_20251105072720.jpg
+2025-11-05 07:27:58,196 - INFO - Waiting for description field...
+2025-11-05 07:27:58,232 - INFO - Setting description via JS (no send_keys)...
+2025-11-05 07:27:59,352 - INFO - Looking for button section...
+2025-11-05 07:28:03,910 - INFO - Trying to select CALL option...
+2025-11-05 07:28:04,190 - INFO - CALL option successfully selected
+2025-11-05 07:28:06,191 - INFO - Clicking submit button...
+2025-11-05 07:28:14,862 - INFO - 処理完了
+================================================================================
+2025-11-05 10:31:49,023 - INFO - 処理開始 PROCESSID:20251105_103145
+2025-11-05 10:31:49,023 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-05 10:31:49,023 - INFO - 処理を開始します
+2025-11-05 10:31:49,101 - INFO - 選択されたプロファイル: Profile 9
+2025-11-05 10:31:49,101 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-05 10:31:53,448 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-05 10:32:05,733 - INFO - 最新投稿を読み込みます
+2025-11-05 10:32:11,340 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQqWt3zEtZ7/?hl=ja
+2025-11-05 10:32:15,187 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 10:32:19,402 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 10:32:19,438 - INFO - datetime属性の抽出を開始します
+2025-11-05 10:32:19,468 - INFO - 抽出されたdatetime: 2025-11-05T04:43:59.000Z
+2025-11-05 10:32:19,468 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-05T04:43:59.000Z
+2025-11-05 10:32:19,476 - INFO - date:2025-11-05 13:43:59+09:00
+2025-11-05 10:32:19,476 - INFO - post_date:20251105
+2025-11-05 10:32:19,525 - INFO - カルーセル推定: 1枚
+2025-11-05 10:32:19,588 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/573463395_18373003552158155_8935304566577128796_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg5N3g4OTcuc2RyLkMzIn0%3D&_nc_ohc=FmX1LCOuCHcQ7kNvwFjXx-z&_nc_oc=Adknqsf1bXji8IB2T9VDqMS4LMGWOEA8VKIcEVpOP2ZDGM6CWmQOQd67iXgId6g0Rzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=MAFIwA5cral_ioFV304iew&oh=00_AfjAYnC3b9n0-PuzLiTzMm_ulMuVwNCYmEu72xrVSuoS-g&oe=6910E9A3
+2025-11-05 10:32:19,588 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573463395_18373003552158155_8935304566577128796_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg5N3g4OTcuc2RyLkMzIn0%3D&_nc_ohc=FmX1LCOuCHcQ7kNvwFjXx-z&_nc_oc=Adknqsf1bXji8IB2T9VDqMS4LMGWOEA8VKIcEVpOP2ZDGM6CWmQOQd67iXgId6g0Rzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=MAFIwA5cral_ioFV304iew&oh=00_AfjAYnC3b9n0-PuzLiTzMm_ulMuVwNCYmEu72xrVSuoS-g&oe=6910E9A3
+2025-11-05 10:32:19,588 - INFO - [caption/by_username] 開始
+2025-11-05 10:32:19,704 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+キッズフェードでも、バチクソかっこいいキッズスタイル
+
+———————————
+
+💈#カットハウス #cuthouse 💈
+
+営業時間
+OPEN ┇ 9:00  CLOSE ┇ 19:00
+
+〒'
+2025-11-05 10:32:19,706 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251105_103145
+2025-11-05 10:32:19,706 - INFO - 画像URLを取得しました
+2025-11-05 10:32:19,708 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw==, dt=2025-11-05T04:43:59.000Z
+2025-11-05 10:32:19,708 - INFO - このレコードは存在します
+2025-11-05 10:32:19,710 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-05 13:31:21,693 - INFO - 処理開始 PROCESSID:20251105_133118
+2025-11-05 13:31:21,693 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-05 13:31:21,693 - INFO - 処理を開始します
+2025-11-05 13:31:21,767 - INFO - 選択されたプロファイル: Profile 13
+2025-11-05 13:31:21,767 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-05 13:31:26,174 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-05 13:31:38,157 - INFO - 最新投稿を読み込みます
+2025-11-05 13:31:43,498 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQqWt3zEtZ7/?hl=ja
+2025-11-05 13:31:48,665 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 13:31:53,133 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 13:31:53,184 - INFO - datetime属性の抽出を開始します
+2025-11-05 13:31:53,212 - INFO - 抽出されたdatetime: 2025-11-05T04:43:59.000Z
+2025-11-05 13:31:53,212 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-05T04:43:59.000Z
+2025-11-05 13:31:53,219 - INFO - date:2025-11-05 13:43:59+09:00
+2025-11-05 13:31:53,219 - INFO - post_date:20251105
+2025-11-05 13:31:53,288 - INFO - カルーセル推定: 1枚
+2025-11-05 13:31:53,325 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/573463395_18373003552158155_8935304566577128796_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg5N3g4OTcuc2RyLkMzIn0%3D&_nc_ohc=FmX1LCOuCHcQ7kNvwFjXx-z&_nc_oc=Adknqsf1bXji8IB2T9VDqMS4LMGWOEA8VKIcEVpOP2ZDGM6CWmQOQd67iXgId6g0Rzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rUlUNfb_awZnh_xVpitWlg&oh=00_Afh4OHSHDMsA6A9FxJz_odqps1es5VX_sIyU19oLvNqXyA&oe=691121E3
+2025-11-05 13:31:53,325 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573463395_18373003552158155_8935304566577128796_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg5N3g4OTcuc2RyLkMzIn0%3D&_nc_ohc=FmX1LCOuCHcQ7kNvwFjXx-z&_nc_oc=Adknqsf1bXji8IB2T9VDqMS4LMGWOEA8VKIcEVpOP2ZDGM6CWmQOQd67iXgId6g0Rzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=rUlUNfb_awZnh_xVpitWlg&oh=00_Afh4OHSHDMsA6A9FxJz_odqps1es5VX_sIyU19oLvNqXyA&oe=691121E3
+2025-11-05 13:31:53,325 - INFO - [caption/by_username] 開始
+2025-11-05 13:31:53,406 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+キッズフェードでも、バチクソかっこいいキッズスタイル
+
+———————————
+
+💈#カットハウス #cuthouse 💈
+
+営業時間
+OPEN ┇ 9:00  CLOSE ┇ 19:00
+
+〒'
+2025-11-05 13:31:53,408 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251105_133118
+2025-11-05 13:31:53,408 - INFO - 画像URLを取得しました
+2025-11-05 13:31:53,411 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw==, dt=2025-11-05T04:43:59.000Z
+2025-11-05 13:31:53,411 - INFO - このレコードは存在します
+2025-11-05 13:31:53,411 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-05 16:29:32,526 - INFO - 処理開始 PROCESSID:20251105_162929
+2025-11-05 16:29:32,526 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-05 16:29:32,526 - INFO - 処理を開始します
+2025-11-05 16:29:32,584 - INFO - 選択されたプロファイル: Profile 13
+2025-11-05 16:29:32,585 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-05 16:29:36,864 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-05 16:29:48,671 - INFO - 最新投稿を読み込みます
+2025-11-05 16:29:53,951 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQqWt3zEtZ7/?hl=ja
+2025-11-05 16:29:58,939 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 16:30:03,147 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 16:30:03,194 - INFO - datetime属性の抽出を開始します
+2025-11-05 16:30:03,220 - INFO - 抽出されたdatetime: 2025-11-05T04:43:59.000Z
+2025-11-05 16:30:03,220 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-05T04:43:59.000Z
+2025-11-05 16:30:03,227 - INFO - date:2025-11-05 13:43:59+09:00
+2025-11-05 16:30:03,227 - INFO - post_date:20251105
+2025-11-05 16:30:03,267 - INFO - カルーセル推定: 1枚
+2025-11-05 16:30:03,309 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/573463395_18373003552158155_8935304566577128796_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg5N3g4OTcuc2RyLkMzIn0%3D&_nc_ohc=FmX1LCOuCHcQ7kNvwFjXx-z&_nc_oc=Adknqsf1bXji8IB2T9VDqMS4LMGWOEA8VKIcEVpOP2ZDGM6CWmQOQd67iXgId6g0Rzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y3TY9E7APoutx8D3DtQycA&oh=00_AfijH4YTPFnWF4ZOD7_gXVNGZ1oav-vp_QHWxNpkZGlCIg&oe=69115A23
+2025-11-05 16:30:03,310 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573463395_18373003552158155_8935304566577128796_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg5N3g4OTcuc2RyLkMzIn0%3D&_nc_ohc=FmX1LCOuCHcQ7kNvwFjXx-z&_nc_oc=Adknqsf1bXji8IB2T9VDqMS4LMGWOEA8VKIcEVpOP2ZDGM6CWmQOQd67iXgId6g0Rzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y3TY9E7APoutx8D3DtQycA&oh=00_AfijH4YTPFnWF4ZOD7_gXVNGZ1oav-vp_QHWxNpkZGlCIg&oe=69115A23
+2025-11-05 16:30:03,310 - INFO - [caption/by_username] 開始
+2025-11-05 16:30:03,412 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+キッズフェードでも、バチクソかっこいいキッズスタイル
+
+———————————
+
+💈#カットハウス #cuthouse 💈
+
+営業時間
+OPEN ┇ 9:00  CLOSE ┇ 19:00
+
+〒'
+2025-11-05 16:30:03,414 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251105_162929
+2025-11-05 16:30:03,414 - INFO - 画像URLを取得しました
+2025-11-05 16:30:03,416 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw==, dt=2025-11-05T04:43:59.000Z
+2025-11-05 16:30:03,416 - INFO - このレコードは存在します
+2025-11-05 16:30:03,416 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-05 19:26:39,739 - INFO - 処理開始 PROCESSID:20251105_192636
+2025-11-05 19:26:39,739 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-05 19:26:39,739 - INFO - 処理を開始します
+2025-11-05 19:26:39,804 - INFO - 選択されたプロファイル: Profile 13
+2025-11-05 19:26:39,804 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-05 19:26:44,238 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-05 19:26:55,800 - INFO - 最新投稿を読み込みます
+2025-11-05 19:27:01,093 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQqWt3zEtZ7/?hl=ja
+2025-11-05 19:27:05,029 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 19:27:08,692 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 19:27:08,765 - INFO - datetime属性の抽出を開始します
+2025-11-05 19:27:08,810 - INFO - 抽出されたdatetime: 2025-11-05T04:43:59.000Z
+2025-11-05 19:27:08,810 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-05T04:43:59.000Z
+2025-11-05 19:27:08,820 - INFO - date:2025-11-05 13:43:59+09:00
+2025-11-05 19:27:08,820 - INFO - post_date:20251105
+2025-11-05 19:27:08,891 - INFO - カルーセル推定: 1枚
+2025-11-05 19:27:08,954 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/573463395_18373003552158155_8935304566577128796_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg5N3g4OTcuc2RyLkMzIn0%3D&_nc_ohc=FmX1LCOuCHcQ7kNvwFjXx-z&_nc_oc=Adknqsf1bXji8IB2T9VDqMS4LMGWOEA8VKIcEVpOP2ZDGM6CWmQOQd67iXgId6g0Rzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=dIBM60lMJK1e2RiUZcBfvw&oh=00_AfjtSSNmBfAYKZYdyrrgWkMEULYdez56h_Y4HLPXmSAB5g&oe=69119263
+2025-11-05 19:27:08,955 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573463395_18373003552158155_8935304566577128796_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg5N3g4OTcuc2RyLkMzIn0%3D&_nc_ohc=FmX1LCOuCHcQ7kNvwFjXx-z&_nc_oc=Adknqsf1bXji8IB2T9VDqMS4LMGWOEA8VKIcEVpOP2ZDGM6CWmQOQd67iXgId6g0Rzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=dIBM60lMJK1e2RiUZcBfvw&oh=00_AfjtSSNmBfAYKZYdyrrgWkMEULYdez56h_Y4HLPXmSAB5g&oe=69119263
+2025-11-05 19:27:08,955 - INFO - [caption/by_username] 開始
+2025-11-05 19:27:09,069 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+キッズフェードでも、バチクソかっこいいキッズスタイル
+
+———————————
+
+💈#カットハウス #cuthouse 💈
+
+営業時間
+OPEN ┇ 9:00  CLOSE ┇ 19:00
+
+〒'
+2025-11-05 19:27:09,070 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251105_192636
+2025-11-05 19:27:09,070 - INFO - 画像URLを取得しました
+2025-11-05 19:27:09,073 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw==, dt=2025-11-05T04:43:59.000Z
+2025-11-05 19:27:09,074 - INFO - このレコードは存在します
+2025-11-05 19:27:09,074 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-05 22:23:56,858 - INFO - 処理開始 PROCESSID:20251105_222353
+2025-11-05 22:23:56,858 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-05 22:23:56,858 - INFO - 処理を開始します
+2025-11-05 22:23:56,921 - INFO - 選択されたプロファイル: Profile 10
+2025-11-05 22:23:56,921 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-05 22:24:01,574 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-05 22:24:13,546 - INFO - 最新投稿を読み込みます
+2025-11-05 22:24:19,311 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQqWt3zEtZ7/?hl=ja
+2025-11-05 22:24:22,795 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 22:24:27,336 - INFO - 最新投稿ページにアクセスしました
+2025-11-05 22:24:27,361 - INFO - datetime属性の抽出を開始します
+2025-11-05 22:24:27,383 - INFO - 抽出されたdatetime: 2025-11-05T04:43:59.000Z
+2025-11-05 22:24:27,383 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-05T04:43:59.000Z
+2025-11-05 22:24:27,391 - INFO - date:2025-11-05 13:43:59+09:00
+2025-11-05 22:24:27,391 - INFO - post_date:20251105
+2025-11-05 22:24:27,447 - INFO - カルーセル推定: 1枚
+2025-11-05 22:24:27,494 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/573463395_18373003552158155_8935304566577128796_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg5N3g4OTcuc2RyLkMzIn0%3D&_nc_ohc=FmX1LCOuCHcQ7kNvwFjXx-z&_nc_oc=Adknqsf1bXji8IB2T9VDqMS4LMGWOEA8VKIcEVpOP2ZDGM6CWmQOQd67iXgId6g0Rzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lE7OZ9hGhIMk6Cfm0T5CsA&oh=00_Afh6Py38zd2L8VowXm0_-wgd5AxfozdwWsMtAlKMovR0vw&oe=69119263
+2025-11-05 22:24:27,494 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573463395_18373003552158155_8935304566577128796_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg5N3g4OTcuc2RyLkMzIn0%3D&_nc_ohc=FmX1LCOuCHcQ7kNvwFjXx-z&_nc_oc=Adknqsf1bXji8IB2T9VDqMS4LMGWOEA8VKIcEVpOP2ZDGM6CWmQOQd67iXgId6g0Rzw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lE7OZ9hGhIMk6Cfm0T5CsA&oh=00_Afh6Py38zd2L8VowXm0_-wgd5AxfozdwWsMtAlKMovR0vw&oe=69119263
+2025-11-05 22:24:27,494 - INFO - [caption/by_username] 開始
+2025-11-05 22:24:27,583 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+キッズフェードでも、バチクソかっこいいキッズスタイル
+
+———————————
+
+💈#カットハウス #cuthouse 💈
+
+営業時間
+OPEN ┇ 9:00  CLOSE ┇ 19:00
+
+〒'
+2025-11-05 22:24:27,586 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251105_222353
+2025-11-05 22:24:27,586 - INFO - 画像URLを取得しました
+2025-11-05 22:24:27,587 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc1ODkxNjc0ODMwNjQ3MDUyMw==, dt=2025-11-05T04:43:59.000Z
+2025-11-05 22:24:27,588 - INFO - このレコードは存在します
+2025-11-05 22:24:27,588 - INFO - 全件レコードが存在します

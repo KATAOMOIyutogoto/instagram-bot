@@ -1,0 +1,149 @@
+================================================================================
+2025-10-21 00:02:33,983 - INFO - 処理開始 PROCESSID:20251021_000227
+2025-10-21 00:02:33,985 - INFO - 対象ユーザー: shinka_tokyo_roppongi
+2025-10-21 00:02:33,985 - INFO - 処理を開始します
+2025-10-21 00:02:34,133 - INFO - 選択されたプロファイル: Profile 13
+2025-10-21 00:02:34,133 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-21 00:02:39,947 - INFO - shinka_tokyo_roppongi のプロフィールページにアクセスします
+2025-10-21 00:03:02,495 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 00:03:05,874 - INFO - 動画の取得に失敗しました
+2025-10-21 00:03:05,875 - INFO - datetime属性の抽出を開始します
+2025-10-21 00:03:16,218 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9dfe83+66515]
+	GetHandleVerifier [0x0x9dfec4+66580]
+	(No symbol) [0x0x7cdc48]
+	(No symbol) [0x0x818704]
+	(No symbol) [0x0x818aab]
+	(No symbol) [0x0x85f482]
+	(No symbol) [0x0x83b214]
+	(No symbol) [0x0x85cba7]
+	(No symbol) [0x0x83afc6]
+	(No symbol) [0x0x80c2ca]
+	(No symbol) [0x0x80d154]
+	GetHandleVerifier [0x0xc373b3+2521347]
+	GetHandleVerifier [0x0xc32333+2500739]
+	GetHandleVerifier [0x0xa07cd4+229924]
+	GetHandleVerifier [0x0x9f8238+165768]
+	GetHandleVerifier [0x0x9feced+193085]
+	GetHandleVerifier [0x0x9e8198+100072]
+	GetHandleVerifier [0x0x9e8330+100480]
+	GetHandleVerifier [0x0x9d25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-21 00:03:26,499 - INFO - 画像の取得に失敗しました
+2025-10-21 00:03:28,885 - INFO - 処理終了
+================================================================================
+2025-10-21 06:22:25,331 - INFO - 処理開始 PROCESSID:20251021_062219
+2025-10-21 06:22:25,331 - INFO - 対象ユーザー: shinka_tokyo_roppongi
+2025-10-21 06:22:25,331 - INFO - 処理を開始します
+2025-10-21 06:22:25,469 - INFO - 選択されたプロファイル: Profile 10
+2025-10-21 06:22:25,469 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-21 06:22:37,291 - INFO - shinka_tokyo_roppongi のプロフィールページにアクセスします
+2025-10-21 06:23:11,457 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 06:23:13,276 - INFO - shinka_tokyo_roppongi: 動画を検出しました
+2025-10-21 06:23:13,276 - INFO - datetime属性の抽出を開始します
+2025-10-21 06:23:14,559 - INFO - 抽出されたdatetime: 2025-10-21T01:21:53.000Z
+2025-10-21 06:23:14,559 - INFO - shinka_tokyo_roppongi の投稿日時: 2025-10-21T01:21:53.000Z
+2025-10-21 06:23:22,927 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m78/AQPnWYRDMEXk6Of3QPM8hskNl91HQJZSBC2v_G0MrEQ_AFeB2ztLyJAIV4uu6A7e-_JHidwGruieAXpc1npTpzk_JL_6PXAxdRc34AQ.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=6tZ7XRlomOkQ7kNvwGbHtoY&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTUzNjM1NDMxNDI0MjI3NSwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=QvadPHoLrAgIPzXOMChK8Q&_nc_zt=28&oh=00_AfeA8P8WF5r7dRKEXjwJNYdAQWn_5FJDni_0GHjX5dqvhw&oe=68F8F7DB&bytestart=0&byteend=2163598
+2025-10-21 06:23:22,927 - INFO - 動画URLを取得しました
+2025-10-21 06:23:23,146 - INFO - INSERT(with-key): user=shinka_tokyo_roppongi, key=AQPnWYRDMEXk6Of3QPM8hskNl91HQJZSBC2v_G0MrEQ_AFeB2ztLyJAIV4uu6A7e-_JHidwGruieAXpc1npTpzk_JL_6PXAxdRc34AQ, dt=2025-10-21T01:21:53.000Z
+2025-10-21 06:23:26,077 - INFO - ダウンロードを開始します: media\shinka_tokyo_roppongi\shinka_tokyo_roppongi_20251021062325.mp4
+2025-10-21 06:23:28,749 - INFO - ダウンロード完了: media\shinka_tokyo_roppongi\shinka_tokyo_roppongi_20251021062325.mp4
+2025-10-21 06:23:41,539 - INFO - 処理終了
+2025-10-21 06:23:41,549 - INFO - 説明文_AI: None
+2025-10-21 06:23:41,550 - INFO - 説明文_最終: 
+================================================================================
+2025-10-21 06:23:54,401 - INFO - 処理開始: Mode=story, Username=shinka_tokyo_roppongi, GBP=MSYVNUUS301045
+2025-10-21 06:23:54,401 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU1lWTlVVUzMwMTA0NSJd.
+2025-10-21 06:24:54,404 - INFO - 元の動画サイズ: 360x640
+2025-10-21 06:24:54,412 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-21 06:24:54,412 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\shinka_tokyo_roppongi\shinka_tokyo_roppongi_20251021062325.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\shinka_tokyo_roppongi\shinka_tokyo_roppongi_20251021062325_resized.mp4
+2025-10-21 06:26:03,430 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\shinka_tokyo_roppongi\shinka_tokyo_roppongi_20251021062325_resized.mp4
+2025-10-21 06:26:03,438 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\shinka_tokyo_roppongi\shinka_tokyo_roppongi_20251021062325.mp4
+2025-10-21 06:26:03,438 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\shinka_tokyo_roppongi\shinka_tokyo_roppongi_20251021062325_resized.mp4
+2025-10-21 06:26:13,729 - INFO - 一時ファイルが見つかりません: media\shinka_tokyo_roppongi\description\20251021_062219
+2025-10-21 06:26:13,729 - INFO - Looking for button section...
+2025-10-21 06:26:18,365 - INFO - Trying to select CALL option...
+2025-10-21 06:26:18,608 - INFO - CALL option successfully selected
+2025-10-21 06:26:20,609 - INFO - Clicking submit button...
+2025-10-21 06:26:30,903 - INFO - 処理完了
+================================================================================
+2025-10-21 10:21:31,522 - INFO - 処理開始 PROCESSID:20251021_102128
+2025-10-21 10:21:31,522 - INFO - 対象ユーザー: shinka_tokyo_roppongi
+2025-10-21 10:21:31,522 - INFO - 処理を開始します
+2025-10-21 10:21:31,587 - INFO - 選択されたプロファイル: Profile 13
+2025-10-21 10:21:31,587 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-21 10:21:36,177 - INFO - shinka_tokyo_roppongi のプロフィールページにアクセスします
+2025-10-21 10:21:58,516 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 10:21:59,610 - INFO - shinka_tokyo_roppongi: 動画を検出しました
+2025-10-21 10:21:59,611 - INFO - datetime属性の抽出を開始します
+2025-10-21 10:21:59,762 - INFO - 抽出されたdatetime: 2025-10-21T01:21:53.000Z
+2025-10-21 10:21:59,762 - INFO - shinka_tokyo_roppongi の投稿日時: 2025-10-21T01:21:53.000Z
+2025-10-21 10:22:01,041 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m78/AQPnWYRDMEXk6Of3QPM8hskNl91HQJZSBC2v_G0MrEQ_AFeB2ztLyJAIV4uu6A7e-_JHidwGruieAXpc1npTpzk_JL_6PXAxdRc34AQ.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=6tZ7XRlomOkQ7kNvwGbHtoY&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNTM2MzU0MzE0MjQyMjc1LCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6MjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=VNDrrPeojDCifhoxU6tu5Q&_nc_zt=28&oh=00_AffQqA3T6NfZ7c878K4leXHOCtTXfJxk9p_egbFfH5Kqbw&oe=68F9301B&bytestart=0&byteend=1289656
+2025-10-21 10:22:01,041 - INFO - 動画URLを取得しました
+2025-10-21 10:22:01,045 - INFO - DUP(with-key): user=shinka_tokyo_roppongi, key=AQPnWYRDMEXk6Of3QPM8hskNl91HQJZSBC2v_G0MrEQ_AFeB2ztLyJAIV4uu6A7e-_JHidwGruieAXpc1npTpzk_JL_6PXAxdRc34AQ, dt=2025-10-21T01:21:53.000Z
+================================================================================
+2025-10-21 14:33:06,798 - INFO - 処理開始 PROCESSID:20251021_143303
+2025-10-21 14:33:06,798 - INFO - 対象ユーザー: shinka_tokyo_roppongi
+2025-10-21 14:33:06,798 - INFO - 処理を開始します
+2025-10-21 14:33:06,856 - INFO - 選択されたプロファイル: Profile 10
+2025-10-21 14:33:06,856 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-21 14:33:11,485 - INFO - shinka_tokyo_roppongi のプロフィールページにアクセスします
+2025-10-21 14:33:34,182 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 14:33:35,193 - INFO - shinka_tokyo_roppongi: 動画を検出しました
+2025-10-21 14:33:35,193 - INFO - datetime属性の抽出を開始します
+2025-10-21 14:33:35,292 - INFO - 抽出されたdatetime: 2025-10-21T01:21:53.000Z
+2025-10-21 14:33:35,292 - INFO - shinka_tokyo_roppongi の投稿日時: 2025-10-21T01:21:53.000Z
+2025-10-21 14:33:36,537 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m78/AQPnWYRDMEXk6Of3QPM8hskNl91HQJZSBC2v_G0MrEQ_AFeB2ztLyJAIV4uu6A7e-_JHidwGruieAXpc1npTpzk_JL_6PXAxdRc34AQ.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=6tZ7XRlomOkQ7kNvwGbHtoY&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTUzNjM1NDMxNDI0MjI3NSwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=EkYWnAghZpc0ukfWSFVt0w&_nc_zt=28&oh=00_AfdmL8eUGhBo9bLnkALK1_TPX7V1Ym8YculdZ8UPilJ1-Q&oe=68F9685B&bytestart=0&byteend=1289656
+2025-10-21 14:33:36,537 - INFO - 動画URLを取得しました
+2025-10-21 14:33:36,539 - INFO - DUP(with-key): user=shinka_tokyo_roppongi, key=AQPnWYRDMEXk6Of3QPM8hskNl91HQJZSBC2v_G0MrEQ_AFeB2ztLyJAIV4uu6A7e-_JHidwGruieAXpc1npTpzk_JL_6PXAxdRc34AQ, dt=2025-10-21T01:21:53.000Z
+================================================================================
+2025-10-21 18:35:18,116 - INFO - 処理開始 PROCESSID:20251021_183515
+2025-10-21 18:35:18,116 - INFO - 対象ユーザー: shinka_tokyo_roppongi
+2025-10-21 18:35:18,118 - INFO - 処理を開始します
+2025-10-21 18:35:18,174 - INFO - 選択されたプロファイル: Profile 10
+2025-10-21 18:35:18,174 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-21 18:35:22,771 - INFO - shinka_tokyo_roppongi のプロフィールページにアクセスします
+2025-10-21 18:35:45,066 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 18:35:46,167 - INFO - shinka_tokyo_roppongi: 動画を検出しました
+2025-10-21 18:35:46,167 - INFO - datetime属性の抽出を開始します
+2025-10-21 18:35:46,217 - INFO - 抽出されたdatetime: 2025-10-21T01:21:53.000Z
+2025-10-21 18:35:46,217 - INFO - shinka_tokyo_roppongi の投稿日時: 2025-10-21T01:21:53.000Z
+2025-10-21 18:35:47,470 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m78/AQPnWYRDMEXk6Of3QPM8hskNl91HQJZSBC2v_G0MrEQ_AFeB2ztLyJAIV4uu6A7e-_JHidwGruieAXpc1npTpzk_JL_6PXAxdRc34AQ.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Lx_26ZFotsEQ7kNvwGK8Cf9&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTUzNjM1NDMxNDI0MjI3NSwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=o0KY_lUszYLlE8vZRI1jYQ&_nc_zt=28&oh=00_AfcaE9WQrCK0luS4C_Fv56OZXdBB-DRtNV7p8rR7ETtpTQ&oe=68F9A09B&bytestart=0&byteend=1289656
+2025-10-21 18:35:47,471 - INFO - 動画URLを取得しました
+2025-10-21 18:35:47,472 - INFO - DUP(with-key): user=shinka_tokyo_roppongi, key=AQPnWYRDMEXk6Of3QPM8hskNl91HQJZSBC2v_G0MrEQ_AFeB2ztLyJAIV4uu6A7e-_JHidwGruieAXpc1npTpzk_JL_6PXAxdRc34AQ, dt=2025-10-21T01:21:53.000Z
+================================================================================
+2025-10-21 22:35:36,191 - INFO - 処理開始 PROCESSID:20251021_223533
+2025-10-21 22:35:36,191 - INFO - 対象ユーザー: shinka_tokyo_roppongi
+2025-10-21 22:35:36,191 - INFO - 処理を開始します
+2025-10-21 22:35:36,252 - INFO - 選択されたプロファイル: Profile 13
+2025-10-21 22:35:36,253 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-21 22:35:40,763 - INFO - shinka_tokyo_roppongi のプロフィールページにアクセスします
+2025-10-21 22:36:02,782 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 22:36:03,426 - INFO - shinka_tokyo_roppongi: 動画を検出しました
+2025-10-21 22:36:03,427 - INFO - datetime属性の抽出を開始します
+2025-10-21 22:36:03,874 - INFO - 抽出されたdatetime: 2025-10-21T01:21:53.000Z
+2025-10-21 22:36:03,875 - INFO - shinka_tokyo_roppongi の投稿日時: 2025-10-21T01:21:53.000Z
+2025-10-21 22:36:05,131 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m78/AQOgA-RjOFGbp9et_kJ31nPLITo1HFmUpqciNs_tEFmkRBT2md4gNdfDr-8bw_3aCFzfP4dg48u9RwscXtugc45uQJJ01NGI_0rTc9M.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=BghEo6Dw8iwQ7kNvwFVSppz&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNTM2MzU0MzE0MjQyMjc1LCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6MjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=M0csqYmVPWycbqpu_zI3-Q&_nc_zt=28&oh=00_AffkIFRRCv1KU3VkqyLkKabxVGaRJJ5SGaTBm04Qc-cBbQ&oe=68FA04B3&bytestart=0&byteend=2119725
+2025-10-21 22:36:05,131 - INFO - 動画URLを取得しました
+2025-10-21 22:36:05,398 - INFO - INSERT(with-key): user=shinka_tokyo_roppongi, key=AQOgA-RjOFGbp9et_kJ31nPLITo1HFmUpqciNs_tEFmkRBT2md4gNdfDr-8bw_3aCFzfP4dg48u9RwscXtugc45uQJJ01NGI_0rTc9M, dt=2025-10-21T01:21:53.000Z
+2025-10-21 22:36:07,406 - INFO - ダウンロードを開始します: media\shinka_tokyo_roppongi\shinka_tokyo_roppongi_20251021223607.mp4
+2025-10-21 22:36:10,014 - INFO - ダウンロード完了: media\shinka_tokyo_roppongi\shinka_tokyo_roppongi_20251021223607.mp4
+2025-10-21 22:36:13,556 - INFO - 処理終了
+2025-10-21 22:36:13,558 - INFO - 説明文_AI: None
+2025-10-21 22:36:13,558 - INFO - 説明文_最終: 
+================================================================================
+2025-10-21 22:36:19,703 - INFO - 処理開始: Mode=story, Username=shinka_tokyo_roppongi, GBP=MSYVNUUS301045
+2025-10-21 22:36:19,703 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU1lWTlVVUzMwMTA0NSJd.
+2025-10-21 22:36:42,885 - INFO - 元の動画サイズ: 720x1280
+2025-10-21 22:36:42,885 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-21 22:36:42,885 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\shinka_tokyo_roppongi\shinka_tokyo_roppongi_20251021223607.mp4
+2025-10-21 22:36:52,946 - INFO - 一時ファイルが見つかりません: media\shinka_tokyo_roppongi\description\20251021_223533
+2025-10-21 22:36:52,946 - INFO - Looking for button section...
+2025-10-21 22:36:57,456 - INFO - Trying to select CALL option...
+2025-10-21 22:36:57,666 - INFO - CALL option successfully selected
+2025-10-21 22:36:59,668 - INFO - Clicking submit button...
+2025-10-21 22:37:09,314 - INFO - 処理完了

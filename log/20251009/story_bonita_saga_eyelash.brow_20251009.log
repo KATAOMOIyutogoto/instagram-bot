@@ -1,0 +1,198 @@
+================================================================================
+2025-10-09 02:17:30,216 - INFO - 処理開始 PROCESSID:20251009_021726
+2025-10-09 02:17:30,216 - INFO - 対象ユーザー: bonita_saga_eyelash.brow
+2025-10-09 02:17:30,218 - INFO - 処理を開始します
+2025-10-09 02:17:30,273 - INFO - 選択されたプロファイル: Profile 10
+2025-10-09 02:17:30,273 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-09 02:17:35,935 - INFO - bonita_saga_eyelash.brow のプロフィールページにアクセスします
+2025-10-09 02:17:58,317 - INFO - プロフィール写真のクリックに成功しました
+2025-10-09 02:18:01,575 - INFO - 動画の取得に失敗しました
+2025-10-09 02:18:01,575 - INFO - datetime属性の抽出を開始します
+2025-10-09 02:18:01,679 - INFO - 抽出されたdatetime: 2025-10-08T05:12:29.000Z
+2025-10-09 02:18:01,721 - INFO - 画像URLを取得しました
+2025-10-09 02:18:01,723 - INFO - DUP(with-key): user=bonita_saga_eyelash.brow, key=MzczODYzNzU4NTEyMTEzOTAyOQ==, dt=2025-10-08T05:12:29.000Z
+================================================================================
+2025-10-09 06:16:41,930 - INFO - 処理開始 PROCESSID:20251009_061638
+2025-10-09 06:16:41,930 - INFO - 対象ユーザー: bonita_saga_eyelash.brow
+2025-10-09 06:16:41,930 - INFO - 処理を開始します
+2025-10-09 06:16:41,994 - INFO - 選択されたプロファイル: Profile 10
+2025-10-09 06:16:41,996 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-09 06:16:46,884 - INFO - bonita_saga_eyelash.brow のプロフィールページにアクセスします
+2025-10-09 06:17:09,612 - INFO - プロフィール写真のクリックに成功しました
+2025-10-09 06:17:12,721 - INFO - 動画の取得に失敗しました
+2025-10-09 06:17:12,721 - INFO - datetime属性の抽出を開始します
+2025-10-09 06:17:23,094 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf4fee3+66515]
+	GetHandleVerifier [0x0xf4ff24+66580]
+	(No symbol) [0x0xd3dc48]
+	(No symbol) [0x0xd88704]
+	(No symbol) [0x0xd88aab]
+	(No symbol) [0x0xdcf482]
+	(No symbol) [0x0xdab214]
+	(No symbol) [0x0xdccba7]
+	(No symbol) [0x0xdaafc6]
+	(No symbol) [0x0xd7c2ca]
+	(No symbol) [0x0xd7d154]
+	GetHandleVerifier [0x0x11a7413+2521347]
+	GetHandleVerifier [0x0x11a2393+2500739]
+	GetHandleVerifier [0x0xf77d34+229924]
+	GetHandleVerifier [0x0xf68298+165768]
+	GetHandleVerifier [0x0xf6ed4d+193085]
+	GetHandleVerifier [0x0xf581f8+100072]
+	GetHandleVerifier [0x0xf58390+100480]
+	GetHandleVerifier [0x0xf4264a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-09 06:17:33,450 - INFO - 画像の取得に失敗しました
+2025-10-09 06:17:36,966 - INFO - 処理終了
+================================================================================
+2025-10-09 10:22:02,906 - INFO - 処理開始 PROCESSID:20251009_102159
+2025-10-09 10:22:02,906 - INFO - 対象ユーザー: bonita_saga_eyelash.brow
+2025-10-09 10:22:02,906 - INFO - 処理を開始します
+2025-10-09 10:22:02,965 - INFO - 選択されたプロファイル: Profile 13
+2025-10-09 10:22:02,965 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-09 10:22:07,738 - INFO - bonita_saga_eyelash.brow のプロフィールページにアクセスします
+2025-10-09 10:22:29,829 - INFO - プロフィール写真のクリックに成功しました
+2025-10-09 10:22:32,935 - INFO - 動画の取得に失敗しました
+2025-10-09 10:22:32,935 - INFO - datetime属性の抽出を開始します
+2025-10-09 10:22:43,327 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf4fee3+66515]
+	GetHandleVerifier [0x0xf4ff24+66580]
+	(No symbol) [0x0xd3dc48]
+	(No symbol) [0x0xd88704]
+	(No symbol) [0x0xd88aab]
+	(No symbol) [0x0xdcf482]
+	(No symbol) [0x0xdab214]
+	(No symbol) [0x0xdccba7]
+	(No symbol) [0x0xdaafc6]
+	(No symbol) [0x0xd7c2ca]
+	(No symbol) [0x0xd7d154]
+	GetHandleVerifier [0x0x11a7413+2521347]
+	GetHandleVerifier [0x0x11a2393+2500739]
+	GetHandleVerifier [0x0xf77d34+229924]
+	GetHandleVerifier [0x0xf68298+165768]
+	GetHandleVerifier [0x0xf6ed4d+193085]
+	GetHandleVerifier [0x0xf581f8+100072]
+	GetHandleVerifier [0x0xf58390+100480]
+	GetHandleVerifier [0x0xf4264a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-09 10:22:53,683 - INFO - 画像の取得に失敗しました
+2025-10-09 10:22:56,127 - INFO - 処理終了
+================================================================================
+2025-10-09 14:20:08,003 - INFO - 処理開始 PROCESSID:20251009_142004
+2025-10-09 14:20:08,003 - INFO - 対象ユーザー: bonita_saga_eyelash.brow
+2025-10-09 14:20:08,004 - INFO - 処理を開始します
+2025-10-09 14:20:08,063 - INFO - 選択されたプロファイル: Profile 13
+2025-10-09 14:20:08,063 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-09 14:20:12,809 - INFO - bonita_saga_eyelash.brow のプロフィールページにアクセスします
+2025-10-09 14:20:34,765 - INFO - プロフィール写真のクリックに成功しました
+2025-10-09 14:20:37,876 - INFO - 動画の取得に失敗しました
+2025-10-09 14:20:37,876 - INFO - datetime属性の抽出を開始します
+2025-10-09 14:20:47,891 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf4fee3+66515]
+	GetHandleVerifier [0x0xf4ff24+66580]
+	(No symbol) [0x0xd3dc48]
+	(No symbol) [0x0xd88704]
+	(No symbol) [0x0xd88aab]
+	(No symbol) [0x0xdcf482]
+	(No symbol) [0x0xdab214]
+	(No symbol) [0x0xdccba7]
+	(No symbol) [0x0xdaafc6]
+	(No symbol) [0x0xd7c2ca]
+	(No symbol) [0x0xd7d154]
+	GetHandleVerifier [0x0x11a7413+2521347]
+	GetHandleVerifier [0x0x11a2393+2500739]
+	GetHandleVerifier [0x0xf77d34+229924]
+	GetHandleVerifier [0x0xf68298+165768]
+	GetHandleVerifier [0x0xf6ed4d+193085]
+	GetHandleVerifier [0x0xf581f8+100072]
+	GetHandleVerifier [0x0xf58390+100480]
+	GetHandleVerifier [0x0xf4264a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-09 14:20:58,286 - INFO - 画像の取得に失敗しました
+2025-10-09 14:21:00,709 - INFO - 処理終了
+================================================================================
+2025-10-09 18:15:42,914 - INFO - 処理開始 PROCESSID:20251009_181539
+2025-10-09 18:15:42,914 - INFO - 対象ユーザー: bonita_saga_eyelash.brow
+2025-10-09 18:15:42,914 - INFO - 処理を開始します
+2025-10-09 18:15:42,978 - INFO - 選択されたプロファイル: Profile 13
+2025-10-09 18:15:42,978 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-09 18:15:47,764 - INFO - bonita_saga_eyelash.brow のプロフィールページにアクセスします
+2025-10-09 18:16:09,828 - INFO - プロフィール写真のクリックに成功しました
+2025-10-09 18:16:12,922 - INFO - 動画の取得に失敗しました
+2025-10-09 18:16:12,922 - INFO - datetime属性の抽出を開始します
+2025-10-09 18:16:23,300 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf4fee3+66515]
+	GetHandleVerifier [0x0xf4ff24+66580]
+	(No symbol) [0x0xd3dc48]
+	(No symbol) [0x0xd88704]
+	(No symbol) [0x0xd88aab]
+	(No symbol) [0x0xdcf482]
+	(No symbol) [0x0xdab214]
+	(No symbol) [0x0xdccba7]
+	(No symbol) [0x0xdaafc6]
+	(No symbol) [0x0xd7c2ca]
+	(No symbol) [0x0xd7d154]
+	GetHandleVerifier [0x0x11a7413+2521347]
+	GetHandleVerifier [0x0x11a2393+2500739]
+	GetHandleVerifier [0x0xf77d34+229924]
+	GetHandleVerifier [0x0xf68298+165768]
+	GetHandleVerifier [0x0xf6ed4d+193085]
+	GetHandleVerifier [0x0xf581f8+100072]
+	GetHandleVerifier [0x0xf58390+100480]
+	GetHandleVerifier [0x0xf4264a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-09 18:16:33,580 - INFO - 画像の取得に失敗しました
+2025-10-09 18:16:36,021 - INFO - 処理終了
+================================================================================
+2025-10-09 22:04:49,999 - INFO - 処理開始 PROCESSID:20251009_220446
+2025-10-09 22:04:49,999 - INFO - 対象ユーザー: bonita_saga_eyelash.brow
+2025-10-09 22:04:49,999 - INFO - 処理を開始します
+2025-10-09 22:04:50,062 - INFO - 選択されたプロファイル: Profile 9
+2025-10-09 22:04:50,062 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-09 22:04:54,612 - INFO - bonita_saga_eyelash.brow のプロフィールページにアクセスします
+2025-10-09 22:05:17,169 - INFO - プロフィール写真のクリックに成功しました
+2025-10-09 22:05:20,317 - INFO - 動画の取得に失敗しました
+2025-10-09 22:05:20,318 - INFO - datetime属性の抽出を開始します
+2025-10-09 22:05:30,774 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xacfea3+66515]
+	GetHandleVerifier [0x0xacfee4+66580]
+	(No symbol) [0x0x8bdc48]
+	(No symbol) [0x0x908704]
+	(No symbol) [0x0x908aab]
+	(No symbol) [0x0x94f482]
+	(No symbol) [0x0x92b214]
+	(No symbol) [0x0x94cba7]
+	(No symbol) [0x0x92afc6]
+	(No symbol) [0x0x8fc2ca]
+	(No symbol) [0x0x8fd154]
+	GetHandleVerifier [0x0xd273d3+2521347]
+	GetHandleVerifier [0x0xd22353+2500739]
+	GetHandleVerifier [0x0xaf7cf4+229924]
+	GetHandleVerifier [0x0xae8258+165768]
+	GetHandleVerifier [0x0xaeed0d+193085]
+	GetHandleVerifier [0x0xad81b8+100072]
+	GetHandleVerifier [0x0xad8350+100480]
+	GetHandleVerifier [0x0xac260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-09 22:05:41,090 - INFO - 画像の取得に失敗しました
+2025-10-09 22:05:43,503 - INFO - 処理終了

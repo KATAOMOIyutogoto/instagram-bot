@@ -1,0 +1,126 @@
+================================================================================
+2025-10-22 03:47:18,729 - INFO - 処理開始 PROCESSID:20251022_034715
+2025-10-22 03:47:18,729 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-22 03:47:18,729 - INFO - 処理を開始します
+2025-10-22 03:47:18,787 - INFO - 選択されたプロファイル: Profile 10
+2025-10-22 03:47:18,787 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-22 03:47:23,182 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-22 03:47:46,967 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 03:47:48,069 - INFO - kunitachi_zaemon: 動画を検出しました
+2025-10-22 03:47:48,069 - INFO - datetime属性の抽出を開始します
+2025-10-22 03:47:48,111 - INFO - 抽出されたdatetime: 2025-10-21T10:00:15.000Z
+2025-10-22 03:47:48,111 - INFO - kunitachi_zaemon の投稿日時: 2025-10-21T10:00:15.000Z
+2025-10-22 03:47:49,320 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=lX8m8Qqw-cIQ7kNvwG0TNGh&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE4OTM0MzQ2NjU1OTY4MiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OGEbnnLq_nSG5jHFftNFQg&_nc_zt=28&oh=00_AfcNGyY9ofKw7beNFiwAfzc927S-gvsUKz69NVESm6oK1Q&oe=68FE3614&bytestart=0&byteend=689614
+2025-10-22 03:47:49,320 - INFO - 動画URLを取得しました
+2025-10-22 03:47:49,358 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=kunitachi_zaemon, key=AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg, dt=2025-10-21T10:00:15.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=lX8m8Qqw-cIQ7kNvwG0TNGh&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE4OTM0MzQ2NjU1OTY4MiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OGEbnnLq_nSG5jHFftNFQg&_nc_zt=28&oh=00_AfcNGyY9ofKw7beNFiwAfzc927S-gvsUKz69NVESm6oK1Q&oe=68FE3614&bytestart=0&byteend=689614, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('kunitachi_zaemon', 'AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=lX8m8Qqw-cIQ7kNvwG0TNGh&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE4OTM0MzQ2NjU1OTY4MiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OGEbnnLq_nSG5jHFftNFQg&_nc_zt=28&oh=00_AfcNGyY9ofKw7beNFiwAfzc927S-gvsUKz69NVESm6oK1Q&oe=68FE3614&bytestart=0&byteend=689614', '2025-10-21T10:00:15.000Z')
+================================================================================
+2025-10-22 10:53:20,608 - INFO - 処理開始 PROCESSID:20251022_105317
+2025-10-22 10:53:20,608 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-22 10:53:20,608 - INFO - 処理を開始します
+2025-10-22 10:53:20,671 - INFO - 選択されたプロファイル: Profile 9
+2025-10-22 10:53:20,671 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-22 10:53:25,567 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-22 10:53:47,621 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 10:53:50,726 - INFO - 動画の取得に失敗しました
+2025-10-22 10:53:50,726 - INFO - datetime属性の抽出を開始します
+2025-10-22 10:54:01,101 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x10ffe43+66515]
+	GetHandleVerifier [0x0x10ffe84+66580]
+	(No symbol) [0x0xeedc48]
+	(No symbol) [0x0xf38704]
+	(No symbol) [0x0xf38aab]
+	(No symbol) [0x0xf7f482]
+	(No symbol) [0x0xf5b214]
+	(No symbol) [0x0xf7cba7]
+	(No symbol) [0x0xf5afc6]
+	(No symbol) [0x0xf2c2ca]
+	(No symbol) [0x0xf2d154]
+	GetHandleVerifier [0x0x1357353+2521315]
+	GetHandleVerifier [0x0x13522d3+2500707]
+	GetHandleVerifier [0x0x1127c94+229924]
+	GetHandleVerifier [0x0x11181f8+165768]
+	GetHandleVerifier [0x0x111ecad+193085]
+	GetHandleVerifier [0x0x1108158+100072]
+	GetHandleVerifier [0x0x11082f0+100480]
+	GetHandleVerifier [0x0x10f25aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-22 10:54:11,422 - INFO - 画像の取得に失敗しました
+2025-10-22 10:54:13,855 - INFO - 処理終了
+================================================================================
+2025-10-22 15:00:15,633 - INFO - 処理開始 PROCESSID:20251022_150012
+2025-10-22 15:00:15,633 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-22 15:00:15,633 - INFO - 処理を開始します
+2025-10-22 15:00:15,693 - INFO - 選択されたプロファイル: Profile 12
+2025-10-22 15:00:15,693 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-22 15:00:20,291 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-22 15:00:42,970 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 15:00:46,158 - INFO - 動画の取得に失敗しました
+2025-10-22 15:00:46,160 - INFO - datetime属性の抽出を開始します
+2025-10-22 15:00:56,491 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x10ffe43+66515]
+	GetHandleVerifier [0x0x10ffe84+66580]
+	(No symbol) [0x0xeedc48]
+	(No symbol) [0x0xf38704]
+	(No symbol) [0x0xf38aab]
+	(No symbol) [0x0xf7f482]
+	(No symbol) [0x0xf5b214]
+	(No symbol) [0x0xf7cba7]
+	(No symbol) [0x0xf5afc6]
+	(No symbol) [0x0xf2c2ca]
+	(No symbol) [0x0xf2d154]
+	GetHandleVerifier [0x0x1357353+2521315]
+	GetHandleVerifier [0x0x13522d3+2500707]
+	GetHandleVerifier [0x0x1127c94+229924]
+	GetHandleVerifier [0x0x11181f8+165768]
+	GetHandleVerifier [0x0x111ecad+193085]
+	GetHandleVerifier [0x0x1108158+100072]
+	GetHandleVerifier [0x0x11082f0+100480]
+	GetHandleVerifier [0x0x10f25aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-22 15:01:06,777 - INFO - 画像の取得に失敗しました
+2025-10-22 15:01:10,214 - INFO - 処理終了
+================================================================================
+2025-10-22 18:59:38,956 - INFO - 処理開始 PROCESSID:20251022_185935
+2025-10-22 18:59:38,956 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-22 18:59:38,956 - INFO - 処理を開始します
+2025-10-22 18:59:39,014 - INFO - 選択されたプロファイル: Profile 9
+2025-10-22 18:59:39,014 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-22 18:59:43,601 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-22 19:00:05,842 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 19:00:08,940 - INFO - 動画の取得に失敗しました
+2025-10-22 19:00:08,940 - INFO - datetime属性の抽出を開始します
+2025-10-22 19:00:19,307 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x10ffe43+66515]
+	GetHandleVerifier [0x0x10ffe84+66580]
+	(No symbol) [0x0xeedc48]
+	(No symbol) [0x0xf38704]
+	(No symbol) [0x0xf38aab]
+	(No symbol) [0x0xf7f482]
+	(No symbol) [0x0xf5b214]
+	(No symbol) [0x0xf7cba7]
+	(No symbol) [0x0xf5afc6]
+	(No symbol) [0x0xf2c2ca]
+	(No symbol) [0x0xf2d154]
+	GetHandleVerifier [0x0x1357353+2521315]
+	GetHandleVerifier [0x0x13522d3+2500707]
+	GetHandleVerifier [0x0x1127c94+229924]
+	GetHandleVerifier [0x0x11181f8+165768]
+	GetHandleVerifier [0x0x111ecad+193085]
+	GetHandleVerifier [0x0x1108158+100072]
+	GetHandleVerifier [0x0x11082f0+100480]
+	GetHandleVerifier [0x0x10f25aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-22 19:00:29,601 - INFO - 画像の取得に失敗しました
+2025-10-22 19:00:32,017 - INFO - 処理終了

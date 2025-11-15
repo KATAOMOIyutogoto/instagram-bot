@@ -1,0 +1,161 @@
+================================================================================
+2025-10-06 02:15:23,785 - INFO - 処理開始 PROCESSID:20251006_021520
+2025-10-06 02:15:23,785 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-06 02:15:23,785 - INFO - 処理を開始します
+2025-10-06 02:15:23,839 - INFO - 選択されたプロファイル: Profile 10
+2025-10-06 02:15:23,840 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-06 02:15:29,377 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-06 02:15:51,604 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 02:15:52,464 - INFO - stastny.by.lumi: 動画を検出しました
+2025-10-06 02:15:52,464 - INFO - datetime属性の抽出を開始します
+2025-10-06 02:15:52,519 - INFO - 抽出されたdatetime: 2025-10-06T00:19:23.000Z
+2025-10-06 02:15:52,519 - INFO - stastny.by.lumi の投稿日時: 2025-10-06T00:19:23.000Z
+2025-10-06 02:15:53,737 - INFO - 生成URL:https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m78/AQOZad-hdUd27Cvwe1rswiR61MD6eaL47REOgU_FHdCWwBTtrLNiy2ZcvkgV-vgg3g4Tkhh9OxwXao0OvkGnleFCpbH6diGxtUAs6jg.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=5cpeI0vBiJkQ7kNvwGbfNe-&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE2ODIxNDU0ODUwMjE2NCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Q-zmCIAiEsGO0chN8uubVw&_nc_zt=28&oh=00_AfcS18QQiaTMm_R-nhl2D8Y0qwFnNuCYhKGhxWZa1sbpcQ&oe=68E50DA0&bytestart=0&byteend=106496
+2025-10-06 02:15:53,737 - INFO - 動画URLを取得しました
+2025-10-06 02:15:54,076 - INFO - INSERT(with-key): user=stastny.by.lumi, key=AQOZad-hdUd27Cvwe1rswiR61MD6eaL47REOgU_FHdCWwBTtrLNiy2ZcvkgV-vgg3g4Tkhh9OxwXao0OvkGnleFCpbH6diGxtUAs6jg, dt=2025-10-06T00:19:23.000Z
+2025-10-06 02:15:56,079 - INFO - ダウンロードを開始します: media\stastny.by.lumi\stastny.by.lumi_20251006021556.mp4
+2025-10-06 02:15:56,452 - INFO - ダウンロード完了: media\stastny.by.lumi\stastny.by.lumi_20251006021556.mp4
+2025-10-06 02:16:00,005 - INFO - 処理終了
+2025-10-06 02:16:00,007 - INFO - 説明文_AI: None
+2025-10-06 02:16:00,009 - INFO - 説明文_最終: 
+================================================================================
+2025-10-06 02:16:06,264 - INFO - 処理開始: Mode=story, Username=stastny.by.lumi, GBP=MSHVAONG106412
+2025-10-06 02:16:06,264 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0hWQU9ORzEwNjQxMiJd.
+2025-10-06 02:16:28,867 - INFO - 元の動画サイズ: 360x640
+2025-10-06 02:16:28,869 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-06 02:16:28,869 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\stastny.by.lumi\stastny.by.lumi_20251006021556.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\stastny.by.lumi\stastny.by.lumi_20251006021556_resized.mp4
+2025-10-06 02:16:32,159 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\stastny.by.lumi\stastny.by.lumi_20251006021556_resized.mp4
+2025-10-06 02:16:32,159 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\stastny.by.lumi\stastny.by.lumi_20251006021556.mp4
+2025-10-06 02:16:32,159 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\stastny.by.lumi\stastny.by.lumi_20251006021556_resized.mp4
+2025-10-06 02:16:42,533 - INFO - 一時ファイルが見つかりません: media\stastny.by.lumi\description\20251006_021520
+2025-10-06 02:16:42,533 - INFO - Looking for button section...
+2025-10-06 02:16:47,116 - INFO - Trying to select CALL option...
+2025-10-06 02:16:47,344 - INFO - CALL option successfully selected
+2025-10-06 02:16:49,345 - INFO - Clicking submit button...
+2025-10-06 02:16:59,094 - INFO - 処理完了
+================================================================================
+2025-10-06 06:19:04,750 - INFO - 処理開始 PROCESSID:20251006_061901
+2025-10-06 06:19:04,750 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-06 06:19:04,750 - INFO - 処理を開始します
+2025-10-06 06:19:04,807 - INFO - 選択されたプロファイル: Profile 9
+2025-10-06 06:19:04,807 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-06 06:19:09,662 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-06 06:19:32,028 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 06:19:33,024 - INFO - stastny.by.lumi: 動画を検出しました
+2025-10-06 06:19:33,024 - INFO - datetime属性の抽出を開始します
+2025-10-06 06:19:33,241 - INFO - 抽出されたdatetime: 2025-10-06T00:19:23.000Z
+2025-10-06 06:19:33,241 - INFO - stastny.by.lumi の投稿日時: 2025-10-06T00:19:23.000Z
+2025-10-06 06:19:34,480 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m78/AQOuNDWxEjRLdCoA79meTgDPG7HBHnPQVHC15fxSc4Wyjr2kAt2EqJZilHyP9PBpLDz0r9AN_NyUU1QcqUwb1NDPGkzML8zsL0bNOgo.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=NRf-_2ce-ekQ7kNvwFJPava&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTY4MjE0NTQ4NTAyMTY0LCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=HbFdqtKYZbFzmU2bwW5-GA&_nc_zt=28&oh=00_Afe4RLBHTtRXwQL-gS-eZQg5h2H6BQCUrzTYmv8tso1QNw&oe=68E52F57&bytestart=0&byteend=427993
+2025-10-06 06:19:34,480 - INFO - 動画URLを取得しました
+2025-10-06 06:19:34,742 - INFO - INSERT(with-key): user=stastny.by.lumi, key=AQOuNDWxEjRLdCoA79meTgDPG7HBHnPQVHC15fxSc4Wyjr2kAt2EqJZilHyP9PBpLDz0r9AN_NyUU1QcqUwb1NDPGkzML8zsL0bNOgo, dt=2025-10-06T00:19:23.000Z
+2025-10-06 06:19:36,744 - INFO - ダウンロードを開始します: media\stastny.by.lumi\stastny.by.lumi_20251006061936.mp4
+2025-10-06 06:19:37,200 - INFO - ダウンロード完了: media\stastny.by.lumi\stastny.by.lumi_20251006061936.mp4
+2025-10-06 06:19:39,757 - INFO - 処理終了
+2025-10-06 06:19:39,759 - INFO - 説明文_AI: None
+2025-10-06 06:19:39,759 - INFO - 説明文_最終: 
+================================================================================
+2025-10-06 06:19:45,921 - INFO - 処理開始: Mode=story, Username=stastny.by.lumi, GBP=MSHVAONG106412
+2025-10-06 06:19:45,921 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0hWQU9ORzEwNjQxMiJd.
+2025-10-06 06:20:10,589 - INFO - 元の動画サイズ: 720x1280
+2025-10-06 06:20:10,589 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-06 06:20:10,589 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\stastny.by.lumi\stastny.by.lumi_20251006061936.mp4
+2025-10-06 06:20:20,654 - INFO - 一時ファイルが見つかりません: media\stastny.by.lumi\description\20251006_061901
+2025-10-06 06:20:20,654 - INFO - Looking for button section...
+2025-10-06 06:20:25,368 - INFO - Trying to select CALL option...
+2025-10-06 06:20:25,612 - INFO - CALL option successfully selected
+2025-10-06 06:20:27,612 - INFO - Clicking submit button...
+2025-10-06 06:20:36,316 - INFO - 処理完了
+================================================================================
+2025-10-06 10:13:46,520 - INFO - 処理開始 PROCESSID:20251006_101343
+2025-10-06 10:13:46,522 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-06 10:13:46,522 - INFO - 処理を開始します
+2025-10-06 10:13:46,585 - INFO - 選択されたプロファイル: Profile 10
+2025-10-06 10:13:46,585 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-06 10:13:51,489 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-06 10:14:13,939 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 10:14:15,345 - INFO - stastny.by.lumi: 動画を検出しました
+2025-10-06 10:14:15,345 - INFO - datetime属性の抽出を開始します
+2025-10-06 10:14:15,507 - INFO - 抽出されたdatetime: 2025-10-06T00:19:23.000Z
+2025-10-06 10:14:15,507 - INFO - stastny.by.lumi の投稿日時: 2025-10-06T00:19:23.000Z
+2025-10-06 10:14:16,921 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m78/AQOuNDWxEjRLdCoA79meTgDPG7HBHnPQVHC15fxSc4Wyjr2kAt2EqJZilHyP9PBpLDz0r9AN_NyUU1QcqUwb1NDPGkzML8zsL0bNOgo.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=NRf-_2ce-ekQ7kNvwFJPava&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE2ODIxNDU0ODUwMjE2NCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=LZHeEf1iUbK_eYZi8ua0og&_nc_zt=28&oh=00_AffeF_8IKrzsSQ-bczCgFXfdBX2jFwos3LViSv_P0yDNBg&oe=68E56797&bytestart=0&byteend=427993
+2025-10-06 10:14:16,921 - INFO - 動画URLを取得しました
+2025-10-06 10:14:17,020 - INFO - DUP(with-key): user=stastny.by.lumi, key=AQOuNDWxEjRLdCoA79meTgDPG7HBHnPQVHC15fxSc4Wyjr2kAt2EqJZilHyP9PBpLDz0r9AN_NyUU1QcqUwb1NDPGkzML8zsL0bNOgo, dt=2025-10-06T00:19:23.000Z
+================================================================================
+2025-10-06 14:08:51,983 - INFO - 処理開始 PROCESSID:20251006_140848
+2025-10-06 14:08:51,983 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-06 14:08:51,983 - INFO - 処理を開始します
+2025-10-06 14:08:52,042 - INFO - 選択されたプロファイル: Profile 13
+2025-10-06 14:08:52,042 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-06 14:08:56,887 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-06 14:09:19,036 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 14:09:19,799 - INFO - stastny.by.lumi: 動画を検出しました
+2025-10-06 14:09:19,799 - INFO - datetime属性の抽出を開始します
+2025-10-06 14:09:19,832 - INFO - 抽出されたdatetime: 2025-10-06T00:19:23.000Z
+2025-10-06 14:09:19,833 - INFO - stastny.by.lumi の投稿日時: 2025-10-06T00:19:23.000Z
+2025-10-06 14:09:21,148 - INFO - 生成URL:https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=7GnvaJJOPykQ7kNvwHJb_YF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjozODg4NzA1NzM5MTgxOTEsImFzc2V0X2FnZV9kYXlzIjo1NTUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ojjWtiORaaxCNNaAU1KAxQ&_nc_zt=28&oh=00_AfflTxBUSuYL023uXS358pfQnTAfB4ZSQkMBLOVDNawFxQ&oe=68E5A372&bytestart=0&byteend=610940
+2025-10-06 14:09:21,148 - INFO - 動画URLを取得しました
+2025-10-06 14:09:21,411 - INFO - INSERT(with-key): user=stastny.by.lumi, key=AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko, dt=2025-10-06T00:19:23.000Z
+2025-10-06 14:09:23,413 - INFO - ダウンロードを開始します: media\stastny.by.lumi\stastny.by.lumi_20251006140923.mp4
+2025-10-06 14:09:23,841 - INFO - ダウンロード完了: media\stastny.by.lumi\stastny.by.lumi_20251006140923.mp4
+2025-10-06 14:09:26,316 - INFO - 処理終了
+2025-10-06 14:09:26,318 - INFO - 説明文_AI: None
+2025-10-06 14:09:26,318 - INFO - 説明文_最終: 
+================================================================================
+2025-10-06 14:09:32,509 - INFO - 処理開始: Mode=story, Username=stastny.by.lumi, GBP=MSHVAONG106412
+2025-10-06 14:09:32,511 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0hWQU9ORzEwNjQxMiJd.
+2025-10-06 14:09:56,404 - INFO - 元の動画サイズ: 720x1280
+2025-10-06 14:09:56,404 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-06 14:09:56,404 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\stastny.by.lumi\stastny.by.lumi_20251006140923.mp4
+2025-10-06 14:10:06,459 - INFO - 一時ファイルが見つかりません: media\stastny.by.lumi\description\20251006_140848
+2025-10-06 14:10:06,459 - INFO - Looking for button section...
+2025-10-06 14:10:11,002 - INFO - Trying to select CALL option...
+2025-10-06 14:10:11,239 - INFO - CALL option successfully selected
+2025-10-06 14:10:13,240 - INFO - Clicking submit button...
+2025-10-06 14:10:21,886 - INFO - 処理完了
+================================================================================
+2025-10-06 17:56:42,685 - INFO - 処理開始 PROCESSID:20251006_175639
+2025-10-06 17:56:42,685 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-06 17:56:42,685 - INFO - 処理を開始します
+2025-10-06 17:56:42,746 - INFO - 選択されたプロファイル: Profile 10
+2025-10-06 17:56:42,746 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-06 17:56:47,510 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-06 17:57:11,472 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 17:57:12,867 - INFO - stastny.by.lumi: 動画を検出しました
+2025-10-06 17:57:12,868 - INFO - datetime属性の抽出を開始します
+2025-10-06 17:57:12,910 - INFO - 抽出されたdatetime: 2025-10-06T00:19:23.000Z
+2025-10-06 17:57:12,910 - INFO - stastny.by.lumi の投稿日時: 2025-10-06T00:19:23.000Z
+2025-10-06 17:57:14,145 - INFO - 生成URL:https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m367/AQNTMf-Y6GR3wmoIUBo82p_KXfWmWzoc90ahOn8wG-hrbcuhBc1GoEjoWgOv91xiPCb0ym3wdo3O5_WKUZBf814wG7DyFjhwhtOGRK0Jzi7frw.mp4?_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=GFT5BKH_wjAQ7kNvwGLJMML&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjExNjgyMTQ1NDg1MDIxNjQsInZpX3VzZWNhc2VfaWQiOjEwMTAwLCJkdXJhdGlvbl9zIjoxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yzEcHlO0fAH-3y9vgxlbbQ&_nc_zt=28&oh=00_AfdlF5ivXOfGsyH03C2Wu7dkTds9ObqjoxKKo5MpDzdu_g&oe=68E9EF83&bytestart=0&byteend=583428
+2025-10-06 17:57:14,145 - INFO - 動画URLを取得しました
+2025-10-06 17:57:14,352 - INFO - INSERT(with-key): user=stastny.by.lumi, key=AQNTMf-Y6GR3wmoIUBo82p_KXfWmWzoc90ahOn8wG-hrbcuhBc1GoEjoWgOv91xiPCb0ym3wdo3O5_WKUZBf814wG7DyFjhwhtOGRK0Jzi7frw, dt=2025-10-06T00:19:23.000Z
+2025-10-06 17:57:16,353 - INFO - ダウンロードを開始します: media\stastny.by.lumi\stastny.by.lumi_20251006175716.mp4
+2025-10-06 17:57:16,930 - INFO - ダウンロード完了: media\stastny.by.lumi\stastny.by.lumi_20251006175716.mp4
+2025-10-06 17:57:19,455 - INFO - 処理終了
+2025-10-06 17:57:19,457 - INFO - 説明文_AI: None
+2025-10-06 17:57:19,458 - INFO - 説明文_最終: 
+================================================================================
+2025-10-06 17:57:25,662 - INFO - 処理開始: Mode=story, Username=stastny.by.lumi, GBP=MSHVAONG106412
+2025-10-06 17:57:25,662 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0hWQU9ORzEwNjQxMiJd.
+2025-10-06 17:57:48,575 - INFO - 元の動画サイズ: 1080x1920
+2025-10-06 17:57:48,575 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-06 17:57:48,575 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\stastny.by.lumi\stastny.by.lumi_20251006175716.mp4
+2025-10-06 17:57:58,682 - INFO - 一時ファイルが見つかりません: media\stastny.by.lumi\description\20251006_175639
+2025-10-06 17:57:58,682 - INFO - Looking for button section...
+2025-10-06 17:58:03,549 - INFO - Trying to select CALL option...
+2025-10-06 17:58:03,792 - INFO - CALL option successfully selected
+2025-10-06 17:58:05,793 - INFO - Clicking submit button...
+2025-10-06 17:58:14,449 - INFO - 処理完了
+================================================================================
+2025-10-06 21:40:10,881 - INFO - 処理開始 PROCESSID:20251006_214007
+2025-10-06 21:40:10,881 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-06 21:40:10,881 - INFO - 処理を開始します
+2025-10-06 21:40:10,934 - INFO - 選択されたプロファイル: Profile 10
+2025-10-06 21:40:10,934 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-06 21:40:15,602 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-06 21:40:37,731 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 21:40:38,919 - INFO - stastny.by.lumi: 動画を検出しました
+2025-10-06 21:40:38,919 - INFO - datetime属性の抽出を開始します
+2025-10-06 21:40:39,129 - INFO - 抽出されたdatetime: 2025-10-06T00:19:23.000Z
+2025-10-06 21:40:39,129 - INFO - stastny.by.lumi の投稿日時: 2025-10-06T00:19:23.000Z
+2025-10-06 21:40:40,353 - INFO - 生成URL:https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m367/AQNTMf-Y6GR3wmoIUBo82p_KXfWmWzoc90ahOn8wG-hrbcuhBc1GoEjoWgOv91xiPCb0ym3wdo3O5_WKUZBf814wG7DyFjhwhtOGRK0Jzi7frw.mp4?_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=vWWExvnv8NYQ7kNvwGIitQE&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjExNjgyMTQ1NDg1MDIxNjQsInZpX3VzZWNhc2VfaWQiOjEwMTAwLCJkdXJhdGlvbl9zIjoxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=5eaBCKOwiusH79MgN4Zhnw&_nc_zt=28&oh=00_AfcGg-SZjLznjApHNAkFWFsz9ZZC5737izZTlI9C-b3H-Q&oe=68E9EF83&bytestart=0&byteend=583428
+2025-10-06 21:40:40,353 - INFO - 動画URLを取得しました
+2025-10-06 21:40:40,358 - INFO - DUP(with-key): user=stastny.by.lumi, key=AQNTMf-Y6GR3wmoIUBo82p_KXfWmWzoc90ahOn8wG-hrbcuhBc1GoEjoWgOv91xiPCb0ym3wdo3O5_WKUZBf814wG7DyFjhwhtOGRK0Jzi7frw, dt=2025-10-06T00:19:23.000Z

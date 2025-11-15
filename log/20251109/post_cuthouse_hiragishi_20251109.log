@@ -1,0 +1,311 @@
+================================================================================
+2025-11-09 01:00:33,549 - INFO - 処理開始 PROCESSID:20251109_010030
+2025-11-09 01:00:33,549 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-09 01:00:33,549 - INFO - 処理を開始します
+2025-11-09 01:00:33,614 - INFO - 選択されたプロファイル: Profile 9
+2025-11-09 01:00:33,614 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-09 01:00:38,032 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-09 01:00:49,349 - INFO - 最新投稿を読み込みます
+2025-11-09 01:00:54,634 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQ0F1E8ktEZ/?hl=ja
+2025-11-09 01:00:57,650 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 01:01:01,542 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 01:01:01,610 - INFO - datetime属性の抽出を開始します
+2025-11-09 01:01:01,657 - INFO - 抽出されたdatetime: 2025-11-08T23:29:00.000Z
+2025-11-09 01:01:01,658 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-08T23:29:00.000Z
+2025-11-09 01:01:01,666 - INFO - date:2025-11-09 08:29:00+09:00
+2025-11-09 01:01:01,666 - INFO - post_date:20251109
+2025-11-09 01:01:01,755 - INFO - カルーセル推定: 1枚
+2025-11-09 01:01:01,834 - INFO - 検出(SINGLE): https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=c5nOiaWopmgQ7kNvwFb7aP6&_nc_oc=AdlTg2n1Ir1p0TUmcGGsB28MT_2E1GwEslykwklMy8oEHM9dIJHoGPdlGiP1325rGFM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=s_LDWzGkyTA6P6ml-KNM8Q&oh=00_AfgPgiE2AmCoFp9awuNe5AZXVTK6rnTFT0L54TOp57TCmg&oe=6915CC82
+2025-11-09 01:01:01,834 - INFO - 1枚目: https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=c5nOiaWopmgQ7kNvwFb7aP6&_nc_oc=AdlTg2n1Ir1p0TUmcGGsB28MT_2E1GwEslykwklMy8oEHM9dIJHoGPdlGiP1325rGFM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=s_LDWzGkyTA6P6ml-KNM8Q&oh=00_AfgPgiE2AmCoFp9awuNe5AZXVTK6rnTFT0L54TOp57TCmg&oe=6915CC82
+2025-11-09 01:01:01,834 - INFO - [caption/by_username] 開始
+2025-11-09 01:01:01,999 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+タイヤ交換済みました？
+昨日はあちらこちらで、タイヤ交換ラッシュを目にする事が多かったですね
+
+冬支度はヘアスタイルもやっておきましょーね
+
+さて、本日、13時半、15時半、いけそうなので御予約'
+2025-11-09 01:01:02,001 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251109_010030
+2025-11-09 01:01:02,001 - INFO - 画像URLを取得しました
+2025-11-09 01:01:02,033 - INFO - INSERT(with-key): user=cuthouse_hiragishi, key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw==, dt=2025-11-08T23:29:00.000Z
+2025-11-09 01:01:02,033 - INFO - メディアを取得します
+2025-11-09 01:01:04,034 - INFO - ダウンロードを開始します: media\cuthouse_hiragishi\cuthouse_hiragishi_20251109010104.jpg
+2025-11-09 01:01:04,407 - INFO - ダウンロード完了: media\cuthouse_hiragishi\cuthouse_hiragishi_20251109010104.jpg
+2025-11-09 01:01:04,499 - INFO - 元の画像サイズ: 1023x1023
+2025-11-09 01:01:04,499 - INFO - サイズ変更は不要です
+2025-11-09 01:01:04,500 - INFO - 説明文:💈
+
+タイヤ交換済みました？
+昨日はあちらこちらで、タイヤ交換ラッシュを目にする事が多かったですね
+
+冬支度はヘアスタイルもやっておきましょーね
+
+さて、本日、13時半、15時半、いけそうなので御予約枠数増やしてあります
+御予約お待ちしております
+御来店の際には、お気をつけてお越し下さいませ
+
+———————————
+
+#カットハウス #cuthouse 
+
+営業時間
+OPEN ┇ 9:00  CLOSE ┇ 19:00
+
+〒062-0932
+北海道札幌市豊平区平岸2条7丁目4-27 山際ビル 2F
+最寄駅 : 平岸駅(すぐ！)
+定休日︰火曜日
+
+〈ご予約〉
+TEL
+011-815-7939
+ホットペッパー
+https://beauty.hotpepper.jp/slnH000552481/
+
+———————————
+
+#メンズヘア #ドアーズ #ドアーズハードジェル #ドアーズポマード #自由自在にスタイリング #フェード #フェードスタイル #濡れパン #緩パン #宮城リョータ風パーマ #極道パーマ #ツイスパ #メンズパーマ #漢の香り#男なら床屋だろ #doors #doors #fade #fadestyle #barber #barberstyle #cuthouse #札幌床屋 #平岸床屋 #札幌理容室 #平岸理容室 #札幌バーバー #平岸バーバー #カットハウス #バーバースタイル
+2025-11-09 01:01:06,899 - INFO - 処理終了
+================================================================================
+2025-11-09 01:01:12,860 - INFO - 処理開始: Mode=post, Username=cuthouse_hiragishi, GBP=cuthousehiragishi
+2025-11-09 01:01:12,860 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJjdXRob3VzZWhpcmFnaXNoaSJd.
+2025-11-09 01:01:35,350 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\cuthouse_hiragishi\cuthouse_hiragishi_20251109010104.jpg
+2025-11-09 01:01:38,455 - INFO - Waiting for description field...
+2025-11-09 01:01:38,502 - INFO - Setting description via JS (no send_keys)...
+2025-11-09 01:01:39,605 - INFO - Looking for button section...
+2025-11-09 01:01:44,359 - INFO - Trying to select CALL option...
+2025-11-09 01:01:44,643 - INFO - CALL option successfully selected
+2025-11-09 01:01:46,644 - INFO - Clicking submit button...
+2025-11-09 01:01:56,273 - INFO - 処理完了
+================================================================================
+2025-11-09 04:02:58,587 - INFO - 処理開始 PROCESSID:20251109_040255
+2025-11-09 04:02:58,587 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-09 04:02:58,587 - INFO - 処理を開始します
+2025-11-09 04:02:58,651 - INFO - 選択されたプロファイル: Profile 10
+2025-11-09 04:02:58,651 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-09 04:03:03,095 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-09 04:03:14,618 - INFO - 最新投稿を読み込みます
+2025-11-09 04:03:20,040 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQ0F1E8ktEZ/?hl=ja
+2025-11-09 04:03:23,043 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 04:03:26,873 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 04:03:26,909 - INFO - datetime属性の抽出を開始します
+2025-11-09 04:03:26,941 - INFO - 抽出されたdatetime: 2025-11-08T23:29:00.000Z
+2025-11-09 04:03:26,941 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-08T23:29:00.000Z
+2025-11-09 04:03:26,949 - INFO - date:2025-11-09 08:29:00+09:00
+2025-11-09 04:03:26,949 - INFO - post_date:20251109
+2025-11-09 04:03:26,989 - INFO - カルーセル推定: 1枚
+2025-11-09 04:03:27,179 - INFO - 検出(SINGLE): https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=c5nOiaWopmgQ7kNvwFb7aP6&_nc_oc=AdlTg2n1Ir1p0TUmcGGsB28MT_2E1GwEslykwklMy8oEHM9dIJHoGPdlGiP1325rGFM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=curO58I9NGNb7I_nZ_ScNA&oh=00_Afij7wUDGM5EaAMwyyXLRvEFAacgQLw3JF03rXSHvUveuA&oe=6915CC82
+2025-11-09 04:03:27,180 - INFO - 1枚目: https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=c5nOiaWopmgQ7kNvwFb7aP6&_nc_oc=AdlTg2n1Ir1p0TUmcGGsB28MT_2E1GwEslykwklMy8oEHM9dIJHoGPdlGiP1325rGFM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=curO58I9NGNb7I_nZ_ScNA&oh=00_Afij7wUDGM5EaAMwyyXLRvEFAacgQLw3JF03rXSHvUveuA&oe=6915CC82
+2025-11-09 04:03:27,180 - INFO - [caption/by_username] 開始
+2025-11-09 04:03:27,306 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+タイヤ交換済みました？
+昨日はあちらこちらで、タイヤ交換ラッシュを目にする事が多かったですね
+
+冬支度はヘアスタイルもやっておきましょーね
+
+さて、本日、13時半、15時半、いけそうなので御予約'
+2025-11-09 04:03:27,308 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251109_040255
+2025-11-09 04:03:27,308 - INFO - 画像URLを取得しました
+2025-11-09 04:03:27,310 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw==, dt=2025-11-08T23:29:00.000Z
+2025-11-09 04:03:27,310 - INFO - このレコードは存在します
+2025-11-09 04:03:27,311 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-09 07:04:59,624 - INFO - 処理開始 PROCESSID:20251109_070456
+2025-11-09 07:04:59,624 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-09 07:04:59,624 - INFO - 処理を開始します
+2025-11-09 07:04:59,687 - INFO - 選択されたプロファイル: Profile 12
+2025-11-09 07:04:59,689 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-09 07:05:04,056 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-09 07:05:15,877 - INFO - 最新投稿を読み込みます
+2025-11-09 07:05:21,209 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQ0F1E8ktEZ/?hl=ja
+2025-11-09 07:05:25,104 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 07:05:29,765 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 07:05:29,968 - INFO - datetime属性の抽出を開始します
+2025-11-09 07:05:29,989 - INFO - 抽出されたdatetime: 2025-11-08T23:29:00.000Z
+2025-11-09 07:05:29,989 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-08T23:29:00.000Z
+2025-11-09 07:05:29,996 - INFO - date:2025-11-09 08:29:00+09:00
+2025-11-09 07:05:29,996 - INFO - post_date:20251109
+2025-11-09 07:05:30,040 - INFO - カルーセル推定: 1枚
+2025-11-09 07:05:30,232 - INFO - 検出(SINGLE): https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=c5nOiaWopmgQ7kNvwFb7aP6&_nc_oc=AdlTg2n1Ir1p0TUmcGGsB28MT_2E1GwEslykwklMy8oEHM9dIJHoGPdlGiP1325rGFM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=osBmsWmZckEE73lGXZxy2g&oh=00_Afh8au0ILMmlD0d_nSvZ6zGS-9-DbOQCoNwItyCNEQZtFA&oe=691604C2
+2025-11-09 07:05:30,232 - INFO - 1枚目: https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=c5nOiaWopmgQ7kNvwFb7aP6&_nc_oc=AdlTg2n1Ir1p0TUmcGGsB28MT_2E1GwEslykwklMy8oEHM9dIJHoGPdlGiP1325rGFM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=osBmsWmZckEE73lGXZxy2g&oh=00_Afh8au0ILMmlD0d_nSvZ6zGS-9-DbOQCoNwItyCNEQZtFA&oe=691604C2
+2025-11-09 07:05:30,233 - INFO - [caption/by_username] 開始
+2025-11-09 07:05:30,329 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+タイヤ交換済みました？
+昨日はあちらこちらで、タイヤ交換ラッシュを目にする事が多かったですね
+
+冬支度はヘアスタイルもやっておきましょーね
+
+さて、本日、13時半、15時半、いけそうなので御予約'
+2025-11-09 07:05:30,332 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251109_070456
+2025-11-09 07:05:30,332 - INFO - 画像URLを取得しました
+2025-11-09 07:05:30,335 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw==, dt=2025-11-08T23:29:00.000Z
+2025-11-09 07:05:30,335 - INFO - このレコードは存在します
+2025-11-09 07:05:30,335 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-09 10:08:48,439 - INFO - 処理開始 PROCESSID:20251109_100845
+2025-11-09 10:08:48,441 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-09 10:08:48,441 - INFO - 処理を開始します
+2025-11-09 10:08:48,501 - INFO - 選択されたプロファイル: Profile 9
+2025-11-09 10:08:48,501 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-09 10:08:52,752 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-09 10:09:05,426 - INFO - 最新投稿を読み込みます
+2025-11-09 10:09:10,908 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQ0F1E8ktEZ/?hl=ja
+2025-11-09 10:09:15,164 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 10:09:19,018 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 10:09:19,092 - INFO - datetime属性の抽出を開始します
+2025-11-09 10:09:19,129 - INFO - 抽出されたdatetime: 2025-11-08T23:29:00.000Z
+2025-11-09 10:09:19,129 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-08T23:29:00.000Z
+2025-11-09 10:09:19,143 - INFO - date:2025-11-09 08:29:00+09:00
+2025-11-09 10:09:19,144 - INFO - post_date:20251109
+2025-11-09 10:09:19,229 - INFO - カルーセル推定: 1枚
+2025-11-09 10:09:19,313 - INFO - 検出(SINGLE): https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=c5nOiaWopmgQ7kNvwFb7aP6&_nc_oc=AdlTg2n1Ir1p0TUmcGGsB28MT_2E1GwEslykwklMy8oEHM9dIJHoGPdlGiP1325rGFM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=NdhWPZs_9S2hK8gl3xCvoA&oh=00_Afg_C4cO_-Opu6qkcA8Ta-ZOuGYniy1riZQwMNkva6EL6g&oe=69163D02
+2025-11-09 10:09:19,315 - INFO - 1枚目: https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=c5nOiaWopmgQ7kNvwFb7aP6&_nc_oc=AdlTg2n1Ir1p0TUmcGGsB28MT_2E1GwEslykwklMy8oEHM9dIJHoGPdlGiP1325rGFM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=NdhWPZs_9S2hK8gl3xCvoA&oh=00_Afg_C4cO_-Opu6qkcA8Ta-ZOuGYniy1riZQwMNkva6EL6g&oe=69163D02
+2025-11-09 10:09:19,315 - INFO - [caption/by_username] 開始
+2025-11-09 10:09:19,421 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+タイヤ交換済みました？
+昨日はあちらこちらで、タイヤ交換ラッシュを目にする事が多かったですね
+
+冬支度はヘアスタイルもやっておきましょーね
+
+さて、本日、13時半、15時半、いけそうなので御予約'
+2025-11-09 10:09:19,423 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251109_100845
+2025-11-09 10:09:19,423 - INFO - 画像URLを取得しました
+2025-11-09 10:09:19,425 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw==, dt=2025-11-08T23:29:00.000Z
+2025-11-09 10:09:19,427 - INFO - このレコードは存在します
+2025-11-09 10:09:19,427 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-09 13:05:47,341 - INFO - 処理開始 PROCESSID:20251109_130544
+2025-11-09 13:05:47,341 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-09 13:05:47,341 - INFO - 処理を開始します
+2025-11-09 13:05:47,397 - INFO - 選択されたプロファイル: Profile 10
+2025-11-09 13:05:47,397 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-09 13:05:51,856 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-09 13:06:03,390 - INFO - 最新投稿を読み込みます
+2025-11-09 13:06:08,681 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQ0F1E8ktEZ/?hl=ja
+2025-11-09 13:06:13,171 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 13:06:17,382 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 13:06:17,408 - INFO - datetime属性の抽出を開始します
+2025-11-09 13:06:17,450 - INFO - 抽出されたdatetime: 2025-11-08T23:29:00.000Z
+2025-11-09 13:06:17,450 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-08T23:29:00.000Z
+2025-11-09 13:06:17,459 - INFO - date:2025-11-09 08:29:00+09:00
+2025-11-09 13:06:17,459 - INFO - post_date:20251109
+2025-11-09 13:06:17,499 - INFO - カルーセル推定: 1枚
+2025-11-09 13:06:17,532 - INFO - 検出(SINGLE): https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=c5nOiaWopmgQ7kNvwFb7aP6&_nc_oc=AdlTg2n1Ir1p0TUmcGGsB28MT_2E1GwEslykwklMy8oEHM9dIJHoGPdlGiP1325rGFM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=dSDtRwsShL_t3SVgd9RaTA&oh=00_Afhd3hKqGbclhgwmsYmjoAwqKscCVz3-MLc4hCw3e5TyEA&oe=69167542
+2025-11-09 13:06:17,532 - INFO - 1枚目: https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=c5nOiaWopmgQ7kNvwFb7aP6&_nc_oc=AdlTg2n1Ir1p0TUmcGGsB28MT_2E1GwEslykwklMy8oEHM9dIJHoGPdlGiP1325rGFM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=dSDtRwsShL_t3SVgd9RaTA&oh=00_Afhd3hKqGbclhgwmsYmjoAwqKscCVz3-MLc4hCw3e5TyEA&oe=69167542
+2025-11-09 13:06:17,532 - INFO - [caption/by_username] 開始
+2025-11-09 13:06:17,608 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+タイヤ交換済みました？
+昨日はあちらこちらで、タイヤ交換ラッシュを目にする事が多かったですね
+
+冬支度はヘアスタイルもやっておきましょーね
+
+さて、本日、13時半、15時半、いけそうなので御予約'
+2025-11-09 13:06:17,610 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251109_130544
+2025-11-09 13:06:17,610 - INFO - 画像URLを取得しました
+2025-11-09 13:06:17,612 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw==, dt=2025-11-08T23:29:00.000Z
+2025-11-09 13:06:17,612 - INFO - このレコードは存在します
+2025-11-09 13:06:17,612 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-09 16:00:53,473 - INFO - 処理開始 PROCESSID:20251109_160050
+2025-11-09 16:00:53,473 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-09 16:00:53,473 - INFO - 処理を開始します
+2025-11-09 16:00:53,531 - INFO - 選択されたプロファイル: Profile 12
+2025-11-09 16:00:53,531 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-09 16:00:57,949 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-09 16:01:09,533 - INFO - 最新投稿を読み込みます
+2025-11-09 16:01:14,807 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQ0F1E8ktEZ/?hl=ja
+2025-11-09 16:01:19,346 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 16:01:23,181 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 16:01:23,285 - INFO - datetime属性の抽出を開始します
+2025-11-09 16:01:23,339 - INFO - 抽出されたdatetime: 2025-11-08T23:29:00.000Z
+2025-11-09 16:01:23,339 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-08T23:29:00.000Z
+2025-11-09 16:01:23,347 - INFO - date:2025-11-09 08:29:00+09:00
+2025-11-09 16:01:23,347 - INFO - post_date:20251109
+2025-11-09 16:01:23,385 - INFO - カルーセル推定: 1枚
+2025-11-09 16:01:23,424 - INFO - 検出(SINGLE): https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=c5nOiaWopmgQ7kNvwFb7aP6&_nc_oc=AdlTg2n1Ir1p0TUmcGGsB28MT_2E1GwEslykwklMy8oEHM9dIJHoGPdlGiP1325rGFM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_gid=2cD84pOWUA64an-ysccG-w&oh=00_AfhJ9PavriDiNS3twidgOk9yhWmI582K2F6-_3Vkp0MqZg&oe=69167542
+2025-11-09 16:01:23,424 - INFO - 1枚目: https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=c5nOiaWopmgQ7kNvwFb7aP6&_nc_oc=AdlTg2n1Ir1p0TUmcGGsB28MT_2E1GwEslykwklMy8oEHM9dIJHoGPdlGiP1325rGFM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_gid=2cD84pOWUA64an-ysccG-w&oh=00_AfhJ9PavriDiNS3twidgOk9yhWmI582K2F6-_3Vkp0MqZg&oe=69167542
+2025-11-09 16:01:23,424 - INFO - [caption/by_username] 開始
+2025-11-09 16:01:23,501 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+タイヤ交換済みました？
+昨日はあちらこちらで、タイヤ交換ラッシュを目にする事が多かったですね
+
+冬支度はヘアスタイルもやっておきましょーね
+
+さて、本日、13時半、15時半、いけそうなので御予約'
+2025-11-09 16:01:23,503 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251109_160050
+2025-11-09 16:01:23,503 - INFO - 画像URLを取得しました
+2025-11-09 16:01:23,506 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw==, dt=2025-11-08T23:29:00.000Z
+2025-11-09 16:01:23,506 - INFO - このレコードは存在します
+2025-11-09 16:01:23,506 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-09 18:55:34,002 - INFO - 処理開始 PROCESSID:20251109_185530
+2025-11-09 18:55:34,002 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-09 18:55:34,002 - INFO - 処理を開始します
+2025-11-09 18:55:34,064 - INFO - 選択されたプロファイル: Profile 10
+2025-11-09 18:55:34,064 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-09 18:55:38,236 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-09 18:55:49,998 - INFO - 最新投稿を読み込みます
+2025-11-09 18:55:55,320 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQ0F1E8ktEZ/?hl=ja
+2025-11-09 18:55:58,833 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 18:56:02,891 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 18:56:02,950 - INFO - datetime属性の抽出を開始します
+2025-11-09 18:56:02,974 - INFO - 抽出されたdatetime: 2025-11-08T23:29:00.000Z
+2025-11-09 18:56:02,974 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-08T23:29:00.000Z
+2025-11-09 18:56:02,981 - INFO - date:2025-11-09 08:29:00+09:00
+2025-11-09 18:56:02,981 - INFO - post_date:20251109
+2025-11-09 18:56:03,022 - INFO - カルーセル推定: 1枚
+2025-11-09 18:56:03,058 - INFO - 検出(SINGLE): https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=c5nOiaWopmgQ7kNvwFb7aP6&_nc_oc=AdlTg2n1Ir1p0TUmcGGsB28MT_2E1GwEslykwklMy8oEHM9dIJHoGPdlGiP1325rGFM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_gid=H8a5fHDRt5lxXSJMc3tzxw&oh=00_AfjSpIhzp8jWx8WAQihMVPKxP1vGQEyYChvnaTJJmKm_9A&oe=6916AD82
+2025-11-09 18:56:03,058 - INFO - 1枚目: https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=c5nOiaWopmgQ7kNvwFb7aP6&_nc_oc=AdlTg2n1Ir1p0TUmcGGsB28MT_2E1GwEslykwklMy8oEHM9dIJHoGPdlGiP1325rGFM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_gid=H8a5fHDRt5lxXSJMc3tzxw&oh=00_AfjSpIhzp8jWx8WAQihMVPKxP1vGQEyYChvnaTJJmKm_9A&oe=6916AD82
+2025-11-09 18:56:03,058 - INFO - [caption/by_username] 開始
+2025-11-09 18:56:03,305 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+タイヤ交換済みました？
+昨日はあちらこちらで、タイヤ交換ラッシュを目にする事が多かったですね
+
+冬支度はヘアスタイルもやっておきましょーね
+
+さて、本日、13時半、15時半、いけそうなので御予約'
+2025-11-09 18:56:03,307 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251109_185530
+2025-11-09 18:56:03,307 - INFO - 画像URLを取得しました
+2025-11-09 18:56:03,309 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw==, dt=2025-11-08T23:29:00.000Z
+2025-11-09 18:56:03,309 - INFO - このレコードは存在します
+2025-11-09 18:56:03,309 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-09 21:50:01,675 - INFO - 処理開始 PROCESSID:20251109_214958
+2025-11-09 21:50:01,675 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-09 21:50:01,675 - INFO - 処理を開始します
+2025-11-09 21:50:01,744 - INFO - 選択されたプロファイル: Profile 9
+2025-11-09 21:50:01,744 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-09 21:50:05,934 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-09 21:50:17,693 - INFO - 最新投稿を読み込みます
+2025-11-09 21:50:22,961 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQ0F1E8ktEZ/?hl=ja
+2025-11-09 21:50:25,665 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 21:50:30,262 - INFO - 最新投稿ページにアクセスしました
+2025-11-09 21:50:30,337 - INFO - datetime属性の抽出を開始します
+2025-11-09 21:50:30,361 - INFO - 抽出されたdatetime: 2025-11-08T23:29:00.000Z
+2025-11-09 21:50:30,361 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-08T23:29:00.000Z
+2025-11-09 21:50:30,367 - INFO - date:2025-11-09 08:29:00+09:00
+2025-11-09 21:50:30,367 - INFO - post_date:20251109
+2025-11-09 21:50:30,412 - INFO - カルーセル推定: 1枚
+2025-11-09 21:50:30,445 - INFO - 検出(SINGLE): https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=EsKS7E5tFuwQ7kNvwFPBK1t&_nc_oc=Admoh2_yMUxBO9UpEQZSH0u1ayKJqF1kutx2BTskU8m3ZqiWkns7WaCYrI_8BTW7KNI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_gid=YQu-V8vR6dXiC9rjlXt7Vg&oh=00_AfhnhiWu7oqt6Lq32_TsFoP2YZLEhX30QOPyEb519CFYfw&oe=6916E5C2
+2025-11-09 21:50:30,445 - INFO - 1枚目: https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/575300834_18374054239158155_5212159553596441160_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTAyMy5zZHIuQzMifQ%3D%3D&_nc_ohc=EsKS7E5tFuwQ7kNvwFPBK1t&_nc_oc=Admoh2_yMUxBO9UpEQZSH0u1ayKJqF1kutx2BTskU8m3ZqiWkns7WaCYrI_8BTW7KNI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_gid=YQu-V8vR6dXiC9rjlXt7Vg&oh=00_AfhnhiWu7oqt6Lq32_TsFoP2YZLEhX30QOPyEb519CFYfw&oe=6916E5C2
+2025-11-09 21:50:30,445 - INFO - [caption/by_username] 開始
+2025-11-09 21:50:30,537 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+タイヤ交換済みました？
+昨日はあちらこちらで、タイヤ交換ラッシュを目にする事が多かったですね
+
+冬支度はヘアスタイルもやっておきましょーね
+
+さて、本日、13時半、15時半、いけそうなので御予約'
+2025-11-09 21:50:30,540 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251109_214958
+2025-11-09 21:50:30,540 - INFO - 画像URLを取得しました
+2025-11-09 21:50:30,543 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc2MTY1NzIyNjQzNzI1MTM1Mw==, dt=2025-11-08T23:29:00.000Z
+2025-11-09 21:50:30,543 - INFO - このレコードは存在します
+2025-11-09 21:50:30,543 - INFO - 全件レコードが存在します

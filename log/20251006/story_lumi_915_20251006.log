@@ -1,0 +1,178 @@
+================================================================================
+2025-10-06 02:24:15,808 - INFO - 処理開始 PROCESSID:20251006_022412
+2025-10-06 02:24:15,808 - INFO - 対象ユーザー: lumi_915
+2025-10-06 02:24:15,808 - INFO - 処理を開始します
+2025-10-06 02:24:15,891 - INFO - 選択されたプロファイル: Profile 9
+2025-10-06 02:24:15,891 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-06 02:24:21,591 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-06 02:24:43,878 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 02:24:44,709 - INFO - lumi_915: 動画を検出しました
+2025-10-06 02:24:44,709 - INFO - datetime属性の抽出を開始します
+2025-10-06 02:24:44,793 - INFO - 抽出されたdatetime: 2025-10-06T00:27:36.000Z
+2025-10-06 02:24:44,793 - INFO - lumi_915 の投稿日時: 2025-10-06T00:27:36.000Z
+2025-10-06 02:24:46,118 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQMsAKZqAQKTvRN5bUR3uGrDK5ktaBntDeqKsmPWKPuDPpupFQFgxqHMxB7P9HTEoeAuvR6GMx6YQuzKtan7KG4oxtOeY7uWvzOdCWUwZPeC_A.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=F2-bxaeKqLIQ7kNvwG5CCi6&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MDE0MjQ2NzI4MjA5MzIsInZpX3VzZWNhc2VfaWQiOjEwMTAwLCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=MOyobaiqlcz7eD5Pjyds2A&_nc_zt=28&oh=00_AfdVwtK2Gkx5cHgNStgxzrCBxR-x0BQOga4HokkKiUNizA&oe=68E90D7C&bytestart=0&byteend=468585
+2025-10-06 02:24:46,119 - INFO - 動画URLを取得しました
+2025-10-06 02:24:46,366 - INFO - INSERT(with-key): user=lumi_915, key=AQMsAKZqAQKTvRN5bUR3uGrDK5ktaBntDeqKsmPWKPuDPpupFQFgxqHMxB7P9HTEoeAuvR6GMx6YQuzKtan7KG4oxtOeY7uWvzOdCWUwZPeC_A, dt=2025-10-06T00:27:36.000Z
+2025-10-06 02:24:48,373 - INFO - ダウンロードを開始します: media\lumi_915\lumi_915_20251006022448.mp4
+2025-10-06 02:24:48,805 - INFO - ダウンロード完了: media\lumi_915\lumi_915_20251006022448.mp4
+2025-10-06 02:24:51,334 - INFO - 処理終了
+2025-10-06 02:24:51,336 - INFO - 説明文_AI: None
+2025-10-06 02:24:51,336 - INFO - 説明文_最終: 
+================================================================================
+2025-10-06 02:24:57,614 - INFO - 処理開始: Mode=story, Username=lumi_915, GBP=12567354535638384359
+2025-10-06 02:24:57,616 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMjU2NzM1NDUzNTYzODM4NDM1OSJd.
+2025-10-06 02:25:21,464 - INFO - 元の動画サイズ: 360x640
+2025-10-06 02:25:21,464 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-06 02:25:21,464 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251006022448.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251006022448_resized.mp4
+2025-10-06 02:25:39,148 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251006022448_resized.mp4
+2025-10-06 02:25:39,148 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251006022448.mp4
+2025-10-06 02:25:39,155 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251006022448_resized.mp4
+2025-10-06 02:25:49,350 - INFO - 一時ファイルが見つかりません: media\lumi_915\description\20251006_022412
+2025-10-06 02:25:49,350 - INFO - Looking for button section...
+2025-10-06 02:25:54,210 - INFO - Trying to select CALL option...
+2025-10-06 02:25:54,445 - INFO - CALL option successfully selected
+2025-10-06 02:25:56,446 - INFO - Clicking submit button...
+2025-10-06 02:26:08,686 - INFO - 処理完了
+================================================================================
+2025-10-06 06:26:58,123 - INFO - 処理開始 PROCESSID:20251006_062654
+2025-10-06 06:26:58,123 - INFO - 対象ユーザー: lumi_915
+2025-10-06 06:26:58,123 - INFO - 処理を開始します
+2025-10-06 06:26:58,195 - INFO - 選択されたプロファイル: Profile 9
+2025-10-06 06:26:58,195 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-06 06:27:03,156 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-06 06:27:25,228 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 06:27:26,330 - INFO - lumi_915: 動画を検出しました
+2025-10-06 06:27:26,331 - INFO - datetime属性の抽出を開始します
+2025-10-06 06:27:26,364 - INFO - 抽出されたdatetime: 2025-10-06T00:44:30.000Z
+2025-10-06 06:27:26,365 - INFO - lumi_915 の投稿日時: 2025-10-06T00:44:30.000Z
+2025-10-06 06:27:27,708 - INFO - 生成URL:https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m367/AQNbjdtiMSyE4W7TJscl280qrqNA5i4Y1BOGGfvsnTUT8EtsnwVvNrqHyVSkp03llPHyqqLhiLTiVur7Rzzn2nExNh4t_W3ee3LOLJKwaUfdpg.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=usRP6yigJlIQ7kNvwEA0Ql7&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTM1NjgwMDQ3OTM0Mzk5MywidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=RNH7n6BrdDK0SCrMFxb9hw&_nc_zt=28&oh=00_AfcNDfoaX9b43MPBGA12XJ3vO48zSIOknRQ7-sob3qaAaA&oe=68E9462F&bytestart=0&byteend=3524673
+2025-10-06 06:27:27,708 - INFO - 動画URLを取得しました
+2025-10-06 06:27:27,816 - INFO - INSERT(with-key): user=lumi_915, key=AQNbjdtiMSyE4W7TJscl280qrqNA5i4Y1BOGGfvsnTUT8EtsnwVvNrqHyVSkp03llPHyqqLhiLTiVur7Rzzn2nExNh4t_W3ee3LOLJKwaUfdpg, dt=2025-10-06T00:44:30.000Z
+2025-10-06 06:27:29,822 - INFO - ダウンロードを開始します: media\lumi_915\lumi_915_20251006062729.mp4
+2025-10-06 06:27:30,533 - INFO - ダウンロード完了: media\lumi_915\lumi_915_20251006062729.mp4
+2025-10-06 06:27:33,053 - INFO - 処理終了
+2025-10-06 06:27:33,055 - INFO - 説明文_AI: None
+2025-10-06 06:27:33,057 - INFO - 説明文_最終: 
+================================================================================
+2025-10-06 06:27:39,301 - INFO - 処理開始: Mode=story, Username=lumi_915, GBP=12567354535638384359
+2025-10-06 06:27:39,301 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMjU2NzM1NDUzNTYzODM4NDM1OSJd.
+2025-10-06 06:28:02,921 - INFO - 元の動画サイズ: 1080x1920
+2025-10-06 06:28:02,923 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-06 06:28:02,923 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251006062729.mp4
+2025-10-06 06:28:13,202 - INFO - 一時ファイルが見つかりません: media\lumi_915\description\20251006_062654
+2025-10-06 06:28:13,202 - INFO - Looking for button section...
+2025-10-06 06:28:17,775 - INFO - Trying to select CALL option...
+2025-10-06 06:28:18,007 - INFO - CALL option successfully selected
+2025-10-06 06:28:20,008 - INFO - Clicking submit button...
+2025-10-06 06:28:28,682 - INFO - 処理完了
+================================================================================
+2025-10-06 10:21:24,551 - INFO - 処理開始 PROCESSID:20251006_102120
+2025-10-06 10:21:24,551 - INFO - 対象ユーザー: lumi_915
+2025-10-06 10:21:24,551 - INFO - 処理を開始します
+2025-10-06 10:21:24,614 - INFO - 選択されたプロファイル: Profile 10
+2025-10-06 10:21:24,614 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-06 10:21:29,709 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-06 10:21:51,761 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 10:21:53,473 - INFO - lumi_915: 動画を検出しました
+2025-10-06 10:21:53,473 - INFO - datetime属性の抽出を開始します
+2025-10-06 10:21:53,785 - INFO - 抽出されたdatetime: 2025-10-06T00:27:36.000Z
+2025-10-06 10:21:53,786 - INFO - lumi_915 の投稿日時: 2025-10-06T00:27:36.000Z
+2025-10-06 10:21:55,069 - INFO - 生成URL:https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQMMgjEuMEeJODXj8kEPUmXWL870HqtPzE7HYPJ5_XnCYhd9uzJ8bTg2SfTtTrIXWcco7UgbdnIaiztsBKj1vsr0dKLXw0VPkcAvN4zfsh1aXQ.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=lGBraZJV-lkQ7kNvwEg66aN&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjgwMTQyNDY3MjgyMDkzMiwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=ERqCvnedxRj4gVDt8HlONw&_nc_zt=28&oh=00_AfdRRtlMZmtHxjnR58qbHYA1wS7FXHmfHnWzKIYHd0LQJw&oe=68E981A1&bytestart=0&byteend=2579979
+2025-10-06 10:21:55,069 - INFO - 動画URLを取得しました
+2025-10-06 10:21:55,354 - INFO - INSERT(with-key): user=lumi_915, key=AQMMgjEuMEeJODXj8kEPUmXWL870HqtPzE7HYPJ5_XnCYhd9uzJ8bTg2SfTtTrIXWcco7UgbdnIaiztsBKj1vsr0dKLXw0VPkcAvN4zfsh1aXQ, dt=2025-10-06T00:27:36.000Z
+2025-10-06 10:21:57,694 - INFO - ダウンロードを開始します: media\lumi_915\lumi_915_20251006102157.mp4
+2025-10-06 10:21:58,471 - INFO - ダウンロード完了: media\lumi_915\lumi_915_20251006102157.mp4
+2025-10-06 10:22:02,391 - INFO - 処理終了
+2025-10-06 10:22:02,393 - INFO - 説明文_AI: None
+2025-10-06 10:22:02,393 - INFO - 説明文_最終: 
+================================================================================
+2025-10-06 10:22:08,510 - INFO - 処理開始: Mode=story, Username=lumi_915, GBP=12567354535638384359
+2025-10-06 10:22:08,510 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMjU2NzM1NDUzNTYzODM4NDM1OSJd.
+2025-10-06 10:22:32,436 - INFO - 元の動画サイズ: 1080x1920
+2025-10-06 10:22:32,436 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-06 10:22:32,436 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251006102157.mp4
+2025-10-06 10:22:42,495 - INFO - 一時ファイルが見つかりません: media\lumi_915\description\20251006_102120
+2025-10-06 10:22:42,495 - INFO - Looking for button section...
+2025-10-06 10:22:47,036 - INFO - Trying to select CALL option...
+2025-10-06 10:22:47,271 - INFO - CALL option successfully selected
+2025-10-06 10:22:49,272 - INFO - Clicking submit button...
+2025-10-06 10:22:57,938 - INFO - 処理完了
+================================================================================
+2025-10-06 14:16:37,440 - INFO - 処理開始 PROCESSID:20251006_141633
+2025-10-06 14:16:37,440 - INFO - 対象ユーザー: lumi_915
+2025-10-06 14:16:37,440 - INFO - 処理を開始します
+2025-10-06 14:16:37,494 - INFO - 選択されたプロファイル: Profile 10
+2025-10-06 14:16:37,496 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-06 14:16:42,205 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-06 14:17:04,405 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 14:17:05,851 - INFO - lumi_915: 動画を検出しました
+2025-10-06 14:17:05,851 - INFO - datetime属性の抽出を開始します
+2025-10-06 14:17:06,234 - INFO - 抽出されたdatetime: 2025-10-06T00:44:30.000Z
+2025-10-06 14:17:06,234 - INFO - lumi_915 の投稿日時: 2025-10-06T00:44:30.000Z
+2025-10-06 14:17:07,423 - INFO - 生成URL:https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m367/AQMNGjJCqydAoNZ3G4cYE0S1QNmJ09ROyTvCmkpszAvR2AGdL3yahmBqtYkblYqXuDuM8fpX-d3xRO5-9CEdXsZK1fhM4dLe01kPg3lFSVPgeQ.mp4?_nc_cat=109&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=GIDuxff4EMUQ7kNvwFMebbC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTM1NjgwMDQ3OTM0Mzk5MywidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=HvsCU3x-eaDgVbyJB7oEfA&_nc_zt=28&oh=00_Afcl7nPvHMd1prUMKUTO7p1tJO8tOdmgPA7VVrHGwiVjcw&oe=68E99C9B&bytestart=0&byteend=2520998
+2025-10-06 14:17:07,423 - INFO - 動画URLを取得しました
+2025-10-06 14:17:07,653 - INFO - INSERT(with-key): user=lumi_915, key=AQMNGjJCqydAoNZ3G4cYE0S1QNmJ09ROyTvCmkpszAvR2AGdL3yahmBqtYkblYqXuDuM8fpX-d3xRO5-9CEdXsZK1fhM4dLe01kPg3lFSVPgeQ, dt=2025-10-06T00:44:30.000Z
+2025-10-06 14:17:09,655 - INFO - ダウンロードを開始します: media\lumi_915\lumi_915_20251006141709.mp4
+2025-10-06 14:17:10,389 - INFO - ダウンロード完了: media\lumi_915\lumi_915_20251006141709.mp4
+2025-10-06 14:17:14,480 - INFO - 処理終了
+2025-10-06 14:17:14,482 - INFO - 説明文_AI: None
+2025-10-06 14:17:14,482 - INFO - 説明文_最終: 
+================================================================================
+2025-10-06 14:17:20,504 - INFO - 処理開始: Mode=story, Username=lumi_915, GBP=12567354535638384359
+2025-10-06 14:17:20,506 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMjU2NzM1NDUzNTYzODM4NDM1OSJd.
+2025-10-06 14:17:43,811 - INFO - 元の動画サイズ: 720x1280
+2025-10-06 14:17:43,811 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-06 14:17:43,811 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251006141709.mp4
+2025-10-06 14:17:53,915 - INFO - 一時ファイルが見つかりません: media\lumi_915\description\20251006_141633
+2025-10-06 14:17:53,915 - INFO - Looking for button section...
+2025-10-06 14:17:58,688 - INFO - Trying to select CALL option...
+2025-10-06 14:17:58,936 - INFO - CALL option successfully selected
+2025-10-06 14:18:00,936 - INFO - Clicking submit button...
+2025-10-06 14:18:09,591 - INFO - 処理完了
+================================================================================
+2025-10-06 18:04:34,882 - INFO - 処理開始 PROCESSID:20251006_180431
+2025-10-06 18:04:34,882 - INFO - 対象ユーザー: lumi_915
+2025-10-06 18:04:34,882 - INFO - 処理を開始します
+2025-10-06 18:04:34,940 - INFO - 選択されたプロファイル: Profile 13
+2025-10-06 18:04:34,940 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-06 18:04:39,447 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-06 18:05:01,403 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 18:05:03,408 - INFO - lumi_915: 動画を検出しました
+2025-10-06 18:05:03,408 - INFO - datetime属性の抽出を開始します
+2025-10-06 18:05:04,042 - INFO - 抽出されたdatetime: 2025-10-06T00:27:36.000Z
+2025-10-06 18:05:04,042 - INFO - lumi_915 の投稿日時: 2025-10-06T00:27:36.000Z
+2025-10-06 18:05:05,273 - INFO - 生成URL:https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQMMgjEuMEeJODXj8kEPUmXWL870HqtPzE7HYPJ5_XnCYhd9uzJ8bTg2SfTtTrIXWcco7UgbdnIaiztsBKj1vsr0dKLXw0VPkcAvN4zfsh1aXQ.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=lGBraZJV-lkQ7kNvwEg66aN&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6ODAxNDI0NjcyODIwOTMyLCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=vr31dasA07S-ZDTOGM9p2g&_nc_zt=28&oh=00_AfcOj67300VyuSiVxaVzVW4IcWwdlhV05GXd8Es-KMnhaw&oe=68E9F221&bytestart=0&byteend=2579979
+2025-10-06 18:05:05,461 - INFO - 動画URLを取得しました
+2025-10-06 18:05:05,465 - INFO - DUP(with-key): user=lumi_915, key=AQMMgjEuMEeJODXj8kEPUmXWL870HqtPzE7HYPJ5_XnCYhd9uzJ8bTg2SfTtTrIXWcco7UgbdnIaiztsBKj1vsr0dKLXw0VPkcAvN4zfsh1aXQ, dt=2025-10-06T00:27:36.000Z
+================================================================================
+2025-10-06 21:46:54,495 - INFO - 処理開始 PROCESSID:20251006_214651
+2025-10-06 21:46:54,495 - INFO - 対象ユーザー: lumi_915
+2025-10-06 21:46:54,497 - INFO - 処理を開始します
+2025-10-06 21:46:54,549 - INFO - 選択されたプロファイル: Profile 12
+2025-10-06 21:46:54,549 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-06 21:46:59,299 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-06 21:47:21,470 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 21:47:22,475 - INFO - lumi_915: 動画を検出しました
+2025-10-06 21:47:22,475 - INFO - datetime属性の抽出を開始します
+2025-10-06 21:47:22,518 - INFO - 抽出されたdatetime: 2025-10-06T00:27:36.000Z
+2025-10-06 21:47:22,520 - INFO - lumi_915 の投稿日時: 2025-10-06T00:27:36.000Z
+2025-10-06 21:47:23,768 - INFO - 生成URL:https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m367/AQPgwBiFjy-tsFYPDOrHryyaTEXH8ZFDJ7E0WQZ2TcgHgXGsALVCKaXvte1zd2nMgygb4T-aggtjB7YvaGo_UKo_Y0oNFpyOvEhoMlSqEy16jA.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=m9hLq1bFlGwQ7kNvwGhkzkS&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MDE0MjQ2NzI4MjA5MzIsInZpX3VzZWNhc2VfaWQiOjEwMTAwLCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=5GUj1Uc8_d7K8L3cNH0I4g&_nc_zt=28&oh=00_Afee5xDoRDjw98L5ZtNy2d6P2n1p5bCfCf6Wj-RLAesKtw&oe=68EA11CF&bytestart=0&byteend=1933971
+2025-10-06 21:47:23,768 - INFO - 動画URLを取得しました
+2025-10-06 21:47:23,973 - INFO - INSERT(with-key): user=lumi_915, key=AQPgwBiFjy-tsFYPDOrHryyaTEXH8ZFDJ7E0WQZ2TcgHgXGsALVCKaXvte1zd2nMgygb4T-aggtjB7YvaGo_UKo_Y0oNFpyOvEhoMlSqEy16jA, dt=2025-10-06T00:27:36.000Z
+2025-10-06 21:47:26,006 - INFO - ダウンロードを開始します: media\lumi_915\lumi_915_20251006214725.mp4
+2025-10-06 21:47:26,800 - INFO - ダウンロード完了: media\lumi_915\lumi_915_20251006214725.mp4
+2025-10-06 21:47:29,308 - INFO - 処理終了
+2025-10-06 21:47:29,311 - INFO - 説明文_AI: None
+2025-10-06 21:47:29,312 - INFO - 説明文_最終: 
+================================================================================
+2025-10-06 21:47:35,550 - INFO - 処理開始: Mode=story, Username=lumi_915, GBP=12567354535638384359
+2025-10-06 21:47:35,550 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMjU2NzM1NDUzNTYzODM4NDM1OSJd.
+2025-10-06 21:47:59,887 - INFO - 元の動画サイズ: 720x1280
+2025-10-06 21:47:59,887 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-06 21:47:59,887 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251006214725.mp4
+2025-10-06 21:48:09,945 - INFO - 一時ファイルが見つかりません: media\lumi_915\description\20251006_214651
+2025-10-06 21:48:09,945 - INFO - Looking for button section...
+2025-10-06 21:48:14,547 - INFO - Trying to select CALL option...
+2025-10-06 21:48:14,800 - INFO - CALL option successfully selected
+2025-10-06 21:48:16,802 - INFO - Clicking submit button...
+2025-10-06 21:48:25,486 - INFO - 処理完了

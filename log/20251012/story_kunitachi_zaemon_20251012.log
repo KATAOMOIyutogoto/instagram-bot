@@ -1,0 +1,118 @@
+================================================================================
+2025-10-12 01:43:42,333 - INFO - 処理開始 PROCESSID:20251012_014338
+2025-10-12 01:43:42,333 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-12 01:43:42,333 - INFO - 処理を開始します
+2025-10-12 01:43:42,388 - INFO - 選択されたプロファイル: Profile 9
+2025-10-12 01:43:42,390 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-12 01:43:47,778 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-12 01:44:11,093 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 01:44:14,281 - INFO - 動画の取得に失敗しました
+2025-10-12 01:44:14,282 - INFO - datetime属性の抽出を開始します
+2025-10-12 01:44:14,369 - INFO - 抽出されたdatetime: 2025-10-11T02:28:23.000Z
+2025-10-12 01:44:14,392 - INFO - 画像URLを取得しました
+2025-10-12 01:44:14,394 - INFO - DUP(with-key): user=kunitachi_zaemon, key=Mzc0MDcyOTMzODAyNzk0MTY0Nw==, dt=2025-10-11T02:28:23.000Z
+================================================================================
+2025-10-12 05:42:57,851 - INFO - 処理開始 PROCESSID:20251012_054254
+2025-10-12 05:42:57,851 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-12 05:42:57,851 - INFO - 処理を開始します
+2025-10-12 05:42:57,920 - INFO - 選択されたプロファイル: Profile 9
+2025-10-12 05:42:57,920 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-12 05:43:03,021 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-12 05:43:26,218 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 05:43:29,359 - INFO - 動画の取得に失敗しました
+2025-10-12 05:43:29,359 - INFO - datetime属性の抽出を開始します
+2025-10-12 05:43:39,635 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x65fea3+66515]
+	GetHandleVerifier [0x0x65fee4+66580]
+	(No symbol) [0x0x44dc48]
+	(No symbol) [0x0x498704]
+	(No symbol) [0x0x498aab]
+	(No symbol) [0x0x4df482]
+	(No symbol) [0x0x4bb214]
+	(No symbol) [0x0x4dcba7]
+	(No symbol) [0x0x4bafc6]
+	(No symbol) [0x0x48c2ca]
+	(No symbol) [0x0x48d154]
+	GetHandleVerifier [0x0x8b73d3+2521347]
+	GetHandleVerifier [0x0x8b2353+2500739]
+	GetHandleVerifier [0x0x687cf4+229924]
+	GetHandleVerifier [0x0x678258+165768]
+	GetHandleVerifier [0x0x67ed0d+193085]
+	GetHandleVerifier [0x0x6681b8+100072]
+	GetHandleVerifier [0x0x668350+100480]
+	GetHandleVerifier [0x0x65260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-12 05:43:49,978 - INFO - 画像の取得に失敗しました
+2025-10-12 05:43:53,443 - INFO - 処理終了
+================================================================================
+2025-10-12 09:40:48,493 - INFO - 処理開始 PROCESSID:20251012_094045
+2025-10-12 09:40:48,493 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-12 09:40:48,495 - INFO - 処理を開始します
+2025-10-12 09:40:48,555 - INFO - 選択されたプロファイル: Profile 13
+2025-10-12 09:40:48,555 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-12 09:40:53,311 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-12 09:41:15,742 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 09:41:19,180 - INFO - 動画の取得に失敗しました
+2025-10-12 09:41:19,181 - INFO - datetime属性の抽出を開始します
+2025-10-12 09:41:19,269 - INFO - 抽出されたdatetime: 2025-10-12T08:30:04.000Z
+2025-10-12 09:41:19,305 - INFO - 画像URLを取得しました
+2025-10-12 09:41:19,347 - INFO - INSERT(with-key): user=kunitachi_zaemon, key=Mzc0MTYzNjEzNzc0NDcyNTU3Nw==, dt=2025-10-12T08:30:04.000Z
+2025-10-12 09:41:21,650 - INFO - ダウンロードを開始します: media\kunitachi_zaemon\kunitachi_zaemon_20251012094121.jpg
+2025-10-12 09:41:21,993 - INFO - ダウンロード完了: media\kunitachi_zaemon\kunitachi_zaemon_20251012094121.jpg
+2025-10-12 09:41:22,130 - INFO - 元の画像サイズ: 320x569
+2025-10-12 09:41:26,670 - INFO - 処理終了
+2025-10-12 09:41:26,671 - INFO - 説明文_AI: None
+2025-10-12 09:41:26,671 - INFO - 説明文_最終: 
+================================================================================
+2025-10-12 09:41:33,068 - INFO - 処理開始: Mode=story, Username=kunitachi_zaemon, GBP=10681705115677728036
+2025-10-12 09:41:33,068 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMDY4MTcwNTExNTY3NzcyODAzNiJd.
+2025-10-12 09:41:56,169 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\kunitachi_zaemon\kunitachi_zaemon_20251012094121.jpg
+2025-10-12 09:41:59,271 - INFO - 一時ファイルが見つかりません: media\kunitachi_zaemon\description\20251012_094045
+2025-10-12 09:41:59,271 - INFO - Looking for button section...
+2025-10-12 09:42:03,874 - INFO - Trying to select CALL option...
+2025-10-12 09:42:04,114 - INFO - CALL option successfully selected
+2025-10-12 09:42:06,115 - INFO - Clicking submit button...
+2025-10-12 09:42:16,036 - INFO - 処理完了
+================================================================================
+2025-10-12 13:40:32,974 - INFO - 処理開始 PROCESSID:20251012_134029
+2025-10-12 13:40:32,974 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-12 13:40:32,974 - INFO - 処理を開始します
+2025-10-12 13:40:33,038 - INFO - 選択されたプロファイル: Profile 10
+2025-10-12 13:40:33,038 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-12 13:40:37,682 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-12 13:40:59,860 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 13:41:03,247 - INFO - 動画の取得に失敗しました
+2025-10-12 13:41:03,249 - INFO - datetime属性の抽出を開始します
+2025-10-12 13:41:03,351 - INFO - 抽出されたdatetime: 2025-10-12T08:30:04.000Z
+2025-10-12 13:41:03,390 - INFO - 画像URLを取得しました
+2025-10-12 13:41:03,396 - INFO - DUP(with-key): user=kunitachi_zaemon, key=Mzc0MTYzNjEzNzc0NDcyNTU3Nw==, dt=2025-10-12T08:30:04.000Z
+================================================================================
+2025-10-12 17:35:55,742 - INFO - 処理開始 PROCESSID:20251012_173552
+2025-10-12 17:35:55,742 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-12 17:35:55,742 - INFO - 処理を開始します
+2025-10-12 17:35:55,802 - INFO - 選択されたプロファイル: Profile 10
+2025-10-12 17:35:55,804 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-12 17:36:00,556 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-12 17:36:22,875 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 17:36:26,070 - INFO - 動画の取得に失敗しました
+2025-10-12 17:36:26,071 - INFO - datetime属性の抽出を開始します
+2025-10-12 17:36:26,194 - INFO - 抽出されたdatetime: 2025-10-12T08:30:04.000Z
+2025-10-12 17:36:26,231 - INFO - 画像URLを取得しました
+2025-10-12 17:36:26,233 - INFO - DUP(with-key): user=kunitachi_zaemon, key=Mzc0MTYzNjEzNzc0NDcyNTU3Nw==, dt=2025-10-12T08:30:04.000Z
+================================================================================
+2025-10-12 21:27:38,756 - INFO - 処理開始 PROCESSID:20251012_212735
+2025-10-12 21:27:38,756 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-12 21:27:38,756 - INFO - 処理を開始します
+2025-10-12 21:27:38,809 - INFO - 選択されたプロファイル: Profile 12
+2025-10-12 21:27:38,809 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-12 21:27:43,640 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-12 21:28:06,124 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 21:28:09,326 - INFO - 動画の取得に失敗しました
+2025-10-12 21:28:09,326 - INFO - datetime属性の抽出を開始します
+2025-10-12 21:28:09,410 - INFO - 抽出されたdatetime: 2025-10-12T08:30:04.000Z
+2025-10-12 21:28:09,445 - INFO - 画像URLを取得しました
+2025-10-12 21:28:09,447 - INFO - DUP(with-key): user=kunitachi_zaemon, key=Mzc0MTYzNjEzNzc0NDcyNTU3Nw==, dt=2025-10-12T08:30:04.000Z

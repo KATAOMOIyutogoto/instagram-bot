@@ -1,0 +1,174 @@
+================================================================================
+2025-10-23 01:33:59,348 - INFO - 処理開始 PROCESSID:20251023_013355
+2025-10-23 01:33:59,348 - INFO - 対象ユーザー: aradati_kitchen
+2025-10-23 01:33:59,348 - INFO - 処理を開始します
+2025-10-23 01:33:59,406 - INFO - 選択されたプロファイル: Profile 10
+2025-10-23 01:33:59,407 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-23 01:34:04,076 - INFO - aradati_kitchen のプロフィールページにアクセスします
+2025-10-23 01:34:26,039 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 01:34:29,252 - INFO - 動画の取得に失敗しました
+2025-10-23 01:34:29,252 - INFO - datetime属性の抽出を開始します
+2025-10-23 01:34:29,333 - INFO - 抽出されたdatetime: 2025-10-22T06:59:27.000Z
+2025-10-23 01:34:29,364 - INFO - 画像URLを取得しました
+2025-10-23 01:34:29,402 - INFO - INSERT(with-key): user=aradati_kitchen, key=Mzc0ODgzODI5MjA3NTkyNjE0NQ==, dt=2025-10-22T06:59:27.000Z
+2025-10-23 01:34:31,406 - INFO - ダウンロードを開始します: media\aradati_kitchen\aradati_kitchen_20251023013431.jpg
+2025-10-23 01:34:32,726 - INFO - ダウンロード完了: media\aradati_kitchen\aradati_kitchen_20251023013431.jpg
+2025-10-23 01:34:32,861 - INFO - 元の画像サイズ: 480x853
+2025-10-23 01:34:32,861 - INFO - サイズ変更は不要です
+2025-10-23 01:34:36,556 - INFO - 処理終了
+2025-10-23 01:34:36,558 - INFO - 説明文_AI: None
+2025-10-23 01:34:36,558 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 01:34:42,843 - INFO - 処理開始: Mode=story, Username=aradati_kitchen, GBP=MSOCJXXI604622
+2025-10-23 01:34:42,845 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU09DSlhYSTYwNDYyMiJd.
+2025-10-23 01:35:05,404 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\aradati_kitchen\aradati_kitchen_20251023013431.jpg
+2025-10-23 01:35:08,575 - INFO - 一時ファイルが見つかりません: media\aradati_kitchen\description\20251023_013355
+2025-10-23 01:35:08,575 - INFO - Looking for button section...
+2025-10-23 01:35:13,127 - INFO - Trying to select CALL option...
+2025-10-23 01:35:13,369 - INFO - CALL option successfully selected
+2025-10-23 01:35:15,370 - INFO - Clicking submit button...
+2025-10-23 01:35:24,024 - INFO - 処理完了
+================================================================================
+2025-10-23 05:46:55,902 - INFO - 処理開始 PROCESSID:20251023_054652
+2025-10-23 05:46:55,902 - INFO - 対象ユーザー: aradati_kitchen
+2025-10-23 05:46:55,902 - INFO - 処理を開始します
+2025-10-23 05:46:55,963 - INFO - 選択されたプロファイル: Profile 10
+2025-10-23 05:46:55,963 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-23 05:47:00,767 - INFO - aradati_kitchen のプロフィールページにアクセスします
+2025-10-23 05:47:22,728 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 05:47:23,363 - INFO - aradati_kitchen: 動画を検出しました
+2025-10-23 05:47:23,363 - INFO - datetime属性の抽出を開始します
+2025-10-23 05:47:23,851 - INFO - 抽出されたdatetime: 2025-10-22T13:47:21.000Z
+2025-10-23 05:47:23,851 - INFO - aradati_kitchen の投稿日時: 2025-10-22T13:47:21.000Z
+2025-10-23 05:47:25,128 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMsxUC05UP49ut8FfZMScScdN5C73JkMhCG72VGDDW92qJ6Qr8IpgaPcMZ15WcvTVgW15MjCbiRhbt-5SOZ3-mppKW0gcuG7BxrXuhblAC_rw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=AR6w3Gye3AgQ7kNvwF8-0nm&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6ODQ0NjU0MzA0NTY4OTgzLCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=OT-KwgniG8g-aayJuv3fVw&_nc_zt=28&oh=00_Afd9lxfOpvFIPftVTyUTDKAtGlM2SdV-4vHor2updySpvw&oe=68FF9D0D&bytestart=0&byteend=1950206
+2025-10-23 05:47:25,128 - INFO - 動画URLを取得しました
+2025-10-23 05:47:25,321 - INFO - INSERT(with-key): user=aradati_kitchen, key=AQMsxUC05UP49ut8FfZMScScdN5C73JkMhCG72VGDDW92qJ6Qr8IpgaPcMZ15WcvTVgW15MjCbiRhbt-5SOZ3-mppKW0gcuG7BxrXuhblAC_rw, dt=2025-10-22T13:47:21.000Z
+2025-10-23 05:47:27,323 - INFO - ダウンロードを開始します: media\aradati_kitchen\aradati_kitchen_20251023054727.mp4
+2025-10-23 05:47:29,835 - INFO - ダウンロード完了: media\aradati_kitchen\aradati_kitchen_20251023054727.mp4
+2025-10-23 05:47:32,414 - INFO - 処理終了
+2025-10-23 05:47:32,414 - INFO - 説明文_AI: None
+2025-10-23 05:47:32,414 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 05:47:38,554 - INFO - 処理開始: Mode=story, Username=aradati_kitchen, GBP=MSOCJXXI604622
+2025-10-23 05:47:38,554 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU09DSlhYSTYwNDYyMiJd.
+2025-10-23 05:48:02,204 - INFO - 元の動画サイズ: 720x1280
+2025-10-23 05:48:02,204 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-23 05:48:02,204 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\aradati_kitchen\aradati_kitchen_20251023054727.mp4
+2025-10-23 05:48:12,368 - INFO - 一時ファイルが見つかりません: media\aradati_kitchen\description\20251023_054652
+2025-10-23 05:48:12,368 - INFO - Looking for button section...
+2025-10-23 05:48:16,928 - INFO - Trying to select CALL option...
+2025-10-23 05:48:17,171 - INFO - CALL option successfully selected
+2025-10-23 05:48:19,171 - INFO - Clicking submit button...
+2025-10-23 05:48:27,825 - INFO - 処理完了
+================================================================================
+2025-10-23 09:55:25,928 - INFO - 処理開始 PROCESSID:20251023_095522
+2025-10-23 09:55:25,928 - INFO - 対象ユーザー: aradati_kitchen
+2025-10-23 09:55:25,928 - INFO - 処理を開始します
+2025-10-23 09:55:25,997 - INFO - 選択されたプロファイル: Profile 9
+2025-10-23 09:55:25,997 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-23 09:55:30,662 - INFO - aradati_kitchen のプロフィールページにアクセスします
+2025-10-23 09:55:53,159 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 09:55:56,291 - INFO - 動画の取得に失敗しました
+2025-10-23 09:55:56,292 - INFO - datetime属性の抽出を開始します
+2025-10-23 09:55:56,391 - INFO - 抽出されたdatetime: 2025-10-22T11:40:55.000Z
+2025-10-23 09:55:56,434 - INFO - 画像URLを取得しました
+2025-10-23 09:55:56,474 - INFO - INSERT(with-key): user=aradati_kitchen, key=Mzc0ODk3OTk1NDYwOTYxOTc5NQ==, dt=2025-10-22T11:40:55.000Z
+2025-10-23 09:55:58,476 - INFO - ダウンロードを開始します: media\aradati_kitchen\aradati_kitchen_20251023095558.jpg
+2025-10-23 09:55:59,498 - INFO - ダウンロード完了: media\aradati_kitchen\aradati_kitchen_20251023095558.jpg
+2025-10-23 09:55:59,689 - INFO - 元の画像サイズ: 480x853
+2025-10-23 09:55:59,689 - INFO - サイズ変更は不要です
+2025-10-23 09:56:02,222 - INFO - 処理終了
+2025-10-23 09:56:02,224 - INFO - 説明文_AI: None
+2025-10-23 09:56:02,224 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 09:56:09,619 - INFO - 処理開始: Mode=story, Username=aradati_kitchen, GBP=MSOCJXXI604622
+2025-10-23 09:56:09,619 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU09DSlhYSTYwNDYyMiJd.
+2025-10-23 09:56:34,413 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\aradati_kitchen\aradati_kitchen_20251023095558.jpg
+2025-10-23 09:56:37,508 - INFO - 一時ファイルが見つかりません: media\aradati_kitchen\description\20251023_095522
+2025-10-23 09:56:37,508 - INFO - Looking for button section...
+2025-10-23 09:56:42,084 - INFO - Trying to select CALL option...
+2025-10-23 09:56:42,320 - INFO - CALL option successfully selected
+2025-10-23 09:56:44,321 - INFO - Clicking submit button...
+2025-10-23 09:56:53,262 - INFO - 処理完了
+================================================================================
+2025-10-23 14:05:22,423 - INFO - 処理開始 PROCESSID:20251023_140518
+2025-10-23 14:05:22,423 - INFO - 対象ユーザー: aradati_kitchen
+2025-10-23 14:05:22,423 - INFO - 処理を開始します
+2025-10-23 14:05:22,492 - INFO - 選択されたプロファイル: Profile 9
+2025-10-23 14:05:22,492 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-23 14:05:27,437 - INFO - aradati_kitchen のプロフィールページにアクセスします
+2025-10-23 14:05:49,463 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 14:05:50,202 - INFO - aradati_kitchen: 動画を検出しました
+2025-10-23 14:05:50,202 - INFO - datetime属性の抽出を開始します
+2025-10-23 14:05:50,579 - INFO - 抽出されたdatetime: 2025-10-23T01:10:10.000Z
+2025-10-23 14:05:50,580 - INFO - aradati_kitchen の投稿日時: 2025-10-23T01:10:10.000Z
+2025-10-23 14:05:51,833 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m367/AQMZE1-WSXkw7pjpE8ER6jaqeC5h9aBUIEj5mxgYiIn3yoYV9MBPPY0Pqbg9ilH0P8qbzNSIGh1kUdrN8m9I_zynwNZE01ybKq5AvlICTc-SSg.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=1I9s5OO5-ScQ7kNvwG0Hbih&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTM4ODU4NTU4MzkxNjI3LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=M0yh1QfvN72JfroYNhGSZA&_nc_zt=28&oh=00_Afezt_3Auwan1U8lr4eJ7Jaz0aO4drKnA3TwuKwc9Vi7hQ&oe=69001FEE&bytestart=0&byteend=83123
+2025-10-23 14:05:51,833 - INFO - 動画URLを取得しました
+2025-10-23 14:05:52,037 - INFO - INSERT(with-key): user=aradati_kitchen, key=AQMZE1-WSXkw7pjpE8ER6jaqeC5h9aBUIEj5mxgYiIn3yoYV9MBPPY0Pqbg9ilH0P8qbzNSIGh1kUdrN8m9I_zynwNZE01ybKq5AvlICTc-SSg, dt=2025-10-23T01:10:10.000Z
+2025-10-23 14:05:54,044 - INFO - ダウンロードを開始します: media\aradati_kitchen\aradati_kitchen_20251023140554.mp4
+2025-10-23 14:05:55,417 - INFO - ダウンロード完了: media\aradati_kitchen\aradati_kitchen_20251023140554.mp4
+2025-10-23 14:06:00,621 - INFO - 処理終了
+2025-10-23 14:06:00,623 - INFO - 説明文_AI: None
+2025-10-23 14:06:00,623 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 14:06:06,671 - INFO - 処理開始: Mode=story, Username=aradati_kitchen, GBP=MSOCJXXI604622
+2025-10-23 14:06:06,671 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU09DSlhYSTYwNDYyMiJd.
+2025-10-23 14:06:29,767 - INFO - 元の動画サイズ: 360x640
+2025-10-23 14:06:29,767 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-23 14:06:29,767 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\aradati_kitchen\aradati_kitchen_20251023140554.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\aradati_kitchen\aradati_kitchen_20251023140554_resized.mp4
+2025-10-23 14:06:33,752 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\aradati_kitchen\aradati_kitchen_20251023140554_resized.mp4
+2025-10-23 14:06:33,752 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\aradati_kitchen\aradati_kitchen_20251023140554.mp4
+2025-10-23 14:06:33,752 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\aradati_kitchen\aradati_kitchen_20251023140554_resized.mp4
+2025-10-23 14:06:43,805 - INFO - 一時ファイルが見つかりません: media\aradati_kitchen\description\20251023_140518
+2025-10-23 14:06:43,805 - INFO - Looking for button section...
+2025-10-23 14:06:48,319 - INFO - Trying to select CALL option...
+2025-10-23 14:06:48,560 - INFO - CALL option successfully selected
+2025-10-23 14:06:50,561 - INFO - Clicking submit button...
+2025-10-23 14:07:00,385 - INFO - 処理完了
+================================================================================
+2025-10-23 19:24:20,882 - INFO - 処理開始 PROCESSID:20251023_192417
+2025-10-23 19:24:20,882 - INFO - 対象ユーザー: aradati_kitchen
+2025-10-23 19:24:20,882 - INFO - 処理を開始します
+2025-10-23 19:24:20,946 - INFO - 選択されたプロファイル: Profile 13
+2025-10-23 19:24:20,946 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-23 19:24:25,414 - INFO - aradati_kitchen のプロフィールページにアクセスします
+2025-10-23 19:24:50,172 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 19:24:50,995 - INFO - aradati_kitchen: 動画を検出しました
+2025-10-23 19:24:50,995 - INFO - datetime属性の抽出を開始します
+2025-10-23 19:24:51,023 - INFO - 抽出されたdatetime: 2025-10-23T01:10:10.000Z
+2025-10-23 19:24:51,023 - INFO - aradati_kitchen の投稿日時: 2025-10-23T01:10:10.000Z
+2025-10-23 19:24:52,378 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m367/AQPwTl8u5c5_wwkR5XzNrrfmiRQYS692YPR1v_0gkWAjVTFiZdD4Ml0N_VEpUxLI2t6Efk8q4WxRZ7rZ5bdysbz7c0qeX2PJH81Sl4c8VJ5IQQ.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=XSSYAk33YbAQ7kNvwHq-X78&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTM4ODU4NTU4MzkxNjI3LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=oJjXfVNHEpQG8XNpEl6_bQ&_nc_zt=28&oh=00_Afd0nY367DkzAIxoyqEgvipTLAvPRIAvYeh5-5Ffb6oMyw&oe=69006659&bytestart=0&byteend=615298
+2025-10-23 19:24:52,379 - INFO - 動画URLを取得しました
+2025-10-23 19:24:52,509 - INFO - INSERT(with-key): user=aradati_kitchen, key=AQPwTl8u5c5_wwkR5XzNrrfmiRQYS692YPR1v_0gkWAjVTFiZdD4Ml0N_VEpUxLI2t6Efk8q4WxRZ7rZ5bdysbz7c0qeX2PJH81Sl4c8VJ5IQQ, dt=2025-10-23T01:10:10.000Z
+2025-10-23 19:24:54,511 - INFO - ダウンロードを開始します: media\aradati_kitchen\aradati_kitchen_20251023192454.mp4
+2025-10-23 19:24:56,655 - INFO - ダウンロード完了: media\aradati_kitchen\aradati_kitchen_20251023192454.mp4
+2025-10-23 19:25:00,139 - INFO - 処理終了
+2025-10-23 19:25:00,141 - INFO - 説明文_AI: None
+2025-10-23 19:25:00,141 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 19:25:06,214 - INFO - 処理開始: Mode=story, Username=aradati_kitchen, GBP=MSOCJXXI604622
+2025-10-23 19:25:06,216 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU09DSlhYSTYwNDYyMiJd.
+2025-10-23 19:25:29,191 - INFO - 元の動画サイズ: 720x1280
+2025-10-23 19:25:29,191 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-23 19:25:29,191 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\aradati_kitchen\aradati_kitchen_20251023192454.mp4
+2025-10-23 19:25:39,240 - INFO - 一時ファイルが見つかりません: media\aradati_kitchen\description\20251023_192417
+2025-10-23 19:25:39,240 - INFO - Looking for button section...
+2025-10-23 19:25:44,172 - INFO - Trying to select CALL option...
+2025-10-23 19:25:44,399 - INFO - CALL option successfully selected
+2025-10-23 19:25:46,400 - INFO - Clicking submit button...
+2025-10-23 19:25:55,060 - INFO - 処理完了
+================================================================================
+2025-10-23 23:23:51,730 - INFO - 処理開始 PROCESSID:20251023_232348
+2025-10-23 23:23:51,732 - INFO - 対象ユーザー: aradati_kitchen
+2025-10-23 23:23:51,732 - INFO - 処理を開始します
+2025-10-23 23:23:51,791 - INFO - 選択されたプロファイル: Profile 9
+2025-10-23 23:23:51,791 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-23 23:23:56,201 - INFO - aradati_kitchen のプロフィールページにアクセスします
+2025-10-23 23:24:22,741 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 23:24:23,381 - INFO - aradati_kitchen: 動画を検出しました
+2025-10-23 23:24:23,381 - INFO - datetime属性の抽出を開始します
+2025-10-23 23:24:23,640 - INFO - 抽出されたdatetime: 2025-10-23T01:10:10.000Z
+2025-10-23 23:24:23,640 - INFO - aradati_kitchen の投稿日時: 2025-10-23T01:10:10.000Z
+2025-10-23 23:24:25,033 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m367/AQMZE1-WSXkw7pjpE8ER6jaqeC5h9aBUIEj5mxgYiIn3yoYV9MBPPY0Pqbg9ilH0P8qbzNSIGh1kUdrN8m9I_zynwNZE01ybKq5AvlICTc-SSg.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=1I9s5OO5-ScQ7kNvwG0Hbih&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTM4ODU4NTU4MzkxNjI3LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=q4pVNZOkAWXZYF7HDEKXVA&_nc_zt=28&oh=00_Afdha2js2tsERlRCeQUuCZ4x4oc5tCEE1u6f050_Xl0FZg&oe=6900906E&bytestart=0&byteend=83123
+2025-10-23 23:24:25,033 - INFO - 動画URLを取得しました
+2025-10-23 23:24:25,202 - INFO - DUP(with-key): user=aradati_kitchen, key=AQMZE1-WSXkw7pjpE8ER6jaqeC5h9aBUIEj5mxgYiIn3yoYV9MBPPY0Pqbg9ilH0P8qbzNSIGh1kUdrN8m9I_zynwNZE01ybKq5AvlICTc-SSg, dt=2025-10-23T01:10:10.000Z

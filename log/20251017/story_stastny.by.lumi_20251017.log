@@ -1,0 +1,122 @@
+================================================================================
+2025-10-17 02:51:10,587 - INFO - 処理開始 PROCESSID:20251017_025107
+2025-10-17 02:51:10,587 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-17 02:51:10,587 - INFO - 処理を開始します
+2025-10-17 02:51:10,640 - INFO - 選択されたプロファイル: Profile 10
+2025-10-17 02:51:10,641 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-17 02:51:15,265 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-17 02:51:38,093 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 02:51:38,644 - INFO - stastny.by.lumi: 動画を検出しました
+2025-10-17 02:51:38,644 - INFO - datetime属性の抽出を開始します
+2025-10-17 02:51:38,707 - INFO - 抽出されたdatetime: 2025-10-17T00:53:32.000Z
+2025-10-17 02:51:38,707 - INFO - stastny.by.lumi の投稿日時: 2025-10-17T00:53:32.000Z
+2025-10-17 02:51:39,844 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Mzg4ODcwNTczOTE4MTkxLCJhc3NldF9hZ2VfZGF5cyI6NTY1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=8uZFGGtSig5aPAIv5HFUQQ&_nc_zt=28&oh=00_Afe5lX5eYUV6_iqFnJu3HvA71rQakbijtSlhuoBTedLTQg&oe=68F37B32&bytestart=0&byteend=610940
+2025-10-17 02:51:39,845 - INFO - 動画URLを取得しました
+2025-10-17 02:51:39,849 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=stastny.by.lumi, key=AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko, dt=2025-10-17T00:53:32.000Z, url=https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Mzg4ODcwNTczOTE4MTkxLCJhc3NldF9hZ2VfZGF5cyI6NTY1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=8uZFGGtSig5aPAIv5HFUQQ&_nc_zt=28&oh=00_Afe5lX5eYUV6_iqFnJu3HvA71rQakbijtSlhuoBTedLTQg&oe=68F37B32&bytestart=0&byteend=610940, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('stastny.by.lumi', 'AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko', 'https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Mzg4ODcwNTczOTE4MTkxLCJhc3NldF9hZ2VfZGF5cyI6NTY1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=8uZFGGtSig5aPAIv5HFUQQ&_nc_zt=28&oh=00_Afe5lX5eYUV6_iqFnJu3HvA71rQakbijtSlhuoBTedLTQg&oe=68F37B32&bytestart=0&byteend=610940', '2025-10-17T00:53:32.000Z')
+================================================================================
+2025-10-17 06:47:12,665 - INFO - 処理開始 PROCESSID:20251017_064709
+2025-10-17 06:47:12,665 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-17 06:47:12,665 - INFO - 処理を開始します
+2025-10-17 06:47:12,725 - INFO - 選択されたプロファイル: Profile 13
+2025-10-17 06:47:12,726 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-17 06:47:17,506 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-17 06:47:39,543 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 06:47:40,322 - INFO - stastny.by.lumi: 動画を検出しました
+2025-10-17 06:47:40,322 - INFO - datetime属性の抽出を開始します
+2025-10-17 06:47:40,352 - INFO - 抽出されたdatetime: 2025-10-17T00:53:32.000Z
+2025-10-17 06:47:40,353 - INFO - stastny.by.lumi の投稿日時: 2025-10-17T00:53:32.000Z
+2025-10-17 06:47:41,560 - INFO - 生成URL:https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m78/AQOzEdG7Q51ldo8MxS4qkPP1IsK-iudDV2ED27hw_ePcySkvC0rUvYmmSjQH5_VDFVlJZaOpAi6zwyHB_k4yP4KI938p3mU1TpyhFoM.mp4?_nc_cat=1&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=J40JgWXkyecQ7kNvwF_zP0W&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzI2NDI0MDE1NTU3MTYwLCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=cBzDElJ6oX3QI1_SOZjOwQ&_nc_zt=28&oh=00_Afe1CVo7sN-E1F4Eo60hAPw3EpGj4biItu3Dsw2uIeFT0A&oe=68F3C58D&bytestart=0&byteend=313405
+2025-10-17 06:47:41,560 - INFO - 動画URLを取得しました
+2025-10-17 06:47:41,814 - INFO - INSERT(with-key): user=stastny.by.lumi, key=AQOzEdG7Q51ldo8MxS4qkPP1IsK-iudDV2ED27hw_ePcySkvC0rUvYmmSjQH5_VDFVlJZaOpAi6zwyHB_k4yP4KI938p3mU1TpyhFoM, dt=2025-10-17T00:53:32.000Z
+2025-10-17 06:47:43,816 - INFO - ダウンロードを開始します: media\stastny.by.lumi\stastny.by.lumi_20251017064743.mp4
+2025-10-17 06:47:45,770 - INFO - ダウンロード完了: media\stastny.by.lumi\stastny.by.lumi_20251017064743.mp4
+2025-10-17 06:47:48,803 - INFO - 処理終了
+2025-10-17 06:47:48,805 - INFO - 説明文_AI: None
+2025-10-17 06:47:48,805 - INFO - 説明文_最終: 
+================================================================================
+2025-10-17 06:47:54,958 - INFO - 処理開始: Mode=story, Username=stastny.by.lumi, GBP=MSHVAONG106412
+2025-10-17 06:47:54,958 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0hWQU9ORzEwNjQxMiJd.
+2025-10-17 06:48:18,062 - INFO - 元の動画サイズ: 720x1280
+2025-10-17 06:48:18,062 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-17 06:48:18,062 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\stastny.by.lumi\stastny.by.lumi_20251017064743.mp4
+2025-10-17 06:48:28,179 - INFO - 一時ファイルが見つかりません: media\stastny.by.lumi\description\20251017_064709
+2025-10-17 06:48:28,179 - INFO - Looking for button section...
+2025-10-17 06:48:32,945 - INFO - Trying to select CALL option...
+2025-10-17 06:48:33,166 - INFO - CALL option successfully selected
+2025-10-17 06:48:35,167 - INFO - Clicking submit button...
+2025-10-17 06:48:43,846 - INFO - 処理完了
+================================================================================
+2025-10-17 10:41:48,958 - INFO - 処理開始 PROCESSID:20251017_104145
+2025-10-17 10:41:48,958 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-17 10:41:48,958 - INFO - 処理を開始します
+2025-10-17 10:41:49,016 - INFO - 選択されたプロファイル: Profile 12
+2025-10-17 10:41:49,016 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-17 10:41:53,722 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-17 10:42:15,578 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 10:42:16,523 - INFO - stastny.by.lumi: 動画を検出しました
+2025-10-17 10:42:16,523 - INFO - datetime属性の抽出を開始します
+2025-10-17 10:42:16,653 - INFO - 抽出されたdatetime: 2025-10-17T00:53:32.000Z
+2025-10-17 10:42:16,654 - INFO - stastny.by.lumi の投稿日時: 2025-10-17T00:53:32.000Z
+2025-10-17 10:42:17,888 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjozODg4NzA1NzM5MTgxOTEsImFzc2V0X2FnZV9kYXlzIjo1NjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Oo_dnyLU9GhBC2epUhGnkQ&_nc_zt=28&oh=00_AffbTz1fQbpE2kNBeAIXHgaahr7d13m7y7U4I0N0EoKVww&oe=68F3EBB2&bytestart=0&byteend=610940
+2025-10-17 10:42:17,888 - INFO - 動画URLを取得しました
+2025-10-17 10:42:17,896 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=stastny.by.lumi, key=AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko, dt=2025-10-17T00:53:32.000Z, url=https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjozODg4NzA1NzM5MTgxOTEsImFzc2V0X2FnZV9kYXlzIjo1NjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Oo_dnyLU9GhBC2epUhGnkQ&_nc_zt=28&oh=00_AffbTz1fQbpE2kNBeAIXHgaahr7d13m7y7U4I0N0EoKVww&oe=68F3EBB2&bytestart=0&byteend=610940, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('stastny.by.lumi', 'AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko', 'https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjozODg4NzA1NzM5MTgxOTEsImFzc2V0X2FnZV9kYXlzIjo1NjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Oo_dnyLU9GhBC2epUhGnkQ&_nc_zt=28&oh=00_AffbTz1fQbpE2kNBeAIXHgaahr7d13m7y7U4I0N0EoKVww&oe=68F3EBB2&bytestart=0&byteend=610940', '2025-10-17T00:53:32.000Z')
+================================================================================
+2025-10-17 13:01:32,344 - INFO - 処理開始 PROCESSID:20251017_130129
+2025-10-17 13:01:32,344 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-17 13:01:32,344 - INFO - 処理を開始します
+2025-10-17 13:01:32,405 - INFO - 選択されたプロファイル: Profile 10
+2025-10-17 13:01:32,405 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-17 13:01:36,991 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-17 13:01:59,486 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 13:02:00,559 - INFO - stastny.by.lumi: 動画を検出しました
+2025-10-17 13:02:00,560 - INFO - datetime属性の抽出を開始します
+2025-10-17 13:02:00,613 - INFO - 抽出されたdatetime: 2025-10-17T00:53:32.000Z
+2025-10-17 13:02:00,613 - INFO - stastny.by.lumi の投稿日時: 2025-10-17T00:53:32.000Z
+2025-10-17 13:02:01,823 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Mzg4ODcwNTczOTE4MTkxLCJhc3NldF9hZ2VfZGF5cyI6NTY2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=LoH11RWDIGX354UJuiS0UA&_nc_zt=28&oh=00_Afc70ZWUeCs94_VPWnsDPgHCCQ27spc-XzK6uZj_CZoe7w&oe=68F423F2&bytestart=0&byteend=610940
+2025-10-17 13:02:01,824 - INFO - 動画URLを取得しました
+2025-10-17 13:02:01,858 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=stastny.by.lumi, key=AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko, dt=2025-10-17T00:53:32.000Z, url=https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Mzg4ODcwNTczOTE4MTkxLCJhc3NldF9hZ2VfZGF5cyI6NTY2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=LoH11RWDIGX354UJuiS0UA&_nc_zt=28&oh=00_Afc70ZWUeCs94_VPWnsDPgHCCQ27spc-XzK6uZj_CZoe7w&oe=68F423F2&bytestart=0&byteend=610940, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('stastny.by.lumi', 'AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko', 'https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Mzg4ODcwNTczOTE4MTkxLCJhc3NldF9hZ2VfZGF5cyI6NTY2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=LoH11RWDIGX354UJuiS0UA&_nc_zt=28&oh=00_Afc70ZWUeCs94_VPWnsDPgHCCQ27spc-XzK6uZj_CZoe7w&oe=68F423F2&bytestart=0&byteend=610940', '2025-10-17T00:53:32.000Z')
+================================================================================
+2025-10-17 15:31:48,223 - INFO - 処理開始 PROCESSID:20251017_153144
+2025-10-17 15:31:48,223 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-17 15:31:48,225 - INFO - 処理を開始します
+2025-10-17 15:31:48,283 - INFO - 選択されたプロファイル: Profile 13
+2025-10-17 15:31:48,283 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-17 15:31:52,679 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-17 15:32:14,811 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 15:32:15,641 - INFO - stastny.by.lumi: 動画を検出しました
+2025-10-17 15:32:15,641 - INFO - datetime属性の抽出を開始します
+2025-10-17 15:32:15,674 - INFO - 抽出されたdatetime: 2025-10-17T00:53:32.000Z
+2025-10-17 15:32:15,674 - INFO - stastny.by.lumi の投稿日時: 2025-10-17T00:53:32.000Z
+2025-10-17 15:32:16,932 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjozODg4NzA1NzM5MTgxOTEsImFzc2V0X2FnZV9kYXlzIjo1NjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=0DwAwLkMjTQLbOQHfyd_3A&_nc_zt=28&oh=00_AfcLisryZlZid5DDYLIOdidVYY4HWjBLHVagVYGmUyGZtg&oe=68F423F2&bytestart=0&byteend=610940
+2025-10-17 15:32:16,932 - INFO - 動画URLを取得しました
+2025-10-17 15:32:16,952 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=stastny.by.lumi, key=AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko, dt=2025-10-17T00:53:32.000Z, url=https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjozODg4NzA1NzM5MTgxOTEsImFzc2V0X2FnZV9kYXlzIjo1NjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=0DwAwLkMjTQLbOQHfyd_3A&_nc_zt=28&oh=00_AfcLisryZlZid5DDYLIOdidVYY4HWjBLHVagVYGmUyGZtg&oe=68F423F2&bytestart=0&byteend=610940, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('stastny.by.lumi', 'AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko', 'https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjozODg4NzA1NzM5MTgxOTEsImFzc2V0X2FnZV9kYXlzIjo1NjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=0DwAwLkMjTQLbOQHfyd_3A&_nc_zt=28&oh=00_AfcLisryZlZid5DDYLIOdidVYY4HWjBLHVagVYGmUyGZtg&oe=68F423F2&bytestart=0&byteend=610940', '2025-10-17T00:53:32.000Z')
+================================================================================
+2025-10-17 18:55:12,258 - INFO - 処理開始 PROCESSID:20251017_185509
+2025-10-17 18:55:12,258 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-17 18:55:12,258 - INFO - 処理を開始します
+2025-10-17 18:55:12,322 - INFO - 選択されたプロファイル: Profile 10
+2025-10-17 18:55:12,323 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-17 18:55:16,928 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-17 18:55:38,692 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 18:55:39,462 - INFO - stastny.by.lumi: 動画を検出しました
+2025-10-17 18:55:39,463 - INFO - datetime属性の抽出を開始します
+2025-10-17 18:55:39,489 - INFO - 抽出されたdatetime: 2025-10-17T00:53:32.000Z
+2025-10-17 18:55:39,489 - INFO - stastny.by.lumi の投稿日時: 2025-10-17T00:53:32.000Z
+2025-10-17 18:55:40,687 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Mzg4ODcwNTczOTE4MTkxLCJhc3NldF9hZ2VfZGF5cyI6NTY2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QrFcIZxfDpvF9UQk-Byijg&_nc_zt=28&oh=00_AfewQ1Sa9pmaFTK-XtItqmHcjXIn3o-Ul4jpgUrdYOQz6g&oe=68F45C32&bytestart=0&byteend=610940
+2025-10-17 18:55:40,687 - INFO - 動画URLを取得しました
+2025-10-17 18:55:40,689 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=stastny.by.lumi, key=AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko, dt=2025-10-17T00:53:32.000Z, url=https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Mzg4ODcwNTczOTE4MTkxLCJhc3NldF9hZ2VfZGF5cyI6NTY2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QrFcIZxfDpvF9UQk-Byijg&_nc_zt=28&oh=00_AfewQ1Sa9pmaFTK-XtItqmHcjXIn3o-Ul4jpgUrdYOQz6g&oe=68F45C32&bytestart=0&byteend=610940, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('stastny.by.lumi', 'AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko', 'https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m82/AQN7En9QxSkdYKotpn_MRUFd9fGD6LRWjU2uKS_poXseCGXBvWfhZhaY7iXAKv8PYIQ6iHUnb8C6oeLqcdNz80Xud0rRdUj1TbXWUko.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=CzXW0PL5jZgQ7kNvwE_R40l&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Mzg4ODcwNTczOTE4MTkxLCJhc3NldF9hZ2VfZGF5cyI6NTY2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QrFcIZxfDpvF9UQk-Byijg&_nc_zt=28&oh=00_AfewQ1Sa9pmaFTK-XtItqmHcjXIn3o-Ul4jpgUrdYOQz6g&oe=68F45C32&bytestart=0&byteend=610940', '2025-10-17T00:53:32.000Z')
+================================================================================
+2025-10-17 22:52:49,661 - INFO - 処理開始 PROCESSID:20251017_225246
+2025-10-17 22:52:49,661 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-17 22:52:49,661 - INFO - 処理を開始します
+2025-10-17 22:52:49,718 - INFO - 選択されたプロファイル: Profile 9
+2025-10-17 22:52:49,718 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-17 22:52:54,256 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-17 22:53:16,657 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 22:53:17,540 - INFO - stastny.by.lumi: 動画を検出しました
+2025-10-17 22:53:17,540 - INFO - datetime属性の抽出を開始します
+2025-10-17 22:53:17,593 - INFO - 抽出されたdatetime: 2025-10-17T00:53:32.000Z
+2025-10-17 22:53:17,593 - INFO - stastny.by.lumi の投稿日時: 2025-10-17T00:53:32.000Z
+2025-10-17 22:53:18,822 - INFO - 生成URL:https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m78/AQOzEdG7Q51ldo8MxS4qkPP1IsK-iudDV2ED27hw_ePcySkvC0rUvYmmSjQH5_VDFVlJZaOpAi6zwyHB_k4yP4KI938p3mU1TpyhFoM.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=J40JgWXkyecQ7kNvwF_zP0W&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzI2NDI0MDE1NTU3MTYwLCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=gf4hyTOZWZJUuz44H7-Ibg&_nc_zt=28&oh=00_AfcEtSZnK3ORaO_xsMy9Lo2rgVQNJOQD_unr6DKeUv17yw&oe=68F4A68D&bytestart=0&byteend=313405
+2025-10-17 22:53:18,823 - INFO - 動画URLを取得しました
+2025-10-17 22:53:18,826 - INFO - DUP(with-key): user=stastny.by.lumi, key=AQOzEdG7Q51ldo8MxS4qkPP1IsK-iudDV2ED27hw_ePcySkvC0rUvYmmSjQH5_VDFVlJZaOpAi6zwyHB_k4yP4KI938p3mU1TpyhFoM, dt=2025-10-17T00:53:32.000Z

@@ -1,0 +1,43 @@
+================================================================================
+2025-10-23 16:12:23,430 - INFO - 処理開始 PROCESSID:20251023_161219
+2025-10-23 16:12:23,431 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-10-23 16:12:23,431 - INFO - 処理を開始します
+2025-10-23 16:12:23,493 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 16:12:23,493 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 16:12:28,510 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-10-23 16:12:50,742 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 16:12:53,854 - INFO - 動画の取得に失敗しました
+2025-10-23 16:12:53,855 - INFO - datetime属性の抽出を開始します
+2025-10-23 16:12:53,940 - INFO - 抽出されたdatetime: 2025-10-23T10:23:47.000Z
+2025-10-23 16:12:53,968 - INFO - 画像URLを取得しました
+2025-10-23 16:12:54,009 - INFO - INSERT(with-key): user=fupao_takadanobaba, key=Mzc0OTY2NTkzMTUzNTc0OTAwMQ==, dt=2025-10-23T10:23:47.000Z
+2025-10-23 16:12:56,013 - INFO - ダウンロードを開始します: media\fupao_takadanobaba\fupao_takadanobaba_20251023161256.jpg
+2025-10-23 16:12:57,125 - INFO - ダウンロード完了: media\fupao_takadanobaba\fupao_takadanobaba_20251023161256.jpg
+2025-10-23 16:12:57,244 - INFO - 元の画像サイズ: 480x853
+2025-10-23 16:12:57,244 - INFO - サイズ変更は不要です
+2025-10-23 16:13:03,010 - INFO - 処理終了
+2025-10-23 16:13:03,010 - INFO - 説明文_AI: None
+2025-10-23 16:13:03,010 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 16:13:09,103 - INFO - 処理開始: Mode=story, Username=fupao_takadanobaba, GBP=15793563084212795871
+2025-10-23 16:13:09,103 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxNTc5MzU2MzA4NDIxMjc5NTg3MSJd.
+2025-10-23 16:13:34,816 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_takadanobaba\fupao_takadanobaba_20251023161256.jpg
+2025-10-23 16:13:37,959 - INFO - 一時ファイルが見つかりません: media\fupao_takadanobaba\description\20251023_161219
+2025-10-23 16:13:37,959 - INFO - Looking for button section...
+2025-10-23 16:13:42,712 - INFO - Trying to select CALL option...
+2025-10-23 16:13:42,942 - INFO - CALL option successfully selected
+2025-10-23 16:13:44,943 - INFO - Clicking submit button...
+2025-10-23 16:13:54,937 - INFO - 処理完了
+================================================================================
+2025-10-23 20:12:40,238 - INFO - 処理開始 PROCESSID:20251023_201237
+2025-10-23 20:12:40,238 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-10-23 20:12:40,238 - INFO - 処理を開始します
+2025-10-23 20:12:40,315 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 20:12:40,315 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 20:12:44,940 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-10-23 20:13:06,971 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 20:13:10,142 - INFO - 動画の取得に失敗しました
+2025-10-23 20:13:10,142 - INFO - datetime属性の抽出を開始します
+2025-10-23 20:13:10,225 - INFO - 抽出されたdatetime: 2025-10-23T10:23:47.000Z
+2025-10-23 20:13:10,252 - INFO - 画像URLを取得しました
+2025-10-23 20:13:10,255 - INFO - DUP(with-key): user=fupao_takadanobaba, key=Mzc0OTY2NTkzMTUzNTc0OTAwMQ==, dt=2025-10-23T10:23:47.000Z

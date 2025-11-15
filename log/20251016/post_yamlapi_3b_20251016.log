@@ -1,0 +1,272 @@
+================================================================================
+2025-10-16 02:05:13,770 - INFO - 処理開始 PROCESSID:20251016_020510
+2025-10-16 02:05:13,770 - INFO - 対象ユーザー: yamlapi_3b
+2025-10-16 02:05:13,770 - INFO - 処理を開始します
+2025-10-16 02:05:13,835 - INFO - 選択されたプロファイル: Profile 12
+2025-10-16 02:05:13,835 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-16 02:05:18,518 - INFO - yamlapi_3b のプロフィールページにアクセスします
+2025-10-16 02:05:29,986 - INFO - 最新投稿を読み込みます
+2025-10-16 02:05:35,277 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/p/DNt6almZh4k/?hl=ja → 日付確認
+2025-10-16 02:05:37,207 - INFO - ピン留めだが3日以上前(53日) → スキップ
+2025-10-16 02:05:37,207 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C-FBDhRPBXQ/?hl=ja → 日付確認
+2025-10-16 02:05:40,085 - INFO - ピン留めだが3日以上前(441日) → スキップ
+2025-10-16 02:05:40,085 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C8yz6HvvNoa/?hl=ja → 日付確認
+2025-10-16 02:05:43,296 - INFO - ピン留めだが3日以上前(473日) → スキップ
+2025-10-16 02:05:43,297 - INFO - 選定: 非ピン留め https://www.instagram.com/yamlapi_3b/p/DP2Xs2gkzIB/?hl=ja
+2025-10-16 02:05:48,006 - INFO - 最新投稿ページにアクセスしました
+2025-10-16 02:05:52,285 - INFO - 最新投稿ページにアクセスしました
+2025-10-16 02:05:52,333 - INFO - datetime属性の抽出を開始します
+2025-10-16 02:05:52,366 - INFO - 抽出されたdatetime: 2025-10-16T00:11:44.000Z
+2025-10-16 02:05:52,366 - INFO - yamlapi_3b の投稿日時: 2025-10-16T00:11:44.000Z
+2025-10-16 02:05:52,378 - INFO - date:2025-10-16 09:11:44+09:00
+2025-10-16 02:05:52,379 - INFO - post_date:20251016
+2025-10-16 02:05:52,427 - INFO - カルーセル推定: 1枚
+2025-10-16 02:05:52,468 - INFO - 検出(SINGLE): https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/566053868_17910437658232685_4410574792338799544_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjl4MTc4Ny5zZHIuQzIifQ%3D%3D&_nc_ohc=xm3a6ieU3agQ7kNvwFIXZg6&_nc_oc=AdnPJUNIJFI7pXW5khBcMqyBJuu0WKLA2SFpG4ZoU_vv8pqijnVDd4Ef8hEMAApXF0U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=DtV4BmaemdamruTx5oERWg&oh=00_Afc5be2hBh9WkvpTi8AgyCk_2YZJJ9tmS1CCBBucscBQQA&oe=68F60F95
+2025-10-16 02:05:52,468 - INFO - 1枚目: https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/566053868_17910437658232685_4410574792338799544_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjl4MTc4Ny5zZHIuQzIifQ%3D%3D&_nc_ohc=xm3a6ieU3agQ7kNvwFIXZg6&_nc_oc=AdnPJUNIJFI7pXW5khBcMqyBJuu0WKLA2SFpG4ZoU_vv8pqijnVDd4Ef8hEMAApXF0U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=DtV4BmaemdamruTx5oERWg&oh=00_Afc5be2hBh9WkvpTi8AgyCk_2YZJJ9tmS1CCBBucscBQQA&oe=68F60F95
+2025-10-16 02:05:52,468 - INFO - [caption/by_username] 開始
+2025-10-16 02:05:52,564 - INFO - [caption/by_username] 説明文確定（先頭100）: 'こりほぐしヘッドスパ！✨
+松・竹・か、うるおいのセットメニーを選ぶと
+ミニスパついて来ます！✨
+こちらはお電話にてご予約承ります！✨
+ぜひ一度お試しください！
+
+山形ミルボン・オージュア取り扱い店です'
+2025-10-16 02:05:52,566 - INFO - [caption/by_username] 説明文を保存: media\yamlapi_3b\description\20251016_020510
+2025-10-16 02:05:52,566 - INFO - 画像URLを取得しました
+2025-10-16 02:05:52,605 - INFO - INSERT(with-key): user=yamlapi_3b, key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ==, dt=2025-10-16T00:11:44.000Z
+2025-10-16 02:05:52,605 - INFO - メディアを取得します
+2025-10-16 02:05:54,609 - INFO - ダウンロードを開始します: media\yamlapi_3b\yamlapi_3b_20251016020554.jpg
+2025-10-16 02:05:56,387 - INFO - ダウンロード完了: media\yamlapi_3b\yamlapi_3b_20251016020554.jpg
+2025-10-16 02:05:56,489 - INFO - 元の画像サイズ: 1429x1787
+2025-10-16 02:05:56,489 - INFO - サイズ変更は不要です
+2025-10-16 02:05:56,494 - INFO - 説明文:こりほぐしヘッドスパ！✨
+松・竹・か、うるおいのセットメニーを選ぶと
+ミニスパついて来ます！✨
+こちらはお電話にてご予約承ります！✨
+ぜひ一度お試しください！
+
+山形ミルボン・オージュア取り扱い店です❣️
+山形ケラスターゼ取扱店です❣️
+シャンプー.頭皮環境改善のことならお任せください♪😆
+お気軽にご連絡下さい‼️
+お待ちしております‼️
+
+======== Lapish 南三番町店 ========
+
+【営業時間】
+平日/土曜日 9:30～18:30、日曜日9:30～17:30
+定休日 毎週水曜日
+
+◆ご予約はこちら↓
+ホットペッパービューティー
+https://beauty.hotpepper.jp/slnH000432609/
+　
+住所📍
+山形県山形市南三番町6－15
+
+ お
+ ===================================
+
+#Lapish #ラピッシュ #山形駅 #美容室 美容院 #美容師 #髪型 #ヘアカット #カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #ヘアサロン #ヘッドスパ #山形市美容院 #山形市美容室 #山形市ヘアサロン #山形美容院 #山形美容室 #山形ヘアサロン #山形市カット #山形市髪質改善 #山形市メンズカット #山形市女性人気美容室 #山形駅美容室 #山形駅美容院 #南三番町美容室 #南三番町美容院
+2025-10-16 02:05:59,906 - INFO - 処理終了
+================================================================================
+2025-10-16 02:06:05,984 - INFO - 処理開始: Mode=post, Username=yamlapi_3b, GBP=lapishminami
+2025-10-16 02:06:05,984 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJsYXBpc2htaW5hbWkiXQ.
+2025-10-16 02:06:27,152 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\yamlapi_3b\yamlapi_3b_20251016020554.jpg
+2025-10-16 02:06:30,277 - INFO - Waiting for description field...
+2025-10-16 02:06:30,310 - INFO - Setting description via JS (no send_keys)...
+2025-10-16 02:06:31,429 - INFO - Looking for button section...
+2025-10-16 02:06:36,101 - INFO - Trying to select CALL option...
+2025-10-16 02:06:36,411 - INFO - CALL option successfully selected
+2025-10-16 02:06:38,411 - INFO - Clicking submit button...
+2025-10-16 02:06:47,108 - INFO - 処理完了
+================================================================================
+2025-10-16 06:02:40,937 - INFO - 処理開始 PROCESSID:20251016_060237
+2025-10-16 06:02:40,937 - INFO - 対象ユーザー: yamlapi_3b
+2025-10-16 06:02:40,937 - INFO - 処理を開始します
+2025-10-16 06:02:41,000 - INFO - 選択されたプロファイル: Profile 9
+2025-10-16 06:02:41,000 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-16 06:02:45,884 - INFO - yamlapi_3b のプロフィールページにアクセスします
+2025-10-16 06:02:57,893 - INFO - 最新投稿を読み込みます
+2025-10-16 06:03:03,492 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/p/DNt6almZh4k/?hl=ja → 日付確認
+2025-10-16 06:03:06,196 - INFO - ピン留めだが3日以上前(53日) → スキップ
+2025-10-16 06:03:06,196 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C-FBDhRPBXQ/?hl=ja → 日付確認
+2025-10-16 06:03:09,714 - INFO - ピン留めだが3日以上前(441日) → スキップ
+2025-10-16 06:03:09,714 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C8yz6HvvNoa/?hl=ja → 日付確認
+2025-10-16 06:03:12,217 - INFO - ピン留めだが3日以上前(473日) → スキップ
+2025-10-16 06:03:12,217 - INFO - 選定: 非ピン留め https://www.instagram.com/yamlapi_3b/p/DP2Xs2gkzIB/?hl=ja
+2025-10-16 06:03:17,647 - INFO - 最新投稿ページにアクセスしました
+2025-10-16 06:03:22,016 - INFO - 最新投稿ページにアクセスしました
+2025-10-16 06:03:22,060 - INFO - datetime属性の抽出を開始します
+2025-10-16 06:03:22,083 - INFO - 抽出されたdatetime: 2025-10-16T00:11:44.000Z
+2025-10-16 06:03:22,084 - INFO - yamlapi_3b の投稿日時: 2025-10-16T00:11:44.000Z
+2025-10-16 06:03:22,091 - INFO - date:2025-10-16 09:11:44+09:00
+2025-10-16 06:03:22,091 - INFO - post_date:20251016
+2025-10-16 06:03:22,134 - INFO - カルーセル推定: 1枚
+2025-10-16 06:03:22,170 - INFO - 検出(SINGLE): https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/566053868_17910437658232685_4410574792338799544_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjl4MTc4Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=xm3a6ieU3agQ7kNvwFIXZg6&_nc_oc=AdnPJUNIJFI7pXW5khBcMqyBJuu0WKLA2SFpG4ZoU_vv8pqijnVDd4Ef8hEMAApXF0U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=kMRNNvhrX-nIgukR7hB28A&oh=00_AfeVHbyl3SATLPTmpL8NXELLP9go2KqLgLPqWL8rAIfblw&oe=68F647D5
+2025-10-16 06:03:22,170 - INFO - 1枚目: https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/566053868_17910437658232685_4410574792338799544_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjl4MTc4Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=xm3a6ieU3agQ7kNvwFIXZg6&_nc_oc=AdnPJUNIJFI7pXW5khBcMqyBJuu0WKLA2SFpG4ZoU_vv8pqijnVDd4Ef8hEMAApXF0U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=kMRNNvhrX-nIgukR7hB28A&oh=00_AfeVHbyl3SATLPTmpL8NXELLP9go2KqLgLPqWL8rAIfblw&oe=68F647D5
+2025-10-16 06:03:22,170 - INFO - [caption/by_username] 開始
+2025-10-16 06:03:22,281 - INFO - [caption/by_username] 説明文確定（先頭100）: 'こりほぐしヘッドスパ！✨
+松・竹・か、うるおいのセットメニーを選ぶと
+ミニスパついて来ます！✨
+こちらはお電話にてご予約承ります！✨
+ぜひ一度お試しください！
+
+山形ミルボン・オージュア取り扱い店です'
+2025-10-16 06:03:22,283 - INFO - [caption/by_username] 説明文を保存: media\yamlapi_3b\description\20251016_060237
+2025-10-16 06:03:22,283 - INFO - 画像URLを取得しました
+2025-10-16 06:03:22,285 - INFO - DUP(with-key): user=yamlapi_3b, key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ==, dt=2025-10-16T00:11:44.000Z
+2025-10-16 06:03:22,285 - INFO - このレコードは存在します
+2025-10-16 06:03:22,285 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-16 10:01:51,611 - INFO - 処理開始 PROCESSID:20251016_100148
+2025-10-16 10:01:51,611 - INFO - 対象ユーザー: yamlapi_3b
+2025-10-16 10:01:51,611 - INFO - 処理を開始します
+2025-10-16 10:01:51,665 - INFO - 選択されたプロファイル: Profile 10
+2025-10-16 10:01:51,665 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-16 10:01:56,329 - INFO - yamlapi_3b のプロフィールページにアクセスします
+2025-10-16 10:02:08,208 - INFO - 最新投稿を読み込みます
+2025-10-16 10:02:13,715 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/p/DNt6almZh4k/?hl=ja → 日付確認
+2025-10-16 10:02:17,034 - INFO - ピン留めだが3日以上前(53日) → スキップ
+2025-10-16 10:02:17,034 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C-FBDhRPBXQ/?hl=ja → 日付確認
+2025-10-16 10:02:21,557 - INFO - ピン留めだが3日以上前(442日) → スキップ
+2025-10-16 10:02:21,558 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C8yz6HvvNoa/?hl=ja → 日付確認
+2025-10-16 10:02:26,638 - INFO - ピン留めだが3日以上前(474日) → スキップ
+2025-10-16 10:02:26,638 - INFO - 選定: 非ピン留め https://www.instagram.com/yamlapi_3b/p/DP2Xs2gkzIB/?hl=ja
+2025-10-16 10:02:31,607 - INFO - 最新投稿ページにアクセスしました
+2025-10-16 10:02:36,466 - INFO - 最新投稿ページにアクセスしました
+2025-10-16 10:02:36,488 - INFO - datetime属性の抽出を開始します
+2025-10-16 10:02:36,515 - INFO - 抽出されたdatetime: 2025-10-16T00:11:44.000Z
+2025-10-16 10:02:36,515 - INFO - yamlapi_3b の投稿日時: 2025-10-16T00:11:44.000Z
+2025-10-16 10:02:36,523 - INFO - date:2025-10-16 09:11:44+09:00
+2025-10-16 10:02:36,524 - INFO - post_date:20251016
+2025-10-16 10:02:36,601 - INFO - カルーセル推定: 1枚
+2025-10-16 10:02:36,662 - INFO - 検出(SINGLE): https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/566053868_17910437658232685_4410574792338799544_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjl4MTc4Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=xm3a6ieU3agQ7kNvwFIXZg6&_nc_oc=AdnPJUNIJFI7pXW5khBcMqyBJuu0WKLA2SFpG4ZoU_vv8pqijnVDd4Ef8hEMAApXF0U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=l2E4qCCSGndNO_4R1si0Fw&oh=00_Afez14QuU1-xyK4qToRCndvsiZCmx7kJo1nB0KUv2zQ--w&oe=68F68015
+2025-10-16 10:02:36,662 - INFO - 1枚目: https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/566053868_17910437658232685_4410574792338799544_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjl4MTc4Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=xm3a6ieU3agQ7kNvwFIXZg6&_nc_oc=AdnPJUNIJFI7pXW5khBcMqyBJuu0WKLA2SFpG4ZoU_vv8pqijnVDd4Ef8hEMAApXF0U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=l2E4qCCSGndNO_4R1si0Fw&oh=00_Afez14QuU1-xyK4qToRCndvsiZCmx7kJo1nB0KUv2zQ--w&oe=68F68015
+2025-10-16 10:02:36,662 - INFO - [caption/by_username] 開始
+2025-10-16 10:02:36,760 - INFO - [caption/by_username] 説明文確定（先頭100）: 'こりほぐしヘッドスパ！✨
+松・竹・か、うるおいのセットメニーを選ぶと
+ミニスパついて来ます！✨
+こちらはお電話にてご予約承ります！✨
+ぜひ一度お試しください！
+
+山形ミルボン・オージュア取り扱い店です'
+2025-10-16 10:02:36,762 - INFO - [caption/by_username] 説明文を保存: media\yamlapi_3b\description\20251016_100148
+2025-10-16 10:02:36,762 - INFO - 画像URLを取得しました
+2025-10-16 10:02:36,767 - INFO - DUP(with-key): user=yamlapi_3b, key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ==, dt=2025-10-16T00:11:44.000Z
+2025-10-16 10:02:36,767 - INFO - このレコードは存在します
+2025-10-16 10:02:36,767 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-16 13:58:52,978 - INFO - 処理開始 PROCESSID:20251016_135849
+2025-10-16 13:58:52,978 - INFO - 対象ユーザー: yamlapi_3b
+2025-10-16 13:58:52,978 - INFO - 処理を開始します
+2025-10-16 13:58:53,035 - INFO - 選択されたプロファイル: Profile 12
+2025-10-16 13:58:53,035 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-16 13:58:57,536 - INFO - yamlapi_3b のプロフィールページにアクセスします
+2025-10-16 13:59:09,753 - INFO - 最新投稿を読み込みます
+2025-10-16 13:59:15,239 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/p/DNt6almZh4k/?hl=ja → 日付確認
+2025-10-16 13:59:18,032 - INFO - ピン留めだが3日以上前(53日) → スキップ
+2025-10-16 13:59:18,032 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C-FBDhRPBXQ/?hl=ja → 日付確認
+2025-10-16 13:59:21,978 - INFO - ピン留めだが3日以上前(442日) → スキップ
+2025-10-16 13:59:21,978 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C8yz6HvvNoa/?hl=ja → 日付確認
+2025-10-16 13:59:26,856 - INFO - ピン留めだが3日以上前(474日) → スキップ
+2025-10-16 13:59:26,856 - INFO - 選定: 非ピン留め https://www.instagram.com/yamlapi_3b/p/DP2Xs2gkzIB/?hl=ja
+2025-10-16 13:59:31,800 - INFO - 最新投稿ページにアクセスしました
+2025-10-16 13:59:35,880 - INFO - 最新投稿ページにアクセスしました
+2025-10-16 13:59:35,906 - INFO - datetime属性の抽出を開始します
+2025-10-16 13:59:35,948 - INFO - 抽出されたdatetime: 2025-10-16T00:11:44.000Z
+2025-10-16 13:59:35,949 - INFO - yamlapi_3b の投稿日時: 2025-10-16T00:11:44.000Z
+2025-10-16 13:59:35,955 - INFO - date:2025-10-16 09:11:44+09:00
+2025-10-16 13:59:35,955 - INFO - post_date:20251016
+2025-10-16 13:59:35,997 - INFO - カルーセル推定: 1枚
+2025-10-16 13:59:36,035 - INFO - 検出(SINGLE): https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/566053868_17910437658232685_4410574792338799544_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjl4MTc4Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=xm3a6ieU3agQ7kNvwFIXZg6&_nc_oc=AdnPJUNIJFI7pXW5khBcMqyBJuu0WKLA2SFpG4ZoU_vv8pqijnVDd4Ef8hEMAApXF0U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=RHEQEKoBPZt-x__HqGauUQ&oh=00_AfeQbs1cA7TNiT7_rpu8lVxtneG9ztfcM5-yhllYWZXtww&oe=68F6B855
+2025-10-16 13:59:36,036 - INFO - 1枚目: https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/566053868_17910437658232685_4410574792338799544_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjl4MTc4Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=xm3a6ieU3agQ7kNvwFIXZg6&_nc_oc=AdnPJUNIJFI7pXW5khBcMqyBJuu0WKLA2SFpG4ZoU_vv8pqijnVDd4Ef8hEMAApXF0U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=RHEQEKoBPZt-x__HqGauUQ&oh=00_AfeQbs1cA7TNiT7_rpu8lVxtneG9ztfcM5-yhllYWZXtww&oe=68F6B855
+2025-10-16 13:59:36,036 - INFO - [caption/by_username] 開始
+2025-10-16 13:59:36,146 - INFO - [caption/by_username] 説明文確定（先頭100）: 'こりほぐしヘッドスパ！✨
+松・竹・か、うるおいのセットメニーを選ぶと
+ミニスパついて来ます！✨
+こちらはお電話にてご予約承ります！✨
+ぜひ一度お試しください！
+
+山形ミルボン・オージュア取り扱い店です'
+2025-10-16 13:59:36,150 - INFO - [caption/by_username] 説明文を保存: media\yamlapi_3b\description\20251016_135849
+2025-10-16 13:59:36,150 - INFO - 画像URLを取得しました
+2025-10-16 13:59:36,152 - INFO - DUP(with-key): user=yamlapi_3b, key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ==, dt=2025-10-16T00:11:44.000Z
+2025-10-16 13:59:36,152 - INFO - このレコードは存在します
+2025-10-16 13:59:36,152 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-16 17:48:53,329 - INFO - 処理開始 PROCESSID:20251016_174850
+2025-10-16 17:48:53,329 - INFO - 対象ユーザー: yamlapi_3b
+2025-10-16 17:48:53,329 - INFO - 処理を開始します
+2025-10-16 17:48:53,380 - INFO - 選択されたプロファイル: Profile 13
+2025-10-16 17:48:53,380 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-16 17:48:57,981 - INFO - yamlapi_3b のプロフィールページにアクセスします
+2025-10-16 17:49:10,210 - INFO - 最新投稿を読み込みます
+2025-10-16 17:49:15,696 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/p/DNt6almZh4k/?hl=ja → 日付確認
+2025-10-16 17:49:20,439 - INFO - ピン留めだが3日以上前(53日) → スキップ
+2025-10-16 17:49:20,439 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C-FBDhRPBXQ/?hl=ja → 日付確認
+2025-10-16 17:49:22,668 - INFO - ピン留めだが3日以上前(442日) → スキップ
+2025-10-16 17:49:22,668 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C8yz6HvvNoa/?hl=ja → 日付確認
+2025-10-16 17:49:26,006 - INFO - ピン留めだが3日以上前(474日) → スキップ
+2025-10-16 17:49:26,006 - INFO - 選定: 非ピン留め https://www.instagram.com/yamlapi_3b/p/DP2Xs2gkzIB/?hl=ja
+2025-10-16 17:49:30,772 - INFO - 最新投稿ページにアクセスしました
+2025-10-16 17:49:35,990 - INFO - 最新投稿ページにアクセスしました
+2025-10-16 17:49:36,037 - INFO - datetime属性の抽出を開始します
+2025-10-16 17:49:36,080 - INFO - 抽出されたdatetime: 2025-10-16T00:11:44.000Z
+2025-10-16 17:49:36,080 - INFO - yamlapi_3b の投稿日時: 2025-10-16T00:11:44.000Z
+2025-10-16 17:49:36,087 - INFO - date:2025-10-16 09:11:44+09:00
+2025-10-16 17:49:36,087 - INFO - post_date:20251016
+2025-10-16 17:49:36,145 - INFO - カルーセル推定: 1枚
+2025-10-16 17:49:36,193 - INFO - 検出(SINGLE): https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/566053868_17910437658232685_4410574792338799544_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjl4MTc4Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=xm3a6ieU3agQ7kNvwFIXZg6&_nc_oc=AdnPJUNIJFI7pXW5khBcMqyBJuu0WKLA2SFpG4ZoU_vv8pqijnVDd4Ef8hEMAApXF0U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=XRj-AJNxl9NP6UYzZWU-nQ&oh=00_AfcYwO-2KRT0QTMddY8AvYgnYgS_bU3bEUINcpMlKbygcA&oe=68F6F095
+2025-10-16 17:49:36,194 - INFO - 1枚目: https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/566053868_17910437658232685_4410574792338799544_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjl4MTc4Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=xm3a6ieU3agQ7kNvwFIXZg6&_nc_oc=AdnPJUNIJFI7pXW5khBcMqyBJuu0WKLA2SFpG4ZoU_vv8pqijnVDd4Ef8hEMAApXF0U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=XRj-AJNxl9NP6UYzZWU-nQ&oh=00_AfcYwO-2KRT0QTMddY8AvYgnYgS_bU3bEUINcpMlKbygcA&oe=68F6F095
+2025-10-16 17:49:36,194 - INFO - [caption/by_username] 開始
+2025-10-16 17:49:36,271 - INFO - [caption/by_username] 説明文確定（先頭100）: 'こりほぐしヘッドスパ！✨
+松・竹・か、うるおいのセットメニーを選ぶと
+ミニスパついて来ます！✨
+こちらはお電話にてご予約承ります！✨
+ぜひ一度お試しください！
+
+山形ミルボン・オージュア取り扱い店です'
+2025-10-16 17:49:36,273 - INFO - [caption/by_username] 説明文を保存: media\yamlapi_3b\description\20251016_174850
+2025-10-16 17:49:36,273 - INFO - 画像URLを取得しました
+2025-10-16 17:49:36,275 - INFO - DUP(with-key): user=yamlapi_3b, key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ==, dt=2025-10-16T00:11:44.000Z
+2025-10-16 17:49:36,275 - INFO - このレコードは存在します
+2025-10-16 17:49:36,275 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-16 21:33:12,437 - INFO - 処理開始 PROCESSID:20251016_213309
+2025-10-16 21:33:12,437 - INFO - 対象ユーザー: yamlapi_3b
+2025-10-16 21:33:12,437 - INFO - 処理を開始します
+2025-10-16 21:33:12,491 - INFO - 選択されたプロファイル: Profile 13
+2025-10-16 21:33:12,491 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-16 21:33:16,955 - INFO - yamlapi_3b のプロフィールページにアクセスします
+2025-10-16 21:33:28,372 - INFO - 最新投稿を読み込みます
+2025-10-16 21:33:33,634 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/p/DNt6almZh4k/?hl=ja → 日付確認
+2025-10-16 21:33:36,629 - INFO - ピン留めだが3日以上前(53日) → スキップ
+2025-10-16 21:33:36,630 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C-FBDhRPBXQ/?hl=ja → 日付確認
+2025-10-16 21:33:39,394 - INFO - ピン留めだが3日以上前(442日) → スキップ
+2025-10-16 21:33:39,394 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C8yz6HvvNoa/?hl=ja → 日付確認
+2025-10-16 21:33:42,058 - INFO - ピン留めだが3日以上前(474日) → スキップ
+2025-10-16 21:33:42,058 - INFO - 選定: 非ピン留め https://www.instagram.com/yamlapi_3b/p/DP2Xs2gkzIB/?hl=ja
+2025-10-16 21:33:47,287 - INFO - 最新投稿ページにアクセスしました
+2025-10-16 21:33:51,404 - INFO - 最新投稿ページにアクセスしました
+2025-10-16 21:33:51,433 - INFO - datetime属性の抽出を開始します
+2025-10-16 21:33:51,454 - INFO - 抽出されたdatetime: 2025-10-16T00:11:44.000Z
+2025-10-16 21:33:51,454 - INFO - yamlapi_3b の投稿日時: 2025-10-16T00:11:44.000Z
+2025-10-16 21:33:51,460 - INFO - date:2025-10-16 09:11:44+09:00
+2025-10-16 21:33:51,460 - INFO - post_date:20251016
+2025-10-16 21:33:51,511 - INFO - カルーセル推定: 1枚
+2025-10-16 21:33:51,550 - INFO - 検出(SINGLE): https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/566053868_17910437658232685_4410574792338799544_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjl4MTc4Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=xm3a6ieU3agQ7kNvwFIXZg6&_nc_oc=AdnPJUNIJFI7pXW5khBcMqyBJuu0WKLA2SFpG4ZoU_vv8pqijnVDd4Ef8hEMAApXF0U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=MD6POA131k1tXwkqIOr1Tg&oh=00_AfcL7clem4fdmHSvaxI_c2-zuOPtP-Rmo6hoaVcnV69hsg&oe=68F728D5
+2025-10-16 21:33:51,550 - INFO - 1枚目: https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/566053868_17910437658232685_4410574792338799544_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjl4MTc4Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=xm3a6ieU3agQ7kNvwFIXZg6&_nc_oc=AdnPJUNIJFI7pXW5khBcMqyBJuu0WKLA2SFpG4ZoU_vv8pqijnVDd4Ef8hEMAApXF0U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=MD6POA131k1tXwkqIOr1Tg&oh=00_AfcL7clem4fdmHSvaxI_c2-zuOPtP-Rmo6hoaVcnV69hsg&oe=68F728D5
+2025-10-16 21:33:51,550 - INFO - [caption/by_username] 開始
+2025-10-16 21:33:51,663 - INFO - [caption/by_username] 説明文確定（先頭100）: 'こりほぐしヘッドスパ！✨
+松・竹・か、うるおいのセットメニーを選ぶと
+ミニスパついて来ます！✨
+こちらはお電話にてご予約承ります！✨
+ぜひ一度お試しください！
+
+山形ミルボン・オージュア取り扱い店です'
+2025-10-16 21:33:51,666 - INFO - [caption/by_username] 説明文を保存: media\yamlapi_3b\description\20251016_213309
+2025-10-16 21:33:51,666 - INFO - 画像URLを取得しました
+2025-10-16 21:33:51,669 - INFO - DUP(with-key): user=yamlapi_3b, key=Mzc0NDI4NDM3NzQ2MDQ1Mzg4OQ==, dt=2025-10-16T00:11:44.000Z
+2025-10-16 21:33:51,669 - INFO - このレコードは存在します
+2025-10-16 21:33:51,669 - INFO - 全件レコードが存在します

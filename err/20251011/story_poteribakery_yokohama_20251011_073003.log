@@ -1,0 +1,50 @@
+================================================================================
+2025-10-11 06:47:39,909 - INFO - 処理開始 PROCESSID:20251011_064736
+2025-10-11 06:47:39,909 - INFO - 対象ユーザー: poteribakery_yokohama
+2025-10-11 06:47:39,909 - INFO - 処理を開始します
+2025-10-11 06:47:39,971 - INFO - 選択されたプロファイル: Profile 10
+2025-10-11 06:47:39,971 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-11 06:47:45,713 - INFO - poteribakery_yokohama のプロフィールページにアクセスします
+2025-10-11 06:48:08,266 - INFO - プロフィール写真のクリックに成功しました
+2025-10-11 06:48:09,065 - INFO - poteribakery_yokohama: 動画を検出しました
+2025-10-11 06:48:09,066 - INFO - datetime属性の抽出を開始します
+2025-10-11 06:48:09,110 - INFO - 抽出されたdatetime: 2025-10-11T02:44:23.000Z
+2025-10-11 06:48:09,110 - INFO - poteribakery_yokohama の投稿日時: 2025-10-11T02:44:23.000Z
+2025-10-11 06:48:10,358 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQMny4MvxtNOQaw0ZXBu45ZKFzOyndpx5n2IpNnAYpz17Clkyv2tiAZqL0oI1OISGdAWkcC9Z8YaRi0IAvunr0NdM7Itkkawu7W6KSnweQvBig.mp4?_nc_cat=100&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=T7och8T8GecQ7kNvwGp1Apx&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE1NTA1NTE4Nzk0NzgyODgsInZpX3VzZWNhc2VfaWQiOjEwMTAwLCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=poCLg0tFAg2oJuGDgfGEgQ&_nc_zt=28&oh=00_Afeo71auv7tJACxuqB9mY5uRONd36PehDp9cwnDcdAvX4A&oe=68EFB4EC&bytestart=0&byteend=2395027
+2025-10-11 06:48:10,359 - INFO - 動画URLを取得しました
+2025-10-11 06:48:10,634 - INFO - INSERT(with-key): user=poteribakery_yokohama, key=AQMny4MvxtNOQaw0ZXBu45ZKFzOyndpx5n2IpNnAYpz17Clkyv2tiAZqL0oI1OISGdAWkcC9Z8YaRi0IAvunr0NdM7Itkkawu7W6KSnweQvBig, dt=2025-10-11T02:44:23.000Z
+2025-10-11 06:48:12,914 - INFO - ダウンロードを開始します: media\poteribakery_yokohama\poteribakery_yokohama_20251011064812.mp4
+2025-10-11 06:48:13,983 - INFO - ダウンロード完了: media\poteribakery_yokohama\poteribakery_yokohama_20251011064812.mp4
+2025-10-11 06:48:18,160 - INFO - 処理終了
+2025-10-11 06:48:18,164 - INFO - 説明文_AI: None
+2025-10-11 06:48:18,164 - INFO - 説明文_最終: 
+================================================================================
+2025-10-11 06:48:24,444 - INFO - 処理開始: Mode=story, Username=poteribakery_yokohama, GBP=16786272527627027539
+2025-10-11 06:48:24,444 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxNjc4NjI3MjUyNzYyNzAyNzUzOSJd.
+2025-10-11 06:48:53,334 - ERROR - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x38fea3+66515]
+	GetHandleVerifier [0x0x38fee4+66580]
+	(No symbol) [0x0x17dc48]
+	(No symbol) [0x0x1c8704]
+	(No symbol) [0x0x1c8aab]
+	(No symbol) [0x0x20f482]
+	(No symbol) [0x0x1eb214]
+	(No symbol) [0x0x20cba7]
+	(No symbol) [0x0x1eafc6]
+	(No symbol) [0x0x1bc2ca]
+	(No symbol) [0x0x1bd154]
+	GetHandleVerifier [0x0x5e73d3+2521347]
+	GetHandleVerifier [0x0x5e2353+2500739]
+	GetHandleVerifier [0x0x3b7cf4+229924]
+	GetHandleVerifier [0x0x3a8258+165768]
+	GetHandleVerifier [0x0x3aed0d+193085]
+	GetHandleVerifier [0x0x3981b8+100072]
+	GetHandleVerifier [0x0x398350+100480]
+	GetHandleVerifier [0x0x38260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+	(No symbol) [0x0]
+
+2025-10-11 06:48:55,739 - ERROR - 投稿画面オープン失敗

@@ -1,0 +1,112 @@
+================================================================================
+2025-10-19 04:12:06,959 - INFO - 処理開始 PROCESSID:20251019_041203
+2025-10-19 04:12:06,959 - INFO - 対象ユーザー: lumi_915
+2025-10-19 04:12:06,959 - INFO - 処理を開始します
+2025-10-19 04:12:07,010 - INFO - 選択されたプロファイル: Profile 12
+2025-10-19 04:12:07,010 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-19 04:12:11,517 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-19 04:12:33,430 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 04:12:34,216 - INFO - lumi_915: 動画を検出しました
+2025-10-19 04:12:34,216 - INFO - datetime属性の抽出を開始します
+2025-10-19 04:12:34,331 - INFO - 抽出されたdatetime: 2025-10-19T02:52:14.000Z
+2025-10-19 04:12:34,331 - INFO - lumi_915 の投稿日時: 2025-10-19T02:52:14.000Z
+2025-10-19 04:12:35,991 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=9C5NtC_ismQQ7kNvwFmpW2d&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo0MzYxNTMwNzE3NDAzNzA0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=WPd1Efh1d3sI_g2An9uQ6w&_nc_zt=28&oh=00_AffE_VWTKcp60hxfhWeq7cZIheR70emq9CRUoHtSnJxz0Q&oe=68F62E18&bytestart=0&byteend=1887381
+2025-10-19 04:12:35,991 - INFO - 動画URLを取得しました
+2025-10-19 04:12:36,008 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=lumi_915, key=AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc, dt=2025-10-19T02:52:14.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=9C5NtC_ismQQ7kNvwFmpW2d&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo0MzYxNTMwNzE3NDAzNzA0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=WPd1Efh1d3sI_g2An9uQ6w&_nc_zt=28&oh=00_AffE_VWTKcp60hxfhWeq7cZIheR70emq9CRUoHtSnJxz0Q&oe=68F62E18&bytestart=0&byteend=1887381, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('lumi_915', 'AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=9C5NtC_ismQQ7kNvwFmpW2d&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo0MzYxNTMwNzE3NDAzNzA0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=WPd1Efh1d3sI_g2An9uQ6w&_nc_zt=28&oh=00_AffE_VWTKcp60hxfhWeq7cZIheR70emq9CRUoHtSnJxz0Q&oe=68F62E18&bytestart=0&byteend=1887381', '2025-10-19T02:52:14.000Z')
+================================================================================
+2025-10-19 08:29:20,584 - INFO - 処理開始 PROCESSID:20251019_082917
+2025-10-19 08:29:20,584 - INFO - 対象ユーザー: lumi_915
+2025-10-19 08:29:20,584 - INFO - 処理を開始します
+2025-10-19 08:29:20,643 - INFO - 選択されたプロファイル: Profile 12
+2025-10-19 08:29:20,643 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-19 08:29:25,929 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-19 08:29:48,390 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 08:29:49,458 - INFO - lumi_915: 動画を検出しました
+2025-10-19 08:29:49,458 - INFO - datetime属性の抽出を開始します
+2025-10-19 08:29:49,623 - INFO - 抽出されたdatetime: 2025-10-19T02:54:25.000Z
+2025-10-19 08:29:49,623 - INFO - lumi_915 の投稿日時: 2025-10-19T02:54:25.000Z
+2025-10-19 08:29:51,246 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=9C5NtC_ismQQ7kNvwFmpW2d&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo0MzYxNTMwNzE3NDAzNzA0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=kB2b2gLKSWEPoa9QucRIDw&_nc_zt=28&oh=00_Afe5rkO8ZGA-fxeiP7QeddTzhEGDiRvrLCZjPBohu9RJ8A&oe=68F66658&bytestart=0&byteend=1887381
+2025-10-19 08:29:51,246 - INFO - 動画URLを取得しました
+2025-10-19 08:29:51,248 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=lumi_915, key=AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc, dt=2025-10-19T02:54:25.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=9C5NtC_ismQQ7kNvwFmpW2d&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo0MzYxNTMwNzE3NDAzNzA0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=kB2b2gLKSWEPoa9QucRIDw&_nc_zt=28&oh=00_Afe5rkO8ZGA-fxeiP7QeddTzhEGDiRvrLCZjPBohu9RJ8A&oe=68F66658&bytestart=0&byteend=1887381, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('lumi_915', 'AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=9C5NtC_ismQQ7kNvwFmpW2d&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo0MzYxNTMwNzE3NDAzNzA0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=kB2b2gLKSWEPoa9QucRIDw&_nc_zt=28&oh=00_Afe5rkO8ZGA-fxeiP7QeddTzhEGDiRvrLCZjPBohu9RJ8A&oe=68F66658&bytestart=0&byteend=1887381', '2025-10-19T02:54:25.000Z')
+================================================================================
+2025-10-19 12:46:16,270 - INFO - 処理開始 PROCESSID:20251019_124613
+2025-10-19 12:46:16,270 - INFO - 対象ユーザー: lumi_915
+2025-10-19 12:46:16,270 - INFO - 処理を開始します
+2025-10-19 12:46:16,325 - INFO - 選択されたプロファイル: Profile 13
+2025-10-19 12:46:16,325 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-19 12:46:20,831 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-19 12:46:43,470 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 12:46:44,624 - INFO - lumi_915: 動画を検出しました
+2025-10-19 12:46:44,624 - INFO - datetime属性の抽出を開始します
+2025-10-19 12:46:44,779 - INFO - 抽出されたdatetime: 2025-10-19T02:52:14.000Z
+2025-10-19 12:46:44,779 - INFO - lumi_915 の投稿日時: 2025-10-19T02:52:14.000Z
+2025-10-19 12:46:46,813 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=9C5NtC_ismQQ7kNvwFmpW2d&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo0MzYxNTMwNzE3NDAzNzA0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=_g0h0817mlAPw1RIPkl3Ag&_nc_zt=28&oh=00_AffWLyisHDvU9rPAkMxx0fo6ZmfCb5I96cMjd701NOUu-w&oe=68F6D6D8&bytestart=0&byteend=1887381
+2025-10-19 12:46:46,813 - INFO - 動画URLを取得しました
+2025-10-19 12:46:46,874 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=lumi_915, key=AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc, dt=2025-10-19T02:52:14.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=9C5NtC_ismQQ7kNvwFmpW2d&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo0MzYxNTMwNzE3NDAzNzA0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=_g0h0817mlAPw1RIPkl3Ag&_nc_zt=28&oh=00_AffWLyisHDvU9rPAkMxx0fo6ZmfCb5I96cMjd701NOUu-w&oe=68F6D6D8&bytestart=0&byteend=1887381, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('lumi_915', 'AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=9C5NtC_ismQQ7kNvwFmpW2d&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo0MzYxNTMwNzE3NDAzNzA0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=_g0h0817mlAPw1RIPkl3Ag&_nc_zt=28&oh=00_AffWLyisHDvU9rPAkMxx0fo6ZmfCb5I96cMjd701NOUu-w&oe=68F6D6D8&bytestart=0&byteend=1887381', '2025-10-19T02:52:14.000Z')
+================================================================================
+2025-10-19 16:55:36,057 - INFO - 処理開始 PROCESSID:20251019_165532
+2025-10-19 16:55:36,057 - INFO - 対象ユーザー: lumi_915
+2025-10-19 16:55:36,057 - INFO - 処理を開始します
+2025-10-19 16:55:36,117 - INFO - 選択されたプロファイル: Profile 9
+2025-10-19 16:55:36,118 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-19 16:55:40,462 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-19 16:56:02,934 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 16:56:03,703 - INFO - lumi_915: 動画を検出しました
+2025-10-19 16:56:03,703 - INFO - datetime属性の抽出を開始します
+2025-10-19 16:56:04,017 - INFO - 抽出されたdatetime: 2025-10-19T02:52:14.000Z
+2025-10-19 16:56:04,017 - INFO - lumi_915 の投稿日時: 2025-10-19T02:52:14.000Z
+2025-10-19 16:56:05,760 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQPQ7lrs3q1GeABFaygMnBiGBfdyjBXetLhW0sgJ3IkVtgiE4QrDvnI_5Z3yaJwHeEkiDqm9YviQbjRsoSwlYJtkYVdKyAy_dJkTEETNf4JaRg.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=HptXiZ6qtH8Q7kNvwE10G3N&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MjU2MjQ3ODQ2MjcxMjQ3NzEsInZpX3VzZWNhc2VfaWQiOjEwMTAwLCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=RowUdivpD_CAHSWxm6q5YA&_nc_zt=28&oh=00_AfdiiQJ1pFpz7uStvbfS11UG52EoY2Oo59iBzZo8zu8bUQ&oe=68FAE525&bytestart=0&byteend=1677227
+2025-10-19 16:56:05,761 - INFO - 動画URLを取得しました
+2025-10-19 16:56:05,859 - INFO - INSERT(with-key): user=lumi_915, key=AQPQ7lrs3q1GeABFaygMnBiGBfdyjBXetLhW0sgJ3IkVtgiE4QrDvnI_5Z3yaJwHeEkiDqm9YviQbjRsoSwlYJtkYVdKyAy_dJkTEETNf4JaRg, dt=2025-10-19T02:52:14.000Z
+2025-10-19 16:56:07,897 - INFO - ダウンロードを開始します: media\lumi_915\lumi_915_20251019165607.mp4
+2025-10-19 16:56:10,494 - INFO - ダウンロード完了: media\lumi_915\lumi_915_20251019165607.mp4
+2025-10-19 16:56:13,003 - INFO - 処理終了
+2025-10-19 16:56:13,009 - INFO - 説明文_AI: None
+2025-10-19 16:56:13,009 - INFO - 説明文_最終: 
+================================================================================
+2025-10-19 16:56:19,018 - INFO - 処理開始: Mode=story, Username=lumi_915, GBP=12567354535638384359
+2025-10-19 16:56:19,018 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMjU2NzM1NDUzNTYzODM4NDM1OSJd.
+2025-10-19 16:56:50,515 - INFO - 元の動画サイズ: 1080x1920
+2025-10-19 16:56:50,515 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-19 16:56:50,515 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251019165607.mp4
+2025-10-19 16:57:00,581 - INFO - 一時ファイルが見つかりません: media\lumi_915\description\20251019_165532
+2025-10-19 16:57:00,581 - INFO - Looking for button section...
+2025-10-19 16:57:05,143 - INFO - Trying to select CALL option...
+2025-10-19 16:57:05,502 - INFO - CALL option successfully selected
+2025-10-19 16:57:07,504 - INFO - Clicking submit button...
+2025-10-19 16:57:16,133 - INFO - 処理完了
+================================================================================
+2025-10-19 22:18:47,128 - INFO - 処理開始 PROCESSID:20251019_221843
+2025-10-19 22:18:47,128 - INFO - 対象ユーザー: lumi_915
+2025-10-19 22:18:47,130 - INFO - 処理を開始します
+2025-10-19 22:18:47,183 - INFO - 選択されたプロファイル: Profile 12
+2025-10-19 22:18:47,183 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-19 22:18:51,577 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-19 22:19:14,462 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 22:19:15,159 - INFO - lumi_915: 動画を検出しました
+2025-10-19 22:19:15,159 - INFO - datetime属性の抽出を開始します
+2025-10-19 22:19:15,196 - INFO - 抽出されたdatetime: 2025-10-19T02:52:14.000Z
+2025-10-19 22:19:15,196 - INFO - lumi_915 の投稿日時: 2025-10-19T02:52:14.000Z
+2025-10-19 22:19:16,677 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQP2t7jc8oB3NYTw84A8WBNBJds6H5BMiDpghrTZnoQsHQzC9LknyOz57nTb4r20ZSessOlottAegWzjiKRQoJFC-GKSI1yj_MO43cowFhMq1w.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=S-v9VoPvUvUQ7kNvwGKYMpe&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyNTYyNDc4NDYyNzEyNDc3MSwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Ni3ug1zEcUd-wRWLVMqO_Q&_nc_zt=28&oh=00_Afcj2Mqo3eLZ1J2GAWoD4jo0Otr65QOVFhxLHt0AR4mYew&oe=68FB3EA2&bytestart=0&byteend=366430
+2025-10-19 22:19:16,678 - INFO - 動画URLを取得しました
+2025-10-19 22:19:16,786 - INFO - INSERT(with-key): user=lumi_915, key=AQP2t7jc8oB3NYTw84A8WBNBJds6H5BMiDpghrTZnoQsHQzC9LknyOz57nTb4r20ZSessOlottAegWzjiKRQoJFC-GKSI1yj_MO43cowFhMq1w, dt=2025-10-19T02:52:14.000Z
+2025-10-19 22:19:18,817 - INFO - ダウンロードを開始します: media\lumi_915\lumi_915_20251019221918.mp4
+2025-10-19 22:19:20,906 - INFO - ダウンロード完了: media\lumi_915\lumi_915_20251019221918.mp4
+2025-10-19 22:19:25,060 - INFO - 処理終了
+2025-10-19 22:19:25,062 - INFO - 説明文_AI: None
+2025-10-19 22:19:25,062 - INFO - 説明文_最終: 
+================================================================================
+2025-10-19 22:19:31,109 - INFO - 処理開始: Mode=story, Username=lumi_915, GBP=12567354535638384359
+2025-10-19 22:19:31,109 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMjU2NzM1NDUzNTYzODM4NDM1OSJd.
+2025-10-19 22:20:31,268 - INFO - 元の動画サイズ: 360x640
+2025-10-19 22:20:31,268 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-19 22:20:31,268 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251019221918.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251019221918_resized.mp4
+2025-10-19 22:20:46,787 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251019221918_resized.mp4
+2025-10-19 22:20:46,787 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251019221918.mp4
+2025-10-19 22:20:46,787 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_915\lumi_915_20251019221918_resized.mp4
+2025-10-19 22:20:57,077 - INFO - 一時ファイルが見つかりません: media\lumi_915\description\20251019_221843
+2025-10-19 22:20:57,077 - INFO - Looking for button section...
+2025-10-19 22:21:02,308 - INFO - Trying to select CALL option...
+2025-10-19 22:21:02,565 - INFO - CALL option successfully selected
+2025-10-19 22:21:04,566 - INFO - Clicking submit button...
+2025-10-19 22:21:13,617 - INFO - 処理完了

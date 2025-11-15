@@ -1,0 +1,200 @@
+================================================================================
+2025-10-18 03:09:04,988 - INFO - 処理開始 PROCESSID:20251018_030901
+2025-10-18 03:09:04,988 - INFO - 対象ユーザー: lumi_915
+2025-10-18 03:09:04,990 - INFO - 処理を開始します
+2025-10-18 03:09:05,049 - INFO - 選択されたプロファイル: Profile 9
+2025-10-18 03:09:05,049 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-18 03:09:09,652 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-18 03:09:32,057 - INFO - プロフィール写真のクリックに成功しました
+2025-10-18 03:09:33,095 - INFO - lumi_915: 動画を検出しました
+2025-10-18 03:09:33,095 - INFO - datetime属性の抽出を開始します
+2025-10-18 03:09:33,353 - INFO - 抽出されたdatetime: 2025-10-17T03:43:50.000Z
+2025-10-18 03:09:33,353 - INFO - lumi_915 の投稿日時: 2025-10-17T03:43:50.000Z
+2025-10-18 03:09:34,703 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m367/AQOXx5Sbjwr3IvXFIJohgwRyZKLLHjnF3Dr82BGyu7Co66l5gO5_5zougqk7FTzPqVBixoJJIOEOwcSVjSReRRu0gm_XcmP2Bvq5Drc.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=_gKlf9ZVua4Q7kNvwHcBqeV&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMTA4MHBfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6NjY1MDA0ODg5NzAwMzc1LCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6MTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=yimBn821nAMSj5g2ZwMqyQ&_nc_zt=28&oh=00_Afevuihlr5S-JdoKjE3Ki32dYyGUQVJCABlVT7Km5Fc5lQ&oe=68F8BCA2&bytestart=0&byteend=461885
+2025-10-18 03:09:34,703 - INFO - 動画URLを取得しました
+2025-10-18 03:09:34,704 - INFO - DUP(with-key): user=lumi_915, key=AQOXx5Sbjwr3IvXFIJohgwRyZKLLHjnF3Dr82BGyu7Co66l5gO5_5zougqk7FTzPqVBixoJJIOEOwcSVjSReRRu0gm_XcmP2Bvq5Drc, dt=2025-10-17T03:43:50.000Z
+================================================================================
+2025-10-18 07:20:40,397 - INFO - 処理開始 PROCESSID:20251018_072037
+2025-10-18 07:20:40,397 - INFO - 対象ユーザー: lumi_915
+2025-10-18 07:20:40,397 - INFO - 処理を開始します
+2025-10-18 07:20:40,456 - INFO - 選択されたプロファイル: Profile 13
+2025-10-18 07:20:40,456 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-18 07:20:45,799 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-18 07:21:09,098 - INFO - プロフィール写真のクリックに成功しました
+2025-10-18 07:21:12,489 - INFO - 動画の取得に失敗しました
+2025-10-18 07:21:12,494 - INFO - datetime属性の抽出を開始します
+2025-10-18 07:21:22,551 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xb3fe83+66515]
+	GetHandleVerifier [0x0xb3fec4+66580]
+	(No symbol) [0x0x92dc48]
+	(No symbol) [0x0x978704]
+	(No symbol) [0x0x978aab]
+	(No symbol) [0x0x9bf482]
+	(No symbol) [0x0x99b214]
+	(No symbol) [0x0x9bcba7]
+	(No symbol) [0x0x99afc6]
+	(No symbol) [0x0x96c2ca]
+	(No symbol) [0x0x96d154]
+	GetHandleVerifier [0x0xd973b3+2521347]
+	GetHandleVerifier [0x0xd92333+2500739]
+	GetHandleVerifier [0x0xb67cd4+229924]
+	GetHandleVerifier [0x0xb58238+165768]
+	GetHandleVerifier [0x0xb5eced+193085]
+	GetHandleVerifier [0x0xb48198+100072]
+	GetHandleVerifier [0x0xb48330+100480]
+	GetHandleVerifier [0x0xb325ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-18 07:21:32,931 - INFO - 画像の取得に失敗しました
+2025-10-18 07:21:35,382 - INFO - 処理終了
+================================================================================
+2025-10-18 11:31:42,720 - INFO - 処理開始 PROCESSID:20251018_113139
+2025-10-18 11:31:42,720 - INFO - 対象ユーザー: lumi_915
+2025-10-18 11:31:42,720 - INFO - 処理を開始します
+2025-10-18 11:31:42,787 - INFO - 選択されたプロファイル: Profile 10
+2025-10-18 11:31:42,787 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-18 11:31:48,286 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-18 11:32:10,363 - INFO - プロフィール写真のクリックに成功しました
+2025-10-18 11:32:13,607 - INFO - 動画の取得に失敗しました
+2025-10-18 11:32:13,608 - INFO - datetime属性の抽出を開始します
+2025-10-18 11:32:23,768 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xb3fe83+66515]
+	GetHandleVerifier [0x0xb3fec4+66580]
+	(No symbol) [0x0x92dc48]
+	(No symbol) [0x0x978704]
+	(No symbol) [0x0x978aab]
+	(No symbol) [0x0x9bf482]
+	(No symbol) [0x0x99b214]
+	(No symbol) [0x0x9bcba7]
+	(No symbol) [0x0x99afc6]
+	(No symbol) [0x0x96c2ca]
+	(No symbol) [0x0x96d154]
+	GetHandleVerifier [0x0xd973b3+2521347]
+	GetHandleVerifier [0x0xd92333+2500739]
+	GetHandleVerifier [0x0xb67cd4+229924]
+	GetHandleVerifier [0x0xb58238+165768]
+	GetHandleVerifier [0x0xb5eced+193085]
+	GetHandleVerifier [0x0xb48198+100072]
+	GetHandleVerifier [0x0xb48330+100480]
+	GetHandleVerifier [0x0xb325ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-18 11:32:34,075 - INFO - 画像の取得に失敗しました
+2025-10-18 11:32:36,506 - INFO - 処理終了
+================================================================================
+2025-10-18 15:45:36,364 - INFO - 処理開始 PROCESSID:20251018_154532
+2025-10-18 15:45:36,364 - INFO - 対象ユーザー: lumi_915
+2025-10-18 15:45:36,364 - INFO - 処理を開始します
+2025-10-18 15:45:36,434 - INFO - 選択されたプロファイル: Profile 13
+2025-10-18 15:45:36,434 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-18 15:45:43,762 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-18 15:46:09,295 - INFO - プロフィール写真のクリックに成功しました
+2025-10-18 15:46:12,523 - INFO - 動画の取得に失敗しました
+2025-10-18 15:46:12,523 - INFO - datetime属性の抽出を開始します
+2025-10-18 15:46:22,876 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xb3fe83+66515]
+	GetHandleVerifier [0x0xb3fec4+66580]
+	(No symbol) [0x0x92dc48]
+	(No symbol) [0x0x978704]
+	(No symbol) [0x0x978aab]
+	(No symbol) [0x0x9bf482]
+	(No symbol) [0x0x99b214]
+	(No symbol) [0x0x9bcba7]
+	(No symbol) [0x0x99afc6]
+	(No symbol) [0x0x96c2ca]
+	(No symbol) [0x0x96d154]
+	GetHandleVerifier [0x0xd973b3+2521347]
+	GetHandleVerifier [0x0xd92333+2500739]
+	GetHandleVerifier [0x0xb67cd4+229924]
+	GetHandleVerifier [0x0xb58238+165768]
+	GetHandleVerifier [0x0xb5eced+193085]
+	GetHandleVerifier [0x0xb48198+100072]
+	GetHandleVerifier [0x0xb48330+100480]
+	GetHandleVerifier [0x0xb325ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-18 15:46:33,165 - INFO - 画像の取得に失敗しました
+2025-10-18 15:46:35,596 - INFO - 処理終了
+================================================================================
+2025-10-18 19:50:12,615 - INFO - 処理開始 PROCESSID:20251018_195009
+2025-10-18 19:50:12,615 - INFO - 対象ユーザー: lumi_915
+2025-10-18 19:50:12,615 - INFO - 処理を開始します
+2025-10-18 19:50:12,669 - INFO - 選択されたプロファイル: Profile 10
+2025-10-18 19:50:12,669 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-18 19:50:17,846 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-18 19:50:40,205 - INFO - プロフィール写真のクリックに成功しました
+2025-10-18 19:50:43,444 - INFO - 動画の取得に失敗しました
+2025-10-18 19:50:43,444 - INFO - datetime属性の抽出を開始します
+2025-10-18 19:50:53,571 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xb3fe83+66515]
+	GetHandleVerifier [0x0xb3fec4+66580]
+	(No symbol) [0x0x92dc48]
+	(No symbol) [0x0x978704]
+	(No symbol) [0x0x978aab]
+	(No symbol) [0x0x9bf482]
+	(No symbol) [0x0x99b214]
+	(No symbol) [0x0x9bcba7]
+	(No symbol) [0x0x99afc6]
+	(No symbol) [0x0x96c2ca]
+	(No symbol) [0x0x96d154]
+	GetHandleVerifier [0x0xd973b3+2521347]
+	GetHandleVerifier [0x0xd92333+2500739]
+	GetHandleVerifier [0x0xb67cd4+229924]
+	GetHandleVerifier [0x0xb58238+165768]
+	GetHandleVerifier [0x0xb5eced+193085]
+	GetHandleVerifier [0x0xb48198+100072]
+	GetHandleVerifier [0x0xb48330+100480]
+	GetHandleVerifier [0x0xb325ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-18 19:51:03,903 - INFO - 画像の取得に失敗しました
+2025-10-18 19:51:06,305 - INFO - 処理終了
+================================================================================
+2025-10-18 23:54:20,632 - INFO - 処理開始 PROCESSID:20251018_235417
+2025-10-18 23:54:20,632 - INFO - 対象ユーザー: lumi_915
+2025-10-18 23:54:20,632 - INFO - 処理を開始します
+2025-10-18 23:54:20,695 - INFO - 選択されたプロファイル: Profile 9
+2025-10-18 23:54:20,695 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-18 23:54:25,921 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-18 23:54:48,194 - INFO - プロフィール写真のクリックに成功しました
+2025-10-18 23:54:51,589 - INFO - 動画の取得に失敗しました
+2025-10-18 23:54:51,590 - INFO - datetime属性の抽出を開始します
+2025-10-18 23:55:01,978 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xb3fe83+66515]
+	GetHandleVerifier [0x0xb3fec4+66580]
+	(No symbol) [0x0x92dc48]
+	(No symbol) [0x0x978704]
+	(No symbol) [0x0x978aab]
+	(No symbol) [0x0x9bf482]
+	(No symbol) [0x0x99b214]
+	(No symbol) [0x0x9bcba7]
+	(No symbol) [0x0x99afc6]
+	(No symbol) [0x0x96c2ca]
+	(No symbol) [0x0x96d154]
+	GetHandleVerifier [0x0xd973b3+2521347]
+	GetHandleVerifier [0x0xd92333+2500739]
+	GetHandleVerifier [0x0xb67cd4+229924]
+	GetHandleVerifier [0x0xb58238+165768]
+	GetHandleVerifier [0x0xb5eced+193085]
+	GetHandleVerifier [0x0xb48198+100072]
+	GetHandleVerifier [0x0xb48330+100480]
+	GetHandleVerifier [0x0xb325ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-18 23:55:12,255 - INFO - 画像の取得に失敗しました
+2025-10-18 23:55:14,660 - INFO - 処理終了

@@ -1,0 +1,178 @@
+================================================================================
+2025-10-05 01:37:43,664 - INFO - 処理開始 PROCESSID:20251005_013740
+2025-10-05 01:37:43,665 - INFO - 対象ユーザー: fupao_tsurumi
+2025-10-05 01:37:43,665 - INFO - 処理を開始します
+2025-10-05 01:37:43,724 - INFO - 選択されたプロファイル: Profile 12
+2025-10-05 01:37:43,726 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-05 01:37:49,478 - INFO - fupao_tsurumi のプロフィールページにアクセスします
+2025-10-05 01:38:11,828 - INFO - プロフィール写真のクリックに成功しました
+2025-10-05 01:38:12,626 - INFO - fupao_tsurumi: 動画を検出しました
+2025-10-05 01:38:12,627 - INFO - datetime属性の抽出を開始します
+2025-10-05 01:38:13,104 - INFO - 抽出されたdatetime: 2025-10-04T07:43:09.000Z
+2025-10-05 01:38:13,104 - INFO - fupao_tsurumi の投稿日時: 2025-10-04T07:43:09.000Z
+2025-10-05 01:38:14,348 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m78/AQOvw82iCpxdyEUpgBnsWRoiXPYg_JwKY92bxp2EM67GeA4s8TYTydElD84_S2rz2omvdPTWMXhSwgIY0fQezqYy6N_UniB_B69jZ0c.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=KmsM-wxY8DUQ7kNvwFIa4X-&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNTMxNDMyODMxMzQ1MzMyLCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=0sY9XpNTjm_AKKBO3dwMpw&_nc_zt=28&oh=00_Afep5TYH46h4Eh9BNryN950NGf4YV4JLg1oD9f6H0C-HrA&oe=68E3A721&bytestart=0&byteend=61665
+2025-10-05 01:38:14,348 - INFO - 動画URLを取得しました
+2025-10-05 01:38:14,487 - INFO - INSERT(with-key): user=fupao_tsurumi, key=AQOvw82iCpxdyEUpgBnsWRoiXPYg_JwKY92bxp2EM67GeA4s8TYTydElD84_S2rz2omvdPTWMXhSwgIY0fQezqYy6N_UniB_B69jZ0c, dt=2025-10-04T07:43:09.000Z
+2025-10-05 01:38:16,635 - INFO - ダウンロードを開始します: media\fupao_tsurumi\fupao_tsurumi_20251005013816.mp4
+2025-10-05 01:38:17,001 - INFO - ダウンロード完了: media\fupao_tsurumi\fupao_tsurumi_20251005013816.mp4
+2025-10-05 01:38:21,259 - INFO - 処理終了
+2025-10-05 01:38:21,261 - INFO - 説明文_AI: None
+2025-10-05 01:38:21,261 - INFO - 説明文_最終: 
+================================================================================
+2025-10-05 01:38:27,472 - INFO - 処理開始: Mode=story, Username=fupao_tsurumi, GBP=08026063317982521246
+2025-10-05 01:38:27,472 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwODAyNjA2MzMxNzk4MjUyMTI0NiJd.
+2025-10-05 01:38:51,645 - INFO - 元の動画サイズ: 360x640
+2025-10-05 01:38:51,645 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-05 01:38:51,645 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_tsurumi\fupao_tsurumi_20251005013816.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_tsurumi\fupao_tsurumi_20251005013816_resized.mp4
+2025-10-05 01:38:54,444 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_tsurumi\fupao_tsurumi_20251005013816_resized.mp4
+2025-10-05 01:38:54,444 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_tsurumi\fupao_tsurumi_20251005013816.mp4
+2025-10-05 01:38:54,444 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_tsurumi\fupao_tsurumi_20251005013816_resized.mp4
+2025-10-05 01:39:05,000 - INFO - 一時ファイルが見つかりません: media\fupao_tsurumi\description\20251005_013740
+2025-10-05 01:39:05,000 - INFO - Looking for button section...
+2025-10-05 01:39:09,548 - INFO - Trying to select CALL option...
+2025-10-05 01:39:09,812 - INFO - CALL option successfully selected
+2025-10-05 01:39:11,812 - INFO - Clicking submit button...
+2025-10-05 01:39:20,531 - INFO - 処理完了
+================================================================================
+2025-10-05 06:47:18,281 - INFO - 処理開始 PROCESSID:20251005_064711
+2025-10-05 06:47:18,281 - INFO - 対象ユーザー: fupao_tsurumi
+2025-10-05 06:47:18,281 - INFO - 処理を開始します
+2025-10-05 06:47:18,415 - INFO - 選択されたプロファイル: Profile 13
+2025-10-05 06:47:18,415 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-05 06:47:24,883 - INFO - fupao_tsurumi のプロフィールページにアクセスします
+2025-10-05 06:47:47,160 - INFO - プロフィール写真のクリックに成功しました
+2025-10-05 06:47:47,879 - INFO - fupao_tsurumi: 動画を検出しました
+2025-10-05 06:47:47,880 - INFO - datetime属性の抽出を開始します
+2025-10-05 06:47:47,935 - INFO - 抽出されたdatetime: 2025-10-04T07:43:09.000Z
+2025-10-05 06:47:47,935 - INFO - fupao_tsurumi の投稿日時: 2025-10-04T07:43:09.000Z
+2025-10-05 06:47:49,149 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t16/f2/m69/AQNHv0fwe6yoaXOaCr05gDM61OOyZ_qw25mTgI-4Ggw7dyGBLCaUS-XSVzZNFv0UWKRc_3_VB14O4O1MH1Ej2c4w.mp4?strext=1&_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=pTY01AOQbuoQ7kNvwEraevn&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmFkLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5LWFkc19xNzAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6NDEzNjQ1OTM5OTk0NjY5MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=f91L7vshYtm1fHgUlDBVWA&_nc_zt=28&oh=00_Afd8f_Vy2A9swRJJmjm1_ixBIzR8p-yHRXsr-vMCCNGppA&oe=68E7F9A4&bytestart=0&byteend=2111927
+2025-10-05 06:47:49,149 - INFO - 動画URLを取得しました
+2025-10-05 06:47:49,375 - INFO - INSERT(with-key): user=fupao_tsurumi, key=AQNHv0fwe6yoaXOaCr05gDM61OOyZ_qw25mTgI-4Ggw7dyGBLCaUS-XSVzZNFv0UWKRc_3_VB14O4O1MH1Ej2c4w, dt=2025-10-04T07:43:09.000Z
+2025-10-05 06:47:51,568 - INFO - ダウンロードを開始します: media\fupao_tsurumi\fupao_tsurumi_20251005064751.mp4
+2025-10-05 06:47:52,307 - INFO - ダウンロード完了: media\fupao_tsurumi\fupao_tsurumi_20251005064751.mp4
+2025-10-05 06:47:56,078 - INFO - 処理終了
+2025-10-05 06:47:56,080 - INFO - 説明文_AI: None
+2025-10-05 06:47:56,080 - INFO - 説明文_最終: 
+================================================================================
+2025-10-05 06:48:02,236 - INFO - 処理開始: Mode=story, Username=fupao_tsurumi, GBP=08026063317982521246
+2025-10-05 06:48:02,237 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwODAyNjA2MzMxNzk4MjUyMTI0NiJd.
+2025-10-05 06:48:29,669 - INFO - 元の動画サイズ: 720x1280
+2025-10-05 06:48:29,669 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-05 06:48:29,669 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_tsurumi\fupao_tsurumi_20251005064751.mp4
+2025-10-05 06:48:40,356 - INFO - 一時ファイルが見つかりません: media\fupao_tsurumi\description\20251005_064711
+2025-10-05 06:48:40,356 - INFO - Looking for button section...
+2025-10-05 06:48:45,338 - INFO - Trying to select CALL option...
+2025-10-05 06:48:45,591 - INFO - CALL option successfully selected
+2025-10-05 06:48:47,592 - INFO - Clicking submit button...
+2025-10-05 06:48:59,807 - INFO - 処理完了
+================================================================================
+2025-10-05 11:54:05,706 - INFO - 処理開始 PROCESSID:20251005_115359
+2025-10-05 11:54:05,706 - INFO - 対象ユーザー: fupao_tsurumi
+2025-10-05 11:54:05,706 - INFO - 処理を開始します
+2025-10-05 11:54:05,825 - INFO - 選択されたプロファイル: Profile 12
+2025-10-05 11:54:05,826 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-05 11:54:17,508 - INFO - fupao_tsurumi のプロフィールページにアクセスします
+2025-10-05 11:54:42,582 - INFO - プロフィール写真のクリックに成功しました
+2025-10-05 11:54:45,728 - INFO - 動画の取得に失敗しました
+2025-10-05 11:54:45,729 - INFO - datetime属性の抽出を開始します
+2025-10-05 11:54:56,185 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa4c333+65459]
+	GetHandleVerifier [0x0xa4c374+65524]
+	(No symbol) [0x0x86d973]
+	(No symbol) [0x0x8b76e7]
+	(No symbol) [0x0x8b7a8b]
+	(No symbol) [0x0x8fdea2]
+	(No symbol) [0x0x8d9e44]
+	(No symbol) [0x0x8fb606]
+	(No symbol) [0x0x8d9bf6]
+	(No symbol) [0x0x8ab38e]
+	(No symbol) [0x0x8ac274]
+	GetHandleVerifier [0x0xcceda3+2697763]
+	GetHandleVerifier [0x0xcc9ec7+2677575]
+	GetHandleVerifier [0x0xa74194+228884]
+	GetHandleVerifier [0x0xa649f8+165496]
+	GetHandleVerifier [0x0xa6b18d+192013]
+	GetHandleVerifier [0x0xa547d8+99416]
+	GetHandleVerifier [0x0xa54972+99826]
+	GetHandleVerifier [0x0xa3ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-05 11:55:06,614 - INFO - 画像の取得に失敗しました
+2025-10-05 11:55:09,044 - INFO - 処理終了
+================================================================================
+2025-10-05 16:40:44,325 - INFO - 処理開始 PROCESSID:20251005_164041
+2025-10-05 16:40:44,325 - INFO - 対象ユーザー: fupao_tsurumi
+2025-10-05 16:40:44,326 - INFO - 処理を開始します
+2025-10-05 16:40:44,379 - INFO - 選択されたプロファイル: Profile 9
+2025-10-05 16:40:44,379 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-05 16:40:48,920 - INFO - fupao_tsurumi のプロフィールページにアクセスします
+2025-10-05 16:41:11,381 - INFO - プロフィール写真のクリックに成功しました
+2025-10-05 16:41:14,553 - INFO - 動画の取得に失敗しました
+2025-10-05 16:41:14,554 - INFO - datetime属性の抽出を開始します
+2025-10-05 16:41:24,995 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa4c333+65459]
+	GetHandleVerifier [0x0xa4c374+65524]
+	(No symbol) [0x0x86d973]
+	(No symbol) [0x0x8b76e7]
+	(No symbol) [0x0x8b7a8b]
+	(No symbol) [0x0x8fdea2]
+	(No symbol) [0x0x8d9e44]
+	(No symbol) [0x0x8fb606]
+	(No symbol) [0x0x8d9bf6]
+	(No symbol) [0x0x8ab38e]
+	(No symbol) [0x0x8ac274]
+	GetHandleVerifier [0x0xcceda3+2697763]
+	GetHandleVerifier [0x0xcc9ec7+2677575]
+	GetHandleVerifier [0x0xa74194+228884]
+	GetHandleVerifier [0x0xa649f8+165496]
+	GetHandleVerifier [0x0xa6b18d+192013]
+	GetHandleVerifier [0x0xa547d8+99416]
+	GetHandleVerifier [0x0xa54972+99826]
+	GetHandleVerifier [0x0xa3ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-05 16:41:35,368 - INFO - 画像の取得に失敗しました
+2025-10-05 16:41:38,792 - INFO - 処理終了
+================================================================================
+2025-10-05 21:19:17,906 - INFO - 処理開始 PROCESSID:20251005_211911
+2025-10-05 21:19:17,906 - INFO - 対象ユーザー: fupao_tsurumi
+2025-10-05 21:19:17,906 - INFO - 処理を開始します
+2025-10-05 21:19:18,030 - INFO - 選択されたプロファイル: Profile 10
+2025-10-05 21:19:18,030 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-05 21:19:24,993 - INFO - fupao_tsurumi のプロフィールページにアクセスします
+2025-10-05 21:19:47,524 - INFO - プロフィール写真のクリックに成功しました
+2025-10-05 21:19:50,738 - INFO - 動画の取得に失敗しました
+2025-10-05 21:19:50,739 - INFO - datetime属性の抽出を開始します
+2025-10-05 21:20:01,112 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa4c333+65459]
+	GetHandleVerifier [0x0xa4c374+65524]
+	(No symbol) [0x0x86d973]
+	(No symbol) [0x0x8b76e7]
+	(No symbol) [0x0x8b7a8b]
+	(No symbol) [0x0x8fdea2]
+	(No symbol) [0x0x8d9e44]
+	(No symbol) [0x0x8fb606]
+	(No symbol) [0x0x8d9bf6]
+	(No symbol) [0x0x8ab38e]
+	(No symbol) [0x0x8ac274]
+	GetHandleVerifier [0x0xcceda3+2697763]
+	GetHandleVerifier [0x0xcc9ec7+2677575]
+	GetHandleVerifier [0x0xa74194+228884]
+	GetHandleVerifier [0x0xa649f8+165496]
+	GetHandleVerifier [0x0xa6b18d+192013]
+	GetHandleVerifier [0x0xa547d8+99416]
+	GetHandleVerifier [0x0xa54972+99826]
+	GetHandleVerifier [0x0xa3ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-05 21:20:11,424 - INFO - 画像の取得に失敗しました
+2025-10-05 21:20:13,809 - INFO - 処理終了

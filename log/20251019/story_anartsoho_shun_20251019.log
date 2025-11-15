@@ -1,0 +1,124 @@
+================================================================================
+2025-10-19 00:36:56,174 - INFO - 処理開始 PROCESSID:20251019_003652
+2025-10-19 00:36:56,174 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-19 00:36:56,174 - INFO - 処理を開始します
+2025-10-19 00:36:56,237 - INFO - 選択されたプロファイル: Profile 13
+2025-10-19 00:36:56,237 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-19 00:37:02,338 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-19 00:37:24,579 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 00:37:25,667 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-19 00:37:25,667 - INFO - datetime属性の抽出を開始します
+2025-10-19 00:37:25,700 - INFO - 抽出されたdatetime: 2025-10-18T03:20:58.000Z
+2025-10-19 00:37:25,701 - INFO - anartsoho_shun の投稿日時: 2025-10-18T03:20:58.000Z
+2025-10-19 00:37:27,366 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=1lwPxfXnnlgQ7kNvwExM4XF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=cYue2zrh3VvFjg6wogskuw&_nc_zt=28&oh=00_AfdsDA_sGuqFecUou-QmU-9i23eVjy42qG30jRK7rNBLMg&oe=68FA1809&bytestart=0&byteend=3025484
+2025-10-19 00:37:27,368 - INFO - 動画URLを取得しました
+2025-10-19 00:37:27,375 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=anartsoho_shun, key=AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw, dt=2025-10-18T03:20:58.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=1lwPxfXnnlgQ7kNvwExM4XF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=cYue2zrh3VvFjg6wogskuw&_nc_zt=28&oh=00_AfdsDA_sGuqFecUou-QmU-9i23eVjy42qG30jRK7rNBLMg&oe=68FA1809&bytestart=0&byteend=3025484, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('anartsoho_shun', 'AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=1lwPxfXnnlgQ7kNvwExM4XF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=cYue2zrh3VvFjg6wogskuw&_nc_zt=28&oh=00_AfdsDA_sGuqFecUou-QmU-9i23eVjy42qG30jRK7rNBLMg&oe=68FA1809&bytestart=0&byteend=3025484', '2025-10-18T03:20:58.000Z')
+================================================================================
+2025-10-19 04:51:22,270 - INFO - 処理開始 PROCESSID:20251019_045118
+2025-10-19 04:51:22,270 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-19 04:51:22,270 - INFO - 処理を開始します
+2025-10-19 04:51:22,328 - INFO - 選択されたプロファイル: Profile 12
+2025-10-19 04:51:22,328 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-19 04:51:28,508 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-19 04:51:51,457 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 04:51:52,540 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-19 04:51:52,540 - INFO - datetime属性の抽出を開始します
+2025-10-19 04:51:52,681 - INFO - 抽出されたdatetime: 2025-10-18T06:44:21.000Z
+2025-10-19 04:51:52,682 - INFO - anartsoho_shun の投稿日時: 2025-10-18T06:44:21.000Z
+2025-10-19 04:51:54,566 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=1lwPxfXnnlgQ7kNvwExM4XF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=gYMuNQEJeQEQr3u8bTxEZg&_nc_zt=28&oh=00_Afd13Lmn453tyEi9C3COfX8zTgBpEt8ExzH9TLPJ1X_8Dw&oe=68FA5049&bytestart=0&byteend=3025484
+2025-10-19 04:51:54,567 - INFO - 動画URLを取得しました
+2025-10-19 04:51:54,571 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=anartsoho_shun, key=AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw, dt=2025-10-18T06:44:21.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=1lwPxfXnnlgQ7kNvwExM4XF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=gYMuNQEJeQEQr3u8bTxEZg&_nc_zt=28&oh=00_Afd13Lmn453tyEi9C3COfX8zTgBpEt8ExzH9TLPJ1X_8Dw&oe=68FA5049&bytestart=0&byteend=3025484, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('anartsoho_shun', 'AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=1lwPxfXnnlgQ7kNvwExM4XF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=gYMuNQEJeQEQr3u8bTxEZg&_nc_zt=28&oh=00_Afd13Lmn453tyEi9C3COfX8zTgBpEt8ExzH9TLPJ1X_8Dw&oe=68FA5049&bytestart=0&byteend=3025484', '2025-10-18T06:44:21.000Z')
+================================================================================
+2025-10-19 09:08:33,454 - INFO - 処理開始 PROCESSID:20251019_090830
+2025-10-19 09:08:33,454 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-19 09:08:33,454 - INFO - 処理を開始します
+2025-10-19 09:08:33,521 - INFO - 選択されたプロファイル: Profile 10
+2025-10-19 09:08:33,521 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-19 09:08:39,985 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-19 09:09:02,030 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 09:09:02,868 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-19 09:09:02,868 - INFO - datetime属性の抽出を開始します
+2025-10-19 09:09:02,937 - INFO - 抽出されたdatetime: 2025-10-19T04:01:33.000Z
+2025-10-19 09:09:02,938 - INFO - anartsoho_shun の投稿日時: 2025-10-19T04:01:33.000Z
+2025-10-19 09:09:04,500 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=1lwPxfXnnlgQ7kNvwExM4XF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6ODY5MzU0MTYyOTIwMTI4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=izr8tm70PHbMKg4Yf3Yy6g&_nc_zt=28&oh=00_AfeETif9iHN3ZbkcPPruHv_z9tbVtS0o5IU5exkQxV5HLA&oe=68FA8889&bytestart=0&byteend=3025484
+2025-10-19 09:09:04,501 - INFO - 動画URLを取得しました
+2025-10-19 09:09:04,575 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=anartsoho_shun, key=AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw, dt=2025-10-19T04:01:33.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=1lwPxfXnnlgQ7kNvwExM4XF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6ODY5MzU0MTYyOTIwMTI4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=izr8tm70PHbMKg4Yf3Yy6g&_nc_zt=28&oh=00_AfeETif9iHN3ZbkcPPruHv_z9tbVtS0o5IU5exkQxV5HLA&oe=68FA8889&bytestart=0&byteend=3025484, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('anartsoho_shun', 'AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=1lwPxfXnnlgQ7kNvwExM4XF&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6ODY5MzU0MTYyOTIwMTI4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=izr8tm70PHbMKg4Yf3Yy6g&_nc_zt=28&oh=00_AfeETif9iHN3ZbkcPPruHv_z9tbVtS0o5IU5exkQxV5HLA&oe=68FA8889&bytestart=0&byteend=3025484', '2025-10-19T04:01:33.000Z')
+================================================================================
+2025-10-19 13:25:55,350 - INFO - 処理開始 PROCESSID:20251019_132552
+2025-10-19 13:25:55,350 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-19 13:25:55,350 - INFO - 処理を開始します
+2025-10-19 13:25:55,412 - INFO - 選択されたプロファイル: Profile 13
+2025-10-19 13:25:55,412 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-19 13:26:01,832 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-19 13:26:24,407 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 13:26:25,162 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-19 13:26:25,162 - INFO - datetime属性の抽出を開始します
+2025-10-19 13:26:25,275 - INFO - 抽出されたdatetime: 2025-10-19T04:01:33.000Z
+2025-10-19 13:26:25,275 - INFO - anartsoho_shun の投稿日時: 2025-10-19T04:01:33.000Z
+2025-10-19 13:26:26,769 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOnKN8NpYhaXxm3K-9idKW9wY__aX9xGd-jPba_C3wSsvyEsi2cjiqevHUHmAVfzzdshubxGgSutIdivfjHmMayKzJHpOXl0LaF1Nw.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=5nn6O77Om6wQ7kNvwECl2gY&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E2MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo3MDE0NzcxNTI5MzIwNDgsInZpX3VzZWNhc2VfaWQiOjEwODI3LCJkdXJhdGlvbl9zIjoyMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Who-ppBkuDsFeCdtHVLLvw&_nc_zt=28&oh=00_AffT60zFFPl2fVBhJXq70aXF76L6xU4zC-TLodE_3-fNyQ&oe=68FABA30&bytestart=0&byteend=1115520
+2025-10-19 13:26:26,770 - INFO - 動画URLを取得しました
+2025-10-19 13:26:26,897 - INFO - INSERT(with-key): user=anartsoho_shun, key=AQOnKN8NpYhaXxm3K-9idKW9wY__aX9xGd-jPba_C3wSsvyEsi2cjiqevHUHmAVfzzdshubxGgSutIdivfjHmMayKzJHpOXl0LaF1Nw, dt=2025-10-19T04:01:33.000Z
+2025-10-19 13:26:28,911 - INFO - ダウンロードを開始します: media\anartsoho_shun\anartsoho_shun_20251019132628.mp4
+2025-10-19 13:26:31,318 - INFO - ダウンロード完了: media\anartsoho_shun\anartsoho_shun_20251019132628.mp4
+2025-10-19 13:26:35,742 - INFO - 処理終了
+2025-10-19 13:26:35,744 - INFO - 説明文_AI: None
+2025-10-19 13:26:35,744 - INFO - 説明文_最終: 
+================================================================================
+2025-10-19 13:26:41,844 - INFO - 処理開始: Mode=story, Username=anartsoho_shun, GBP=5450809710664299854
+2025-10-19 13:26:41,844 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICI1NDUwODA5NzEwNjY0Mjk5ODU0Il0.
+2025-10-19 13:27:06,931 - INFO - 元の動画サイズ: 720x1280
+2025-10-19 13:27:06,931 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-19 13:27:06,931 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\anartsoho_shun\anartsoho_shun_20251019132628.mp4
+2025-10-19 13:27:16,989 - INFO - 一時ファイルが見つかりません: media\anartsoho_shun\description\20251019_132552
+2025-10-19 13:27:16,989 - INFO - Looking for button section...
+2025-10-19 13:27:21,540 - INFO - Trying to select CALL option...
+2025-10-19 13:27:21,775 - INFO - CALL option successfully selected
+2025-10-19 13:27:23,776 - INFO - Clicking submit button...
+2025-10-19 13:27:33,501 - INFO - 処理完了
+================================================================================
+2025-10-19 17:42:07,412 - INFO - 処理開始 PROCESSID:20251019_174201
+2025-10-19 17:42:07,412 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-19 17:42:07,412 - INFO - 処理を開始します
+2025-10-19 17:42:07,530 - INFO - 選択されたプロファイル: Profile 9
+2025-10-19 17:42:07,530 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-19 17:42:18,827 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-19 17:42:46,086 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 17:42:46,936 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-19 17:42:46,937 - INFO - datetime属性の抽出を開始します
+2025-10-19 17:42:47,161 - INFO - 抽出されたdatetime: 2025-10-19T04:01:33.000Z
+2025-10-19 17:42:47,161 - INFO - anartsoho_shun の投稿日時: 2025-10-19T04:01:33.000Z
+2025-10-19 17:42:48,948 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQNccnRqscMC8Nz-Sdn6v7mB1xjYum0lb_yORfDofKmy1rVYA2A0E2TV79Tpdc8w-WsXeOpj4hsePXZ4JTPEIj9AsPxR9QCOoRtQuidBrigUiA.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=SqXDReaabO0Q7kNvwH2AirW&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6ODIzMTcyNjM2Nzg1NzM0LCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Z3z7hxDbqQCF7me2aCNB5g&_nc_zt=28&oh=00_AfcFz42fxKl8iCSGw9SAfZYjUz45Zw1hDEOEV6CJE5GQgw&oe=68FAF7EE&bytestart=0&byteend=1766660
+2025-10-19 17:42:48,949 - INFO - 動画URLを取得しました
+2025-10-19 17:42:49,001 - INFO - INSERT(with-key): user=anartsoho_shun, key=AQNccnRqscMC8Nz-Sdn6v7mB1xjYum0lb_yORfDofKmy1rVYA2A0E2TV79Tpdc8w-WsXeOpj4hsePXZ4JTPEIj9AsPxR9QCOoRtQuidBrigUiA, dt=2025-10-19T04:01:33.000Z
+2025-10-19 17:42:51,169 - INFO - ダウンロードを開始します: media\anartsoho_shun\anartsoho_shun_20251019174251.mp4
+2025-10-19 17:42:53,701 - INFO - ダウンロード完了: media\anartsoho_shun\anartsoho_shun_20251019174251.mp4
+2025-10-19 17:42:57,527 - INFO - 処理終了
+2025-10-19 17:42:57,529 - INFO - 説明文_AI: None
+2025-10-19 17:42:57,529 - INFO - 説明文_最終: 
+================================================================================
+2025-10-19 17:43:04,861 - INFO - 処理開始: Mode=story, Username=anartsoho_shun, GBP=5450809710664299854
+2025-10-19 17:43:04,861 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICI1NDUwODA5NzEwNjY0Mjk5ODU0Il0.
+2025-10-19 17:43:33,415 - INFO - 元の動画サイズ: 1080x1920
+2025-10-19 17:43:33,415 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-19 17:43:33,415 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\anartsoho_shun\anartsoho_shun_20251019174251.mp4
+2025-10-19 17:43:43,480 - INFO - 一時ファイルが見つかりません: media\anartsoho_shun\description\20251019_174201
+2025-10-19 17:43:43,480 - INFO - Looking for button section...
+2025-10-19 17:43:48,036 - INFO - Trying to select CALL option...
+2025-10-19 17:43:48,258 - INFO - CALL option successfully selected
+2025-10-19 17:43:50,259 - INFO - Clicking submit button...
+2025-10-19 17:43:59,963 - INFO - 処理完了
+================================================================================
+2025-10-19 23:13:16,759 - INFO - 処理開始 PROCESSID:20251019_231310
+2025-10-19 23:13:16,759 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-19 23:13:16,759 - INFO - 処理を開始します
+2025-10-19 23:13:16,894 - INFO - 選択されたプロファイル: Profile 12
+2025-10-19 23:13:16,894 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-19 23:13:28,069 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-19 23:13:56,084 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 23:13:56,793 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-19 23:13:56,793 - INFO - datetime属性の抽出を開始します
+2025-10-19 23:13:56,840 - INFO - 抽出されたdatetime: 2025-10-19T04:01:33.000Z
+2025-10-19 23:13:56,841 - INFO - anartsoho_shun の投稿日時: 2025-10-19T04:01:33.000Z
+2025-10-19 23:13:58,424 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQO9xMdbhuwqyy5-e3r8No7v7sNzG5aGo7G-uaaZqz8bfG0dD83Vk_20SrUPlYftSsWEUgdmeNNi8A_cfrLvVn6BpyEw6b48zqwCT7o_8oDBrg.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=tldnnl63vqsQ7kNvwE2ZoEU&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=jQWUbiL_IHXTGKbCL9vODg&_nc_zt=28&oh=00_AfdR_J0JOsEp7nDeOfDrEAewtRyuG2dKkhr1e3mqSpX4YA&oe=68FB3AD9&bytestart=0&byteend=530965
+2025-10-19 23:13:58,424 - INFO - 動画URLを取得しました
+2025-10-19 23:13:58,428 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=anartsoho_shun, key=AQO9xMdbhuwqyy5-e3r8No7v7sNzG5aGo7G-uaaZqz8bfG0dD83Vk_20SrUPlYftSsWEUgdmeNNi8A_cfrLvVn6BpyEw6b48zqwCT7o_8oDBrg, dt=2025-10-19T04:01:33.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQO9xMdbhuwqyy5-e3r8No7v7sNzG5aGo7G-uaaZqz8bfG0dD83Vk_20SrUPlYftSsWEUgdmeNNi8A_cfrLvVn6BpyEw6b48zqwCT7o_8oDBrg.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=tldnnl63vqsQ7kNvwE2ZoEU&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=jQWUbiL_IHXTGKbCL9vODg&_nc_zt=28&oh=00_AfdR_J0JOsEp7nDeOfDrEAewtRyuG2dKkhr1e3mqSpX4YA&oe=68FB3AD9&bytestart=0&byteend=530965, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('anartsoho_shun', 'AQO9xMdbhuwqyy5-e3r8No7v7sNzG5aGo7G-uaaZqz8bfG0dD83Vk_20SrUPlYftSsWEUgdmeNNi8A_cfrLvVn6BpyEw6b48zqwCT7o_8oDBrg', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQO9xMdbhuwqyy5-e3r8No7v7sNzG5aGo7G-uaaZqz8bfG0dD83Vk_20SrUPlYftSsWEUgdmeNNi8A_cfrLvVn6BpyEw6b48zqwCT7o_8oDBrg.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=tldnnl63vqsQ7kNvwE2ZoEU&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=jQWUbiL_IHXTGKbCL9vODg&_nc_zt=28&oh=00_AfdR_J0JOsEp7nDeOfDrEAewtRyuG2dKkhr1e3mqSpX4YA&oe=68FB3AD9&bytestart=0&byteend=530965', '2025-10-19T04:01:33.000Z')

@@ -1,0 +1,340 @@
+================================================================================
+2025-10-31 00:49:50,640 - INFO - 処理開始 PROCESSID:20251031_004947
+2025-10-31 00:49:50,640 - INFO - 対象ユーザー: hfhsp2c
+2025-10-31 00:49:50,640 - INFO - 処理を開始します
+2025-10-31 00:49:50,704 - INFO - 選択されたプロファイル: Profile 12
+2025-10-31 00:49:50,704 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-31 00:49:55,348 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-10-31 00:50:07,912 - INFO - 最新投稿を読み込みます
+2025-10-31 00:50:13,221 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-10-31 00:50:15,360 - INFO - ピン留めだが3日以上前(153日) → スキップ
+2025-10-31 00:50:15,360 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-10-31 00:50:17,164 - INFO - ピン留めだが3日以上前(169日) → スキップ
+2025-10-31 00:50:17,165 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-10-31 00:50:20,278 - INFO - ピン留めだが3日以上前(654日) → スキップ
+2025-10-31 00:50:20,278 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQc5gsYki3u/?hl=ja
+2025-10-31 00:50:26,131 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 00:50:29,975 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 00:50:30,255 - INFO - datetime属性の抽出を開始します
+2025-10-31 00:50:30,296 - INFO - 抽出されたdatetime: 2025-10-30T23:18:18.000Z
+2025-10-31 00:50:30,296 - INFO - hfhsp2c の投稿日時: 2025-10-30T23:18:18.000Z
+2025-10-31 00:50:30,323 - INFO - date:2025-10-31 08:18:18+09:00
+2025-10-31 00:50:30,325 - INFO - post_date:20251031
+2025-10-31 00:50:30,370 - INFO - 1枚目: blob:https://www.instagram.com/2992db2f-b690-4983-9978-33d148048a05
+2025-10-31 00:50:30,371 - INFO - [caption/by_username] 開始
+2025-10-31 00:50:30,512 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様フォト📷
+
+動きのあるヘアスタイルが好きな方におすすめ✂️
+
+存在感抜群の【クリクリパーマスタイル】で、周りと差をつけるヘアに✨
+
+スパイラルや細かめツイストなど、しっかりとカールを効かせたパー'
+2025-10-31 00:50:30,513 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251031_004947
+2025-10-31 00:50:32,320 - INFO - 生成URL:https://scontent-sin2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OUMP1jQErQmOqVwXyxL7HQ&_nc_zt=28&oh=00_Afdpy5KwYysI4Vcc5x4oQpbmBe9UzsGpTxjQvj8lypGs-w&oe=6905EFDE&bytestart=0&byteend=1356894
+2025-10-31 00:50:32,323 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=hfhsp2c, key=AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE, dt=2025-10-30T23:18:18.000Z, url=https://scontent-sin2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OUMP1jQErQmOqVwXyxL7HQ&_nc_zt=28&oh=00_Afdpy5KwYysI4Vcc5x4oQpbmBe9UzsGpTxjQvj8lypGs-w&oe=6905EFDE&bytestart=0&byteend=1356894, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('hfhsp2c', 'AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE', 'https://scontent-sin2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OUMP1jQErQmOqVwXyxL7HQ&_nc_zt=28&oh=00_Afdpy5KwYysI4Vcc5x4oQpbmBe9UzsGpTxjQvj8lypGs-w&oe=6905EFDE&bytestart=0&byteend=1356894', '2025-10-30T23:18:18.000Z')
+2025-10-31 00:50:32,324 - INFO - このレコードは存在します
+2025-10-31 00:50:32,324 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-31 03:47:00,858 - INFO - 処理開始 PROCESSID:20251031_034657
+2025-10-31 03:47:00,858 - INFO - 対象ユーザー: hfhsp2c
+2025-10-31 03:47:00,858 - INFO - 処理を開始します
+2025-10-31 03:47:00,922 - INFO - 選択されたプロファイル: Profile 12
+2025-10-31 03:47:00,922 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-31 03:47:05,583 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-10-31 03:47:17,141 - INFO - 最新投稿を読み込みます
+2025-10-31 03:47:22,498 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-10-31 03:47:25,604 - INFO - ピン留めだが3日以上前(154日) → スキップ
+2025-10-31 03:47:25,604 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-10-31 03:47:28,265 - INFO - ピン留めだが3日以上前(169日) → スキップ
+2025-10-31 03:47:28,265 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-10-31 03:47:31,513 - INFO - ピン留めだが3日以上前(654日) → スキップ
+2025-10-31 03:47:31,513 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQc5gsYki3u/?hl=ja
+2025-10-31 03:47:35,208 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 03:47:37,834 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 03:47:38,064 - INFO - datetime属性の抽出を開始します
+2025-10-31 03:47:38,212 - INFO - 抽出されたdatetime: 2025-10-30T23:18:18.000Z
+2025-10-31 03:47:38,212 - INFO - hfhsp2c の投稿日時: 2025-10-30T23:18:18.000Z
+2025-10-31 03:47:38,220 - INFO - date:2025-10-31 08:18:18+09:00
+2025-10-31 03:47:38,220 - INFO - post_date:20251031
+2025-10-31 03:47:38,269 - INFO - 1枚目: blob:https://www.instagram.com/75b8a889-3a38-459f-8a0e-9404636a9b13
+2025-10-31 03:47:38,270 - INFO - [caption/by_username] 開始
+2025-10-31 03:47:38,387 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様フォト📷
+
+動きのあるヘアスタイルが好きな方におすすめ✂️
+
+存在感抜群の【クリクリパーマスタイル】で、周りと差をつけるヘアに✨
+
+スパイラルや細かめツイストなど、しっかりとカールを効かせたパー'
+2025-10-31 03:47:38,389 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251031_034657
+2025-10-31 03:47:40,050 - INFO - 生成URL:https://scontent-sin11-1.cdninstagram.com/o1/v/t16/f2/m84/AQM2rvn-WutLDUFdU_BKzKTrCRI1P9Kv6KmkW0YNA76y8vs-tFQfYjdg6FbTO213F97f0cqIJJJ4VSUVIX9HZCnNeWweF8KWXjkCvCo.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_ohc=SqNJSB3EkTsQ7kNvwEjGPbb&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzEtQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE1Nzg3ODI4MTk3ODA5MjEsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ZE_WR11VHXWDkXjcJLenAQ&_nc_zt=28&oh=00_AffBumqE0Kd3bPS0Qx7HVkcO9IyNJfLl19j0Mx_ytS5Ufw&oe=690608E4&bytestart=0&byteend=1283174
+2025-10-31 03:47:40,093 - INFO - INSERT(with-key): user=hfhsp2c, key=AQM2rvn-WutLDUFdU_BKzKTrCRI1P9Kv6KmkW0YNA76y8vs-tFQfYjdg6FbTO213F97f0cqIJJJ4VSUVIX9HZCnNeWweF8KWXjkCvCo, dt=2025-10-30T23:18:18.000Z
+2025-10-31 03:47:42,095 - INFO - ダウンロードを開始します: media\hfhsp2c\hfhsp2c_20251031034742.mp4
+2025-10-31 03:47:42,822 - INFO - ダウンロード完了: media\hfhsp2c\hfhsp2c_20251031034742.mp4
+2025-10-31 03:47:42,823 - INFO - 説明文:お客様フォト📷
+
+動きのあるヘアスタイルが好きな方におすすめ✂️
+
+存在感抜群の【クリクリパーマスタイル】で、周りと差をつけるヘアに✨
+
+スパイラルや細かめツイストなど、しっかりとカールを効かせたパーマは、スタイリングもラクで朝の時短にも👍
+
+無造作に仕上げるだけでこなれ感が出て、ファッションとの相性もバッチリ🎯
+
+✔ ボリュームが欲しい
+✔ 普通のパーマじゃ物足りない
+
+そんな方にぴったりの攻めスタイル🌿
+
+「自分に似合うクルクルパーマってどんなの❓」という方も、お気軽にご相談ください😊
+
+あなただけの最旬パーマ、しっかりご提案します✌️
+
+担当　@p2c_naoto 
+
+========= hair design p2c =========
+
+【営業時間】
+9:00～19:00（パーマ・カラー最終受付17:00）
+
+定休日　毎週火曜日・第3月曜日 
+
+◆ご予約はこちら↓
+ホットペッパービューティー
+https://beauty.hotpepper.jp/slnH000379778/
+
+住所📍
+栃木県佐野市並木町1779 
+
+=============================
+
+#p2c #ピニック #美容室 #美容院 #美容師 #髪型 #ヘアカット　#カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #縮毛矯正 #ヘアサロン #ヘッドスパ #佐野市美容院 #佐野市美容室 #佐野市ヘアサロン #佐野市ヘアカット #佐野市髪質改善 #佐野市美容室メンズ #佐野市女性人気美容室 #佐野市並木町美容室 #佐野市並木町美容院 #佐野市並木町ヘアサロン #佐野駅 #佐野駅美容院 #
+2025-10-31 03:47:45,269 - INFO - 処理終了
+================================================================================
+2025-10-31 03:47:51,227 - INFO - 処理開始: Mode=post, Username=hfhsp2c, GBP=16579664487385497265
+2025-10-31 03:47:51,227 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxNjU3OTY2NDQ4NzM4NTQ5NzI2NSJd.
+2025-10-31 03:48:14,829 - INFO - 元の動画サイズ: 720x960
+2025-10-31 03:48:14,829 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-31 03:48:14,829 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsp2c\hfhsp2c_20251031034742.mp4
+2025-10-31 03:48:24,895 - INFO - Waiting for description field...
+2025-10-31 03:48:24,925 - INFO - Setting description via JS (no send_keys)...
+2025-10-31 03:48:26,041 - INFO - Looking for button section...
+2025-10-31 03:48:30,532 - INFO - Trying to select CALL option...
+2025-10-31 03:48:30,830 - INFO - CALL option successfully selected
+2025-10-31 03:48:32,830 - INFO - Clicking submit button...
+2025-10-31 03:48:42,474 - INFO - 処理完了
+================================================================================
+2025-10-31 06:43:33,935 - INFO - 処理開始 PROCESSID:20251031_064330
+2025-10-31 06:43:33,935 - INFO - 対象ユーザー: hfhsp2c
+2025-10-31 06:43:33,935 - INFO - 処理を開始します
+2025-10-31 06:43:34,012 - INFO - 選択されたプロファイル: Profile 13
+2025-10-31 06:43:34,012 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-31 06:43:38,703 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-10-31 06:43:50,972 - INFO - 最新投稿を読み込みます
+2025-10-31 06:43:56,406 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-10-31 06:43:59,523 - INFO - ピン留めだが3日以上前(154日) → スキップ
+2025-10-31 06:43:59,523 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-10-31 06:44:03,335 - INFO - ピン留めだが3日以上前(169日) → スキップ
+2025-10-31 06:44:03,335 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-10-31 06:44:07,686 - INFO - ピン留めだが3日以上前(654日) → スキップ
+2025-10-31 06:44:07,687 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQc5gsYki3u/?hl=ja
+2025-10-31 06:44:13,519 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 06:44:18,539 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 06:44:18,660 - INFO - datetime属性の抽出を開始します
+2025-10-31 06:44:18,687 - INFO - 抽出されたdatetime: 2025-10-30T23:18:18.000Z
+2025-10-31 06:44:18,688 - INFO - hfhsp2c の投稿日時: 2025-10-30T23:18:18.000Z
+2025-10-31 06:44:18,697 - INFO - date:2025-10-31 08:18:18+09:00
+2025-10-31 06:44:18,697 - INFO - post_date:20251031
+2025-10-31 06:44:18,733 - INFO - 1枚目: blob:https://www.instagram.com/fd3f52f2-fe06-4234-b04d-96e69f09ce55
+2025-10-31 06:44:18,733 - INFO - [caption/by_username] 開始
+2025-10-31 06:44:18,847 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様フォト📷
+
+動きのあるヘアスタイルが好きな方におすすめ✂️
+
+存在感抜群の【クリクリパーマスタイル】で、周りと差をつけるヘアに✨
+
+スパイラルや細かめツイストなど、しっかりとカールを効かせたパー'
+2025-10-31 06:44:18,849 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251031_064330
+2025-10-31 06:44:20,623 - INFO - 生成URL:https://scontent-sin2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bjdhiWM2sXmgVPULCLIXxw&_nc_zt=28&oh=00_AfdTBLJ638wG1yli2mrpGefkPpLoH4HOtUoDOhM2aPBhBw&oe=6906281E&bytestart=0&byteend=1356894
+2025-10-31 06:44:20,629 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=hfhsp2c, key=AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE, dt=2025-10-30T23:18:18.000Z, url=https://scontent-sin2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bjdhiWM2sXmgVPULCLIXxw&_nc_zt=28&oh=00_AfdTBLJ638wG1yli2mrpGefkPpLoH4HOtUoDOhM2aPBhBw&oe=6906281E&bytestart=0&byteend=1356894, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('hfhsp2c', 'AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE', 'https://scontent-sin2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bjdhiWM2sXmgVPULCLIXxw&_nc_zt=28&oh=00_AfdTBLJ638wG1yli2mrpGefkPpLoH4HOtUoDOhM2aPBhBw&oe=6906281E&bytestart=0&byteend=1356894', '2025-10-30T23:18:18.000Z')
+2025-10-31 06:44:20,629 - INFO - このレコードは存在します
+2025-10-31 06:44:20,629 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-31 09:45:43,736 - INFO - 処理開始 PROCESSID:20251031_094540
+2025-10-31 09:45:43,736 - INFO - 対象ユーザー: hfhsp2c
+2025-10-31 09:45:43,736 - INFO - 処理を開始します
+2025-10-31 09:45:43,793 - INFO - 選択されたプロファイル: Profile 13
+2025-10-31 09:45:43,793 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-31 09:45:48,187 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-10-31 09:45:59,936 - INFO - 最新投稿を読み込みます
+2025-10-31 09:46:05,217 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-10-31 09:46:08,073 - INFO - ピン留めだが3日以上前(154日) → スキップ
+2025-10-31 09:46:08,073 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-10-31 09:46:11,632 - INFO - ピン留めだが3日以上前(169日) → スキップ
+2025-10-31 09:46:11,632 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-10-31 09:46:14,950 - INFO - ピン留めだが3日以上前(654日) → スキップ
+2025-10-31 09:46:14,950 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQc5gsYki3u/?hl=ja
+2025-10-31 09:46:18,312 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 09:46:23,230 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 09:46:23,269 - INFO - datetime属性の抽出を開始します
+2025-10-31 09:46:23,308 - INFO - 抽出されたdatetime: 2025-10-30T23:18:18.000Z
+2025-10-31 09:46:23,309 - INFO - hfhsp2c の投稿日時: 2025-10-30T23:18:18.000Z
+2025-10-31 09:46:23,320 - INFO - date:2025-10-31 08:18:18+09:00
+2025-10-31 09:46:23,321 - INFO - post_date:20251031
+2025-10-31 09:46:23,367 - INFO - 1枚目: blob:https://www.instagram.com/a43ecf40-c3de-4554-b7e1-c801a1c3183c
+2025-10-31 09:46:23,367 - INFO - [caption/by_username] 開始
+2025-10-31 09:46:23,476 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様フォト📷
+
+動きのあるヘアスタイルが好きな方におすすめ✂️
+
+存在感抜群の【クリクリパーマスタイル】で、周りと差をつけるヘアに✨
+
+スパイラルや細かめツイストなど、しっかりとカールを効かせたパー'
+2025-10-31 09:46:23,478 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251031_094540
+2025-10-31 09:46:25,216 - INFO - 生成URL:https://scontent-sin11-1.cdninstagram.com/o1/v/t16/f2/m84/AQM2rvn-WutLDUFdU_BKzKTrCRI1P9Kv6KmkW0YNA76y8vs-tFQfYjdg6FbTO213F97f0cqIJJJ4VSUVIX9HZCnNeWweF8KWXjkCvCo.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_ohc=SqNJSB3EkTsQ7kNvwEjGPbb&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE1Nzg3ODI4MTk3ODA5MjEsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=B5W-QK_Vl7GZ3jI4P5oKNQ&_nc_zt=28&oh=00_AffNVk-c8PfmNJdxNvwrGjjhTlQ2qeyU40zPFET-RXB4og&oe=69067964&bytestart=0&byteend=1283174
+2025-10-31 09:46:25,219 - INFO - DUP(with-key): user=hfhsp2c, key=AQM2rvn-WutLDUFdU_BKzKTrCRI1P9Kv6KmkW0YNA76y8vs-tFQfYjdg6FbTO213F97f0cqIJJJ4VSUVIX9HZCnNeWweF8KWXjkCvCo, dt=2025-10-30T23:18:18.000Z
+2025-10-31 09:46:25,219 - INFO - このレコードは存在します
+2025-10-31 09:46:25,219 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-31 12:42:57,705 - INFO - 処理開始 PROCESSID:20251031_124254
+2025-10-31 12:42:57,705 - INFO - 対象ユーザー: hfhsp2c
+2025-10-31 12:42:57,705 - INFO - 処理を開始します
+2025-10-31 12:42:57,768 - INFO - 選択されたプロファイル: Profile 12
+2025-10-31 12:42:57,770 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-31 12:43:01,985 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-10-31 12:43:14,475 - INFO - 最新投稿を読み込みます
+2025-10-31 12:43:20,048 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-10-31 12:43:23,489 - INFO - ピン留めだが3日以上前(154日) → スキップ
+2025-10-31 12:43:23,490 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-10-31 12:43:26,270 - INFO - ピン留めだが3日以上前(169日) → スキップ
+2025-10-31 12:43:26,270 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-10-31 12:43:30,984 - INFO - ピン留めだが3日以上前(655日) → スキップ
+2025-10-31 12:43:30,984 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQc5gsYki3u/?hl=ja
+2025-10-31 12:43:36,146 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 12:43:41,301 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 12:43:41,457 - INFO - datetime属性の抽出を開始します
+2025-10-31 12:43:41,491 - INFO - 抽出されたdatetime: 2025-10-30T23:18:18.000Z
+2025-10-31 12:43:41,491 - INFO - hfhsp2c の投稿日時: 2025-10-30T23:18:18.000Z
+2025-10-31 12:43:41,511 - INFO - date:2025-10-31 08:18:18+09:00
+2025-10-31 12:43:41,511 - INFO - post_date:20251031
+2025-10-31 12:43:41,534 - INFO - 1枚目: blob:https://www.instagram.com/4eff1750-6364-4fd6-b403-b64f29d729b1
+2025-10-31 12:43:41,534 - INFO - [caption/by_username] 開始
+2025-10-31 12:43:41,666 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様フォト📷
+
+動きのあるヘアスタイルが好きな方におすすめ✂️
+
+存在感抜群の【クリクリパーマスタイル】で、周りと差をつけるヘアに✨
+
+スパイラルや細かめツイストなど、しっかりとカールを効かせたパー'
+2025-10-31 12:43:41,669 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251031_124254
+2025-10-31 12:43:43,458 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yG-q5dozUfojoujgdVkGVw&_nc_zt=28&oh=00_Afe79JjeRBmDQXbNwYqJyH1zzzf6ywqDZnU3edvHgs_tLg&oe=6906989E&bytestart=0&byteend=1356894
+2025-10-31 12:43:43,479 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=hfhsp2c, key=AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE, dt=2025-10-30T23:18:18.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yG-q5dozUfojoujgdVkGVw&_nc_zt=28&oh=00_Afe79JjeRBmDQXbNwYqJyH1zzzf6ywqDZnU3edvHgs_tLg&oe=6906989E&bytestart=0&byteend=1356894, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('hfhsp2c', 'AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=yG-q5dozUfojoujgdVkGVw&_nc_zt=28&oh=00_Afe79JjeRBmDQXbNwYqJyH1zzzf6ywqDZnU3edvHgs_tLg&oe=6906989E&bytestart=0&byteend=1356894', '2025-10-30T23:18:18.000Z')
+2025-10-31 12:43:43,482 - INFO - このレコードは存在します
+2025-10-31 12:43:43,482 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-31 16:01:14,952 - INFO - 処理開始 PROCESSID:20251031_160111
+2025-10-31 16:01:14,954 - INFO - 対象ユーザー: hfhsp2c
+2025-10-31 16:01:14,955 - INFO - 処理を開始します
+2025-10-31 16:01:15,014 - INFO - 選択されたプロファイル: Profile 13
+2025-10-31 16:01:15,014 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-31 16:01:19,484 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-10-31 16:01:31,666 - INFO - 最新投稿を読み込みます
+2025-10-31 16:01:37,229 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-10-31 16:01:42,090 - INFO - ピン留めだが3日以上前(154日) → スキップ
+2025-10-31 16:01:42,091 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-10-31 16:01:46,377 - INFO - ピン留めだが3日以上前(169日) → スキップ
+2025-10-31 16:01:46,377 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-10-31 16:01:51,150 - INFO - ピン留めだが3日以上前(655日) → スキップ
+2025-10-31 16:01:51,150 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQc5gsYki3u/?hl=ja
+2025-10-31 16:01:57,891 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 16:02:03,590 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 16:02:03,620 - INFO - datetime属性の抽出を開始します
+2025-10-31 16:02:03,644 - INFO - 抽出されたdatetime: 2025-10-30T23:18:18.000Z
+2025-10-31 16:02:03,645 - INFO - hfhsp2c の投稿日時: 2025-10-30T23:18:18.000Z
+2025-10-31 16:02:03,651 - INFO - date:2025-10-31 08:18:18+09:00
+2025-10-31 16:02:03,651 - INFO - post_date:20251031
+2025-10-31 16:02:03,686 - INFO - 1枚目: blob:https://www.instagram.com/b482444c-f3e6-4edd-a0b4-9ddf4c01c2a2
+2025-10-31 16:02:03,686 - INFO - [caption/by_username] 開始
+2025-10-31 16:02:03,794 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様フォト📷
+
+動きのあるヘアスタイルが好きな方におすすめ✂️
+
+存在感抜群の【クリクリパーマスタイル】で、周りと差をつけるヘアに✨
+
+スパイラルや細かめツイストなど、しっかりとカールを効かせたパー'
+2025-10-31 16:02:03,796 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251031_160111
+2025-10-31 16:02:05,431 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=m1pE6Ze3ZmxQDqAMv11QyQ&_nc_zt=28&oh=00_AfcjktvhWIVjbVOfZDrYjlvgqMVggOqbTFxktZ8KIN0nHA&oe=6906D0DE&bytestart=0&byteend=1356894
+2025-10-31 16:02:05,434 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=hfhsp2c, key=AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE, dt=2025-10-30T23:18:18.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=m1pE6Ze3ZmxQDqAMv11QyQ&_nc_zt=28&oh=00_AfcjktvhWIVjbVOfZDrYjlvgqMVggOqbTFxktZ8KIN0nHA&oe=6906D0DE&bytestart=0&byteend=1356894, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('hfhsp2c', 'AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=m1pE6Ze3ZmxQDqAMv11QyQ&_nc_zt=28&oh=00_AfcjktvhWIVjbVOfZDrYjlvgqMVggOqbTFxktZ8KIN0nHA&oe=6906D0DE&bytestart=0&byteend=1356894', '2025-10-30T23:18:18.000Z')
+2025-10-31 16:02:05,434 - INFO - このレコードは存在します
+2025-10-31 16:02:05,434 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-31 19:00:01,753 - INFO - 処理開始 PROCESSID:20251031_185958
+2025-10-31 19:00:01,753 - INFO - 対象ユーザー: hfhsp2c
+2025-10-31 19:00:01,753 - INFO - 処理を開始します
+2025-10-31 19:00:01,815 - INFO - 選択されたプロファイル: Profile 12
+2025-10-31 19:00:01,815 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-31 19:00:06,813 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-10-31 19:00:19,321 - INFO - 最新投稿を読み込みます
+2025-10-31 19:00:24,606 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-10-31 19:00:28,385 - INFO - ピン留めだが3日以上前(154日) → スキップ
+2025-10-31 19:00:28,385 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-10-31 19:00:30,751 - INFO - ピン留めだが3日以上前(169日) → スキップ
+2025-10-31 19:00:30,751 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-10-31 19:00:34,376 - INFO - ピン留めだが3日以上前(655日) → スキップ
+2025-10-31 19:00:34,376 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQc5gsYki3u/?hl=ja
+2025-10-31 19:00:39,003 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 19:00:44,470 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 19:00:44,605 - INFO - datetime属性の抽出を開始します
+2025-10-31 19:00:44,627 - INFO - 抽出されたdatetime: 2025-10-30T23:18:18.000Z
+2025-10-31 19:00:44,627 - INFO - hfhsp2c の投稿日時: 2025-10-30T23:18:18.000Z
+2025-10-31 19:00:44,634 - INFO - date:2025-10-31 08:18:18+09:00
+2025-10-31 19:00:44,635 - INFO - post_date:20251031
+2025-10-31 19:00:44,656 - INFO - 1枚目: blob:https://www.instagram.com/56a6b8e9-ff9e-4ea8-b53e-de0d5dee5dd0
+2025-10-31 19:00:44,656 - INFO - [caption/by_username] 開始
+2025-10-31 19:00:44,837 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様フォト📷
+
+動きのあるヘアスタイルが好きな方におすすめ✂️
+
+存在感抜群の【クリクリパーマスタイル】で、周りと差をつけるヘアに✨
+
+スパイラルや細かめツイストなど、しっかりとカールを効かせたパー'
+2025-10-31 19:00:44,838 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251031_185958
+2025-10-31 19:00:46,450 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=anzn60CNKSlhJjhpgwrxKQ&_nc_zt=28&oh=00_Aff7GEKBS9kX41gxIUg_WytZ_AX7Mws83VqW7iUUbxQOWg&oe=6906D0DE&bytestart=0&byteend=1356894
+2025-10-31 19:00:46,452 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=hfhsp2c, key=AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE, dt=2025-10-30T23:18:18.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=anzn60CNKSlhJjhpgwrxKQ&_nc_zt=28&oh=00_Aff7GEKBS9kX41gxIUg_WytZ_AX7Mws83VqW7iUUbxQOWg&oe=6906D0DE&bytestart=0&byteend=1356894, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('hfhsp2c', 'AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t16/f2/m84/AQN3qIZbmujw-6AaTrOrzPi7hHWAg9bvKDsq9YVaXIy9AnOL8RG3h3WkfzEKeFYpcHVBwuryHbSUakUZpLiUsgVJGnoBznBa8jZ2_CE.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=LJG7CFJ4lY0Q7kNvwHYn2dZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjIyMTQ3NzQ5NDIzNjcwMDMsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=anzn60CNKSlhJjhpgwrxKQ&_nc_zt=28&oh=00_Aff7GEKBS9kX41gxIUg_WytZ_AX7Mws83VqW7iUUbxQOWg&oe=6906D0DE&bytestart=0&byteend=1356894', '2025-10-30T23:18:18.000Z')
+2025-10-31 19:00:46,452 - INFO - このレコードは存在します
+2025-10-31 19:00:46,454 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-31 21:54:28,436 - INFO - 処理開始 PROCESSID:20251031_215425
+2025-10-31 21:54:28,436 - INFO - 対象ユーザー: hfhsp2c
+2025-10-31 21:54:28,436 - INFO - 処理を開始します
+2025-10-31 21:54:28,494 - INFO - 選択されたプロファイル: Profile 9
+2025-10-31 21:54:28,496 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-31 21:54:32,845 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-10-31 21:54:44,530 - INFO - 最新投稿を読み込みます
+2025-10-31 21:54:49,830 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-10-31 21:54:53,608 - INFO - ピン留めだが3日以上前(154日) → スキップ
+2025-10-31 21:54:53,608 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-10-31 21:54:56,153 - INFO - ピン留めだが3日以上前(169日) → スキップ
+2025-10-31 21:54:56,153 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-10-31 21:54:59,848 - INFO - ピン留めだが3日以上前(655日) → スキップ
+2025-10-31 21:54:59,848 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQc5gsYki3u/?hl=ja
+2025-10-31 21:55:04,724 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 21:55:10,369 - INFO - 最新投稿ページにアクセスしました
+2025-10-31 21:55:10,406 - INFO - datetime属性の抽出を開始します
+2025-10-31 21:55:10,444 - INFO - 抽出されたdatetime: 2025-10-30T23:18:18.000Z
+2025-10-31 21:55:10,445 - INFO - hfhsp2c の投稿日時: 2025-10-30T23:18:18.000Z
+2025-10-31 21:55:10,452 - INFO - date:2025-10-31 08:18:18+09:00
+2025-10-31 21:55:10,452 - INFO - post_date:20251031
+2025-10-31 21:55:10,476 - INFO - 1枚目: blob:https://www.instagram.com/d1c3de85-4331-4d66-b1e5-26915c671cd0
+2025-10-31 21:55:10,476 - INFO - [caption/by_username] 開始
+2025-10-31 21:55:10,587 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様フォト📷
+
+動きのあるヘアスタイルが好きな方におすすめ✂️
+
+存在感抜群の【クリクリパーマスタイル】で、周りと差をつけるヘアに✨
+
+スパイラルや細かめツイストなど、しっかりとカールを効かせたパー'
+2025-10-31 21:55:10,589 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251031_215425
+2025-10-31 21:55:12,239 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t16/f2/m84/AQM2rvn-WutLDUFdU_BKzKTrCRI1P9Kv6KmkW0YNA76y8vs-tFQfYjdg6FbTO213F97f0cqIJJJ4VSUVIX9HZCnNeWweF8KWXjkCvCo.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=SqNJSB3EkTsQ7kNvwEjGPbb&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE1Nzg3ODI4MTk3ODA5MjEsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=fjC_gomTTun0Metn-2MZNA&_nc_zt=28&oh=00_AfdE4mL_tSVUDqs4Id8KB6hlrnHWIkywwfbLuZQqfKIbPQ&oe=69072224&bytestart=0&byteend=1283174
+2025-10-31 21:55:12,243 - INFO - DUP(with-key): user=hfhsp2c, key=AQM2rvn-WutLDUFdU_BKzKTrCRI1P9Kv6KmkW0YNA76y8vs-tFQfYjdg6FbTO213F97f0cqIJJJ4VSUVIX9HZCnNeWweF8KWXjkCvCo, dt=2025-10-30T23:18:18.000Z
+2025-10-31 21:55:12,244 - INFO - このレコードは存在します
+2025-10-31 21:55:12,244 - INFO - 全件レコードが存在します

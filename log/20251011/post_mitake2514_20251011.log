@@ -1,0 +1,201 @@
+================================================================================
+2025-10-11 00:29:58,299 - INFO - 処理開始 PROCESSID:20251011_002954
+2025-10-11 00:29:58,299 - INFO - 対象ユーザー: mitake2514
+2025-10-11 00:29:58,301 - INFO - 処理を開始します
+2025-10-11 00:29:58,365 - INFO - 選択されたプロファイル: Profile 13
+2025-10-11 00:29:58,365 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-11 00:30:04,752 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-11 00:30:17,990 - INFO - 最新投稿を読み込みます
+2025-10-11 00:30:23,382 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/p/DPP-8cGk2sI/?hl=ja → 日付確認
+2025-10-11 00:30:26,056 - INFO - ピン留めだが3日以上前(9日) → スキップ
+2025-10-11 00:30:26,056 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/reel/DISltogzbbB/?hl=ja → 日付確認
+2025-10-11 00:30:29,967 - INFO - ピン留めだが3日以上前(182日) → スキップ
+2025-10-11 00:30:29,967 - INFO - 選定: 非ピン留め https://www.instagram.com/mitake2514/reel/DPiwnRKkeYi/?hl=ja
+2025-10-11 00:30:36,704 - INFO - 最新投稿ページにアクセスしました
+2025-10-11 00:30:41,601 - INFO - 最新投稿ページにアクセスしました
+2025-10-11 00:30:41,902 - INFO - datetime属性の抽出を開始します
+2025-10-11 00:30:42,350 - INFO - 抽出されたdatetime: 2025-10-08T09:29:08.000Z
+2025-10-11 00:30:42,351 - INFO - mitake2514 の投稿日時: 2025-10-08T09:29:08.000Z
+2025-10-11 00:30:42,396 - INFO - date:2025-10-08 18:29:08+09:00
+2025-10-11 00:30:42,396 - INFO - post_date:20251008
+2025-10-11 00:30:42,519 - INFO - 1枚目: blob:https://www.instagram.com/d7c7f187-3d95-4649-8b03-6d0b711a5475
+2025-10-11 00:30:42,519 - INFO - [caption/by_username] 開始
+2025-10-11 00:30:43,926 - INFO - [caption/by_username] 説明文確定（先頭100）: 'ラベンダーカラー‼️🪻
+
+Cut ‪✂︎ ¥3,500～
+Cut＆Shaving ‪✂︎‬ ¥3,950
+Cut＆Color ‪✂︎‬ ¥7,300~
+Cut＆Perm ‪✂︎‬ ¥8,300~…et'
+2025-10-11 00:30:43,928 - INFO - [caption/by_username] 説明文を保存: media\mitake2514\description\20251011_002954
+2025-10-11 00:30:46,235 - INFO - 生成URL:https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQMDBih1wXsVSdVfcRBXkvT0EO6DIcXD_a6XNfURKs9hTmuS8NgxQ60Ury9hckYp6TmVS2U3Svaow3ebSKAcBJqj3oInArTDROUcRSU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=mjpIU7kkIdkQ7kNvwGCXEtR&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1Nzk5ODMxMzEwNTg3ODUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=22rCRkvEVJxjIQhrbKkvTg&_nc_zt=28&oh=00_AfdVkUfFsYS7cj7pQRv8WLEZJ3h2L4ijgrzb2nf6tflZyQ&oe=68EF5FCD&bytestart=0&byteend=6815493
+2025-10-11 00:30:46,240 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=mitake2514, key=AQMDBih1wXsVSdVfcRBXkvT0EO6DIcXD_a6XNfURKs9hTmuS8NgxQ60Ury9hckYp6TmVS2U3Svaow3ebSKAcBJqj3oInArTDROUcRSU, dt=2025-10-08T09:29:08.000Z, url=https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQMDBih1wXsVSdVfcRBXkvT0EO6DIcXD_a6XNfURKs9hTmuS8NgxQ60Ury9hckYp6TmVS2U3Svaow3ebSKAcBJqj3oInArTDROUcRSU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=mjpIU7kkIdkQ7kNvwGCXEtR&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1Nzk5ODMxMzEwNTg3ODUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=22rCRkvEVJxjIQhrbKkvTg&_nc_zt=28&oh=00_AfdVkUfFsYS7cj7pQRv8WLEZJ3h2L4ijgrzb2nf6tflZyQ&oe=68EF5FCD&bytestart=0&byteend=6815493, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('mitake2514', 'AQMDBih1wXsVSdVfcRBXkvT0EO6DIcXD_a6XNfURKs9hTmuS8NgxQ60Ury9hckYp6TmVS2U3Svaow3ebSKAcBJqj3oInArTDROUcRSU', 'https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQMDBih1wXsVSdVfcRBXkvT0EO6DIcXD_a6XNfURKs9hTmuS8NgxQ60Ury9hckYp6TmVS2U3Svaow3ebSKAcBJqj3oInArTDROUcRSU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=mjpIU7kkIdkQ7kNvwGCXEtR&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1Nzk5ODMxMzEwNTg3ODUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=22rCRkvEVJxjIQhrbKkvTg&_nc_zt=28&oh=00_AfdVkUfFsYS7cj7pQRv8WLEZJ3h2L4ijgrzb2nf6tflZyQ&oe=68EF5FCD&bytestart=0&byteend=6815493', '2025-10-08T09:29:08.000Z')
+2025-10-11 00:30:46,240 - INFO - このレコードは存在します
+2025-10-11 00:30:46,240 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-11 04:29:33,809 - INFO - 処理開始 PROCESSID:20251011_042930
+2025-10-11 04:29:33,809 - INFO - 対象ユーザー: mitake2514
+2025-10-11 04:29:33,811 - INFO - 処理を開始します
+2025-10-11 04:29:33,866 - INFO - 選択されたプロファイル: Profile 13
+2025-10-11 04:29:33,866 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-11 04:29:38,508 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-11 04:29:51,172 - INFO - 最新投稿を読み込みます
+2025-10-11 04:29:56,469 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/p/DPP-8cGk2sI/?hl=ja → 日付確認
+2025-10-11 04:29:59,596 - INFO - ピン留めだが3日以上前(10日) → スキップ
+2025-10-11 04:29:59,596 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/reel/DISltogzbbB/?hl=ja → 日付確認
+2025-10-11 04:30:02,843 - INFO - ピン留めだが3日以上前(183日) → スキップ
+2025-10-11 04:30:02,843 - INFO - 選定: 非ピン留め https://www.instagram.com/mitake2514/reel/DPiwnRKkeYi/?hl=ja
+2025-10-11 04:30:07,438 - INFO - 最新投稿ページにアクセスしました
+2025-10-11 04:30:12,546 - INFO - 最新投稿ページにアクセスしました
+2025-10-11 04:30:12,721 - INFO - datetime属性の抽出を開始します
+2025-10-11 04:30:12,797 - INFO - 抽出されたdatetime: 2025-10-08T09:29:08.000Z
+2025-10-11 04:30:12,797 - INFO - mitake2514 の投稿日時: 2025-10-08T09:29:08.000Z
+2025-10-11 04:30:12,821 - INFO - date:2025-10-08 18:29:08+09:00
+2025-10-11 04:30:12,821 - INFO - post_date:20251008
+2025-10-11 04:30:13,144 - INFO - 1枚目: blob:https://www.instagram.com/caaf29ca-27bf-4d39-beaa-0af6aebd8713
+2025-10-11 04:30:13,144 - INFO - [caption/by_username] 開始
+2025-10-11 04:30:15,054 - INFO - [caption/by_username] 説明文確定（先頭100）: 'ラベンダーカラー‼️🪻
+
+Cut ‪✂︎ ¥3,500～
+Cut＆Shaving ‪✂︎‬ ¥3,950
+Cut＆Color ‪✂︎‬ ¥7,300~
+Cut＆Perm ‪✂︎‬ ¥8,300~…et'
+2025-10-11 04:30:15,056 - INFO - [caption/by_username] 説明文を保存: media\mitake2514\description\20251011_042930
+2025-10-11 04:30:17,608 - INFO - 生成URL:https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQMDBih1wXsVSdVfcRBXkvT0EO6DIcXD_a6XNfURKs9hTmuS8NgxQ60Ury9hckYp6TmVS2U3Svaow3ebSKAcBJqj3oInArTDROUcRSU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=mjpIU7kkIdkQ7kNvwGCXEtR&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1Nzk5ODMxMzEwNTg3ODUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=DHM5fVToLol2cKptBUbA_Q&_nc_zt=28&oh=00_AfetIMAx4g3OQymGkAXevbZIDr0I5ezJL0V6XkQRwgL8Ow&oe=68EF980D&bytestart=0&byteend=6815493
+2025-10-11 04:30:17,617 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=mitake2514, key=AQMDBih1wXsVSdVfcRBXkvT0EO6DIcXD_a6XNfURKs9hTmuS8NgxQ60Ury9hckYp6TmVS2U3Svaow3ebSKAcBJqj3oInArTDROUcRSU, dt=2025-10-08T09:29:08.000Z, url=https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQMDBih1wXsVSdVfcRBXkvT0EO6DIcXD_a6XNfURKs9hTmuS8NgxQ60Ury9hckYp6TmVS2U3Svaow3ebSKAcBJqj3oInArTDROUcRSU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=mjpIU7kkIdkQ7kNvwGCXEtR&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1Nzk5ODMxMzEwNTg3ODUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=DHM5fVToLol2cKptBUbA_Q&_nc_zt=28&oh=00_AfetIMAx4g3OQymGkAXevbZIDr0I5ezJL0V6XkQRwgL8Ow&oe=68EF980D&bytestart=0&byteend=6815493, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('mitake2514', 'AQMDBih1wXsVSdVfcRBXkvT0EO6DIcXD_a6XNfURKs9hTmuS8NgxQ60Ury9hckYp6TmVS2U3Svaow3ebSKAcBJqj3oInArTDROUcRSU', 'https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQMDBih1wXsVSdVfcRBXkvT0EO6DIcXD_a6XNfURKs9hTmuS8NgxQ60Ury9hckYp6TmVS2U3Svaow3ebSKAcBJqj3oInArTDROUcRSU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=mjpIU7kkIdkQ7kNvwGCXEtR&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1Nzk5ODMxMzEwNTg3ODUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=DHM5fVToLol2cKptBUbA_Q&_nc_zt=28&oh=00_AfetIMAx4g3OQymGkAXevbZIDr0I5ezJL0V6XkQRwgL8Ow&oe=68EF980D&bytestart=0&byteend=6815493', '2025-10-08T09:29:08.000Z')
+2025-10-11 04:30:17,617 - INFO - このレコードは存在します
+2025-10-11 04:30:17,617 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-11 08:29:34,441 - INFO - 処理開始 PROCESSID:20251011_082930
+2025-10-11 08:29:34,441 - INFO - 対象ユーザー: mitake2514
+2025-10-11 08:29:34,441 - INFO - 処理を開始します
+2025-10-11 08:29:34,501 - INFO - 選択されたプロファイル: Profile 13
+2025-10-11 08:29:34,501 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-11 08:29:39,263 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-11 08:29:51,870 - INFO - 最新投稿を読み込みます
+2025-10-11 08:29:57,195 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/p/DPP-8cGk2sI/?hl=ja → 日付確認
+2025-10-11 08:30:00,048 - INFO - ピン留めだが3日以上前(10日) → スキップ
+2025-10-11 08:30:00,048 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/reel/DISltogzbbB/?hl=ja → 日付確認
+2025-10-11 08:30:03,355 - INFO - ピン留めだが3日以上前(183日) → スキップ
+2025-10-11 08:30:03,355 - INFO - 選定: 非ピン留め https://www.instagram.com/mitake2514/reel/DPiwnRKkeYi/?hl=ja
+2025-10-11 08:30:08,128 - INFO - 最新投稿ページにアクセスしました
+2025-10-11 08:30:12,731 - INFO - 最新投稿ページにアクセスしました
+2025-10-11 08:30:13,212 - INFO - datetime属性の抽出を開始します
+2025-10-11 08:30:13,428 - INFO - 抽出されたdatetime: 2025-10-08T09:29:08.000Z
+2025-10-11 08:30:13,428 - INFO - mitake2514 の投稿日時: 2025-10-08T09:29:08.000Z
+2025-10-11 08:30:13,437 - INFO - date:2025-10-08 18:29:08+09:00
+2025-10-11 08:30:13,437 - INFO - post_date:20251008
+2025-10-11 08:30:13,498 - INFO - 1枚目: blob:https://www.instagram.com/af942752-20a0-4ffc-b4e8-e82e5697f635
+2025-10-11 08:30:13,498 - INFO - [caption/by_username] 開始
+2025-10-11 08:30:14,061 - INFO - [caption/by_username] 説明文確定（先頭100）: 'ラベンダーカラー‼️🪻
+
+Cut ‪✂︎ ¥3,500～
+Cut＆Shaving ‪✂︎‬ ¥3,950
+Cut＆Color ‪✂︎‬ ¥7,300~
+Cut＆Perm ‪✂︎‬ ¥8,300~…et'
+2025-10-11 08:30:14,062 - INFO - [caption/by_username] 説明文を保存: media\mitake2514\description\20251011_082930
+2025-10-11 08:30:17,910 - INFO - 生成URL:https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m367/AQMN5QvQWVSrkVZSO534e_53wzvr_a9Rm2VB_vP3oVv9mJqiZvj8q338ApegseTxxHfSMestWRMDc0KBBqw5EwZGrEHi-7ldvyABm3AnGGUM9g.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=Hr34E9NsaaAQ7kNvwE1JSek&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo3NTQxMjE2NTEwMTE1NTQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=APum-p0mKjJxaV7cAi7fGg&_nc_zt=28&oh=00_AfetACWJ1vAso1kG_q4E8mdvyOiDkBjalbdE3wrYNrmReA&oe=68EFCD03&bytestart=0&byteend=2964046
+2025-10-11 08:30:17,951 - INFO - INSERT(with-key): user=mitake2514, key=AQMN5QvQWVSrkVZSO534e_53wzvr_a9Rm2VB_vP3oVv9mJqiZvj8q338ApegseTxxHfSMestWRMDc0KBBqw5EwZGrEHi-7ldvyABm3AnGGUM9g, dt=2025-10-08T09:29:08.000Z
+2025-10-11 08:30:19,961 - INFO - ダウンロードを開始します: media\mitake2514\mitake2514_20251011083019.mp4
+2025-10-11 08:30:20,530 - INFO - ダウンロード完了: media\mitake2514\mitake2514_20251011083019.mp4
+2025-10-11 08:30:20,532 - INFO - 説明文:ラベンダーカラー‼️🪻
+
+Cut ‪✂︎ ¥3,500～
+Cut＆Shaving ‪✂︎‬ ¥3,950
+Cut＆Color ‪✂︎‬ ¥7,300~
+Cut＆Perm ‪✂︎‬ ¥8,300~…etc
+.
+おうち🏠で簡単にできる
+方法もレクチャーします。
+.
+くせ毛、生えぐせ、骨格、毛の太さ、ボリュームどんなお悩みも
+お気軽にコメント、DMでもご相談承ります。
+ご新規の方もお気軽にご相談下さい。
+
+======= POPULAR（ポプラル）=======
+
+【営業時間】
+平日9:00～20:00
+土日祝8:30～20:00
+※最終受付19:00まで
+
+◆ご予約はこちら↓
+ホットペッパービューティー
+https://beauty.hotpepper.jp/slnH000218642/
+
+住所📍
+岩手県盛岡市みたけ４丁目２４−２８
+
+===========================
+
+#POPULAR #ポプラル #盛岡市 #美容室 #美容院 #美容師 #髪型 #ヘアカット #カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #縮毛矯正 #ヘアサロン #学生歓迎 #盛岡美容院 #盛岡美容室 #盛岡美容師 #盛岡ヘアサロン #盛岡ヘアカット #盛岡髪質改善 #盛岡美容室メンズ #盛岡女性人気美容室 #盛岡みたけ美容室 #盛岡みたけ美容院 #盛岡みたけヘアサロン #盛岡みたけメンズ美容室 #盛岡みたけ女性美容室
+2025-10-11 08:30:23,084 - INFO - 処理終了
+================================================================================
+2025-10-11 08:30:29,209 - INFO - 処理開始: Mode=post, Username=mitake2514, GBP=pa00039718
+2025-10-11 08:30:29,209 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJwYTAwMDM5NzE4Il0.
+2025-10-11 08:30:53,255 - INFO - 元の動画サイズ: 720x1280
+2025-10-11 08:30:53,255 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-11 08:30:53,255 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\mitake2514\mitake2514_20251011083019.mp4
+2025-10-11 08:31:03,336 - INFO - Waiting for description field...
+2025-10-11 08:31:03,370 - INFO - Setting description via JS (no send_keys)...
+2025-10-11 08:31:04,543 - INFO - Looking for button section...
+2025-10-11 08:31:09,125 - INFO - Trying to select CALL option...
+2025-10-11 08:31:09,387 - INFO - CALL option successfully selected
+2025-10-11 08:31:11,387 - INFO - Clicking submit button...
+2025-10-11 08:31:20,202 - INFO - 処理完了
+================================================================================
+2025-10-11 12:28:15,412 - INFO - 処理開始 PROCESSID:20251011_122811
+2025-10-11 12:28:15,412 - INFO - 対象ユーザー: mitake2514
+2025-10-11 12:28:15,412 - INFO - 処理を開始します
+2025-10-11 12:28:15,469 - INFO - 選択されたプロファイル: Profile 13
+2025-10-11 12:28:15,471 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-11 12:28:20,207 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-11 12:28:32,389 - INFO - 最新投稿を読み込みます
+2025-10-11 12:28:38,067 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/p/DPP-8cGk2sI/?hl=ja → 日付確認
+2025-10-11 12:28:41,090 - INFO - ピン留めだが3日以上前(10日) → スキップ
+2025-10-11 12:28:41,090 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/reel/DISltogzbbB/?hl=ja → 日付確認
+2025-10-11 12:28:45,028 - INFO - ピン留めだが3日以上前(183日) → スキップ
+2025-10-11 12:28:45,028 - INFO - 選定: 非ピン留め https://www.instagram.com/mitake2514/reel/DPiwnRKkeYi/?hl=ja
+2025-10-11 12:28:49,030 - INFO - 最新投稿ページにアクセスしました
+2025-10-11 12:28:54,359 - INFO - 最新投稿ページにアクセスしました
+2025-10-11 12:28:54,774 - INFO - datetime属性の抽出を開始します
+2025-10-11 12:28:55,095 - INFO - 抽出されたdatetime: 2025-10-08T09:29:08.000Z
+2025-10-11 12:28:55,095 - INFO - mitake2514 の投稿日時: 2025-10-08T09:29:08.000Z
+2025-10-11 12:28:55,394 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-08T09:29:08+00:00, age=3 days, 2:59:47.393822
+================================================================================
+2025-10-11 16:16:57,652 - INFO - 処理開始 PROCESSID:20251011_161654
+2025-10-11 16:16:57,652 - INFO - 対象ユーザー: mitake2514
+2025-10-11 16:16:57,652 - INFO - 処理を開始します
+2025-10-11 16:16:57,706 - INFO - 選択されたプロファイル: Profile 12
+2025-10-11 16:16:57,708 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-11 16:17:02,438 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-11 16:17:14,264 - INFO - 最新投稿を読み込みます
+2025-10-11 16:17:19,668 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/p/DPP-8cGk2sI/?hl=ja → 日付確認
+2025-10-11 16:17:22,464 - INFO - ピン留めだが3日以上前(10日) → スキップ
+2025-10-11 16:17:22,464 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/reel/DISltogzbbB/?hl=ja → 日付確認
+2025-10-11 16:17:26,327 - INFO - ピン留めだが3日以上前(183日) → スキップ
+2025-10-11 16:17:26,327 - INFO - 選定: 非ピン留め https://www.instagram.com/mitake2514/reel/DPiwnRKkeYi/?hl=ja
+2025-10-11 16:17:31,148 - INFO - 最新投稿ページにアクセスしました
+2025-10-11 16:17:35,253 - INFO - 最新投稿ページにアクセスしました
+2025-10-11 16:17:35,342 - INFO - datetime属性の抽出を開始します
+2025-10-11 16:17:35,672 - INFO - 抽出されたdatetime: 2025-10-08T09:29:08.000Z
+2025-10-11 16:17:35,672 - INFO - mitake2514 の投稿日時: 2025-10-08T09:29:08.000Z
+2025-10-11 16:17:35,972 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-08T09:29:08+00:00, age=3 days, 6:48:27.972695
+================================================================================
+2025-10-11 20:10:26,655 - INFO - 処理開始 PROCESSID:20251011_201023
+2025-10-11 20:10:26,655 - INFO - 対象ユーザー: mitake2514
+2025-10-11 20:10:26,655 - INFO - 処理を開始します
+2025-10-11 20:10:26,717 - INFO - 選択されたプロファイル: Profile 10
+2025-10-11 20:10:26,717 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-11 20:10:31,405 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-11 20:10:43,588 - INFO - 最新投稿を読み込みます
+2025-10-11 20:10:49,085 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/p/DPP-8cGk2sI/?hl=ja → 日付確認
+2025-10-11 20:10:51,450 - INFO - ピン留めだが3日以上前(10日) → スキップ
+2025-10-11 20:10:51,451 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/reel/DISltogzbbB/?hl=ja → 日付確認
+2025-10-11 20:10:55,515 - INFO - ピン留めだが3日以上前(183日) → スキップ
+2025-10-11 20:10:55,515 - INFO - 選定: 非ピン留め https://www.instagram.com/mitake2514/reel/DPiwnRKkeYi/?hl=ja
+2025-10-11 20:10:59,415 - INFO - 最新投稿ページにアクセスしました
+2025-10-11 20:11:03,013 - INFO - 最新投稿ページにアクセスしました
+2025-10-11 20:11:03,128 - INFO - datetime属性の抽出を開始します
+2025-10-11 20:11:03,173 - INFO - 抽出されたdatetime: 2025-10-08T09:29:08.000Z
+2025-10-11 20:11:03,173 - INFO - mitake2514 の投稿日時: 2025-10-08T09:29:08.000Z
+2025-10-11 20:11:03,205 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-08T09:29:08+00:00, age=3 days, 10:41:55.205055

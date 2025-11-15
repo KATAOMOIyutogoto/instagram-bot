@@ -1,0 +1,99 @@
+================================================================================
+2025-10-20 04:07:38,339 - INFO - 処理開始 PROCESSID:20251020_040735
+2025-10-20 04:07:38,339 - INFO - 対象ユーザー: harebare0819
+2025-10-20 04:07:38,339 - INFO - 処理を開始します
+2025-10-20 04:07:38,413 - INFO - 選択されたプロファイル: Profile 13
+2025-10-20 04:07:38,413 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-20 04:07:43,105 - INFO - harebare0819 のプロフィールページにアクセスします
+2025-10-20 04:08:05,561 - INFO - プロフィール写真のクリックに成功しました
+2025-10-20 04:08:08,805 - INFO - 動画の取得に失敗しました
+2025-10-20 04:08:08,805 - INFO - datetime属性の抽出を開始します
+2025-10-20 04:08:19,010 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdcfe83+66515]
+	GetHandleVerifier [0x0xdcfec4+66580]
+	(No symbol) [0x0xbbdc48]
+	(No symbol) [0x0xc08704]
+	(No symbol) [0x0xc08aab]
+	(No symbol) [0x0xc4f482]
+	(No symbol) [0x0xc2b214]
+	(No symbol) [0x0xc4cba7]
+	(No symbol) [0x0xc2afc6]
+	(No symbol) [0x0xbfc2ca]
+	(No symbol) [0x0xbfd154]
+	GetHandleVerifier [0x0x10273b3+2521347]
+	GetHandleVerifier [0x0x1022333+2500739]
+	GetHandleVerifier [0x0xdf7cd4+229924]
+	GetHandleVerifier [0x0xde8238+165768]
+	GetHandleVerifier [0x0xdeeced+193085]
+	GetHandleVerifier [0x0xdd8198+100072]
+	GetHandleVerifier [0x0xdd8330+100480]
+	GetHandleVerifier [0x0xdc25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-20 04:08:29,357 - INFO - 画像の取得に失敗しました
+2025-10-20 04:08:32,758 - INFO - 処理終了
+================================================================================
+2025-10-20 10:09:37,337 - INFO - 処理開始 PROCESSID:20251020_100934
+2025-10-20 10:09:37,337 - INFO - 対象ユーザー: harebare0819
+2025-10-20 10:09:37,337 - INFO - 処理を開始します
+2025-10-20 10:09:37,397 - INFO - 選択されたプロファイル: Profile 10
+2025-10-20 10:09:37,397 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-20 10:09:42,612 - INFO - harebare0819 のプロフィールページにアクセスします
+2025-10-20 10:10:05,021 - INFO - プロフィール写真のクリックに成功しました
+2025-10-20 10:10:05,692 - INFO - harebare0819: 動画を検出しました
+2025-10-20 10:10:05,693 - INFO - datetime属性の抽出を開始します
+2025-10-20 10:10:06,058 - INFO - 抽出されたdatetime: 2025-10-20T09:00:33.000Z
+2025-10-20 10:10:06,058 - INFO - harebare0819 の投稿日時: 2025-10-20T09:00:33.000Z
+2025-10-20 10:10:07,515 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=oE2QHs8w9XkQ7kNvwHhx_Gv&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTIwMzQ0MTA3NDg2MDUyOCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=9Iow7ktjQTImf0Fuc1zemw&_nc_zt=28&oh=00_Afd4UdB1kIj5QMnAJ9KeUrU19eqrW8kTepOFAF84UMk8bA&oe=68F7FF68&bytestart=0&byteend=301472
+2025-10-20 10:10:07,515 - INFO - 動画URLを取得しました
+2025-10-20 10:10:07,521 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=harebare0819, key=AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po, dt=2025-10-20T09:00:33.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=oE2QHs8w9XkQ7kNvwHhx_Gv&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTIwMzQ0MTA3NDg2MDUyOCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=9Iow7ktjQTImf0Fuc1zemw&_nc_zt=28&oh=00_Afd4UdB1kIj5QMnAJ9KeUrU19eqrW8kTepOFAF84UMk8bA&oe=68F7FF68&bytestart=0&byteend=301472, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('harebare0819', 'AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=oE2QHs8w9XkQ7kNvwHhx_Gv&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTIwMzQ0MTA3NDg2MDUyOCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=9Iow7ktjQTImf0Fuc1zemw&_nc_zt=28&oh=00_Afd4UdB1kIj5QMnAJ9KeUrU19eqrW8kTepOFAF84UMk8bA&oe=68F7FF68&bytestart=0&byteend=301472', '2025-10-20T09:00:33.000Z')
+================================================================================
+2025-10-20 16:09:09,531 - INFO - 処理開始 PROCESSID:20251020_160906
+2025-10-20 16:09:09,531 - INFO - 対象ユーザー: harebare0819
+2025-10-20 16:09:09,531 - INFO - 処理を開始します
+2025-10-20 16:09:09,586 - INFO - 選択されたプロファイル: Profile 13
+2025-10-20 16:09:09,586 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-20 16:09:13,753 - INFO - harebare0819 のプロフィールページにアクセスします
+2025-10-20 16:09:36,180 - INFO - プロフィール写真のクリックに成功しました
+2025-10-20 16:09:36,878 - INFO - harebare0819: 動画を検出しました
+2025-10-20 16:09:36,878 - INFO - datetime属性の抽出を開始します
+2025-10-20 16:09:36,971 - INFO - 抽出されたdatetime: 2025-10-20T09:00:33.000Z
+2025-10-20 16:09:36,971 - INFO - harebare0819 の投稿日時: 2025-10-20T09:00:33.000Z
+2025-10-20 16:09:38,266 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=oE2QHs8w9XkQ7kNvwHhx_Gv&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMjAzNDQxMDc0ODYwNTI4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=dOCDRe1gXLPVh5BM5PJQaw&_nc_zt=28&oh=00_AfcmldYXgtv0SjzbgKBb8cknSeoOUcNIhpld35wvmnt9NQ&oe=68F837A8&bytestart=0&byteend=301472
+2025-10-20 16:09:38,267 - INFO - 動画URLを取得しました
+2025-10-20 16:09:38,275 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=harebare0819, key=AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po, dt=2025-10-20T09:00:33.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=oE2QHs8w9XkQ7kNvwHhx_Gv&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMjAzNDQxMDc0ODYwNTI4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=dOCDRe1gXLPVh5BM5PJQaw&_nc_zt=28&oh=00_AfcmldYXgtv0SjzbgKBb8cknSeoOUcNIhpld35wvmnt9NQ&oe=68F837A8&bytestart=0&byteend=301472, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('harebare0819', 'AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=oE2QHs8w9XkQ7kNvwHhx_Gv&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMjAzNDQxMDc0ODYwNTI4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=dOCDRe1gXLPVh5BM5PJQaw&_nc_zt=28&oh=00_AfcmldYXgtv0SjzbgKBb8cknSeoOUcNIhpld35wvmnt9NQ&oe=68F837A8&bytestart=0&byteend=301472', '2025-10-20T09:00:33.000Z')
+================================================================================
+2025-10-20 21:50:19,238 - INFO - 処理開始 PROCESSID:20251020_215015
+2025-10-20 21:50:19,240 - INFO - 対象ユーザー: harebare0819
+2025-10-20 21:50:19,240 - INFO - 処理を開始します
+2025-10-20 21:50:19,297 - INFO - 選択されたプロファイル: Profile 12
+2025-10-20 21:50:19,297 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-20 21:50:24,307 - INFO - harebare0819 のプロフィールページにアクセスします
+2025-10-20 21:50:46,790 - INFO - プロフィール写真のクリックに成功しました
+2025-10-20 21:50:47,860 - INFO - harebare0819: 動画を検出しました
+2025-10-20 21:50:47,860 - INFO - datetime属性の抽出を開始します
+2025-10-20 21:50:48,063 - INFO - 抽出されたdatetime: 2025-10-20T09:00:33.000Z
+2025-10-20 21:50:48,063 - INFO - harebare0819 の投稿日時: 2025-10-20T09:00:33.000Z
+2025-10-20 21:50:49,475 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMR8mV93zZTrVkNcviOMziyZiKe3WmQ0yI338ytfMeJPieY1fYX3ZM1jh1a-l9o6owLgm0pSQ0w-yfM4bzIwuBR0GCDzH0DmJ8YKBQ.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=3P2FBSWIsNkQ7kNvwH-Jr5r&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E3MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxOTMyMjU2NzQwNjcxNjI0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=9HXye0eTaTgtnNEsgA6NwA&_nc_zt=28&oh=00_AfcX2beCfQphI4uOAV8HzQf0g_OUi1hkwHLr05dHEZhFqg&oe=68FC8AA7&bytestart=0&byteend=823226
+2025-10-20 21:50:49,475 - INFO - 動画URLを取得しました
+2025-10-20 21:50:49,608 - INFO - INSERT(with-key): user=harebare0819, key=AQMR8mV93zZTrVkNcviOMziyZiKe3WmQ0yI338ytfMeJPieY1fYX3ZM1jh1a-l9o6owLgm0pSQ0w-yfM4bzIwuBR0GCDzH0DmJ8YKBQ, dt=2025-10-20T09:00:33.000Z
+2025-10-20 21:50:51,611 - INFO - ダウンロードを開始します: media\harebare0819\harebare0819_20251020215051.mp4
+2025-10-20 21:50:53,929 - INFO - ダウンロード完了: media\harebare0819\harebare0819_20251020215051.mp4
+2025-10-20 21:50:58,115 - INFO - 処理終了
+2025-10-20 21:50:58,117 - INFO - 説明文_AI: None
+2025-10-20 21:50:58,117 - INFO - 説明文_最終: 
+================================================================================
+2025-10-20 21:51:04,195 - INFO - 処理開始: Mode=story, Username=harebare0819, GBP=02832951489499358954
+2025-10-20 21:51:04,195 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwMjgzMjk1MTQ4OTQ5OTM1ODk1NCJd.
+2025-10-20 21:51:29,252 - INFO - 元の動画サイズ: 720x1280
+2025-10-20 21:51:29,252 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-20 21:51:29,252 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\harebare0819\harebare0819_20251020215051.mp4
+2025-10-20 21:51:39,432 - INFO - 一時ファイルが見つかりません: media\harebare0819\description\20251020_215015
+2025-10-20 21:51:39,432 - INFO - Looking for button section...
+2025-10-20 21:51:44,004 - INFO - Trying to select CALL option...
+2025-10-20 21:51:44,284 - INFO - CALL option successfully selected
+2025-10-20 21:51:46,285 - INFO - Clicking submit button...
+2025-10-20 21:51:55,215 - INFO - 処理完了

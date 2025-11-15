@@ -1,0 +1,261 @@
+================================================================================
+2025-10-12 03:07:37,228 - INFO - 処理開始 PROCESSID:20251012_030733
+2025-10-12 03:07:37,228 - INFO - 対象ユーザー: fupao_tsurumi
+2025-10-12 03:07:37,228 - INFO - 処理を開始します
+2025-10-12 03:07:37,287 - INFO - 選択されたプロファイル: Profile 10
+2025-10-12 03:07:37,287 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-12 03:07:43,079 - INFO - fupao_tsurumi のプロフィールページにアクセスします
+2025-10-12 03:07:55,157 - INFO - 最新投稿を読み込みます
+2025-10-12 03:08:00,749 - INFO - 候補はピン留め: https://www.instagram.com/fupao_tsurumi/p/DPYRr7pk6Wm/?hl=ja → 日付確認
+2025-10-12 03:08:03,612 - INFO - ピン留めだが3日以上前(7日) → スキップ
+2025-10-12 03:08:03,612 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_tsurumi/p/DPsWvEXE7kI/?hl=ja
+2025-10-12 03:08:08,183 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 03:08:12,301 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 03:08:12,334 - INFO - datetime属性の抽出を開始します
+2025-10-12 03:08:12,372 - INFO - 抽出されたdatetime: 2025-10-12T02:50:53.000Z
+2025-10-12 03:08:12,372 - INFO - fupao_tsurumi の投稿日時: 2025-10-12T02:50:53.000Z
+2025-10-12 03:08:12,383 - INFO - date:2025-10-12 11:50:53+09:00
+2025-10-12 03:08:12,383 - INFO - post_date:20251012
+2025-10-12 03:08:12,457 - INFO - カルーセル推定: 1枚
+2025-10-12 03:08:12,546 - INFO - 検出(SINGLE): https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/561848331_17858947542530460_5923368247083686118_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=vmpLO4Mw1UMQ7kNvwEg61u-&_nc_oc=Adngo4AiZoLjgSqZ1aDS6mfMOTC0e8e2lKVPnvnV_HD-LYFnoiNoiL4gfuWk7FOGIws&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=1ZOUTMAIWaFvELlwlXxw_g&oh=00_AfdjO3Gryuya-HgmIn3nMtmW6QyZvG-YmXthDHkebzTedw&oe=68F105D5
+2025-10-12 03:08:12,547 - INFO - 1枚目: https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/561848331_17858947542530460_5923368247083686118_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=vmpLO4Mw1UMQ7kNvwEg61u-&_nc_oc=Adngo4AiZoLjgSqZ1aDS6mfMOTC0e8e2lKVPnvnV_HD-LYFnoiNoiL4gfuWk7FOGIws&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=1ZOUTMAIWaFvELlwlXxw_g&oh=00_AfdjO3Gryuya-HgmIn3nMtmW6QyZvG-YmXthDHkebzTedw&oe=68F105D5
+2025-10-12 03:08:12,547 - INFO - [caption/by_username] 開始
+2025-10-12 03:08:12,691 - INFO - [caption/by_username] 説明文確定（先頭100）: '福包酒場　鶴見店です！
+
+メニューリニューアル👏🎉
+新しいメニューや値段が安くなった商品沢山あります！
+
+ぜひご来店ください🍺
+お待ちしております！
+
+餃子小籠包 福包酒場 鶴見店 
+神奈川県横浜市鶴'
+2025-10-12 03:08:12,696 - INFO - [caption/by_username] 説明文を保存: media\fupao_tsurumi\description\20251012_030733
+2025-10-12 03:08:12,696 - INFO - 画像URLを取得しました
+2025-10-12 03:08:12,739 - INFO - INSERT(with-key): user=fupao_tsurumi, key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA==, dt=2025-10-12T02:50:53.000Z
+2025-10-12 03:08:12,740 - INFO - メディアを取得します
+2025-10-12 03:08:14,741 - INFO - ダウンロードを開始します: media\fupao_tsurumi\fupao_tsurumi_20251012030814.jpg
+2025-10-12 03:08:15,138 - INFO - ダウンロード完了: media\fupao_tsurumi\fupao_tsurumi_20251012030814.jpg
+2025-10-12 03:08:15,251 - INFO - 元の画像サイズ: 1317x1756
+2025-10-12 03:08:15,251 - INFO - サイズ変更は不要です
+2025-10-12 03:08:15,253 - INFO - 説明文:福包酒場　鶴見店です！
+
+メニューリニューアル👏🎉
+新しいメニューや値段が安くなった商品沢山あります！
+
+ぜひご来店ください🍺
+お待ちしております！
+
+餃子小籠包 福包酒場 鶴見店 
+神奈川県横浜市鶴見区豊岡町17-3 新橋ビル1F
+
+電話番号 045 710 0236
+
+営業時間
+
+平日
+
+16:00～24:00
+
+土日祝
+
+12:00～24:00 
+
+#鶴見大学#鶴見大学歯学部#鶴見区グルメ#福包酒場#火鍋サワー#横浜居酒屋#横浜飲み#飲みたい気分#飲み好きな人と繋がりたい#横浜中華街#女子飲み#女子会#横浜グラデーションルメ#神奈川グルメ#居酒屋グルメ#お酒好きな人と繋がりたい
+2025-10-12 03:08:18,684 - INFO - 処理終了
+================================================================================
+2025-10-12 03:08:24,786 - INFO - 処理開始: Mode=post, Username=fupao_tsurumi, GBP=08026063317982521246
+2025-10-12 03:08:24,786 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwODAyNjA2MzMxNzk4MjUyMTI0NiJd.
+2025-10-12 03:08:48,990 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_tsurumi\fupao_tsurumi_20251012030814.jpg
+2025-10-12 03:08:52,106 - INFO - Waiting for description field...
+2025-10-12 03:08:52,149 - INFO - Setting description via JS (no send_keys)...
+2025-10-12 03:08:53,271 - INFO - Looking for button section...
+2025-10-12 03:08:58,085 - INFO - Trying to select CALL option...
+2025-10-12 03:08:58,624 - INFO - CALL option successfully selected
+2025-10-12 03:09:00,625 - INFO - Clicking submit button...
+2025-10-12 03:09:09,304 - INFO - 処理完了
+================================================================================
+2025-10-12 07:07:16,238 - INFO - 処理開始 PROCESSID:20251012_070712
+2025-10-12 07:07:16,238 - INFO - 対象ユーザー: fupao_tsurumi
+2025-10-12 07:07:16,240 - INFO - 処理を開始します
+2025-10-12 07:07:16,290 - INFO - 選択されたプロファイル: Profile 9
+2025-10-12 07:07:16,290 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-12 07:07:20,962 - INFO - fupao_tsurumi のプロフィールページにアクセスします
+2025-10-12 07:07:33,134 - INFO - 最新投稿を読み込みます
+2025-10-12 07:07:38,773 - INFO - 候補はピン留め: https://www.instagram.com/fupao_tsurumi/p/DPYRr7pk6Wm/?hl=ja → 日付確認
+2025-10-12 07:07:41,246 - INFO - ピン留めだが3日以上前(7日) → スキップ
+2025-10-12 07:07:41,247 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_tsurumi/p/DPsWvEXE7kI/?hl=ja
+2025-10-12 07:07:45,315 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 07:07:49,010 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 07:07:49,714 - INFO - datetime属性の抽出を開始します
+2025-10-12 07:07:49,774 - INFO - 抽出されたdatetime: 2025-10-12T02:50:53.000Z
+2025-10-12 07:07:49,776 - INFO - fupao_tsurumi の投稿日時: 2025-10-12T02:50:53.000Z
+2025-10-12 07:07:50,055 - INFO - date:2025-10-12 11:50:53+09:00
+2025-10-12 07:07:50,055 - INFO - post_date:20251012
+2025-10-12 07:07:50,307 - INFO - カルーセル推定: 1枚
+2025-10-12 07:07:50,455 - INFO - 検出(SINGLE): https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/561848331_17858947542530460_5923368247083686118_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=vmpLO4Mw1UMQ7kNvwEg61u-&_nc_oc=Adngo4AiZoLjgSqZ1aDS6mfMOTC0e8e2lKVPnvnV_HD-LYFnoiNoiL4gfuWk7FOGIws&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=cJRX6QKmKvAL3SNmf8Kedw&oh=00_AfeAIl5tmRZT69u1haEnp3jxDvTMggpMxhxPI9K-hH53RA&oe=68F13E15
+2025-10-12 07:07:50,455 - INFO - 1枚目: https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/561848331_17858947542530460_5923368247083686118_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=vmpLO4Mw1UMQ7kNvwEg61u-&_nc_oc=Adngo4AiZoLjgSqZ1aDS6mfMOTC0e8e2lKVPnvnV_HD-LYFnoiNoiL4gfuWk7FOGIws&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=cJRX6QKmKvAL3SNmf8Kedw&oh=00_AfeAIl5tmRZT69u1haEnp3jxDvTMggpMxhxPI9K-hH53RA&oe=68F13E15
+2025-10-12 07:07:50,455 - INFO - [caption/by_username] 開始
+2025-10-12 07:07:50,857 - INFO - [caption/by_username] 説明文確定（先頭100）: '福包酒場　鶴見店です！
+
+メニューリニューアル👏🎉
+新しいメニューや値段が安くなった商品沢山あります！
+
+ぜひご来店ください🍺
+お待ちしております！
+
+餃子小籠包 福包酒場 鶴見店 
+神奈川県横浜市鶴'
+2025-10-12 07:07:50,859 - INFO - [caption/by_username] 説明文を保存: media\fupao_tsurumi\description\20251012_070712
+2025-10-12 07:07:50,859 - INFO - 画像URLを取得しました
+2025-10-12 07:07:50,861 - INFO - DUP(with-key): user=fupao_tsurumi, key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA==, dt=2025-10-12T02:50:53.000Z
+2025-10-12 07:07:50,861 - INFO - このレコードは存在します
+2025-10-12 07:07:50,861 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-12 11:06:06,053 - INFO - 処理開始 PROCESSID:20251012_110602
+2025-10-12 11:06:06,053 - INFO - 対象ユーザー: fupao_tsurumi
+2025-10-12 11:06:06,053 - INFO - 処理を開始します
+2025-10-12 11:06:06,116 - INFO - 選択されたプロファイル: Profile 9
+2025-10-12 11:06:06,118 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-12 11:06:10,792 - INFO - fupao_tsurumi のプロフィールページにアクセスします
+2025-10-12 11:06:22,744 - INFO - 最新投稿を読み込みます
+2025-10-12 11:06:28,488 - INFO - 候補はピン留め: https://www.instagram.com/fupao_tsurumi/p/DPYRr7pk6Wm/?hl=ja → 日付確認
+2025-10-12 11:06:31,427 - INFO - ピン留めだが3日以上前(8日) → スキップ
+2025-10-12 11:06:31,427 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_tsurumi/p/DPsWvEXE7kI/?hl=ja
+2025-10-12 11:06:36,753 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 11:06:41,260 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 11:06:41,479 - INFO - datetime属性の抽出を開始します
+2025-10-12 11:06:41,571 - INFO - 抽出されたdatetime: 2025-10-12T02:50:53.000Z
+2025-10-12 11:06:41,572 - INFO - fupao_tsurumi の投稿日時: 2025-10-12T02:50:53.000Z
+2025-10-12 11:06:41,671 - INFO - date:2025-10-12 11:50:53+09:00
+2025-10-12 11:06:41,671 - INFO - post_date:20251012
+2025-10-12 11:06:41,846 - INFO - カルーセル推定: 1枚
+2025-10-12 11:06:42,025 - INFO - 検出(SINGLE): https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/561848331_17858947542530460_5923368247083686118_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=vmpLO4Mw1UMQ7kNvwEg61u-&_nc_oc=Adngo4AiZoLjgSqZ1aDS6mfMOTC0e8e2lKVPnvnV_HD-LYFnoiNoiL4gfuWk7FOGIws&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=swuaTf5Tc8t7NJvSvLjkaA&oh=00_AfedjhtpvysoFdnWZ22GlIDpT6jwaqCH1GqTSp007BTBpQ&oe=68F17655
+2025-10-12 11:06:42,025 - INFO - 1枚目: https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/561848331_17858947542530460_5923368247083686118_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=vmpLO4Mw1UMQ7kNvwEg61u-&_nc_oc=Adngo4AiZoLjgSqZ1aDS6mfMOTC0e8e2lKVPnvnV_HD-LYFnoiNoiL4gfuWk7FOGIws&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=swuaTf5Tc8t7NJvSvLjkaA&oh=00_AfedjhtpvysoFdnWZ22GlIDpT6jwaqCH1GqTSp007BTBpQ&oe=68F17655
+2025-10-12 11:06:42,025 - INFO - [caption/by_username] 開始
+2025-10-12 11:06:42,162 - INFO - [caption/by_username] 説明文確定（先頭100）: '福包酒場　鶴見店です！
+
+メニューリニューアル👏🎉
+新しいメニューや値段が安くなった商品沢山あります！
+
+ぜひご来店ください🍺
+お待ちしております！
+
+餃子小籠包 福包酒場 鶴見店 
+神奈川県横浜市鶴'
+2025-10-12 11:06:42,163 - INFO - [caption/by_username] 説明文を保存: media\fupao_tsurumi\description\20251012_110602
+2025-10-12 11:06:42,164 - INFO - 画像URLを取得しました
+2025-10-12 11:06:42,165 - INFO - DUP(with-key): user=fupao_tsurumi, key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA==, dt=2025-10-12T02:50:53.000Z
+2025-10-12 11:06:42,166 - INFO - このレコードは存在します
+2025-10-12 11:06:42,166 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-12 15:02:16,541 - INFO - 処理開始 PROCESSID:20251012_150213
+2025-10-12 15:02:16,541 - INFO - 対象ユーザー: fupao_tsurumi
+2025-10-12 15:02:16,541 - INFO - 処理を開始します
+2025-10-12 15:02:16,606 - INFO - 選択されたプロファイル: Profile 10
+2025-10-12 15:02:16,606 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-12 15:02:21,288 - INFO - fupao_tsurumi のプロフィールページにアクセスします
+2025-10-12 15:02:33,377 - INFO - 最新投稿を読み込みます
+2025-10-12 15:02:38,967 - INFO - 候補はピン留め: https://www.instagram.com/fupao_tsurumi/p/DPYRr7pk6Wm/?hl=ja → 日付確認
+2025-10-12 15:02:41,511 - INFO - ピン留めだが3日以上前(8日) → スキップ
+2025-10-12 15:02:41,512 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_tsurumi/p/DPsWvEXE7kI/?hl=ja
+2025-10-12 15:02:46,361 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 15:02:50,763 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 15:02:50,854 - INFO - datetime属性の抽出を開始します
+2025-10-12 15:02:50,957 - INFO - 抽出されたdatetime: 2025-10-12T02:50:53.000Z
+2025-10-12 15:02:50,958 - INFO - fupao_tsurumi の投稿日時: 2025-10-12T02:50:53.000Z
+2025-10-12 15:02:50,968 - INFO - date:2025-10-12 11:50:53+09:00
+2025-10-12 15:02:50,968 - INFO - post_date:20251012
+2025-10-12 15:02:51,055 - INFO - カルーセル推定: 1枚
+2025-10-12 15:02:51,110 - INFO - 検出(SINGLE): https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/561848331_17858947542530460_5923368247083686118_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=vmpLO4Mw1UMQ7kNvwEg61u-&_nc_oc=Adngo4AiZoLjgSqZ1aDS6mfMOTC0e8e2lKVPnvnV_HD-LYFnoiNoiL4gfuWk7FOGIws&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=IWp9gro3g_duE-sIeLBDxg&oh=00_AfcJl_iCOz-ZuHd96VMdcRqIVYbOPiP0HNv8OGRTqf5Qwg&oe=68F1AE95
+2025-10-12 15:02:51,110 - INFO - 1枚目: https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/561848331_17858947542530460_5923368247083686118_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=vmpLO4Mw1UMQ7kNvwEg61u-&_nc_oc=Adngo4AiZoLjgSqZ1aDS6mfMOTC0e8e2lKVPnvnV_HD-LYFnoiNoiL4gfuWk7FOGIws&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=IWp9gro3g_duE-sIeLBDxg&oh=00_AfcJl_iCOz-ZuHd96VMdcRqIVYbOPiP0HNv8OGRTqf5Qwg&oe=68F1AE95
+2025-10-12 15:02:51,110 - INFO - [caption/by_username] 開始
+2025-10-12 15:02:51,269 - INFO - [caption/by_username] 説明文確定（先頭100）: '福包酒場　鶴見店です！
+
+メニューリニューアル👏🎉
+新しいメニューや値段が安くなった商品沢山あります！
+
+ぜひご来店ください🍺
+お待ちしております！
+
+餃子小籠包 福包酒場 鶴見店 
+神奈川県横浜市鶴'
+2025-10-12 15:02:51,271 - INFO - [caption/by_username] 説明文を保存: media\fupao_tsurumi\description\20251012_150213
+2025-10-12 15:02:51,271 - INFO - 画像URLを取得しました
+2025-10-12 15:02:51,273 - INFO - DUP(with-key): user=fupao_tsurumi, key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA==, dt=2025-10-12T02:50:53.000Z
+2025-10-12 15:02:51,273 - INFO - このレコードは存在します
+2025-10-12 15:02:51,274 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-12 18:57:52,914 - INFO - 処理開始 PROCESSID:20251012_185749
+2025-10-12 18:57:52,914 - INFO - 対象ユーザー: fupao_tsurumi
+2025-10-12 18:57:52,914 - INFO - 処理を開始します
+2025-10-12 18:57:52,969 - INFO - 選択されたプロファイル: Profile 12
+2025-10-12 18:57:52,969 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-12 18:57:57,655 - INFO - fupao_tsurumi のプロフィールページにアクセスします
+2025-10-12 18:58:09,618 - INFO - 最新投稿を読み込みます
+2025-10-12 18:58:15,254 - INFO - 候補はピン留め: https://www.instagram.com/fupao_tsurumi/p/DPYRr7pk6Wm/?hl=ja → 日付確認
+2025-10-12 18:58:18,108 - INFO - ピン留めだが3日以上前(8日) → スキップ
+2025-10-12 18:58:18,108 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_tsurumi/p/DPsWvEXE7kI/?hl=ja
+2025-10-12 18:58:23,820 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 18:58:28,898 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 18:58:28,936 - INFO - datetime属性の抽出を開始します
+2025-10-12 18:58:28,957 - INFO - 抽出されたdatetime: 2025-10-12T02:50:53.000Z
+2025-10-12 18:58:28,957 - INFO - fupao_tsurumi の投稿日時: 2025-10-12T02:50:53.000Z
+2025-10-12 18:58:28,963 - INFO - date:2025-10-12 11:50:53+09:00
+2025-10-12 18:58:28,963 - INFO - post_date:20251012
+2025-10-12 18:58:29,048 - INFO - カルーセル推定: 1枚
+2025-10-12 18:58:29,095 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/561848331_17858947542530460_5923368247083686118_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=vmpLO4Mw1UMQ7kNvwEg61u-&_nc_oc=Adngo4AiZoLjgSqZ1aDS6mfMOTC0e8e2lKVPnvnV_HD-LYFnoiNoiL4gfuWk7FOGIws&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=M_PefbufwqTOy0b1vM3icQ&oh=00_AfciCdfJfCH_nzdUe6UMyXh6PurtckW_bw7xKTb1qbMykQ&oe=68F1E6D5
+2025-10-12 18:58:29,096 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/561848331_17858947542530460_5923368247083686118_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=vmpLO4Mw1UMQ7kNvwEg61u-&_nc_oc=Adngo4AiZoLjgSqZ1aDS6mfMOTC0e8e2lKVPnvnV_HD-LYFnoiNoiL4gfuWk7FOGIws&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=M_PefbufwqTOy0b1vM3icQ&oh=00_AfciCdfJfCH_nzdUe6UMyXh6PurtckW_bw7xKTb1qbMykQ&oe=68F1E6D5
+2025-10-12 18:58:29,096 - INFO - [caption/by_username] 開始
+2025-10-12 18:58:29,282 - INFO - [caption/by_username] 説明文確定（先頭100）: '福包酒場　鶴見店です！
+
+メニューリニューアル👏🎉
+新しいメニューや値段が安くなった商品沢山あります！
+
+ぜひご来店ください🍺
+お待ちしております！
+
+餃子小籠包 福包酒場 鶴見店 
+神奈川県横浜市鶴'
+2025-10-12 18:58:29,284 - INFO - [caption/by_username] 説明文を保存: media\fupao_tsurumi\description\20251012_185749
+2025-10-12 18:58:29,284 - INFO - 画像URLを取得しました
+2025-10-12 18:58:29,286 - INFO - DUP(with-key): user=fupao_tsurumi, key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA==, dt=2025-10-12T02:50:53.000Z
+2025-10-12 18:58:29,286 - INFO - このレコードは存在します
+2025-10-12 18:58:29,286 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-12 22:48:11,584 - INFO - 処理開始 PROCESSID:20251012_224808
+2025-10-12 22:48:11,584 - INFO - 対象ユーザー: fupao_tsurumi
+2025-10-12 22:48:11,584 - INFO - 処理を開始します
+2025-10-12 22:48:11,639 - INFO - 選択されたプロファイル: Profile 9
+2025-10-12 22:48:11,639 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-12 22:48:16,180 - INFO - fupao_tsurumi のプロフィールページにアクセスします
+2025-10-12 22:48:28,176 - INFO - 最新投稿を読み込みます
+2025-10-12 22:48:33,725 - INFO - 候補はピン留め: https://www.instagram.com/fupao_tsurumi/p/DPYRr7pk6Wm/?hl=ja → 日付確認
+2025-10-12 22:48:36,767 - INFO - ピン留めだが3日以上前(8日) → スキップ
+2025-10-12 22:48:36,767 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_tsurumi/p/DPsWvEXE7kI/?hl=ja
+2025-10-12 22:48:40,857 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 22:48:44,494 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 22:48:45,031 - INFO - datetime属性の抽出を開始します
+2025-10-12 22:48:45,373 - INFO - 抽出されたdatetime: 2025-10-12T02:50:53.000Z
+2025-10-12 22:48:45,373 - INFO - fupao_tsurumi の投稿日時: 2025-10-12T02:50:53.000Z
+2025-10-12 22:48:45,485 - INFO - date:2025-10-12 11:50:53+09:00
+2025-10-12 22:48:45,485 - INFO - post_date:20251012
+2025-10-12 22:48:45,601 - INFO - カルーセル推定: 1枚
+2025-10-12 22:48:45,653 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/561848331_17858947542530460_5923368247083686118_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=vmpLO4Mw1UMQ7kNvwEg61u-&_nc_oc=Adngo4AiZoLjgSqZ1aDS6mfMOTC0e8e2lKVPnvnV_HD-LYFnoiNoiL4gfuWk7FOGIws&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=yvKjAFXsQvEcjj-svRa-pg&oh=00_AfeIo6Qn5zIf77EzDnOi0691hgrif6MtG8SwBNdeqL9-xQ&oe=68F1E6D5
+2025-10-12 22:48:45,653 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/561848331_17858947542530460_5923368247083686118_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=vmpLO4Mw1UMQ7kNvwEg61u-&_nc_oc=Adngo4AiZoLjgSqZ1aDS6mfMOTC0e8e2lKVPnvnV_HD-LYFnoiNoiL4gfuWk7FOGIws&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=yvKjAFXsQvEcjj-svRa-pg&oh=00_AfeIo6Qn5zIf77EzDnOi0691hgrif6MtG8SwBNdeqL9-xQ&oe=68F1E6D5
+2025-10-12 22:48:45,653 - INFO - [caption/by_username] 開始
+2025-10-12 22:48:46,070 - INFO - [caption/by_username] 説明文確定（先頭100）: '福包酒場　鶴見店です！
+
+メニューリニューアル👏🎉
+新しいメニューや値段が安くなった商品沢山あります！
+
+ぜひご来店ください🍺
+お待ちしております！
+
+餃子小籠包 福包酒場 鶴見店 
+神奈川県横浜市鶴'
+2025-10-12 22:48:46,072 - INFO - [caption/by_username] 説明文を保存: media\fupao_tsurumi\description\20251012_224808
+2025-10-12 22:48:46,072 - INFO - 画像URLを取得しました
+2025-10-12 22:48:46,074 - INFO - DUP(with-key): user=fupao_tsurumi, key=Mzc0MTQ2NTM4MTk1ODgyNjI0OA==, dt=2025-10-12T02:50:53.000Z
+2025-10-12 22:48:46,074 - INFO - このレコードは存在します
+2025-10-12 22:48:46,074 - INFO - 全件レコードが存在します

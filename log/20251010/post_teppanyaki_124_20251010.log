@@ -1,0 +1,194 @@
+================================================================================
+2025-10-10 01:52:36,920 - INFO - 処理開始 PROCESSID:20251010_015233
+2025-10-10 01:52:36,920 - INFO - 対象ユーザー: teppanyaki_124
+2025-10-10 01:52:36,920 - INFO - 処理を開始します
+2025-10-10 01:52:36,984 - INFO - 選択されたプロファイル: Profile 13
+2025-10-10 01:52:36,984 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-10 01:52:42,551 - INFO - teppanyaki_124 のプロフィールページにアクセスします
+2025-10-10 01:52:54,613 - INFO - 最新投稿を読み込みます
+2025-10-10 01:53:00,353 - INFO - 選定: 非ピン留め https://www.instagram.com/teppanyaki_124/reel/DPjMfnLkkrD/?hl=ja
+2025-10-10 01:53:03,668 - INFO - 最新投稿ページにアクセスしました
+2025-10-10 01:53:08,090 - INFO - 最新投稿ページにアクセスしました
+2025-10-10 01:53:08,316 - INFO - datetime属性の抽出を開始します
+2025-10-10 01:53:08,377 - INFO - 抽出されたdatetime: 2025-10-08T13:31:40.000Z
+2025-10-10 01:53:08,377 - INFO - teppanyaki_124 の投稿日時: 2025-10-08T13:31:40.000Z
+2025-10-10 01:53:08,557 - INFO - date:2025-10-08 22:31:40+09:00
+2025-10-10 01:53:08,557 - INFO - post_date:20251008
+2025-10-10 01:53:08,591 - INFO - 1枚目: blob:https://www.instagram.com/0703457e-c13f-4cf6-a6b8-ea15b72f5d0a
+2025-10-10 01:53:08,591 - INFO - [caption/by_username] 開始
+2025-10-10 01:53:09,010 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お薦めの秋酒入荷しました😊
+
+高知県　美丈夫　純米吟醸　秋酒ひやおろし
+
+#黒毛和牛 #横浜 #一如 #いちにょ #横浜グルメ #鉄板焼 #鉄板焼一如 #記念日 #接待 #お祝い #日本酒　#高知県
+'
+2025-10-10 01:53:09,012 - INFO - [caption/by_username] 説明文を保存: media\teppanyaki_124\description\20251010_015233
+2025-10-10 01:53:11,915 - INFO - 生成URL:https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m367/AQM6dCGZWfOl157Qnxj2m7qn0PtRKsHlXWRGiD5kXzIErk98T0RN2JC7T3jBNDgJMmWYVOiyb3U7_DRCdqLUXJC2aGE6MWvQMcZ8C6VKAuwsOw.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=32hazZXBHBQQ7kNvwEvfUAC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNDM5NDk3ODEwNDcyNjY4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6ODksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=YJufVn3yP05a1AK26bAR5A&_nc_zt=28&oh=00_AfcBLfcMWHgYnbRl6U_ifCJRMr-98WkA7ZKuPM_j-KN8ZA&oe=68EE269B&bytestart=0&byteend=1265586
+2025-10-10 01:53:11,950 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=teppanyaki_124, key=AQM6dCGZWfOl157Qnxj2m7qn0PtRKsHlXWRGiD5kXzIErk98T0RN2JC7T3jBNDgJMmWYVOiyb3U7_DRCdqLUXJC2aGE6MWvQMcZ8C6VKAuwsOw, dt=2025-10-08T13:31:40.000Z, url=https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m367/AQM6dCGZWfOl157Qnxj2m7qn0PtRKsHlXWRGiD5kXzIErk98T0RN2JC7T3jBNDgJMmWYVOiyb3U7_DRCdqLUXJC2aGE6MWvQMcZ8C6VKAuwsOw.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=32hazZXBHBQQ7kNvwEvfUAC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNDM5NDk3ODEwNDcyNjY4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6ODksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=YJufVn3yP05a1AK26bAR5A&_nc_zt=28&oh=00_AfcBLfcMWHgYnbRl6U_ifCJRMr-98WkA7ZKuPM_j-KN8ZA&oe=68EE269B&bytestart=0&byteend=1265586, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('teppanyaki_124', 'AQM6dCGZWfOl157Qnxj2m7qn0PtRKsHlXWRGiD5kXzIErk98T0RN2JC7T3jBNDgJMmWYVOiyb3U7_DRCdqLUXJC2aGE6MWvQMcZ8C6VKAuwsOw', 'https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m367/AQM6dCGZWfOl157Qnxj2m7qn0PtRKsHlXWRGiD5kXzIErk98T0RN2JC7T3jBNDgJMmWYVOiyb3U7_DRCdqLUXJC2aGE6MWvQMcZ8C6VKAuwsOw.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=32hazZXBHBQQ7kNvwEvfUAC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNDM5NDk3ODEwNDcyNjY4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6ODksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=YJufVn3yP05a1AK26bAR5A&_nc_zt=28&oh=00_AfcBLfcMWHgYnbRl6U_ifCJRMr-98WkA7ZKuPM_j-KN8ZA&oe=68EE269B&bytestart=0&byteend=1265586', '2025-10-08T13:31:40.000Z')
+2025-10-10 01:53:11,951 - INFO - このレコードは存在します
+2025-10-10 01:53:11,951 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-10 05:51:05,824 - INFO - 処理開始 PROCESSID:20251010_055102
+2025-10-10 05:51:05,826 - INFO - 対象ユーザー: teppanyaki_124
+2025-10-10 05:51:05,826 - INFO - 処理を開始します
+2025-10-10 05:51:05,889 - INFO - 選択されたプロファイル: Profile 13
+2025-10-10 05:51:05,889 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-10 05:51:10,670 - INFO - teppanyaki_124 のプロフィールページにアクセスします
+2025-10-10 05:51:22,369 - INFO - 最新投稿を読み込みます
+2025-10-10 05:51:27,786 - INFO - 選定: 非ピン留め https://www.instagram.com/teppanyaki_124/reel/DPjMfnLkkrD/?hl=ja
+2025-10-10 05:51:32,964 - INFO - 最新投稿ページにアクセスしました
+2025-10-10 05:51:36,425 - INFO - 最新投稿ページにアクセスしました
+2025-10-10 05:51:36,971 - INFO - datetime属性の抽出を開始します
+2025-10-10 05:51:37,351 - INFO - 抽出されたdatetime: 2025-10-08T13:31:40.000Z
+2025-10-10 05:51:37,351 - INFO - teppanyaki_124 の投稿日時: 2025-10-08T13:31:40.000Z
+2025-10-10 05:51:37,364 - INFO - date:2025-10-08 22:31:40+09:00
+2025-10-10 05:51:37,365 - INFO - post_date:20251008
+2025-10-10 05:51:37,432 - INFO - 1枚目: blob:https://www.instagram.com/a3d071d3-45c1-4457-935d-b20c6ae5e3e0
+2025-10-10 05:51:37,432 - INFO - [caption/by_username] 開始
+2025-10-10 05:51:37,561 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お薦めの秋酒入荷しました😊
+
+高知県　美丈夫　純米吟醸　秋酒ひやおろし
+
+#黒毛和牛 #横浜 #一如 #いちにょ #横浜グルメ #鉄板焼 #鉄板焼一如 #記念日 #接待 #お祝い #日本酒　#高知県
+'
+2025-10-10 05:51:37,563 - INFO - [caption/by_username] 説明文を保存: media\teppanyaki_124\description\20251010_055102
+2025-10-10 05:51:40,539 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQNQTi9BaVc2JGp0skkXFQB_j5NTaHZ6F7I2QrHnpMSwcwWYiKlIws0tVVukeHYxCdIPTYwe9HuBuone4X3FO_dqtisCdsi-2HVrJo5p2xk6Sg.mp4?_nc_cat=100&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=uPaGj1yDlhYQ7kNvwGJGify&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNTQwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNDM5NDk3ODEwNDcyNjY4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6ODksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Z85whGzCESCT3FH6Yz4iiQ&_nc_zt=28&oh=00_Aff1nME_-fTyE4aZbnNW8FemASwms9m5vu3mIpYSR5Rglw&oe=68EE7F94&bytestart=0&byteend=720697
+2025-10-10 05:51:40,575 - INFO - INSERT(with-key): user=teppanyaki_124, key=AQNQTi9BaVc2JGp0skkXFQB_j5NTaHZ6F7I2QrHnpMSwcwWYiKlIws0tVVukeHYxCdIPTYwe9HuBuone4X3FO_dqtisCdsi-2HVrJo5p2xk6Sg, dt=2025-10-08T13:31:40.000Z
+2025-10-10 05:51:42,578 - INFO - ダウンロードを開始します: media\teppanyaki_124\teppanyaki_124_20251010055142.mp4
+2025-10-10 05:51:43,057 - INFO - ダウンロード完了: media\teppanyaki_124\teppanyaki_124_20251010055142.mp4
+2025-10-10 05:51:43,058 - INFO - 説明文:お薦めの秋酒入荷しました😊
+
+高知県　美丈夫　純米吟醸　秋酒ひやおろし
+
+#黒毛和牛 #横浜 #一如 #いちにょ #横浜グルメ #鉄板焼 #鉄板焼一如 #記念日 #接待 #お祝い #日本酒　#高知県
+#美丈夫　#秋酒　#ひやおろし
+2025-10-10 05:51:45,599 - INFO - 処理終了
+================================================================================
+2025-10-10 05:51:51,817 - INFO - 処理開始: Mode=post, Username=teppanyaki_124, GBP=teppanyaki124
+2025-10-10 05:51:51,817 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJ0ZXBwYW55YWtpMTI0Il0.
+2025-10-10 05:52:16,316 - INFO - 元の動画サイズ: 540x960
+2025-10-10 05:52:16,316 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-10 05:52:16,316 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\teppanyaki_124\teppanyaki_124_20251010055142.mp4
+2025-10-10 05:52:26,401 - INFO - Waiting for description field...
+2025-10-10 05:52:26,418 - INFO - Setting description via JS (no send_keys)...
+2025-10-10 05:52:27,514 - INFO - Looking for button section...
+2025-10-10 05:52:32,147 - INFO - Trying to select CALL option...
+2025-10-10 05:52:32,536 - INFO - CALL option successfully selected
+2025-10-10 05:52:34,536 - INFO - Clicking submit button...
+2025-10-10 05:52:43,204 - INFO - 処理完了
+================================================================================
+2025-10-10 09:52:57,525 - INFO - 処理開始 PROCESSID:20251010_095253
+2025-10-10 09:52:57,525 - INFO - 対象ユーザー: teppanyaki_124
+2025-10-10 09:52:57,525 - INFO - 処理を開始します
+2025-10-10 09:52:57,590 - INFO - 選択されたプロファイル: Profile 13
+2025-10-10 09:52:57,591 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-10 09:53:02,155 - INFO - teppanyaki_124 のプロフィールページにアクセスします
+2025-10-10 09:53:14,074 - INFO - 最新投稿を読み込みます
+2025-10-10 09:53:19,586 - INFO - 選定: 非ピン留め https://www.instagram.com/teppanyaki_124/reel/DPjMfnLkkrD/?hl=ja
+2025-10-10 09:53:23,939 - INFO - 最新投稿ページにアクセスしました
+2025-10-10 09:53:28,199 - INFO - 最新投稿ページにアクセスしました
+2025-10-10 09:53:28,451 - INFO - datetime属性の抽出を開始します
+2025-10-10 09:53:29,035 - INFO - 抽出されたdatetime: 2025-10-08T13:31:40.000Z
+2025-10-10 09:53:29,035 - INFO - teppanyaki_124 の投稿日時: 2025-10-08T13:31:40.000Z
+2025-10-10 09:53:29,188 - INFO - date:2025-10-08 22:31:40+09:00
+2025-10-10 09:53:29,188 - INFO - post_date:20251008
+2025-10-10 09:53:29,241 - INFO - 1枚目: blob:https://www.instagram.com/ae80b28b-cec7-4a7d-b945-cea8f8755afd
+2025-10-10 09:53:29,241 - INFO - [caption/by_username] 開始
+2025-10-10 09:53:29,470 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お薦めの秋酒入荷しました😊
+
+高知県　美丈夫　純米吟醸　秋酒ひやおろし
+
+#黒毛和牛 #横浜 #一如 #いちにょ #横浜グルメ #鉄板焼 #鉄板焼一如 #記念日 #接待 #お祝い #日本酒　#高知県
+'
+2025-10-10 09:53:29,472 - INFO - [caption/by_username] 説明文を保存: media\teppanyaki_124\description\20251010_095253
+2025-10-10 09:53:32,103 - INFO - 生成URL:https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m367/AQM6dCGZWfOl157Qnxj2m7qn0PtRKsHlXWRGiD5kXzIErk98T0RN2JC7T3jBNDgJMmWYVOiyb3U7_DRCdqLUXJC2aGE6MWvQMcZ8C6VKAuwsOw.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=32hazZXBHBQQ7kNvwEvfUAC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNDM5NDk3ODEwNDcyNjY4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6ODksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=kTXhVatOnuOxLGVtM93-CQ&_nc_zt=28&oh=00_AffIzthr-wZwidITYYn-NiGsMlDk137ty72ITiVt4HyAuQ&oe=68EE971B&bytestart=0&byteend=1265586
+2025-10-10 09:53:32,109 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=teppanyaki_124, key=AQM6dCGZWfOl157Qnxj2m7qn0PtRKsHlXWRGiD5kXzIErk98T0RN2JC7T3jBNDgJMmWYVOiyb3U7_DRCdqLUXJC2aGE6MWvQMcZ8C6VKAuwsOw, dt=2025-10-08T13:31:40.000Z, url=https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m367/AQM6dCGZWfOl157Qnxj2m7qn0PtRKsHlXWRGiD5kXzIErk98T0RN2JC7T3jBNDgJMmWYVOiyb3U7_DRCdqLUXJC2aGE6MWvQMcZ8C6VKAuwsOw.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=32hazZXBHBQQ7kNvwEvfUAC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNDM5NDk3ODEwNDcyNjY4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6ODksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=kTXhVatOnuOxLGVtM93-CQ&_nc_zt=28&oh=00_AffIzthr-wZwidITYYn-NiGsMlDk137ty72ITiVt4HyAuQ&oe=68EE971B&bytestart=0&byteend=1265586, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('teppanyaki_124', 'AQM6dCGZWfOl157Qnxj2m7qn0PtRKsHlXWRGiD5kXzIErk98T0RN2JC7T3jBNDgJMmWYVOiyb3U7_DRCdqLUXJC2aGE6MWvQMcZ8C6VKAuwsOw', 'https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m367/AQM6dCGZWfOl157Qnxj2m7qn0PtRKsHlXWRGiD5kXzIErk98T0RN2JC7T3jBNDgJMmWYVOiyb3U7_DRCdqLUXJC2aGE6MWvQMcZ8C6VKAuwsOw.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=32hazZXBHBQQ7kNvwEvfUAC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNDM5NDk3ODEwNDcyNjY4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6ODksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=kTXhVatOnuOxLGVtM93-CQ&_nc_zt=28&oh=00_AffIzthr-wZwidITYYn-NiGsMlDk137ty72ITiVt4HyAuQ&oe=68EE971B&bytestart=0&byteend=1265586', '2025-10-08T13:31:40.000Z')
+2025-10-10 09:53:32,110 - INFO - このレコードは存在します
+2025-10-10 09:53:32,110 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-10 13:48:35,881 - INFO - 処理開始 PROCESSID:20251010_134832
+2025-10-10 13:48:35,881 - INFO - 対象ユーザー: teppanyaki_124
+2025-10-10 13:48:35,881 - INFO - 処理を開始します
+2025-10-10 13:48:35,942 - INFO - 選択されたプロファイル: Profile 9
+2025-10-10 13:48:35,942 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-10 13:48:40,771 - INFO - teppanyaki_124 のプロフィールページにアクセスします
+2025-10-10 13:48:52,998 - INFO - 最新投稿を読み込みます
+2025-10-10 13:48:58,567 - INFO - 選定: 非ピン留め https://www.instagram.com/teppanyaki_124/reel/DPjMfnLkkrD/?hl=ja
+2025-10-10 13:49:04,067 - INFO - 最新投稿ページにアクセスしました
+2025-10-10 13:49:08,244 - INFO - 最新投稿ページにアクセスしました
+2025-10-10 13:49:08,547 - INFO - datetime属性の抽出を開始します
+2025-10-10 13:49:08,746 - INFO - 抽出されたdatetime: 2025-10-08T13:31:40.000Z
+2025-10-10 13:49:08,747 - INFO - teppanyaki_124 の投稿日時: 2025-10-08T13:31:40.000Z
+2025-10-10 13:49:08,795 - INFO - date:2025-10-08 22:31:40+09:00
+2025-10-10 13:49:08,795 - INFO - post_date:20251008
+2025-10-10 13:49:09,632 - INFO - 1枚目: blob:https://www.instagram.com/30704cb6-341c-4f3d-9783-876cfa375bb5
+2025-10-10 13:49:09,632 - INFO - [caption/by_username] 開始
+2025-10-10 13:49:09,729 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お薦めの秋酒入荷しました😊
+
+高知県　美丈夫　純米吟醸　秋酒ひやおろし
+
+#黒毛和牛 #横浜 #一如 #いちにょ #横浜グルメ #鉄板焼 #鉄板焼一如 #記念日 #接待 #お祝い #日本酒　#高知県
+'
+2025-10-10 13:49:09,731 - INFO - [caption/by_username] 説明文を保存: media\teppanyaki_124\description\20251010_134832
+2025-10-10 13:49:11,955 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQM1d3z_2RVVOT2_PtGwMl8TbHYuaMbJTprgekqYtUFK6yX_aiA3pjA5QVSveNBZJ1UaQkOfrqnUXwJafEr4g4ydwCfRscPjM5MiXEl63Bs7tw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=Pwi5hsACWAwQ7kNvwEh14gH&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE0ODU5NTMxNzQxNjA3NSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=m9gIwn_s1c4Vmn1tiIFPiw&_nc_zt=28&oh=00_AffTj_rMGieKqjgK6GQl2BsBq0KcNRlxPqJ5GikvrDpyBA&oe=68EEE732&bytestart=0&byteend=324213
+2025-10-10 13:49:11,959 - INFO - DUP(with-key): user=teppanyaki_124, key=AQM1d3z_2RVVOT2_PtGwMl8TbHYuaMbJTprgekqYtUFK6yX_aiA3pjA5QVSveNBZJ1UaQkOfrqnUXwJafEr4g4ydwCfRscPjM5MiXEl63Bs7tw, dt=2025-10-08T13:31:40.000Z
+2025-10-10 13:49:11,959 - INFO - このレコードは存在します
+2025-10-10 13:49:11,959 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-10 17:41:53,791 - INFO - 処理開始 PROCESSID:20251010_174150
+2025-10-10 17:41:53,791 - INFO - 対象ユーザー: teppanyaki_124
+2025-10-10 17:41:53,791 - INFO - 処理を開始します
+2025-10-10 17:41:53,846 - INFO - 選択されたプロファイル: Profile 10
+2025-10-10 17:41:53,848 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-10 17:41:58,564 - INFO - teppanyaki_124 のプロフィールページにアクセスします
+2025-10-10 17:42:10,643 - INFO - 最新投稿を読み込みます
+2025-10-10 17:42:16,213 - INFO - 選定: 非ピン留め https://www.instagram.com/teppanyaki_124/reel/DPjMfnLkkrD/?hl=ja
+2025-10-10 17:42:21,913 - INFO - 最新投稿ページにアクセスしました
+2025-10-10 17:42:26,893 - INFO - 最新投稿ページにアクセスしました
+2025-10-10 17:42:27,183 - INFO - datetime属性の抽出を開始します
+2025-10-10 17:42:27,433 - INFO - 抽出されたdatetime: 2025-10-08T13:31:40.000Z
+2025-10-10 17:42:27,434 - INFO - teppanyaki_124 の投稿日時: 2025-10-08T13:31:40.000Z
+2025-10-10 17:42:27,564 - INFO - date:2025-10-08 22:31:40+09:00
+2025-10-10 17:42:27,564 - INFO - post_date:20251008
+2025-10-10 17:42:27,628 - INFO - 1枚目: blob:https://www.instagram.com/10090cef-9f6b-483d-87e3-b5b37c47d2ef
+2025-10-10 17:42:27,629 - INFO - [caption/by_username] 開始
+2025-10-10 17:42:28,054 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お薦めの秋酒入荷しました😊
+
+高知県　美丈夫　純米吟醸　秋酒ひやおろし
+
+#黒毛和牛 #横浜 #一如 #いちにょ #横浜グルメ #鉄板焼 #鉄板焼一如 #記念日 #接待 #お祝い #日本酒　#高知県
+'
+2025-10-10 17:42:28,056 - INFO - [caption/by_username] 説明文を保存: media\teppanyaki_124\description\20251010_174150
+2025-10-10 17:42:30,665 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQM1d3z_2RVVOT2_PtGwMl8TbHYuaMbJTprgekqYtUFK6yX_aiA3pjA5QVSveNBZJ1UaQkOfrqnUXwJafEr4g4ydwCfRscPjM5MiXEl63Bs7tw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=Pwi5hsACWAwQ7kNvwEh14gH&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE0ODU5NTMxNzQxNjA3NSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=gcddLSgdIlSrOxS6e-A6pg&_nc_zt=28&oh=00_Affzj_tCT5o5SWeVGVXco7T44BwQN7k6n6uasO21V37A6Q&oe=68EF1F72&bytestart=0&byteend=324213
+2025-10-10 17:42:30,668 - INFO - DUP(with-key): user=teppanyaki_124, key=AQM1d3z_2RVVOT2_PtGwMl8TbHYuaMbJTprgekqYtUFK6yX_aiA3pjA5QVSveNBZJ1UaQkOfrqnUXwJafEr4g4ydwCfRscPjM5MiXEl63Bs7tw, dt=2025-10-08T13:31:40.000Z
+2025-10-10 17:42:30,668 - INFO - このレコードは存在します
+2025-10-10 17:42:30,669 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-10 21:31:35,616 - INFO - 処理開始 PROCESSID:20251010_213132
+2025-10-10 21:31:35,616 - INFO - 対象ユーザー: teppanyaki_124
+2025-10-10 21:31:35,616 - INFO - 処理を開始します
+2025-10-10 21:31:35,669 - INFO - 選択されたプロファイル: Profile 10
+2025-10-10 21:31:35,669 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-10 21:31:40,366 - INFO - teppanyaki_124 のプロフィールページにアクセスします
+2025-10-10 21:31:53,326 - INFO - 最新投稿を読み込みます
+2025-10-10 21:31:58,664 - INFO - 選定: 非ピン留め https://www.instagram.com/teppanyaki_124/reel/DPjMfnLkkrD/?hl=ja
+2025-10-10 21:32:02,751 - INFO - 最新投稿ページにアクセスしました
+2025-10-10 21:32:07,604 - INFO - 最新投稿ページにアクセスしました
+2025-10-10 21:32:07,785 - INFO - datetime属性の抽出を開始します
+2025-10-10 21:32:07,821 - INFO - 抽出されたdatetime: 2025-10-08T13:31:40.000Z
+2025-10-10 21:32:07,821 - INFO - teppanyaki_124 の投稿日時: 2025-10-08T13:31:40.000Z
+2025-10-10 21:32:07,831 - INFO - date:2025-10-08 22:31:40+09:00
+2025-10-10 21:32:07,832 - INFO - post_date:20251008
+2025-10-10 21:32:07,858 - INFO - 1枚目: blob:https://www.instagram.com/50c86d33-7a72-4f79-bf7e-a3edac30e3ab
+2025-10-10 21:32:07,858 - INFO - [caption/by_username] 開始
+2025-10-10 21:32:08,121 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お薦めの秋酒入荷しました😊
+
+高知県　美丈夫　純米吟醸　秋酒ひやおろし
+
+#黒毛和牛 #横浜 #一如 #いちにょ #横浜グルメ #鉄板焼 #鉄板焼一如 #記念日 #接待 #お祝い #日本酒　#高知県
+'
+2025-10-10 21:32:08,123 - INFO - [caption/by_username] 説明文を保存: media\teppanyaki_124\description\20251010_213132
+2025-10-10 21:32:10,687 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQM1d3z_2RVVOT2_PtGwMl8TbHYuaMbJTprgekqYtUFK6yX_aiA3pjA5QVSveNBZJ1UaQkOfrqnUXwJafEr4g4ydwCfRscPjM5MiXEl63Bs7tw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=Pwi5hsACWAwQ7kNvwEh14gH&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE0ODU5NTMxNzQxNjA3NSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=CJlpMbQhQiT-o8Cqnym4AQ&_nc_zt=28&oh=00_Afey5YjX_PXTXcNtb8_BiEwTBiaoXjMEIRrEA1zTAoujhQ&oe=68EF57B2&bytestart=0&byteend=324213
+2025-10-10 21:32:10,691 - INFO - DUP(with-key): user=teppanyaki_124, key=AQM1d3z_2RVVOT2_PtGwMl8TbHYuaMbJTprgekqYtUFK6yX_aiA3pjA5QVSveNBZJ1UaQkOfrqnUXwJafEr4g4ydwCfRscPjM5MiXEl63Bs7tw, dt=2025-10-08T13:31:40.000Z
+2025-10-10 21:32:10,691 - INFO - このレコードは存在します
+2025-10-10 21:32:10,692 - INFO - 全件レコードが存在します

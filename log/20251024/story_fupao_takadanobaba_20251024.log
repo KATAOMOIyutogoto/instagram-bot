@@ -1,0 +1,150 @@
+================================================================================
+2025-10-24 00:10:11,999 - INFO - 処理開始 PROCESSID:20251024_001008
+2025-10-24 00:10:11,999 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-10-24 00:10:11,999 - INFO - 処理を開始します
+2025-10-24 00:10:12,067 - INFO - 選択されたプロファイル: Profile 9
+2025-10-24 00:10:12,067 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-24 00:10:16,647 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-10-24 00:10:38,380 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 00:10:41,603 - INFO - 動画の取得に失敗しました
+2025-10-24 00:10:41,604 - INFO - datetime属性の抽出を開始します
+2025-10-24 00:10:41,677 - INFO - 抽出されたdatetime: 2025-10-23T10:23:47.000Z
+2025-10-24 00:10:41,704 - INFO - 画像URLを取得しました
+2025-10-24 00:10:41,706 - INFO - DUP(with-key): user=fupao_takadanobaba, key=Mzc0OTY2NTkzMTUzNTc0OTAwMQ==, dt=2025-10-23T10:23:47.000Z
+================================================================================
+2025-10-24 04:21:42,598 - INFO - 処理開始 PROCESSID:20251024_042139
+2025-10-24 04:21:42,598 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-10-24 04:21:42,598 - INFO - 処理を開始します
+2025-10-24 04:21:42,667 - INFO - 選択されたプロファイル: Profile 10
+2025-10-24 04:21:42,667 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-24 04:21:47,436 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-10-24 04:22:10,117 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 04:22:13,289 - INFO - 動画の取得に失敗しました
+2025-10-24 04:22:13,290 - INFO - datetime属性の抽出を開始します
+2025-10-24 04:22:13,371 - INFO - 抽出されたdatetime: 2025-10-23T10:23:47.000Z
+2025-10-24 04:22:13,396 - INFO - 画像URLを取得しました
+2025-10-24 04:22:13,398 - INFO - DUP(with-key): user=fupao_takadanobaba, key=Mzc0OTY2NTkzMTUzNTc0OTAwMQ==, dt=2025-10-23T10:23:47.000Z
+================================================================================
+2025-10-24 08:32:37,824 - INFO - 処理開始 PROCESSID:20251024_083234
+2025-10-24 08:32:37,824 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-10-24 08:32:37,824 - INFO - 処理を開始します
+2025-10-24 08:32:37,884 - INFO - 選択されたプロファイル: Profile 13
+2025-10-24 08:32:37,884 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-24 08:32:42,464 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-10-24 08:33:04,362 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 08:33:07,505 - INFO - 動画の取得に失敗しました
+2025-10-24 08:33:07,506 - INFO - datetime属性の抽出を開始します
+2025-10-24 08:33:07,585 - INFO - 抽出されたdatetime: 2025-10-23T10:23:47.000Z
+2025-10-24 08:33:07,609 - INFO - 画像URLを取得しました
+2025-10-24 08:33:07,614 - INFO - DUP(with-key): user=fupao_takadanobaba, key=Mzc0OTY2NTkzMTUzNTc0OTAwMQ==, dt=2025-10-23T10:23:47.000Z
+================================================================================
+2025-10-24 12:52:24,466 - INFO - 処理開始 PROCESSID:20251024_125221
+2025-10-24 12:52:24,466 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-10-24 12:52:24,466 - INFO - 処理を開始します
+2025-10-24 12:52:24,524 - INFO - 選択されたプロファイル: Profile 12
+2025-10-24 12:52:24,526 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-24 12:52:29,562 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-10-24 12:52:51,515 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 12:52:54,652 - INFO - 動画の取得に失敗しました
+2025-10-24 12:52:54,653 - INFO - datetime属性の抽出を開始します
+2025-10-24 12:53:05,026 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xb2fe43+66515]
+	GetHandleVerifier [0x0xb2fe84+66580]
+	(No symbol) [0x0x91dc48]
+	(No symbol) [0x0x968704]
+	(No symbol) [0x0x968aab]
+	(No symbol) [0x0x9af482]
+	(No symbol) [0x0x98b214]
+	(No symbol) [0x0x9acba7]
+	(No symbol) [0x0x98afc6]
+	(No symbol) [0x0x95c2ca]
+	(No symbol) [0x0x95d154]
+	GetHandleVerifier [0x0xd87353+2521315]
+	GetHandleVerifier [0x0xd822d3+2500707]
+	GetHandleVerifier [0x0xb57c94+229924]
+	GetHandleVerifier [0x0xb481f8+165768]
+	GetHandleVerifier [0x0xb4ecad+193085]
+	GetHandleVerifier [0x0xb38158+100072]
+	GetHandleVerifier [0x0xb382f0+100480]
+	GetHandleVerifier [0x0xb225aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-24 12:53:15,340 - INFO - 画像の取得に失敗しました
+2025-10-24 12:53:17,753 - INFO - 処理終了
+================================================================================
+2025-10-24 17:00:35,089 - INFO - 処理開始 PROCESSID:20251024_170031
+2025-10-24 17:00:35,089 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-10-24 17:00:35,089 - INFO - 処理を開始します
+2025-10-24 17:00:35,149 - INFO - 選択されたプロファイル: Profile 9
+2025-10-24 17:00:35,149 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-24 17:00:39,928 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-10-24 17:01:02,506 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 17:01:05,714 - INFO - 動画の取得に失敗しました
+2025-10-24 17:01:05,715 - INFO - datetime属性の抽出を開始します
+2025-10-24 17:01:16,064 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xb2fe43+66515]
+	GetHandleVerifier [0x0xb2fe84+66580]
+	(No symbol) [0x0x91dc48]
+	(No symbol) [0x0x968704]
+	(No symbol) [0x0x968aab]
+	(No symbol) [0x0x9af482]
+	(No symbol) [0x0x98b214]
+	(No symbol) [0x0x9acba7]
+	(No symbol) [0x0x98afc6]
+	(No symbol) [0x0x95c2ca]
+	(No symbol) [0x0x95d154]
+	GetHandleVerifier [0x0xd87353+2521315]
+	GetHandleVerifier [0x0xd822d3+2500707]
+	GetHandleVerifier [0x0xb57c94+229924]
+	GetHandleVerifier [0x0xb481f8+165768]
+	GetHandleVerifier [0x0xb4ecad+193085]
+	GetHandleVerifier [0x0xb38158+100072]
+	GetHandleVerifier [0x0xb382f0+100480]
+	GetHandleVerifier [0x0xb225aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-24 17:01:26,346 - INFO - 画像の取得に失敗しました
+2025-10-24 17:01:28,747 - INFO - 処理終了
+================================================================================
+2025-10-24 21:06:25,508 - INFO - 処理開始 PROCESSID:20251024_210622
+2025-10-24 21:06:25,510 - INFO - 対象ユーザー: fupao_takadanobaba
+2025-10-24 21:06:25,510 - INFO - 処理を開始します
+2025-10-24 21:06:25,567 - INFO - 選択されたプロファイル: Profile 9
+2025-10-24 21:06:25,567 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-24 21:06:29,998 - INFO - fupao_takadanobaba のプロフィールページにアクセスします
+2025-10-24 21:06:53,205 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 21:06:56,510 - INFO - 動画の取得に失敗しました
+2025-10-24 21:06:56,510 - INFO - datetime属性の抽出を開始します
+2025-10-24 21:07:06,862 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xb2fe43+66515]
+	GetHandleVerifier [0x0xb2fe84+66580]
+	(No symbol) [0x0x91dc48]
+	(No symbol) [0x0x968704]
+	(No symbol) [0x0x968aab]
+	(No symbol) [0x0x9af482]
+	(No symbol) [0x0x98b214]
+	(No symbol) [0x0x9acba7]
+	(No symbol) [0x0x98afc6]
+	(No symbol) [0x0x95c2ca]
+	(No symbol) [0x0x95d154]
+	GetHandleVerifier [0x0xd87353+2521315]
+	GetHandleVerifier [0x0xd822d3+2500707]
+	GetHandleVerifier [0x0xb57c94+229924]
+	GetHandleVerifier [0x0xb481f8+165768]
+	GetHandleVerifier [0x0xb4ecad+193085]
+	GetHandleVerifier [0x0xb38158+100072]
+	GetHandleVerifier [0x0xb382f0+100480]
+	GetHandleVerifier [0x0xb225aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-24 21:07:17,142 - INFO - 画像の取得に失敗しました
+2025-10-24 21:07:19,581 - INFO - 処理終了

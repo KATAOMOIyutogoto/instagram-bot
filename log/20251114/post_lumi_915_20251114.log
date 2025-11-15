@@ -1,0 +1,264 @@
+================================================================================
+2025-11-14 00:50:00,280 - INFO - 処理開始 PROCESSID:20251114_004957
+2025-11-14 00:50:00,282 - INFO - 対象ユーザー: lumi_915
+2025-11-14 00:50:00,282 - INFO - 処理を開始します
+2025-11-14 00:50:00,350 - INFO - 選択されたプロファイル: Profile 10
+2025-11-14 00:50:00,350 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-14 00:50:04,833 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-11-14 00:50:16,379 - INFO - 最新投稿を読み込みます
+2025-11-14 00:50:21,645 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/reel/DQ8u6hbkuHy/?hl=ja
+2025-11-14 00:50:26,143 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 00:50:29,718 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 00:50:29,856 - INFO - datetime属性の抽出を開始します
+2025-11-14 00:50:29,886 - INFO - 抽出されたdatetime: 2025-11-12T08:01:34.000Z
+2025-11-14 00:50:29,886 - INFO - lumi_915 の投稿日時: 2025-11-12T08:01:34.000Z
+2025-11-14 00:50:29,894 - INFO - date:2025-11-12 17:01:34+09:00
+2025-11-14 00:50:29,894 - INFO - post_date:20251112
+2025-11-14 00:50:29,930 - INFO - 1枚目: blob:https://www.instagram.com/9137dd67-d39a-4475-8d57-a97c75bbfb83
+2025-11-14 00:50:29,930 - INFO - [caption/by_username] 開始
+2025-11-14 00:50:30,299 - INFO - [caption/by_username] 説明文確定（先頭100）: '風が強すぎるのオープンの看板を中に入れました。
+
+————Lumi 高崎駅店————
+
+営業時間
+
+平日
+OPEN9:00  CLOSE  21:00
+土日
+OPEN  9:00  CLOSE  19'
+2025-11-14 00:50:30,301 - INFO - [caption/by_username] 説明文を保存: media\lumi_915\description\20251114_004957
+2025-11-14 00:50:31,623 - INFO - 生成URL:https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=lxaAnxYC2mMQ7kNvwHCbjuN&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Njg2NDUxMTQ3ODcwMTU5LCJhc3NldF9hZ2VfZGF5cyI6MywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjgsImJpdHJhdGUiOjM4MzAwOTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=B-abMF-CKkBVQ40na3Wnqg&_nc_zt=28&oh=00_Afgq41ixDt0alnjYqIsWXhgx3XjAb2G7vofbxLpJVfldhQ&oe=6918469C&bytestart=0&byteend=2548488
+2025-11-14 00:50:31,626 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=lumi_915, key=AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI, dt=2025-11-12T08:01:34.000Z, url=https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=lxaAnxYC2mMQ7kNvwHCbjuN&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Njg2NDUxMTQ3ODcwMTU5LCJhc3NldF9hZ2VfZGF5cyI6MywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjgsImJpdHJhdGUiOjM4MzAwOTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=B-abMF-CKkBVQ40na3Wnqg&_nc_zt=28&oh=00_Afgq41ixDt0alnjYqIsWXhgx3XjAb2G7vofbxLpJVfldhQ&oe=6918469C&bytestart=0&byteend=2548488, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('lumi_915', 'AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI', 'https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=lxaAnxYC2mMQ7kNvwHCbjuN&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Njg2NDUxMTQ3ODcwMTU5LCJhc3NldF9hZ2VfZGF5cyI6MywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjgsImJpdHJhdGUiOjM4MzAwOTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=B-abMF-CKkBVQ40na3Wnqg&_nc_zt=28&oh=00_Afgq41ixDt0alnjYqIsWXhgx3XjAb2G7vofbxLpJVfldhQ&oe=6918469C&bytestart=0&byteend=2548488', '2025-11-12T08:01:34.000Z')
+2025-11-14 00:50:31,628 - INFO - このレコードは存在します
+2025-11-14 00:50:31,628 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 03:44:35,899 - INFO - 処理開始 PROCESSID:20251114_034432
+2025-11-14 03:44:35,899 - INFO - 対象ユーザー: lumi_915
+2025-11-14 03:44:35,899 - INFO - 処理を開始します
+2025-11-14 03:44:35,957 - INFO - 選択されたプロファイル: Profile 10
+2025-11-14 03:44:35,957 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-14 03:44:40,338 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-11-14 03:44:52,683 - INFO - 最新投稿を読み込みます
+2025-11-14 03:44:58,167 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/reel/DQ8u6hbkuHy/?hl=ja
+2025-11-14 03:45:01,420 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 03:45:06,508 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 03:45:06,574 - INFO - datetime属性の抽出を開始します
+2025-11-14 03:45:06,629 - INFO - 抽出されたdatetime: 2025-11-12T08:01:34.000Z
+2025-11-14 03:45:06,629 - INFO - lumi_915 の投稿日時: 2025-11-12T08:01:34.000Z
+2025-11-14 03:45:06,728 - INFO - date:2025-11-12 17:01:34+09:00
+2025-11-14 03:45:06,728 - INFO - post_date:20251112
+2025-11-14 03:45:06,827 - INFO - 1枚目: blob:https://www.instagram.com/818eb851-264a-474c-a985-35adc2676801
+2025-11-14 03:45:06,828 - INFO - [caption/by_username] 開始
+2025-11-14 03:45:07,276 - INFO - [caption/by_username] 説明文確定（先頭100）: '風が強すぎるのオープンの看板を中に入れました。
+
+————Lumi 高崎駅店————
+
+営業時間
+
+平日
+OPEN9:00  CLOSE  21:00
+土日
+OPEN  9:00  CLOSE  19'
+2025-11-14 03:45:07,278 - INFO - [caption/by_username] 説明文を保存: media\lumi_915\description\20251114_034432
+2025-11-14 03:45:08,875 - INFO - 生成URL:https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=lxaAnxYC2mMQ7kNvwHCbjuN&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Njg2NDUxMTQ3ODcwMTU5LCJhc3NldF9hZ2VfZGF5cyI6NCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjgsImJpdHJhdGUiOjM4MzAwOTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=IxrOdVoVAS1nftLnQD4hqQ&_nc_zt=28&oh=00_AfhAhZLme3VNy6nx75fNbiK822zBnP0MOm45hYlBqcCnjw&oe=69187EDC&bytestart=0&byteend=2548488
+2025-11-14 03:45:08,877 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=lumi_915, key=AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI, dt=2025-11-12T08:01:34.000Z, url=https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=lxaAnxYC2mMQ7kNvwHCbjuN&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Njg2NDUxMTQ3ODcwMTU5LCJhc3NldF9hZ2VfZGF5cyI6NCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjgsImJpdHJhdGUiOjM4MzAwOTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=IxrOdVoVAS1nftLnQD4hqQ&_nc_zt=28&oh=00_AfhAhZLme3VNy6nx75fNbiK822zBnP0MOm45hYlBqcCnjw&oe=69187EDC&bytestart=0&byteend=2548488, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('lumi_915', 'AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI', 'https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=lxaAnxYC2mMQ7kNvwHCbjuN&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Njg2NDUxMTQ3ODcwMTU5LCJhc3NldF9hZ2VfZGF5cyI6NCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjgsImJpdHJhdGUiOjM4MzAwOTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=IxrOdVoVAS1nftLnQD4hqQ&_nc_zt=28&oh=00_AfhAhZLme3VNy6nx75fNbiK822zBnP0MOm45hYlBqcCnjw&oe=69187EDC&bytestart=0&byteend=2548488', '2025-11-12T08:01:34.000Z')
+2025-11-14 03:45:08,878 - INFO - このレコードは存在します
+2025-11-14 03:45:08,878 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 06:42:07,652 - INFO - 処理開始 PROCESSID:20251114_064204
+2025-11-14 06:42:07,652 - INFO - 対象ユーザー: lumi_915
+2025-11-14 06:42:07,652 - INFO - 処理を開始します
+2025-11-14 06:42:07,707 - INFO - 選択されたプロファイル: Profile 9
+2025-11-14 06:42:07,707 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-14 06:42:12,129 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-11-14 06:42:23,629 - INFO - 最新投稿を読み込みます
+2025-11-14 06:42:28,898 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/reel/DQ8u6hbkuHy/?hl=ja
+2025-11-14 06:42:32,804 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 06:42:36,801 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 06:42:36,911 - INFO - datetime属性の抽出を開始します
+2025-11-14 06:42:36,951 - INFO - 抽出されたdatetime: 2025-11-12T08:01:34.000Z
+2025-11-14 06:42:36,951 - INFO - lumi_915 の投稿日時: 2025-11-12T08:01:34.000Z
+2025-11-14 06:42:36,968 - INFO - date:2025-11-12 17:01:34+09:00
+2025-11-14 06:42:36,969 - INFO - post_date:20251112
+2025-11-14 06:42:37,136 - INFO - 1枚目: blob:https://www.instagram.com/7a5dab06-5a39-4fa0-8175-f484b19a0bf7
+2025-11-14 06:42:37,137 - INFO - [caption/by_username] 開始
+2025-11-14 06:42:37,463 - INFO - [caption/by_username] 説明文確定（先頭100）: '風が強すぎるのオープンの看板を中に入れました。
+
+————Lumi 高崎駅店————
+
+営業時間
+
+平日
+OPEN9:00  CLOSE  21:00
+土日
+OPEN  9:00  CLOSE  19'
+2025-11-14 06:42:37,465 - INFO - [caption/by_username] 説明文を保存: media\lumi_915\description\20251114_064204
+2025-11-14 06:42:38,857 - INFO - 生成URL:https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQM4iVLptkZp3Vb9XTBcjq7ABxeA2RPLjfkzFR_1kndWLYyUTjwLfwhnqRjILhwWH2IsJdEQDZ4cBRsaqJ6va3AVOxB4Iq6__0Uy4LY.mp4?_nc_cat=109&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=Yg2hRvoUQFMQ7kNvwFA-5cz&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMjQ4MjUzMTI3MzM1MTQxLCJhc3NldF9hZ2VfZGF5cyI6MSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjQsImJpdHJhdGUiOjE1MjcxMzcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=D9XNjHw6Psxi1BRwdK3TeA&_nc_zt=28&oh=00_Afim4t7RbnlbLA6vWAiI0FxzJVd4NL0lB9gPtz5gqs0cWQ&oe=6918A6D2&bytestart=0&byteend=852651
+2025-11-14 06:42:38,861 - INFO - DUP(with-key): user=lumi_915, key=AQM4iVLptkZp3Vb9XTBcjq7ABxeA2RPLjfkzFR_1kndWLYyUTjwLfwhnqRjILhwWH2IsJdEQDZ4cBRsaqJ6va3AVOxB4Iq6__0Uy4LY, dt=2025-11-12T08:01:34.000Z
+2025-11-14 06:42:38,861 - INFO - このレコードは存在します
+2025-11-14 06:42:38,862 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 09:42:15,980 - INFO - 処理開始 PROCESSID:20251114_094212
+2025-11-14 09:42:15,980 - INFO - 対象ユーザー: lumi_915
+2025-11-14 09:42:15,981 - INFO - 処理を開始します
+2025-11-14 09:42:16,040 - INFO - 選択されたプロファイル: Profile 12
+2025-11-14 09:42:16,040 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-14 09:42:20,540 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-11-14 09:42:32,078 - INFO - 最新投稿を読み込みます
+2025-11-14 09:42:37,381 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/reel/DQ8u6hbkuHy/?hl=ja
+2025-11-14 09:42:41,142 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 09:42:44,974 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 09:42:45,119 - INFO - datetime属性の抽出を開始します
+2025-11-14 09:42:45,177 - INFO - 抽出されたdatetime: 2025-11-12T08:01:34.000Z
+2025-11-14 09:42:45,177 - INFO - lumi_915 の投稿日時: 2025-11-12T08:01:34.000Z
+2025-11-14 09:42:45,185 - INFO - date:2025-11-12 17:01:34+09:00
+2025-11-14 09:42:45,186 - INFO - post_date:20251112
+2025-11-14 09:42:45,283 - INFO - 1枚目: blob:https://www.instagram.com/01cf96a9-4d09-4c1b-8950-03498f5486d2
+2025-11-14 09:42:45,283 - INFO - [caption/by_username] 開始
+2025-11-14 09:42:45,580 - INFO - [caption/by_username] 説明文確定（先頭100）: '風が強すぎるのオープンの看板を中に入れました。
+
+————Lumi 高崎駅店————
+
+営業時間
+
+平日
+OPEN9:00  CLOSE  21:00
+土日
+OPEN  9:00  CLOSE  19'
+2025-11-14 09:42:45,582 - INFO - [caption/by_username] 説明文を保存: media\lumi_915\description\20251114_094212
+2025-11-14 09:42:46,939 - INFO - 生成URL:https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQPsAqnUcpDMg8evrbPtK6LbM5QQ9kSKybZgVGtJHWDzDhF5CKPxO_LLiYoWb90mmmWeAW9W9gBB9_M65eWAtWspvlG6ASVTpcJ5ERc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=3sHWqjSNR6sQ7kNvwG63Gmu&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNzUxNjM5ODg1NzgzMjc1LCJhc3NldF9hZ2VfZGF5cyI6MTIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3LCJiaXRyYXRlIjoyMDU2MDk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=VgpBcQX3jquVbY5993Ow_g&_nc_zt=28&oh=00_Afg9tpITlY3S9HS8tPt0XDiiU_IanZufgZKmvJMn-rI0ww&oe=6918EC80&bytestart=0&byteend=1283086
+2025-11-14 09:42:46,947 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=lumi_915, key=AQPsAqnUcpDMg8evrbPtK6LbM5QQ9kSKybZgVGtJHWDzDhF5CKPxO_LLiYoWb90mmmWeAW9W9gBB9_M65eWAtWspvlG6ASVTpcJ5ERc, dt=2025-11-12T08:01:34.000Z, url=https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQPsAqnUcpDMg8evrbPtK6LbM5QQ9kSKybZgVGtJHWDzDhF5CKPxO_LLiYoWb90mmmWeAW9W9gBB9_M65eWAtWspvlG6ASVTpcJ5ERc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=3sHWqjSNR6sQ7kNvwG63Gmu&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNzUxNjM5ODg1NzgzMjc1LCJhc3NldF9hZ2VfZGF5cyI6MTIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3LCJiaXRyYXRlIjoyMDU2MDk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=VgpBcQX3jquVbY5993Ow_g&_nc_zt=28&oh=00_Afg9tpITlY3S9HS8tPt0XDiiU_IanZufgZKmvJMn-rI0ww&oe=6918EC80&bytestart=0&byteend=1283086, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('lumi_915', 'AQPsAqnUcpDMg8evrbPtK6LbM5QQ9kSKybZgVGtJHWDzDhF5CKPxO_LLiYoWb90mmmWeAW9W9gBB9_M65eWAtWspvlG6ASVTpcJ5ERc', 'https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQPsAqnUcpDMg8evrbPtK6LbM5QQ9kSKybZgVGtJHWDzDhF5CKPxO_LLiYoWb90mmmWeAW9W9gBB9_M65eWAtWspvlG6ASVTpcJ5ERc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=3sHWqjSNR6sQ7kNvwG63Gmu&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNzUxNjM5ODg1NzgzMjc1LCJhc3NldF9hZ2VfZGF5cyI6MTIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3LCJiaXRyYXRlIjoyMDU2MDk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=VgpBcQX3jquVbY5993Ow_g&_nc_zt=28&oh=00_Afg9tpITlY3S9HS8tPt0XDiiU_IanZufgZKmvJMn-rI0ww&oe=6918EC80&bytestart=0&byteend=1283086', '2025-11-12T08:01:34.000Z')
+2025-11-14 09:42:46,948 - INFO - このレコードは存在します
+2025-11-14 09:42:46,948 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 12:41:38,650 - INFO - 処理開始 PROCESSID:20251114_124135
+2025-11-14 12:41:38,650 - INFO - 対象ユーザー: lumi_915
+2025-11-14 12:41:38,650 - INFO - 処理を開始します
+2025-11-14 12:41:38,711 - INFO - 選択されたプロファイル: Profile 12
+2025-11-14 12:41:38,713 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-14 12:41:43,364 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-11-14 12:41:54,926 - INFO - 最新投稿を読み込みます
+2025-11-14 12:42:00,222 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/reel/DQ8u6hbkuHy/?hl=ja
+2025-11-14 12:42:03,425 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 12:42:08,016 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 12:42:08,257 - INFO - datetime属性の抽出を開始します
+2025-11-14 12:42:08,319 - INFO - 抽出されたdatetime: 2025-11-12T08:01:34.000Z
+2025-11-14 12:42:08,319 - INFO - lumi_915 の投稿日時: 2025-11-12T08:01:34.000Z
+2025-11-14 12:42:08,333 - INFO - date:2025-11-12 17:01:34+09:00
+2025-11-14 12:42:08,333 - INFO - post_date:20251112
+2025-11-14 12:42:08,388 - INFO - 1枚目: blob:https://www.instagram.com/35980610-8d8f-4ac3-9e39-cbddceb224c6
+2025-11-14 12:42:08,388 - INFO - [caption/by_username] 開始
+2025-11-14 12:42:08,538 - INFO - [caption/by_username] 説明文確定（先頭100）: '風が強すぎるのオープンの看板を中に入れました。
+
+————Lumi 高崎駅店————
+
+営業時間
+
+平日
+OPEN9:00  CLOSE  21:00
+土日
+OPEN  9:00  CLOSE  19'
+2025-11-14 12:42:08,540 - INFO - [caption/by_username] 説明文を保存: media\lumi_915\description\20251114_124135
+2025-11-14 12:42:09,971 - INFO - 生成URL:https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=lxaAnxYC2mMQ7kNvwHCbjuN&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo2ODY0NTExNDc4NzAxNTksImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OCwiYml0cmF0ZSI6MzgzMDA5MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=1QVdbsJfj6QGqrPhjtRFHg&_nc_zt=28&oh=00_AfhRvYlSsTJJQFjgFMD4JcD9kO0xyQZ7IcDNTDs519quTg&oe=6918EF5C&bytestart=0&byteend=2548488
+2025-11-14 12:42:09,973 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=lumi_915, key=AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI, dt=2025-11-12T08:01:34.000Z, url=https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=lxaAnxYC2mMQ7kNvwHCbjuN&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo2ODY0NTExNDc4NzAxNTksImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OCwiYml0cmF0ZSI6MzgzMDA5MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=1QVdbsJfj6QGqrPhjtRFHg&_nc_zt=28&oh=00_AfhRvYlSsTJJQFjgFMD4JcD9kO0xyQZ7IcDNTDs519quTg&oe=6918EF5C&bytestart=0&byteend=2548488, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('lumi_915', 'AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI', 'https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQM5rir5hrBad0wBgdsAYgZ05QxZ_dFyFwM46budl33UVHFPQQG7ND0ZItICHWzzrFjVRvkUjy74be7MSs0TcwrwZUV1iYimct6KEcI.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=lxaAnxYC2mMQ7kNvwHCbjuN&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo2ODY0NTExNDc4NzAxNTksImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OCwiYml0cmF0ZSI6MzgzMDA5MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=1QVdbsJfj6QGqrPhjtRFHg&_nc_zt=28&oh=00_AfhRvYlSsTJJQFjgFMD4JcD9kO0xyQZ7IcDNTDs519quTg&oe=6918EF5C&bytestart=0&byteend=2548488', '2025-11-12T08:01:34.000Z')
+2025-11-14 12:42:09,974 - INFO - このレコードは存在します
+2025-11-14 12:42:09,974 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 15:37:29,788 - INFO - 処理開始 PROCESSID:20251114_153726
+2025-11-14 15:37:29,788 - INFO - 対象ユーザー: lumi_915
+2025-11-14 15:37:29,788 - INFO - 処理を開始します
+2025-11-14 15:37:29,850 - INFO - 選択されたプロファイル: Profile 9
+2025-11-14 15:37:29,850 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-14 15:37:34,416 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-11-14 15:37:46,327 - INFO - 最新投稿を読み込みます
+2025-11-14 15:37:51,729 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/reel/DQ8u6hbkuHy/?hl=ja
+2025-11-14 15:37:55,264 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 15:37:58,301 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 15:37:58,444 - INFO - datetime属性の抽出を開始します
+2025-11-14 15:37:58,484 - INFO - 抽出されたdatetime: 2025-11-12T08:01:34.000Z
+2025-11-14 15:37:58,484 - INFO - lumi_915 の投稿日時: 2025-11-12T08:01:34.000Z
+2025-11-14 15:37:58,498 - INFO - date:2025-11-12 17:01:34+09:00
+2025-11-14 15:37:58,500 - INFO - post_date:20251112
+2025-11-14 15:37:58,531 - INFO - 1枚目: blob:https://www.instagram.com/688ee13f-485c-4884-a4fb-0c543817be26
+2025-11-14 15:37:58,531 - INFO - [caption/by_username] 開始
+2025-11-14 15:37:58,657 - INFO - [caption/by_username] 説明文確定（先頭100）: '風が強すぎるのオープンの看板を中に入れました。
+
+————Lumi 高崎駅店————
+
+営業時間
+
+平日
+OPEN9:00  CLOSE  21:00
+土日
+OPEN  9:00  CLOSE  19'
+2025-11-14 15:37:58,659 - INFO - [caption/by_username] 説明文を保存: media\lumi_915\description\20251114_153726
+2025-11-14 15:38:00,121 - INFO - 生成URL:https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m86/AQM4iVLptkZp3Vb9XTBcjq7ABxeA2RPLjfkzFR_1kndWLYyUTjwLfwhnqRjILhwWH2IsJdEQDZ4cBRsaqJ6va3AVOxB4Iq6__0Uy4LY.mp4?_nc_cat=109&_nc_sid=9ca052&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=vy8MFu1FkB4Q7kNvwEGFTTa&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMjQ4MjUzMTI3MzM1MTQxLCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjQsImJpdHJhdGUiOjE1MjcxMzcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=k9NqzvzMA4weBWqmuFw67A&_nc_zt=28&oh=00_AfiMZmVswwO2A55-hjcvAVRKNvdm0_z0hKay5dQ5sYLEPQ&oe=69191752&bytestart=0&byteend=852651
+2025-11-14 15:38:00,137 - INFO - DUP(with-key): user=lumi_915, key=AQM4iVLptkZp3Vb9XTBcjq7ABxeA2RPLjfkzFR_1kndWLYyUTjwLfwhnqRjILhwWH2IsJdEQDZ4cBRsaqJ6va3AVOxB4Iq6__0Uy4LY, dt=2025-11-12T08:01:34.000Z
+2025-11-14 15:38:00,143 - INFO - このレコードは存在します
+2025-11-14 15:38:00,143 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 18:31:10,704 - INFO - 処理開始 PROCESSID:20251114_183107
+2025-11-14 18:31:10,704 - INFO - 対象ユーザー: lumi_915
+2025-11-14 18:31:10,704 - INFO - 処理を開始します
+2025-11-14 18:31:10,763 - INFO - 選択されたプロファイル: Profile 9
+2025-11-14 18:31:10,763 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-14 18:31:15,065 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-11-14 18:31:26,287 - INFO - 最新投稿を読み込みます
+2025-11-14 18:31:31,555 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/reel/DQ8u6hbkuHy/?hl=ja
+2025-11-14 18:31:34,385 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 18:31:37,851 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 18:31:37,924 - INFO - datetime属性の抽出を開始します
+2025-11-14 18:31:38,001 - INFO - 抽出されたdatetime: 2025-11-12T08:01:34.000Z
+2025-11-14 18:31:38,002 - INFO - lumi_915 の投稿日時: 2025-11-12T08:01:34.000Z
+2025-11-14 18:31:38,024 - INFO - date:2025-11-12 17:01:34+09:00
+2025-11-14 18:31:38,024 - INFO - post_date:20251112
+2025-11-14 18:31:38,115 - INFO - 1枚目: blob:https://www.instagram.com/7f063fc0-91cc-4989-9938-17ab15c0549c
+2025-11-14 18:31:38,115 - INFO - [caption/by_username] 開始
+2025-11-14 18:31:38,504 - INFO - [caption/by_username] 説明文確定（先頭100）: '風が強すぎるのオープンの看板を中に入れました。
+
+————Lumi 高崎駅店————
+
+営業時間
+
+平日
+OPEN9:00  CLOSE  21:00
+土日
+OPEN  9:00  CLOSE  19'
+2025-11-14 18:31:38,506 - INFO - [caption/by_username] 説明文を保存: media\lumi_915\description\20251114_183107
+2025-11-14 18:31:39,843 - INFO - 生成URL:https://scontent-fra5-2.cdninstagram.com/o1/v/t2/f2/m86/AQM4iVLptkZp3Vb9XTBcjq7ABxeA2RPLjfkzFR_1kndWLYyUTjwLfwhnqRjILhwWH2IsJdEQDZ4cBRsaqJ6va3AVOxB4Iq6__0Uy4LY.mp4?_nc_cat=109&_nc_sid=9ca052&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_ohc=vy8MFu1FkB4Q7kNvwEGFTTa&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMjQ4MjUzMTI3MzM1MTQxLCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjQsImJpdHJhdGUiOjE1MjcxMzcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=MxFYh8OxKpVjco03zNjvRA&_nc_zt=28&oh=00_AfgUxhE8PKyeNwJT0qMgJfB6A1K1Jc3GB5ptL4mp7oZ5zQ&oe=69194F92&bytestart=0&byteend=852651
+2025-11-14 18:31:39,848 - INFO - DUP(with-key): user=lumi_915, key=AQM4iVLptkZp3Vb9XTBcjq7ABxeA2RPLjfkzFR_1kndWLYyUTjwLfwhnqRjILhwWH2IsJdEQDZ4cBRsaqJ6va3AVOxB4Iq6__0Uy4LY, dt=2025-11-12T08:01:34.000Z
+2025-11-14 18:31:39,848 - INFO - このレコードは存在します
+2025-11-14 18:31:39,848 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-14 21:21:19,545 - INFO - 処理開始 PROCESSID:20251114_212116
+2025-11-14 21:21:19,545 - INFO - 対象ユーザー: lumi_915
+2025-11-14 21:21:19,545 - INFO - 処理を開始します
+2025-11-14 21:21:19,601 - INFO - 選択されたプロファイル: Profile 13
+2025-11-14 21:21:19,601 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-14 21:21:23,983 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-11-14 21:21:35,651 - INFO - 最新投稿を読み込みます
+2025-11-14 21:21:40,912 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/reel/DQ8u6hbkuHy/?hl=ja
+2025-11-14 21:21:44,883 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 21:21:48,823 - INFO - 最新投稿ページにアクセスしました
+2025-11-14 21:21:49,033 - INFO - datetime属性の抽出を開始します
+2025-11-14 21:21:49,218 - INFO - 抽出されたdatetime: 2025-11-12T08:01:34.000Z
+2025-11-14 21:21:49,218 - INFO - lumi_915 の投稿日時: 2025-11-12T08:01:34.000Z
+2025-11-14 21:21:49,245 - INFO - date:2025-11-12 17:01:34+09:00
+2025-11-14 21:21:49,245 - INFO - post_date:20251112
+2025-11-14 21:21:49,284 - INFO - 1枚目: blob:https://www.instagram.com/b79dd6a0-0050-4333-b686-6ebbc628286b
+2025-11-14 21:21:49,284 - INFO - [caption/by_username] 開始
+2025-11-14 21:21:49,438 - INFO - [caption/by_username] 説明文確定（先頭100）: '風が強すぎるのオープンの看板を中に入れました。
+
+————Lumi 高崎駅店————
+
+営業時間
+
+平日
+OPEN9:00  CLOSE  21:00
+土日
+OPEN  9:00  CLOSE  19'
+2025-11-14 21:21:49,441 - INFO - [caption/by_username] 説明文を保存: media\lumi_915\description\20251114_212116
+2025-11-14 21:21:50,878 - INFO - 生成URL:https://scontent-fra3-1.cdninstagram.com/o1/v/t2/f2/m86/AQM4fnoE0hpF2_QQXu5wkgwefcE-Y3rQmyQN7uXIUVCO59RLLe97zsPrLEhwgPUmc8BitQPTalkAnahGjzL7cIHaBcRU0-6OKP5G3iI.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_ohc=ec5nUBHIAxIQ7kNvwFX9Xea&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo3MjkyNTQxNjI4MjE4MjQsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OSwiYml0cmF0ZSI6Mjc3ODY1MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=JuHf3GCmBlJ9JM4UHASahg&_nc_zt=28&oh=00_AfgofjdGIiHkj7cKX_hKJ666ow7I4DBQrt9lAnE_MsBmmg&oe=69197BF6&bytestart=0&byteend=1802713
+2025-11-14 21:21:50,882 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=lumi_915, key=AQM4fnoE0hpF2_QQXu5wkgwefcE-Y3rQmyQN7uXIUVCO59RLLe97zsPrLEhwgPUmc8BitQPTalkAnahGjzL7cIHaBcRU0-6OKP5G3iI, dt=2025-11-12T08:01:34.000Z, url=https://scontent-fra3-1.cdninstagram.com/o1/v/t2/f2/m86/AQM4fnoE0hpF2_QQXu5wkgwefcE-Y3rQmyQN7uXIUVCO59RLLe97zsPrLEhwgPUmc8BitQPTalkAnahGjzL7cIHaBcRU0-6OKP5G3iI.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_ohc=ec5nUBHIAxIQ7kNvwFX9Xea&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo3MjkyNTQxNjI4MjE4MjQsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OSwiYml0cmF0ZSI6Mjc3ODY1MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=JuHf3GCmBlJ9JM4UHASahg&_nc_zt=28&oh=00_AfgofjdGIiHkj7cKX_hKJ666ow7I4DBQrt9lAnE_MsBmmg&oe=69197BF6&bytestart=0&byteend=1802713, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('lumi_915', 'AQM4fnoE0hpF2_QQXu5wkgwefcE-Y3rQmyQN7uXIUVCO59RLLe97zsPrLEhwgPUmc8BitQPTalkAnahGjzL7cIHaBcRU0-6OKP5G3iI', 'https://scontent-fra3-1.cdninstagram.com/o1/v/t2/f2/m86/AQM4fnoE0hpF2_QQXu5wkgwefcE-Y3rQmyQN7uXIUVCO59RLLe97zsPrLEhwgPUmc8BitQPTalkAnahGjzL7cIHaBcRU0-6OKP5G3iI.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_ohc=ec5nUBHIAxIQ7kNvwFX9Xea&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo3MjkyNTQxNjI4MjE4MjQsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OSwiYml0cmF0ZSI6Mjc3ODY1MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=JuHf3GCmBlJ9JM4UHASahg&_nc_zt=28&oh=00_AfgofjdGIiHkj7cKX_hKJ666ow7I4DBQrt9lAnE_MsBmmg&oe=69197BF6&bytestart=0&byteend=1802713', '2025-11-12T08:01:34.000Z')
+2025-11-14 21:21:50,882 - INFO - このレコードは存在します
+2025-11-14 21:21:50,882 - INFO - 全件レコードが存在します

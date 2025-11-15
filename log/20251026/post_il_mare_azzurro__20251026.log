@@ -1,0 +1,170 @@
+================================================================================
+2025-10-26 02:15:39,238 - INFO - 処理開始 PROCESSID:20251026_021535
+2025-10-26 02:15:39,238 - INFO - 対象ユーザー: il_mare_azzurro_
+2025-10-26 02:15:39,238 - INFO - 処理を開始します
+2025-10-26 02:15:39,300 - INFO - 選択されたプロファイル: Profile 12
+2025-10-26 02:15:39,300 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-26 02:15:45,466 - INFO - il_mare_azzurro_ のプロフィールページにアクセスします
+2025-10-26 02:16:04,722 - INFO - 最新投稿を読み込みます
+2025-10-26 02:16:16,476 - INFO - 候補はピン留め: https://www.instagram.com/il_mare_azzurro_/p/DQGUx-eARd3/?hl=ja → 日付確認
+2025-10-26 02:16:28,914 - INFO - ピン留めだが3日以内 → 採用
+2025-10-26 02:16:35,667 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 02:16:42,278 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 02:16:43,321 - INFO - datetime属性の抽出を開始します
+2025-10-26 02:16:44,874 - INFO - 抽出されたdatetime: 2025-10-23T04:46:42.000Z
+2025-10-26 02:16:44,875 - INFO - il_mare_azzurro_ の投稿日時: 2025-10-23T04:46:42.000Z
+2025-10-26 02:16:45,008 - INFO - date:2025-10-23 13:46:42+09:00
+2025-10-26 02:16:45,009 - INFO - post_date:20251023
+2025-10-26 02:16:48,059 - INFO - カルーセル推定: 1枚
+2025-10-26 02:17:01,211 - INFO - 検出(SINGLE): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/568935985_18331835500235793_4653634920541909318_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc0ODc3NTEzNTA5MjQ3OTg2Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=qJOzvGvAyEsQ7kNvwF6CL23&_nc_oc=Adl6Bm1U06o7II_XCodBHGQw3AZ_HJNOizdhVOKVJpBnzTaJ3gpwGqVeTGapUhptdv8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=f1NPvVTAf1AUbywzM_Mqtg&oh=00_AfeR3XsptStAgnnRn-NbrzAAJlc7RSi8QxOQm8G_YvoDfQ&oe=69036B82
+2025-10-26 02:17:01,212 - INFO - 1枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/568935985_18331835500235793_4653634920541909318_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc0ODc3NTEzNTA5MjQ3OTg2Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=qJOzvGvAyEsQ7kNvwF6CL23&_nc_oc=Adl6Bm1U06o7II_XCodBHGQw3AZ_HJNOizdhVOKVJpBnzTaJ3gpwGqVeTGapUhptdv8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=f1NPvVTAf1AUbywzM_Mqtg&oh=00_AfeR3XsptStAgnnRn-NbrzAAJlc7RSi8QxOQm8G_YvoDfQ&oe=69036B82
+2025-10-26 02:17:01,212 - INFO - [caption/by_username] 開始
+2025-10-26 02:17:01,911 - INFO - [caption/by_username] 説明文確定（先頭100）: 'IL MARE AZZURRO/イルマーレアッズーロ🇮🇹-梅ヶ丘-🍾
+
+🕰営業時間
+OPEN 18:00 CLOSE 22:30
+
+📍住所
+〒155-0033
+東京都世田谷区代田３丁目５２−１１ シャ'
+2025-10-26 02:17:01,919 - INFO - [caption/by_username] 説明文を保存: media\il_mare_azzurro_\description\20251026_021535
+2025-10-26 02:17:01,920 - INFO - 画像URLを取得しました
+2025-10-26 02:17:01,929 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=il_mare_azzurro_, key=Mzc0ODc3NTEzNTA5MjQ3OTg2Mw==, dt=2025-10-23T04:46:42.000Z, url=https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/568935985_18331835500235793_4653634920541909318_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc0ODc3NTEzNTA5MjQ3OTg2Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=qJOzvGvAyEsQ7kNvwF6CL23&_nc_oc=Adl6Bm1U06o7II_XCodBHGQw3AZ_HJNOizdhVOKVJpBnzTaJ3gpwGqVeTGapUhptdv8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=f1NPvVTAf1AUbywzM_Mqtg&oh=00_AfeR3XsptStAgnnRn-NbrzAAJlc7RSi8QxOQm8G_YvoDfQ&oe=69036B82, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('il_mare_azzurro_', 'Mzc0ODc3NTEzNTA5MjQ3OTg2Mw==', 'https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/568935985_18331835500235793_4653634920541909318_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc0ODc3NTEzNTA5MjQ3OTg2Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=qJOzvGvAyEsQ7kNvwF6CL23&_nc_oc=Adl6Bm1U06o7II_XCodBHGQw3AZ_HJNOizdhVOKVJpBnzTaJ3gpwGqVeTGapUhptdv8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=f1NPvVTAf1AUbywzM_Mqtg&oh=00_AfeR3XsptStAgnnRn-NbrzAAJlc7RSi8QxOQm8G_YvoDfQ&oe=69036B82', '2025-10-23T04:46:42.000Z')
+2025-10-26 02:17:01,930 - INFO - このレコードは存在します
+2025-10-26 02:17:01,930 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-26 08:27:27,936 - INFO - 処理開始 PROCESSID:20251026_082713
+2025-10-26 08:27:27,936 - INFO - 対象ユーザー: il_mare_azzurro_
+2025-10-26 08:27:27,938 - INFO - 処理を開始します
+2025-10-26 08:27:28,072 - INFO - 選択されたプロファイル: Profile 10
+2025-10-26 08:27:28,072 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-26 08:27:40,005 - INFO - il_mare_azzurro_ のプロフィールページにアクセスします
+2025-10-26 08:28:13,508 - INFO - 最新投稿を読み込みます
+2025-10-26 08:28:23,650 - INFO - 候補はピン留め: https://www.instagram.com/il_mare_azzurro_/p/DQGUx-eARd3/?hl=ja → 日付確認
+2025-10-26 08:28:32,456 - INFO - ピン留めだが3日以上前(3日) → スキップ
+2025-10-26 08:28:32,456 - INFO - 候補はピン留め: https://www.instagram.com/il_mare_azzurro_/p/Ber02SvFQhs/?hl=ja → 日付確認
+2025-10-26 08:28:49,983 - INFO - ピン留めだが3日以上前(2823日) → スキップ
+2025-10-26 08:28:49,983 - INFO - 候補はピン留め: https://www.instagram.com/il_mare_azzurro_/reel/DONFbv2gdIy/?hl=ja → 日付確認
+2025-10-26 08:28:57,228 - INFO - ピン留めだが3日以上前(51日) → スキップ
+2025-10-26 08:28:57,228 - INFO - 選定: 非ピン留め https://www.instagram.com/il_mare_azzurro_/p/DQN67wJAXxB/?hl=ja
+2025-10-26 08:29:10,508 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 08:29:17,844 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 08:29:19,532 - INFO - datetime属性の抽出を開始します
+2025-10-26 08:29:20,914 - INFO - 抽出されたdatetime: 2025-10-25T03:47:36.000Z
+2025-10-26 08:29:20,914 - INFO - il_mare_azzurro_ の投稿日時: 2025-10-25T03:47:36.000Z
+2025-10-26 08:29:22,048 - INFO - date:2025-10-25 12:47:36+09:00
+2025-10-26 08:29:22,048 - INFO - post_date:20251025
+2025-10-26 08:29:34,019 - INFO - カルーセル推定: 1枚
+2025-10-26 08:29:34,318 - INFO - 検出(SINGLE): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/569606715_18332321941235793_72852891584890015_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1MDkxMzI1NzUwNjk2MjQ5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=rjC_Dk3MH8YQ7kNvwE3_BVK&_nc_oc=Admjx5bMAhbioRJ9zrTo8SC4y3TOLoAyu8WOKG3J6RBhqoACLAWxuaCMBRzT2pjME7c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=3z8_TZ4PWtbr2923U_JHYA&oh=00_AfcDdYs7PcFnLF_Ghg4EaaAEavom-e8ZNsMonWWnWGc9aw&oe=69039F79
+2025-10-26 08:29:34,318 - INFO - 1枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/569606715_18332321941235793_72852891584890015_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1MDkxMzI1NzUwNjk2MjQ5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=rjC_Dk3MH8YQ7kNvwE3_BVK&_nc_oc=Admjx5bMAhbioRJ9zrTo8SC4y3TOLoAyu8WOKG3J6RBhqoACLAWxuaCMBRzT2pjME7c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=3z8_TZ4PWtbr2923U_JHYA&oh=00_AfcDdYs7PcFnLF_Ghg4EaaAEavom-e8ZNsMonWWnWGc9aw&oe=69039F79
+2025-10-26 08:29:34,318 - INFO - [caption/by_username] 開始
+2025-10-26 08:29:36,560 - INFO - [caption/by_username] 説明文確定（先頭100）: '渡り蟹のパスタのエピソードに続き
+私の料理に関するエピソード第2弾でございます
+
+【all'arrabbiata】アラビアータ
+このパスタはシンプル故に料理人の腕がダイレクトに出てしまう料理です。
+ペ'
+2025-10-26 08:29:36,569 - INFO - [caption/by_username] 説明文を保存: media\il_mare_azzurro_\description\20251026_082713
+2025-10-26 08:29:36,569 - INFO - 画像URLを取得しました
+2025-10-26 08:29:36,677 - INFO - INSERT(with-key): user=il_mare_azzurro_, key=Mzc1MDkxMzI1NzUwNjk2MjQ5Nw==, dt=2025-10-25T03:47:36.000Z
+2025-10-26 08:29:36,677 - INFO - メディアを取得します
+2025-10-26 08:29:38,681 - INFO - ダウンロードを開始します: media\il_mare_azzurro_\il_mare_azzurro__20251026082938.jpg
+2025-10-26 08:29:40,517 - INFO - ダウンロード完了: media\il_mare_azzurro_\il_mare_azzurro__20251026082938.jpg
+2025-10-26 08:29:41,025 - INFO - 元の画像サイズ: 1440x1920
+2025-10-26 08:29:41,025 - INFO - サイズ変更は不要です
+2025-10-26 08:29:41,042 - INFO - 説明文:渡り蟹のパスタのエピソードに続き
+私の料理に関するエピソード第2弾でございます
+
+【all'arrabbiata】アラビアータ
+このパスタはシンプル故に料理人の腕がダイレクトに出てしまう料理です。
+ペペロンチーノを食べると料理人の実力がわかると良く言われます。
+なぜ私がアラビアータに拘りをもったか…
+
+それはちょうど20年前…
+
+私の顧客様でもあったとある企業のCEOから三軒茶屋でイタリアンレストランを立ち上げるとの事で総料理長としてスカウトされた時の話です。
+
+その方は料理人の腕はアラビアータで見極めるというお考えの人でした。
+社長は石田純一さんと仲良くされていて、純一さん行き付けの四谷にあるトラットリアのアラビアータがとにかく美味しくお気に入りで、私達のリストランテに純一さんを招待するためにも、そこのアラビアータを上回るものを提供して欲しいと指示がありました。
+実際食べに行った感想、確かに美味しいアラビアータでした。
+その時はすんなり上回るものを完成させました。
+社長や純一さんから感動していただきとても嬉しかったです。
+ですが、その時からずっとアラビアータへの美味しさの追究が始まってしまったのです。
+
+トマトソースに使用するトマトの産地、オリーブオイル、ニンニクの産地、パスタの種類やメーカー、スパゲッティーの太さ、ニンニクのみじん切りにする大きさ、唐辛子の量、ニンニクの火の入れ加減、塩の産地やメーカー、等々…
+拘り続けて今に至ります。
+勿論とても美味しいアラビアータだと自負しておりますが、まだまだ進化させていこうと思っています。
+
+ご来店の際には是非1度お試しくださいませ。
+
+皆様のご来店を美味しい料理とワイン達と共にお待ちいたしております。
+
+オーナーシェフ  泰中
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣ 
+IL MARE AZZURRO/イルマーレアッズーロ🇮🇹-梅ヶ丘-
+
+🕰営業時間
+OPEN 18:00 CLOSE 22:30
+
+📍住所
+〒155-0033
+東京都世田谷区代田３丁目５２−１１ シャトルＨｉＥｉ 1F
+
+🚃最寄り駅
+梅ヶ丘駅・世田谷代田駅
+
+🗓️ご予約はこちらから⤵︎
+https://tabelog.com/tokyo/A1318/A131802/13205680/
+
+・～.*～・～*.～・～.*～・～*.～・～.*～・～*.～・
+
+#ILMAREAZZURROイルマーレアッズーロ梅ヶ丘 #梅ヶ丘イタリアン #梅ヶ丘グルメ #梅ヶ丘ご飯 #梅ヶ丘飲食店 #梅ヶ丘ディナー #梅ヶ丘夜ご飯 #梅ヶ丘レストラン #梅ヶ丘パスタ #梅ヶ丘ワイン #世田谷代田イタリアン #世田谷代田ご飯 #世田谷代田レストラン #世田谷代田ディナー #世田谷代田グルメ #世田谷代田飲食店 #世田谷代田夜ご飯 #梅ヶ丘 #梅ヶ丘駅 #世田谷代田 #世田谷代田駅 #世田谷イタリアン #世田谷 #イタリアン #イタリアン好きな人と繋がりたい #イタリアワイン好きな人と繋がりたい #ワイン #世田谷ワイン #世田谷レストラン #世田谷ディナー
+2025-10-26 08:29:51,550 - INFO - 処理終了
+================================================================================
+2025-10-26 08:30:01,412 - INFO - 処理開始: Mode=post, Username=il_mare_azzurro_, GBP=16025621277951972552
+2025-10-26 08:30:01,412 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxNjAyNTYyMTI3Nzk1MTk3MjU1MiJd.
+2025-10-26 08:31:10,184 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\il_mare_azzurro_\il_mare_azzurro__20251026082938.jpg
+2025-10-26 08:31:14,569 - INFO - Waiting for description field...
+2025-10-26 08:31:15,097 - INFO - Setting description via JS (no send_keys)...
+2025-10-26 08:31:17,427 - INFO - Looking for button section...
+2025-10-26 08:31:27,530 - INFO - Trying to select CALL option...
+2025-10-26 08:31:28,681 - INFO - CALL option successfully selected
+2025-10-26 08:31:30,682 - INFO - Clicking submit button...
+2025-10-26 08:31:40,817 - INFO - 処理完了
+================================================================================
+2025-10-26 14:59:25,199 - INFO - 処理開始 PROCESSID:20251026_145912
+2025-10-26 14:59:25,199 - INFO - 対象ユーザー: il_mare_azzurro_
+2025-10-26 14:59:25,199 - INFO - 処理を開始します
+2025-10-26 14:59:25,313 - INFO - 選択されたプロファイル: Profile 12
+2025-10-26 14:59:25,315 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-26 14:59:40,374 - INFO - il_mare_azzurro_ のプロフィールページにアクセスします
+2025-10-26 15:00:03,545 - INFO - 最新投稿を読み込みます
+2025-10-26 15:00:10,251 - INFO - 候補はピン留め: https://www.instagram.com/il_mare_azzurro_/p/DQGUx-eARd3/?hl=ja → 日付確認
+2025-10-26 15:00:15,313 - INFO - ピン留めだが3日以上前(3日) → スキップ
+2025-10-26 15:00:15,313 - INFO - 候補はピン留め: https://www.instagram.com/il_mare_azzurro_/p/Ber02SvFQhs/?hl=ja → 日付確認
+2025-10-26 15:00:17,886 - INFO - ピン留めだが3日以上前(2823日) → スキップ
+2025-10-26 15:00:17,886 - INFO - 候補はピン留め: https://www.instagram.com/il_mare_azzurro_/reel/DONFbv2gdIy/?hl=ja → 日付確認
+2025-10-26 15:00:24,802 - INFO - ピン留めだが3日以上前(51日) → スキップ
+2025-10-26 15:00:24,802 - INFO - 選定: 非ピン留め https://www.instagram.com/il_mare_azzurro_/p/DQN67wJAXxB/?hl=ja
+2025-10-26 15:00:29,811 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 15:00:34,460 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 15:00:34,842 - INFO - datetime属性の抽出を開始します
+2025-10-26 15:00:34,977 - INFO - 抽出されたdatetime: 2025-10-25T03:47:36.000Z
+2025-10-26 15:00:34,977 - INFO - il_mare_azzurro_ の投稿日時: 2025-10-25T03:47:36.000Z
+2025-10-26 15:00:34,989 - INFO - date:2025-10-25 12:47:36+09:00
+2025-10-26 15:00:34,989 - INFO - post_date:20251025
+2025-10-26 15:00:35,095 - INFO - カルーセル推定: 1枚
+2025-10-26 15:00:35,153 - INFO - 検出(SINGLE): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/569606715_18332321941235793_72852891584890015_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1MDkxMzI1NzUwNjk2MjQ5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=rjC_Dk3MH8YQ7kNvwE3_BVK&_nc_oc=Admjx5bMAhbioRJ9zrTo8SC4y3TOLoAyu8WOKG3J6RBhqoACLAWxuaCMBRzT2pjME7c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=iP9Dwt7okLF5bMoeQL1svg&oh=00_AfcVKl0sVjwTY0s0FeoC-iPImXgKB6DMw1_jvh7js3DLdw&oe=69040FF9
+2025-10-26 15:00:35,154 - INFO - 1枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/569606715_18332321941235793_72852891584890015_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1MDkxMzI1NzUwNjk2MjQ5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=rjC_Dk3MH8YQ7kNvwE3_BVK&_nc_oc=Admjx5bMAhbioRJ9zrTo8SC4y3TOLoAyu8WOKG3J6RBhqoACLAWxuaCMBRzT2pjME7c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=iP9Dwt7okLF5bMoeQL1svg&oh=00_AfcVKl0sVjwTY0s0FeoC-iPImXgKB6DMw1_jvh7js3DLdw&oe=69040FF9
+2025-10-26 15:00:35,154 - INFO - [caption/by_username] 開始
+2025-10-26 15:00:35,305 - INFO - [caption/by_username] 説明文確定（先頭100）: '渡り蟹のパスタのエピソードに続き
+私の料理に関するエピソード第2弾でございます
+
+【all'arrabbiata】アラビアータ
+このパスタはシンプル故に料理人の腕がダイレクトに出てしまう料理です。
+ペ'
+2025-10-26 15:00:35,306 - INFO - [caption/by_username] 説明文を保存: media\il_mare_azzurro_\description\20251026_145912
+2025-10-26 15:00:35,306 - INFO - 画像URLを取得しました
+2025-10-26 15:00:35,312 - INFO - DUP(with-key): user=il_mare_azzurro_, key=Mzc1MDkxMzI1NzUwNjk2MjQ5Nw==, dt=2025-10-25T03:47:36.000Z
+2025-10-26 15:00:35,313 - INFO - このレコードは存在します
+2025-10-26 15:00:35,313 - INFO - 全件レコードが存在します

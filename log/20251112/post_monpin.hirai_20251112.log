@@ -1,0 +1,222 @@
+================================================================================
+2025-11-12 10:12:01,091 - INFO - 処理開始 PROCESSID:20251112_101157
+2025-11-12 10:12:01,091 - INFO - 対象ユーザー: monpin.hirai
+2025-11-12 10:12:01,093 - INFO - 処理を開始します
+2025-11-12 10:12:01,162 - INFO - 選択されたプロファイル: Profile 13
+2025-11-12 10:12:01,162 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-12 10:12:05,721 - INFO - monpin.hirai のプロフィールページにアクセスします
+2025-11-12 10:12:17,142 - INFO - 最新投稿を読み込みます
+2025-11-12 10:12:22,410 - INFO - 選定: 非ピン留め https://www.instagram.com/monpin.hirai/p/DQ7ROc0k121/?hl=ja
+2025-11-12 10:12:30,151 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 10:12:40,452 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 10:12:40,522 - INFO - datetime属性の抽出を開始します
+2025-11-12 10:12:40,545 - INFO - 抽出されたdatetime: 2025-11-11T18:22:44.000Z
+2025-11-12 10:12:40,546 - INFO - monpin.hirai の投稿日時: 2025-11-11T18:22:44.000Z
+2025-11-12 10:12:40,553 - INFO - date:2025-11-12 03:22:44+09:00
+2025-11-12 10:12:40,553 - INFO - post_date:20251112
+2025-11-12 10:12:40,595 - INFO - カルーセル推定: 1枚
+2025-11-12 10:12:40,645 - INFO - 検出(SINGLE): https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/580345811_17854335489565420_281752920137704670_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MzY3NzY3MzQwODM4ODUzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=xg96DPHG2YIQ7kNvwHh_UB0&_nc_oc=AdmkjryiXcwEXl-olEWomUKXip0PRX6df02A5l-5QtZdMzgtwxeNsd655vRui6cV5q0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=TQxgJvxwkB7idfJQmM9Dng&oh=00_AfhQ-mhZ4asm5Jf3HFhH_KzxLH9DCn0vSGXAN5XZxWPPpg&oe=691A1CBA
+2025-11-12 10:12:40,645 - INFO - 1枚目: https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/580345811_17854335489565420_281752920137704670_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MzY3NzY3MzQwODM4ODUzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=xg96DPHG2YIQ7kNvwHh_UB0&_nc_oc=AdmkjryiXcwEXl-olEWomUKXip0PRX6df02A5l-5QtZdMzgtwxeNsd655vRui6cV5q0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=TQxgJvxwkB7idfJQmM9Dng&oh=00_AfhQ-mhZ4asm5Jf3HFhH_KzxLH9DCn0vSGXAN5XZxWPPpg&oe=691A1CBA
+2025-11-12 10:12:40,645 - INFO - [caption/by_username] 開始
+2025-11-12 10:12:40,863 - INFO - [caption/by_username] 説明文確定（先頭100）: '明日はお好み焼き100円DAY
+
+1組1品ですが
+超お得なのでぜひぴんぞろ平井店に
+お越しください‼️
+
+———— 下町もんじゃ・お好み焼き ぴんぞろ 🍺————
+
+営業時間
+
+OPEN ┇ 15:0'
+2025-11-12 10:12:40,865 - INFO - [caption/by_username] 説明文を保存: media\monpin.hirai\description\20251112_101157
+2025-11-12 10:12:40,865 - INFO - 画像URLを取得しました
+2025-11-12 10:12:40,894 - INFO - INSERT(with-key): user=monpin.hirai, key=Mzc2MzY3NzY3MzQwODM4ODUzMw==, dt=2025-11-11T18:22:44.000Z
+2025-11-12 10:12:40,894 - INFO - メディアを取得します
+2025-11-12 10:12:42,895 - INFO - ダウンロードを開始します: media\monpin.hirai\monpin.hirai_20251112101242.jpg
+2025-11-12 10:12:44,578 - INFO - ダウンロード完了: media\monpin.hirai\monpin.hirai_20251112101242.jpg
+2025-11-12 10:12:44,653 - INFO - 元の画像サイズ: 1440x960
+2025-11-12 10:12:44,653 - INFO - サイズ変更は不要です
+2025-11-12 10:12:44,654 - INFO - 説明文:明日はお好み焼き100円DAY
+
+1組1品ですが
+超お得なのでぜひぴんぞろ平井店に
+お越しください‼️
+
+———— 下町もんじゃ・お好み焼き ぴんぞろ 🍺————
+
+営業時間
+
+OPEN ┇ 15:00 CLOSE ┇ 23:00
+
+ご予約はこちら
+ホットペッパー⤵
+
+下町もんじゃ鉄板焼きぴんぞろ 平井店(平井/お好み焼き・もんじゃ)＜ネット予約可＞ | ホットペッパーグルメ
+
+〒132-0011
+東京都江戸川区平井6丁目37−1
+第一長島ビル
+最寄り駅: 平井駅
+定休日︰なし
+⁡
+———————————
+
+———————————
+#下町もんじゃお好み焼きぴんぞろ #平井#平井居酒屋 #平井飲み放題 #平井もんじゃ #平井朝まで #平井深夜営業 #平井お好み焼き #平井グルメ #平井駅居酒屋 #平井駅 #平井飲み屋 #平井居酒屋個室 #江戸川区 #平井ご飯 #忘年会#宴会#貸切
+2025-11-12 10:12:47,076 - INFO - 処理終了
+================================================================================
+2025-11-12 10:12:53,005 - INFO - 処理開始: Mode=post, Username=monpin.hirai, GBP=12228038855684062084
+2025-11-12 10:12:53,005 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMjIyODAzODg1NTY4NDA2MjA4NCJd.
+2025-11-12 10:13:14,555 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\monpin.hirai\monpin.hirai_20251112101242.jpg
+2025-11-12 10:13:17,723 - INFO - Waiting for description field...
+2025-11-12 10:13:17,753 - INFO - Setting description via JS (no send_keys)...
+2025-11-12 10:13:18,859 - INFO - Looking for button section...
+2025-11-12 10:13:23,392 - INFO - Trying to select CALL option...
+2025-11-12 10:13:23,647 - INFO - CALL option successfully selected
+2025-11-12 10:13:25,648 - INFO - Clicking submit button...
+2025-11-12 10:13:34,274 - INFO - 処理完了
+================================================================================
+2025-11-12 13:13:55,396 - INFO - 処理開始 PROCESSID:20251112_131352
+2025-11-12 13:13:55,396 - INFO - 対象ユーザー: monpin.hirai
+2025-11-12 13:13:55,396 - INFO - 処理を開始します
+2025-11-12 13:13:55,459 - INFO - 選択されたプロファイル: Profile 13
+2025-11-12 13:13:55,459 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-12 13:13:59,687 - INFO - monpin.hirai のプロフィールページにアクセスします
+2025-11-12 13:14:11,380 - INFO - 最新投稿を読み込みます
+2025-11-12 13:14:16,703 - INFO - 選定: 非ピン留め https://www.instagram.com/monpin.hirai/p/DQ7ROc0k121/?hl=ja
+2025-11-12 13:14:19,950 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 13:14:23,654 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 13:14:23,756 - INFO - datetime属性の抽出を開始します
+2025-11-12 13:14:23,799 - INFO - 抽出されたdatetime: 2025-11-11T18:22:44.000Z
+2025-11-12 13:14:23,799 - INFO - monpin.hirai の投稿日時: 2025-11-11T18:22:44.000Z
+2025-11-12 13:14:23,858 - INFO - date:2025-11-12 03:22:44+09:00
+2025-11-12 13:14:23,858 - INFO - post_date:20251112
+2025-11-12 13:14:23,918 - INFO - カルーセル推定: 1枚
+2025-11-12 13:14:23,961 - INFO - 検出(SINGLE): https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/580345811_17854335489565420_281752920137704670_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MzY3NzY3MzQwODM4ODUzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=xg96DPHG2YIQ7kNvwHh_UB0&_nc_oc=AdmkjryiXcwEXl-olEWomUKXip0PRX6df02A5l-5QtZdMzgtwxeNsd655vRui6cV5q0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=q6bFpliwL3zzLkgXISeOXg&oh=00_AfgthLUT-EyedJQ8x8_GE4dIjwDXLUWRrabMDwfKhOA2Ww&oe=691A54FA
+2025-11-12 13:14:23,961 - INFO - 1枚目: https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/580345811_17854335489565420_281752920137704670_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MzY3NzY3MzQwODM4ODUzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=xg96DPHG2YIQ7kNvwHh_UB0&_nc_oc=AdmkjryiXcwEXl-olEWomUKXip0PRX6df02A5l-5QtZdMzgtwxeNsd655vRui6cV5q0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=q6bFpliwL3zzLkgXISeOXg&oh=00_AfgthLUT-EyedJQ8x8_GE4dIjwDXLUWRrabMDwfKhOA2Ww&oe=691A54FA
+2025-11-12 13:14:23,961 - INFO - [caption/by_username] 開始
+2025-11-12 13:14:24,058 - INFO - [caption/by_username] 説明文確定（先頭100）: '明日はお好み焼き100円DAY
+
+1組1品ですが
+超お得なのでぜひぴんぞろ平井店に
+お越しください‼️
+
+———— 下町もんじゃ・お好み焼き ぴんぞろ 🍺————
+
+営業時間
+
+OPEN ┇ 15:0'
+2025-11-12 13:14:24,060 - INFO - [caption/by_username] 説明文を保存: media\monpin.hirai\description\20251112_131352
+2025-11-12 13:14:24,060 - INFO - 画像URLを取得しました
+2025-11-12 13:14:24,064 - INFO - DUP(with-key): user=monpin.hirai, key=Mzc2MzY3NzY3MzQwODM4ODUzMw==, dt=2025-11-11T18:22:44.000Z
+2025-11-12 13:14:24,065 - INFO - このレコードは存在します
+2025-11-12 13:14:24,065 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-12 16:10:11,486 - INFO - 処理開始 PROCESSID:20251112_161008
+2025-11-12 16:10:11,486 - INFO - 対象ユーザー: monpin.hirai
+2025-11-12 16:10:11,486 - INFO - 処理を開始します
+2025-11-12 16:10:11,542 - INFO - 選択されたプロファイル: Profile 9
+2025-11-12 16:10:11,542 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-12 16:10:15,684 - INFO - monpin.hirai のプロフィールページにアクセスします
+2025-11-12 16:10:27,780 - INFO - 最新投稿を読み込みます
+2025-11-12 16:10:33,153 - INFO - 選定: 非ピン留め https://www.instagram.com/monpin.hirai/p/DQ7ROc0k121/?hl=ja
+2025-11-12 16:10:36,562 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 16:10:40,179 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 16:10:40,243 - INFO - datetime属性の抽出を開始します
+2025-11-12 16:10:40,273 - INFO - 抽出されたdatetime: 2025-11-11T18:22:44.000Z
+2025-11-12 16:10:40,274 - INFO - monpin.hirai の投稿日時: 2025-11-11T18:22:44.000Z
+2025-11-12 16:10:40,284 - INFO - date:2025-11-12 03:22:44+09:00
+2025-11-12 16:10:40,284 - INFO - post_date:20251112
+2025-11-12 16:10:40,351 - INFO - カルーセル推定: 1枚
+2025-11-12 16:10:40,436 - INFO - 検出(SINGLE): https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/580345811_17854335489565420_281752920137704670_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MzY3NzY3MzQwODM4ODUzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=xg96DPHG2YIQ7kNvwHh_UB0&_nc_oc=AdmkjryiXcwEXl-olEWomUKXip0PRX6df02A5l-5QtZdMzgtwxeNsd655vRui6cV5q0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=FPvlowSIRa7uw6lxlj7O4w&oh=00_AfiO8cDkMRV-O_OC8ZE7uiZOObrSiTKtt3hljY6vbAchhg&oe=691A8D3A
+2025-11-12 16:10:40,436 - INFO - 1枚目: https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/580345811_17854335489565420_281752920137704670_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MzY3NzY3MzQwODM4ODUzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=xg96DPHG2YIQ7kNvwHh_UB0&_nc_oc=AdmkjryiXcwEXl-olEWomUKXip0PRX6df02A5l-5QtZdMzgtwxeNsd655vRui6cV5q0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=FPvlowSIRa7uw6lxlj7O4w&oh=00_AfiO8cDkMRV-O_OC8ZE7uiZOObrSiTKtt3hljY6vbAchhg&oe=691A8D3A
+2025-11-12 16:10:40,436 - INFO - [caption/by_username] 開始
+2025-11-12 16:10:40,556 - INFO - [caption/by_username] 説明文確定（先頭100）: '明日はお好み焼き100円DAY
+
+1組1品ですが
+超お得なのでぜひぴんぞろ平井店に
+お越しください‼️
+
+———— 下町もんじゃ・お好み焼き ぴんぞろ 🍺————
+
+営業時間
+
+OPEN ┇ 15:0'
+2025-11-12 16:10:40,556 - INFO - [caption/by_username] 説明文を保存: media\monpin.hirai\description\20251112_161008
+2025-11-12 16:10:40,556 - INFO - 画像URLを取得しました
+2025-11-12 16:10:40,560 - INFO - DUP(with-key): user=monpin.hirai, key=Mzc2MzY3NzY3MzQwODM4ODUzMw==, dt=2025-11-11T18:22:44.000Z
+2025-11-12 16:10:40,560 - INFO - このレコードは存在します
+2025-11-12 16:10:40,560 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-12 19:05:23,603 - INFO - 処理開始 PROCESSID:20251112_190520
+2025-11-12 19:05:23,603 - INFO - 対象ユーザー: monpin.hirai
+2025-11-12 19:05:23,603 - INFO - 処理を開始します
+2025-11-12 19:05:23,677 - INFO - 選択されたプロファイル: Profile 9
+2025-11-12 19:05:23,677 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-12 19:05:28,061 - INFO - monpin.hirai のプロフィールページにアクセスします
+2025-11-12 19:05:39,777 - INFO - 最新投稿を読み込みます
+2025-11-12 19:05:45,031 - INFO - 選定: 非ピン留め https://www.instagram.com/monpin.hirai/p/DQ7ROc0k121/?hl=ja
+2025-11-12 19:05:48,328 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 19:05:50,978 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 19:05:51,120 - INFO - datetime属性の抽出を開始します
+2025-11-12 19:05:51,160 - INFO - 抽出されたdatetime: 2025-11-11T18:22:44.000Z
+2025-11-12 19:05:51,160 - INFO - monpin.hirai の投稿日時: 2025-11-11T18:22:44.000Z
+2025-11-12 19:05:51,169 - INFO - date:2025-11-12 03:22:44+09:00
+2025-11-12 19:05:51,169 - INFO - post_date:20251112
+2025-11-12 19:05:51,232 - INFO - カルーセル推定: 1枚
+2025-11-12 19:05:51,270 - INFO - 検出(SINGLE): https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/580345811_17854335489565420_281752920137704670_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MzY3NzY3MzQwODM4ODUzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=xg96DPHG2YIQ7kNvwHh_UB0&_nc_oc=AdmkjryiXcwEXl-olEWomUKXip0PRX6df02A5l-5QtZdMzgtwxeNsd655vRui6cV5q0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=RG9GQCRnOJWbPGzjC51ZzA&oh=00_Afh35BryLdw4IaNjqcW4-n80YmnSStwvoYZsygSLxHXxYA&oe=691AC57A
+2025-11-12 19:05:51,270 - INFO - 1枚目: https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/580345811_17854335489565420_281752920137704670_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MzY3NzY3MzQwODM4ODUzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=xg96DPHG2YIQ7kNvwHh_UB0&_nc_oc=AdmkjryiXcwEXl-olEWomUKXip0PRX6df02A5l-5QtZdMzgtwxeNsd655vRui6cV5q0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=RG9GQCRnOJWbPGzjC51ZzA&oh=00_Afh35BryLdw4IaNjqcW4-n80YmnSStwvoYZsygSLxHXxYA&oe=691AC57A
+2025-11-12 19:05:51,270 - INFO - [caption/by_username] 開始
+2025-11-12 19:05:51,403 - INFO - [caption/by_username] 説明文確定（先頭100）: '明日はお好み焼き100円DAY
+
+1組1品ですが
+超お得なのでぜひぴんぞろ平井店に
+お越しください‼️
+
+———— 下町もんじゃ・お好み焼き ぴんぞろ 🍺————
+
+営業時間
+
+OPEN ┇ 15:0'
+2025-11-12 19:05:51,404 - INFO - [caption/by_username] 説明文を保存: media\monpin.hirai\description\20251112_190520
+2025-11-12 19:05:51,405 - INFO - 画像URLを取得しました
+2025-11-12 19:05:51,406 - INFO - DUP(with-key): user=monpin.hirai, key=Mzc2MzY3NzY3MzQwODM4ODUzMw==, dt=2025-11-11T18:22:44.000Z
+2025-11-12 19:05:51,406 - INFO - このレコードは存在します
+2025-11-12 19:05:51,406 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-12 21:58:30,249 - INFO - 処理開始 PROCESSID:20251112_215826
+2025-11-12 21:58:30,249 - INFO - 対象ユーザー: monpin.hirai
+2025-11-12 21:58:30,251 - INFO - 処理を開始します
+2025-11-12 21:58:30,309 - INFO - 選択されたプロファイル: Profile 13
+2025-11-12 21:58:30,310 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-12 21:58:34,766 - INFO - monpin.hirai のプロフィールページにアクセスします
+2025-11-12 21:58:48,107 - INFO - 最新投稿を読み込みます
+2025-11-12 21:58:53,409 - INFO - 選定: 非ピン留め https://www.instagram.com/monpin.hirai/p/DQ7ROc0k121/?hl=ja
+2025-11-12 21:58:57,602 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 21:59:01,413 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 21:59:01,496 - INFO - datetime属性の抽出を開始します
+2025-11-12 21:59:01,518 - INFO - 抽出されたdatetime: 2025-11-11T18:22:44.000Z
+2025-11-12 21:59:01,518 - INFO - monpin.hirai の投稿日時: 2025-11-11T18:22:44.000Z
+2025-11-12 21:59:01,525 - INFO - date:2025-11-12 03:22:44+09:00
+2025-11-12 21:59:01,525 - INFO - post_date:20251112
+2025-11-12 21:59:01,565 - INFO - カルーセル推定: 1枚
+2025-11-12 21:59:01,618 - INFO - 検出(SINGLE): https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/580345811_17854335489565420_281752920137704670_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MzY3NzY3MzQwODM4ODUzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=xg96DPHG2YIQ7kNvwHh_UB0&_nc_oc=AdmkjryiXcwEXl-olEWomUKXip0PRX6df02A5l-5QtZdMzgtwxeNsd655vRui6cV5q0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=0zDjjphN5UoHIYlecm9NBg&oh=00_AfiIMBmlR4K3PbkQKFX-bm4iiEukV08ye_oYV6O7TtFkXQ&oe=691AC57A
+2025-11-12 21:59:01,618 - INFO - 1枚目: https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/580345811_17854335489565420_281752920137704670_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MzY3NzY3MzQwODM4ODUzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=xg96DPHG2YIQ7kNvwHh_UB0&_nc_oc=AdmkjryiXcwEXl-olEWomUKXip0PRX6df02A5l-5QtZdMzgtwxeNsd655vRui6cV5q0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=0zDjjphN5UoHIYlecm9NBg&oh=00_AfiIMBmlR4K3PbkQKFX-bm4iiEukV08ye_oYV6O7TtFkXQ&oe=691AC57A
+2025-11-12 21:59:01,618 - INFO - [caption/by_username] 開始
+2025-11-12 21:59:01,692 - INFO - [caption/by_username] 説明文確定（先頭100）: '明日はお好み焼き100円DAY
+
+1組1品ですが
+超お得なのでぜひぴんぞろ平井店に
+お越しください‼️
+
+———— 下町もんじゃ・お好み焼き ぴんぞろ 🍺————
+
+営業時間
+
+OPEN ┇ 15:0'
+2025-11-12 21:59:01,695 - INFO - [caption/by_username] 説明文を保存: media\monpin.hirai\description\20251112_215826
+2025-11-12 21:59:01,695 - INFO - 画像URLを取得しました
+2025-11-12 21:59:01,696 - INFO - DUP(with-key): user=monpin.hirai, key=Mzc2MzY3NzY3MzQwODM4ODUzMw==, dt=2025-11-11T18:22:44.000Z
+2025-11-12 21:59:01,697 - INFO - このレコードは存在します
+2025-11-12 21:59:01,697 - INFO - 全件レコードが存在します

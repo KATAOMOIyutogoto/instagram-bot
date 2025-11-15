@@ -1,0 +1,49 @@
+================================================================================
+2025-10-09 07:59:58,269 - INFO - 処理開始 PROCESSID:20251009_075954
+2025-10-09 07:59:58,269 - INFO - 対象ユーザー: horumoncenter_otani_shouten
+2025-10-09 07:59:58,270 - INFO - 処理を開始します
+2025-10-09 07:59:58,324 - INFO - 選択されたプロファイル: Profile 9
+2025-10-09 07:59:58,326 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-09 08:00:04,006 - INFO - horumoncenter_otani_shouten のプロフィールページにアクセスします
+2025-10-09 08:00:26,142 - INFO - プロフィール写真のクリックに成功しました
+2025-10-09 08:00:29,564 - INFO - 動画の取得に失敗しました
+2025-10-09 08:00:29,565 - INFO - datetime属性の抽出を開始します
+2025-10-09 08:00:29,653 - INFO - 抽出されたdatetime: 2025-10-09T07:50:10.000Z
+2025-10-09 08:00:29,694 - INFO - 画像URLを取得しました
+2025-10-09 08:00:29,733 - INFO - INSERT(with-key): user=horumoncenter_otani_shouten, key=MzczOTQ0MTc0MTE3NjEzNzEyMQ==, dt=2025-10-09T07:50:10.000Z
+2025-10-09 08:00:31,773 - INFO - ダウンロードを開始します: media\horumoncenter_otani_shouten\horumoncenter_otani_shouten_20251009080031.jpg
+2025-10-09 08:00:32,085 - INFO - ダウンロード完了: media\horumoncenter_otani_shouten\horumoncenter_otani_shouten_20251009080031.jpg
+2025-10-09 08:00:32,145 - INFO - 元の画像サイズ: 480x853
+2025-10-09 08:00:32,145 - INFO - サイズ変更は不要です
+2025-10-09 08:00:37,081 - INFO - 処理終了
+2025-10-09 08:00:37,081 - INFO - 説明文_AI: None
+2025-10-09 08:00:37,081 - INFO - 説明文_最終: 
+================================================================================
+2025-10-09 08:00:43,388 - INFO - 処理開始: Mode=story, Username=horumoncenter_otani_shouten, GBP=06953997897083521604
+2025-10-09 08:00:43,388 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwNjk1Mzk5Nzg5NzA4MzUyMTYwNCJd.
+2025-10-09 08:01:09,129 - ERROR - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf4fee3+66515]
+	GetHandleVerifier [0x0xf4ff24+66580]
+	(No symbol) [0x0xd3dc48]
+	(No symbol) [0x0xd88704]
+	(No symbol) [0x0xd88aab]
+	(No symbol) [0x0xdcf482]
+	(No symbol) [0x0xdab214]
+	(No symbol) [0x0xdccba7]
+	(No symbol) [0x0xdaafc6]
+	(No symbol) [0x0xd7c2ca]
+	(No symbol) [0x0xd7d154]
+	GetHandleVerifier [0x0x11a7413+2521347]
+	GetHandleVerifier [0x0x11a2393+2500739]
+	GetHandleVerifier [0x0xf77d34+229924]
+	GetHandleVerifier [0x0xf68298+165768]
+	GetHandleVerifier [0x0xf6ed4d+193085]
+	GetHandleVerifier [0x0xf581f8+100072]
+	GetHandleVerifier [0x0xf58390+100480]
+	GetHandleVerifier [0x0xf4264a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-09 08:01:11,543 - ERROR - 投稿画面オープン失敗

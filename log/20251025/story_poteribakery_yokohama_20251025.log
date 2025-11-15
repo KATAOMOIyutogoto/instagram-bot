@@ -1,0 +1,126 @@
+================================================================================
+2025-10-25 01:17:13,942 - INFO - 処理開始 PROCESSID:20251025_011710
+2025-10-25 01:17:13,942 - INFO - 対象ユーザー: poteribakery_yokohama
+2025-10-25 01:17:13,942 - INFO - 処理を開始します
+2025-10-25 01:17:14,004 - INFO - 選択されたプロファイル: Profile 10
+2025-10-25 01:17:14,004 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-25 01:17:19,476 - INFO - poteribakery_yokohama のプロフィールページにアクセスします
+2025-10-25 01:17:41,694 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 01:17:42,837 - INFO - poteribakery_yokohama: 動画を検出しました
+2025-10-25 01:17:42,838 - INFO - datetime属性の抽出を開始します
+2025-10-25 01:17:42,890 - INFO - 抽出されたdatetime: 2025-10-24T09:49:01.000Z
+2025-10-25 01:17:42,891 - INFO - poteribakery_yokohama の投稿日時: 2025-10-24T09:49:01.000Z
+2025-10-25 01:17:44,089 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m367/AQMTMVp4yUhY6nADlVCyvGjJH1ulZTiUSfd2wXj27EzSLlbGxQk2HUumu6Dyz8H6qfyMdfiZF-RVYbSyTvit_iLCShOeHGg800icghzfIiD6_g.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=Sjsfrg6yGF8Q7kNvwE11nDd&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE2NTA0NDU4NTUzNjczMywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ysihz8MigEbX9JSYwlcE7g&_nc_zt=28&oh=00_Affw32BjfxyOxGsNneF92cIDIND_FD2kxvnKRQTOuNOWDA&oe=6902085E&bytestart=0&byteend=1543285
+2025-10-25 01:17:44,090 - INFO - 動画URLを取得しました
+2025-10-25 01:17:44,188 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=poteribakery_yokohama, key=AQMTMVp4yUhY6nADlVCyvGjJH1ulZTiUSfd2wXj27EzSLlbGxQk2HUumu6Dyz8H6qfyMdfiZF-RVYbSyTvit_iLCShOeHGg800icghzfIiD6_g, dt=2025-10-24T09:49:01.000Z, url=https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m367/AQMTMVp4yUhY6nADlVCyvGjJH1ulZTiUSfd2wXj27EzSLlbGxQk2HUumu6Dyz8H6qfyMdfiZF-RVYbSyTvit_iLCShOeHGg800icghzfIiD6_g.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=Sjsfrg6yGF8Q7kNvwE11nDd&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE2NTA0NDU4NTUzNjczMywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ysihz8MigEbX9JSYwlcE7g&_nc_zt=28&oh=00_Affw32BjfxyOxGsNneF92cIDIND_FD2kxvnKRQTOuNOWDA&oe=6902085E&bytestart=0&byteend=1543285, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('poteribakery_yokohama', 'AQMTMVp4yUhY6nADlVCyvGjJH1ulZTiUSfd2wXj27EzSLlbGxQk2HUumu6Dyz8H6qfyMdfiZF-RVYbSyTvit_iLCShOeHGg800icghzfIiD6_g', 'https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m367/AQMTMVp4yUhY6nADlVCyvGjJH1ulZTiUSfd2wXj27EzSLlbGxQk2HUumu6Dyz8H6qfyMdfiZF-RVYbSyTvit_iLCShOeHGg800icghzfIiD6_g.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=Sjsfrg6yGF8Q7kNvwE11nDd&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE2NTA0NDU4NTUzNjczMywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ysihz8MigEbX9JSYwlcE7g&_nc_zt=28&oh=00_Affw32BjfxyOxGsNneF92cIDIND_FD2kxvnKRQTOuNOWDA&oe=6902085E&bytestart=0&byteend=1543285', '2025-10-24T09:49:01.000Z')
+================================================================================
+2025-10-25 05:41:09,406 - INFO - 処理開始 PROCESSID:20251025_054106
+2025-10-25 05:41:09,406 - INFO - 対象ユーザー: poteribakery_yokohama
+2025-10-25 05:41:09,406 - INFO - 処理を開始します
+2025-10-25 05:41:09,471 - INFO - 選択されたプロファイル: Profile 9
+2025-10-25 05:41:09,471 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-25 05:41:14,084 - INFO - poteribakery_yokohama のプロフィールページにアクセスします
+2025-10-25 05:41:37,480 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 05:41:38,478 - INFO - poteribakery_yokohama: 動画を検出しました
+2025-10-25 05:41:38,479 - INFO - datetime属性の抽出を開始します
+2025-10-25 05:41:38,820 - INFO - 抽出されたdatetime: 2025-10-24T08:26:15.000Z
+2025-10-25 05:41:38,821 - INFO - poteribakery_yokohama の投稿日時: 2025-10-24T08:26:15.000Z
+2025-10-25 05:41:40,424 - INFO - 生成URL:https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m367/AQP04AVp-Zn-3fKyJiiw78CcHU9EBOjWASGTlMthgX39zkO48WxJZDLVqatt4ZJmxGV8UkjyGD_SLzkKpBup0vX66qASTjbQ38UfCVQ.mp4?_nc_cat=100&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=sL10lxE9QM8Q7kNvwELTCHH&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMTA4MHBfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6ODM4MjEzMzA2MDQ0ODQyLCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6MTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=pHrLb-Y6FKRNOgGOrfs-Mg&_nc_zt=28&oh=00_AfeX56HQkBDRmnmxnaTwd0Tyt-fkGhcHjGTQnmN_Oh1cpA&oe=69022C4D&bytestart=0&byteend=453789
+2025-10-25 05:41:40,424 - INFO - 動画URLを取得しました
+2025-10-25 05:41:40,525 - INFO - INSERT(with-key): user=poteribakery_yokohama, key=AQP04AVp-Zn-3fKyJiiw78CcHU9EBOjWASGTlMthgX39zkO48WxJZDLVqatt4ZJmxGV8UkjyGD_SLzkKpBup0vX66qASTjbQ38UfCVQ, dt=2025-10-24T08:26:15.000Z
+2025-10-25 05:41:42,911 - INFO - ダウンロードを開始します: media\poteribakery_yokohama\poteribakery_yokohama_20251025054142.mp4
+2025-10-25 05:41:44,883 - INFO - ダウンロード完了: media\poteribakery_yokohama\poteribakery_yokohama_20251025054142.mp4
+2025-10-25 05:41:47,391 - INFO - 処理終了
+2025-10-25 05:41:47,403 - INFO - 説明文_AI: None
+2025-10-25 05:41:47,403 - INFO - 説明文_最終: 
+================================================================================
+2025-10-25 05:41:53,534 - INFO - 処理開始: Mode=story, Username=poteribakery_yokohama, GBP=16786272527627027539
+2025-10-25 05:41:53,534 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxNjc4NjI3MjUyNzYyNzAyNzUzOSJd.
+2025-10-25 05:42:19,872 - INFO - 元の動画サイズ: 1080x1916
+2025-10-25 05:42:19,872 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-25 05:42:19,872 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\poteribakery_yokohama\poteribakery_yokohama_20251025054142.mp4
+2025-10-25 05:42:29,936 - INFO - 一時ファイルが見つかりません: media\poteribakery_yokohama\description\20251025_054106
+2025-10-25 05:42:29,936 - INFO - Looking for button section...
+2025-10-25 05:42:34,635 - INFO - Trying to select CALL option...
+2025-10-25 05:42:34,879 - INFO - CALL option successfully selected
+2025-10-25 05:42:36,880 - INFO - Clicking submit button...
+2025-10-25 05:42:45,621 - INFO - 処理完了
+================================================================================
+2025-10-25 09:59:47,136 - INFO - 処理開始 PROCESSID:20251025_095943
+2025-10-25 09:59:47,136 - INFO - 対象ユーザー: poteribakery_yokohama
+2025-10-25 09:59:47,136 - INFO - 処理を開始します
+2025-10-25 09:59:47,198 - INFO - 選択されたプロファイル: Profile 12
+2025-10-25 09:59:47,198 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-25 09:59:53,227 - INFO - poteribakery_yokohama のプロフィールページにアクセスします
+2025-10-25 10:00:15,324 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 10:00:16,554 - INFO - poteribakery_yokohama: 動画を検出しました
+2025-10-25 10:00:16,554 - INFO - datetime属性の抽出を開始します
+2025-10-25 10:00:16,694 - INFO - 抽出されたdatetime: 2025-10-24T10:23:39.000Z
+2025-10-25 10:00:16,695 - INFO - poteribakery_yokohama の投稿日時: 2025-10-24T10:23:39.000Z
+2025-10-25 10:00:17,963 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m367/AQM24KGwJXcnrY2URxgPHafeFJZv95ARw8ZADLRBMaUgAgDQgkWiAI3Npe0AR_hks8FhOTwaTMbF3qIb7j01C5zdbf2slvR2JYPrB_QJ2z_iGA.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=iTYJy2K6r9MQ7kNvwGqB6e7&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMjA4MDA4Mzg0NDg1NzcxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=B5aos-pBVAeNWi8H--UApg&_nc_zt=28&oh=00_Afd1jj8zcO-BGj6skKfl-3rgbcvyUBNxXtebYdtbnRHy6Q&oe=69025EEE&bytestart=0&byteend=1172328
+2025-10-25 10:00:17,963 - INFO - 動画URLを取得しました
+2025-10-25 10:00:18,024 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=poteribakery_yokohama, key=AQM24KGwJXcnrY2URxgPHafeFJZv95ARw8ZADLRBMaUgAgDQgkWiAI3Npe0AR_hks8FhOTwaTMbF3qIb7j01C5zdbf2slvR2JYPrB_QJ2z_iGA, dt=2025-10-24T10:23:39.000Z, url=https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m367/AQM24KGwJXcnrY2URxgPHafeFJZv95ARw8ZADLRBMaUgAgDQgkWiAI3Npe0AR_hks8FhOTwaTMbF3qIb7j01C5zdbf2slvR2JYPrB_QJ2z_iGA.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=iTYJy2K6r9MQ7kNvwGqB6e7&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMjA4MDA4Mzg0NDg1NzcxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=B5aos-pBVAeNWi8H--UApg&_nc_zt=28&oh=00_Afd1jj8zcO-BGj6skKfl-3rgbcvyUBNxXtebYdtbnRHy6Q&oe=69025EEE&bytestart=0&byteend=1172328, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('poteribakery_yokohama', 'AQM24KGwJXcnrY2URxgPHafeFJZv95ARw8ZADLRBMaUgAgDQgkWiAI3Npe0AR_hks8FhOTwaTMbF3qIb7j01C5zdbf2slvR2JYPrB_QJ2z_iGA', 'https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m367/AQM24KGwJXcnrY2URxgPHafeFJZv95ARw8ZADLRBMaUgAgDQgkWiAI3Npe0AR_hks8FhOTwaTMbF3qIb7j01C5zdbf2slvR2JYPrB_QJ2z_iGA.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=iTYJy2K6r9MQ7kNvwGqB6e7&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMjA4MDA4Mzg0NDg1NzcxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=B5aos-pBVAeNWi8H--UApg&_nc_zt=28&oh=00_Afd1jj8zcO-BGj6skKfl-3rgbcvyUBNxXtebYdtbnRHy6Q&oe=69025EEE&bytestart=0&byteend=1172328', '2025-10-24T10:23:39.000Z')
+================================================================================
+2025-10-25 14:44:09,695 - INFO - 処理開始 PROCESSID:20251025_144403
+2025-10-25 14:44:09,695 - INFO - 対象ユーザー: poteribakery_yokohama
+2025-10-25 14:44:09,695 - INFO - 処理を開始します
+2025-10-25 14:44:09,825 - INFO - 選択されたプロファイル: Profile 10
+2025-10-25 14:44:09,825 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-25 14:44:19,864 - INFO - poteribakery_yokohama のプロフィールページにアクセスします
+2025-10-25 14:45:00,944 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 14:45:03,084 - INFO - poteribakery_yokohama: 動画を検出しました
+2025-10-25 14:45:03,084 - INFO - datetime属性の抽出を開始します
+2025-10-25 14:45:04,427 - INFO - 抽出されたdatetime: 2025-10-25T02:14:54.000Z
+2025-10-25 14:45:04,427 - INFO - poteribakery_yokohama の投稿日時: 2025-10-25T02:14:54.000Z
+2025-10-25 14:45:09,626 - INFO - 生成URL:https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m367/AQNs_UWIIFJ4snA8ViWOQTUHjLRcpF-CUTG-0y21eiDcVPSrTiMiTymhrgB0swOeLDsRz-bXtQbhUVVqftybJ2pVv_zvBRMsLK3ToPB7ci2-lg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=SoGUsjD95hYQ7kNvwH0j1Vf&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE1OTEwMzU0Mzg5MzgyMzcsInZpX3VzZWNhc2VfaWQiOjEwMTAwLCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=_ilsC6FI-K47dvokqdRdJQ&_nc_zt=28&oh=00_Aff76SDaNNySEo0a4WGN0DClhPuR8JAKOuZK8MufBVUQGQ&oe=6902CE34&bytestart=0&byteend=1924568
+2025-10-25 14:45:09,627 - INFO - 動画URLを取得しました
+2025-10-25 14:45:09,835 - INFO - INSERT(with-key): user=poteribakery_yokohama, key=AQNs_UWIIFJ4snA8ViWOQTUHjLRcpF-CUTG-0y21eiDcVPSrTiMiTymhrgB0swOeLDsRz-bXtQbhUVVqftybJ2pVv_zvBRMsLK3ToPB7ci2-lg, dt=2025-10-25T02:14:54.000Z
+2025-10-25 14:45:12,315 - INFO - ダウンロードを開始します: media\poteribakery_yokohama\poteribakery_yokohama_20251025144511.mp4
+2025-10-25 14:45:17,782 - INFO - ダウンロード完了: media\poteribakery_yokohama\poteribakery_yokohama_20251025144511.mp4
+2025-10-25 14:45:35,910 - INFO - 処理終了
+2025-10-25 14:45:35,912 - INFO - 説明文_AI: None
+2025-10-25 14:45:35,912 - INFO - 説明文_最終: 
+================================================================================
+2025-10-25 14:45:44,244 - INFO - 処理開始: Mode=story, Username=poteribakery_yokohama, GBP=16786272527627027539
+2025-10-25 14:45:44,244 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxNjc4NjI3MjUyNzYyNzAyNzUzOSJd.
+2025-10-25 14:46:46,842 - INFO - 元の動画サイズ: 1080x1920
+2025-10-25 14:46:46,842 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-25 14:46:46,842 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\poteribakery_yokohama\poteribakery_yokohama_20251025144511.mp4
+2025-10-25 14:46:57,694 - INFO - 一時ファイルが見つかりません: media\poteribakery_yokohama\description\20251025_144403
+2025-10-25 14:46:57,694 - INFO - Looking for button section...
+2025-10-25 14:47:03,811 - INFO - Trying to select CALL option...
+2025-10-25 14:47:04,021 - INFO - CALL option successfully selected
+2025-10-25 14:47:06,021 - INFO - Clicking submit button...
+2025-10-25 14:47:16,333 - INFO - 処理完了
+================================================================================
+2025-10-25 20:33:35,538 - INFO - 処理開始 PROCESSID:20251025_203329
+2025-10-25 20:33:35,538 - INFO - 対象ユーザー: poteribakery_yokohama
+2025-10-25 20:33:35,538 - INFO - 処理を開始します
+2025-10-25 20:33:35,661 - INFO - 選択されたプロファイル: Profile 10
+2025-10-25 20:33:35,661 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-25 20:33:47,190 - INFO - poteribakery_yokohama のプロフィールページにアクセスします
+2025-10-25 20:34:33,536 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 20:34:35,170 - INFO - poteribakery_yokohama: 動画を検出しました
+2025-10-25 20:34:35,171 - INFO - datetime属性の抽出を開始します
+2025-10-25 20:34:36,005 - INFO - 抽出されたdatetime: 2025-10-25T07:38:03.000Z
+2025-10-25 20:34:36,006 - INFO - poteribakery_yokohama の投稿日時: 2025-10-25T07:38:03.000Z
+2025-10-25 20:34:38,033 - INFO - 生成URL:https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m367/AQPOXCI5NxeVqp440XoR32Vgyn94W35zxDRKscB0IwJcNsLkDUbdFPU91dcADdx0SUJIKq3gquMcFTbJzCggyVs1bnHqs3FiqtacBc8.mp4?_nc_cat=100&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=KREIc6ZbFNAQ7kNvwGXudR3&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzEwODBwX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjcyOTE2Njg2NjkyNjAxNCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Xl9_LjiP_lr_UIaVtoTMbA&_nc_zt=28&oh=00_Afd1OeW7Cs7nUcbq8E8oAbNnPNiu9XIlrBAlkDsldjj95Q&oe=69031EDD&bytestart=0&byteend=486553
+2025-10-25 20:34:38,075 - INFO - 動画URLを取得しました
+2025-10-25 20:34:38,601 - INFO - INSERT(with-key): user=poteribakery_yokohama, key=AQPOXCI5NxeVqp440XoR32Vgyn94W35zxDRKscB0IwJcNsLkDUbdFPU91dcADdx0SUJIKq3gquMcFTbJzCggyVs1bnHqs3FiqtacBc8, dt=2025-10-25T07:38:03.000Z
+2025-10-25 20:34:40,605 - INFO - ダウンロードを開始します: media\poteribakery_yokohama\poteribakery_yokohama_20251025203440.mp4
+2025-10-25 20:34:43,020 - INFO - ダウンロード完了: media\poteribakery_yokohama\poteribakery_yokohama_20251025203440.mp4
+2025-10-25 20:34:56,920 - INFO - 処理終了
+2025-10-25 20:34:56,999 - INFO - 説明文_AI: None
+2025-10-25 20:34:56,999 - INFO - 説明文_最終: 
+================================================================================
+2025-10-25 20:35:14,350 - INFO - 処理開始: Mode=story, Username=poteribakery_yokohama, GBP=16786272527627027539
+2025-10-25 20:35:14,351 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxNjc4NjI3MjUyNzYyNzAyNzUzOSJd.
+2025-10-25 20:36:13,062 - INFO - 元の動画サイズ: 1080x1918
+2025-10-25 20:36:13,062 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-25 20:36:13,062 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\poteribakery_yokohama\poteribakery_yokohama_20251025203440.mp4
+2025-10-25 20:36:24,363 - INFO - 一時ファイルが見つかりません: media\poteribakery_yokohama\description\20251025_203329
+2025-10-25 20:36:24,363 - INFO - Looking for button section...
+2025-10-25 20:36:29,189 - INFO - Trying to select CALL option...
+2025-10-25 20:36:29,460 - INFO - CALL option successfully selected
+2025-10-25 20:36:31,461 - INFO - Clicking submit button...
+2025-10-25 20:36:41,567 - INFO - 処理完了

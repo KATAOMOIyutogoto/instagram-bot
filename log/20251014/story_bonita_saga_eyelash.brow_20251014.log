@@ -1,0 +1,116 @@
+================================================================================
+2025-10-14 02:36:06,628 - INFO - 処理開始 PROCESSID:20251014_023603
+2025-10-14 02:36:06,628 - INFO - 対象ユーザー: bonita_saga_eyelash.brow
+2025-10-14 02:36:06,628 - INFO - 処理を開始します
+2025-10-14 02:36:06,684 - INFO - 選択されたプロファイル: Profile 10
+2025-10-14 02:36:06,684 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-14 02:36:12,252 - INFO - bonita_saga_eyelash.brow のプロフィールページにアクセスします
+2025-10-14 02:36:36,499 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 02:36:39,745 - INFO - 動画の取得に失敗しました
+2025-10-14 02:36:39,748 - INFO - datetime属性の抽出を開始します
+2025-10-14 02:36:50,246 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdefea3+66515]
+	GetHandleVerifier [0x0xdefee4+66580]
+	(No symbol) [0x0xbddc48]
+	(No symbol) [0x0xc28704]
+	(No symbol) [0x0xc28aab]
+	(No symbol) [0x0xc6f482]
+	(No symbol) [0x0xc4b214]
+	(No symbol) [0x0xc6cba7]
+	(No symbol) [0x0xc4afc6]
+	(No symbol) [0x0xc1c2ca]
+	(No symbol) [0x0xc1d154]
+	GetHandleVerifier [0x0x10473d3+2521347]
+	GetHandleVerifier [0x0x1042353+2500739]
+	GetHandleVerifier [0x0xe17cf4+229924]
+	GetHandleVerifier [0x0xe08258+165768]
+	GetHandleVerifier [0x0xe0ed0d+193085]
+	GetHandleVerifier [0x0xdf81b8+100072]
+	GetHandleVerifier [0x0xdf8350+100480]
+	GetHandleVerifier [0x0xde260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-14 02:37:00,545 - INFO - 画像の取得に失敗しました
+2025-10-14 02:37:03,001 - INFO - 処理終了
+================================================================================
+2025-10-14 08:00:43,672 - INFO - 処理開始 PROCESSID:20251014_080040
+2025-10-14 08:00:43,672 - INFO - 対象ユーザー: bonita_saga_eyelash.brow
+2025-10-14 08:00:43,672 - INFO - 処理を開始します
+2025-10-14 08:00:43,740 - INFO - 選択されたプロファイル: Profile 12
+2025-10-14 08:00:43,740 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-14 08:00:48,732 - INFO - bonita_saga_eyelash.brow のプロフィールページにアクセスします
+2025-10-14 08:01:11,304 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 08:01:14,465 - INFO - 動画の取得に失敗しました
+2025-10-14 08:01:14,467 - INFO - datetime属性の抽出を開始します
+2025-10-14 08:01:14,563 - INFO - 抽出されたdatetime: 2025-10-14T03:05:33.000Z
+2025-10-14 08:01:14,607 - INFO - 画像URLを取得しました
+2025-10-14 08:01:14,649 - INFO - INSERT(with-key): user=bonita_saga_eyelash.brow, key=Mzc0MjkyMjM0NzI4OTYxMDczNg==, dt=2025-10-14T03:05:33.000Z
+2025-10-14 08:01:16,670 - INFO - ダウンロードを開始します: media\bonita_saga_eyelash.brow\bonita_saga_eyelash.brow_20251014080116.jpg
+2025-10-14 08:01:18,481 - INFO - ダウンロード完了: media\bonita_saga_eyelash.brow\bonita_saga_eyelash.brow_20251014080116.jpg
+2025-10-14 08:01:18,589 - INFO - 元の画像サイズ: 480x853
+2025-10-14 08:01:18,589 - INFO - サイズ変更は不要です
+2025-10-14 08:01:23,492 - INFO - 処理終了
+2025-10-14 08:01:23,494 - INFO - 説明文_AI: None
+2025-10-14 08:01:23,494 - INFO - 説明文_最終: 
+================================================================================
+2025-10-14 08:01:30,154 - INFO - 処理開始: Mode=story, Username=bonita_saga_eyelash.brow, GBP=bonitaogi
+2025-10-14 08:01:30,154 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJib25pdGFvZ2kiXQ.
+2025-10-14 08:01:55,707 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\bonita_saga_eyelash.brow\bonita_saga_eyelash.brow_20251014080116.jpg
+2025-10-14 08:01:58,797 - INFO - 一時ファイルが見つかりません: media\bonita_saga_eyelash.brow\description\20251014_080040
+2025-10-14 08:01:58,797 - INFO - Looking for button section...
+2025-10-14 08:02:03,398 - INFO - Trying to select CALL option...
+2025-10-14 08:02:03,898 - INFO - CALL option successfully selected
+2025-10-14 08:02:05,898 - INFO - Clicking submit button...
+2025-10-14 08:02:14,567 - INFO - 処理完了
+================================================================================
+2025-10-14 08:02:20,638 - INFO - 処理開始: Mode=story, Username=bonita_saga_eyelash.brow, GBP=bonitatakeo
+2025-10-14 08:02:20,638 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJib25pdGF0YWtlbyJd.
+2025-10-14 08:02:52,701 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\bonita_saga_eyelash.brow\bonita_saga_eyelash.brow_20251014080116.jpg
+2025-10-14 08:02:56,244 - INFO - 一時ファイルが見つかりません: media\bonita_saga_eyelash.brow\description\20251014_080040
+2025-10-14 08:02:56,244 - INFO - Looking for button section...
+2025-10-14 08:03:05,028 - INFO - Trying to select CALL option...
+2025-10-14 08:03:05,268 - INFO - CALL option successfully selected
+2025-10-14 08:03:07,269 - INFO - Clicking submit button...
+2025-10-14 08:03:18,731 - INFO - 処理完了
+================================================================================
+2025-10-14 13:30:32,616 - INFO - 処理開始 PROCESSID:20251014_133028
+2025-10-14 13:30:32,616 - INFO - 対象ユーザー: bonita_saga_eyelash.brow
+2025-10-14 13:30:32,616 - INFO - 処理を開始します
+2025-10-14 13:30:32,677 - INFO - 選択されたプロファイル: Profile 13
+2025-10-14 13:30:32,677 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-14 13:30:37,418 - INFO - bonita_saga_eyelash.brow のプロフィールページにアクセスします
+2025-10-14 13:31:00,318 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 13:31:03,592 - INFO - 動画の取得に失敗しました
+2025-10-14 13:31:03,593 - INFO - datetime属性の抽出を開始します
+2025-10-14 13:31:03,675 - INFO - 抽出されたdatetime: 2025-10-14T03:05:33.000Z
+2025-10-14 13:31:03,713 - INFO - 画像URLを取得しました
+2025-10-14 13:31:03,718 - INFO - DUP(with-key): user=bonita_saga_eyelash.brow, key=Mzc0MjkyMjM0NzI4OTYxMDczNg==, dt=2025-10-14T03:05:33.000Z
+================================================================================
+2025-10-14 18:31:27,019 - INFO - 処理開始 PROCESSID:20251014_183123
+2025-10-14 18:31:27,019 - INFO - 対象ユーザー: bonita_saga_eyelash.brow
+2025-10-14 18:31:27,019 - INFO - 処理を開始します
+2025-10-14 18:31:27,082 - INFO - 選択されたプロファイル: Profile 9
+2025-10-14 18:31:27,082 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-14 18:31:31,538 - INFO - bonita_saga_eyelash.brow のプロフィールページにアクセスします
+2025-10-14 18:31:53,805 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 18:31:57,010 - INFO - 動画の取得に失敗しました
+2025-10-14 18:31:57,010 - INFO - datetime属性の抽出を開始します
+2025-10-14 18:31:57,095 - INFO - 抽出されたdatetime: 2025-10-14T03:05:33.000Z
+2025-10-14 18:31:57,123 - INFO - 画像URLを取得しました
+2025-10-14 18:31:57,127 - INFO - DUP(with-key): user=bonita_saga_eyelash.brow, key=Mzc0MjkyMjM0NzI4OTYxMDczNg==, dt=2025-10-14T03:05:33.000Z
+================================================================================
+2025-10-14 22:21:26,697 - INFO - 処理開始 PROCESSID:20251014_222123
+2025-10-14 22:21:26,697 - INFO - 対象ユーザー: bonita_saga_eyelash.brow
+2025-10-14 22:21:26,697 - INFO - 処理を開始します
+2025-10-14 22:21:26,757 - INFO - 選択されたプロファイル: Profile 10
+2025-10-14 22:21:26,757 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-14 22:21:31,304 - INFO - bonita_saga_eyelash.brow のプロフィールページにアクセスします
+2025-10-14 22:21:53,461 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 22:21:56,780 - INFO - 動画の取得に失敗しました
+2025-10-14 22:21:56,780 - INFO - datetime属性の抽出を開始します
+2025-10-14 22:21:56,864 - INFO - 抽出されたdatetime: 2025-10-14T03:05:33.000Z
+2025-10-14 22:21:56,890 - INFO - 画像URLを取得しました
+2025-10-14 22:21:56,892 - INFO - DUP(with-key): user=bonita_saga_eyelash.brow, key=Mzc0MjkyMjM0NzI4OTYxMDczNg==, dt=2025-10-14T03:05:33.000Z

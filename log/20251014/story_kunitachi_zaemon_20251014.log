@@ -1,0 +1,161 @@
+================================================================================
+2025-10-14 03:29:18,309 - INFO - 処理開始 PROCESSID:20251014_032911
+2025-10-14 03:29:18,309 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-14 03:29:18,309 - INFO - 処理を開始します
+2025-10-14 03:29:18,439 - INFO - 選択されたプロファイル: Profile 13
+2025-10-14 03:29:18,440 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-14 03:29:31,266 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-14 03:29:53,466 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 03:29:56,723 - INFO - 動画の取得に失敗しました
+2025-10-14 03:29:56,724 - INFO - datetime属性の抽出を開始します
+2025-10-14 03:29:57,115 - INFO - 抽出されたdatetime: 2025-10-13T08:15:27.000Z
+2025-10-14 03:29:57,154 - INFO - 画像URLを取得しました
+2025-10-14 03:29:57,158 - INFO - DUP(with-key): user=kunitachi_zaemon, key=Mzc0MjM1MzU3MTExMTg2MDUxOA==, dt=2025-10-13T08:15:27.000Z
+================================================================================
+2025-10-14 08:54:32,350 - INFO - 処理開始 PROCESSID:20251014_085427
+2025-10-14 08:54:32,350 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-14 08:54:32,350 - INFO - 処理を開始します
+2025-10-14 08:54:32,409 - INFO - 選択されたプロファイル: Profile 10
+2025-10-14 08:54:32,411 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-14 08:54:37,372 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-14 08:55:00,938 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 08:55:04,183 - INFO - 動画の取得に失敗しました
+2025-10-14 08:55:04,183 - INFO - datetime属性の抽出を開始します
+2025-10-14 08:55:14,592 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdefea3+66515]
+	GetHandleVerifier [0x0xdefee4+66580]
+	(No symbol) [0x0xbddc48]
+	(No symbol) [0x0xc28704]
+	(No symbol) [0x0xc28aab]
+	(No symbol) [0x0xc6f482]
+	(No symbol) [0x0xc4b214]
+	(No symbol) [0x0xc6cba7]
+	(No symbol) [0x0xc4afc6]
+	(No symbol) [0x0xc1c2ca]
+	(No symbol) [0x0xc1d154]
+	GetHandleVerifier [0x0x10473d3+2521347]
+	GetHandleVerifier [0x0x1042353+2500739]
+	GetHandleVerifier [0x0xe17cf4+229924]
+	GetHandleVerifier [0x0xe08258+165768]
+	GetHandleVerifier [0x0xe0ed0d+193085]
+	GetHandleVerifier [0x0xdf81b8+100072]
+	GetHandleVerifier [0x0xdf8350+100480]
+	GetHandleVerifier [0x0xde260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-14 08:55:24,931 - INFO - 画像の取得に失敗しました
+2025-10-14 08:55:27,302 - INFO - 処理終了
+================================================================================
+2025-10-14 14:18:17,617 - INFO - 処理開始 PROCESSID:20251014_141811
+2025-10-14 14:18:17,617 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-14 14:18:17,618 - INFO - 処理を開始します
+2025-10-14 14:18:17,752 - INFO - 選択されたプロファイル: Profile 9
+2025-10-14 14:18:17,752 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-14 14:18:30,214 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-14 14:18:52,621 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 14:18:56,014 - INFO - 動画の取得に失敗しました
+2025-10-14 14:18:56,014 - INFO - datetime属性の抽出を開始します
+2025-10-14 14:19:06,404 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdefea3+66515]
+	GetHandleVerifier [0x0xdefee4+66580]
+	(No symbol) [0x0xbddc48]
+	(No symbol) [0x0xc28704]
+	(No symbol) [0x0xc28aab]
+	(No symbol) [0x0xc6f482]
+	(No symbol) [0x0xc4b214]
+	(No symbol) [0x0xc6cba7]
+	(No symbol) [0x0xc4afc6]
+	(No symbol) [0x0xc1c2ca]
+	(No symbol) [0x0xc1d154]
+	GetHandleVerifier [0x0x10473d3+2521347]
+	GetHandleVerifier [0x0x1042353+2500739]
+	GetHandleVerifier [0x0xe17cf4+229924]
+	GetHandleVerifier [0x0xe08258+165768]
+	GetHandleVerifier [0x0xe0ed0d+193085]
+	GetHandleVerifier [0x0xdf81b8+100072]
+	GetHandleVerifier [0x0xdf8350+100480]
+	GetHandleVerifier [0x0xde260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-14 14:19:16,680 - INFO - 画像の取得に失敗しました
+2025-10-14 14:19:19,114 - INFO - 処理終了
+================================================================================
+2025-10-14 19:08:36,529 - INFO - 処理開始 PROCESSID:20251014_190833
+2025-10-14 19:08:36,529 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-14 19:08:36,529 - INFO - 処理を開始します
+2025-10-14 19:08:36,588 - INFO - 選択されたプロファイル: Profile 9
+2025-10-14 19:08:36,588 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-14 19:08:41,216 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-14 19:09:03,376 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 19:09:06,488 - INFO - 動画の取得に失敗しました
+2025-10-14 19:09:06,489 - INFO - datetime属性の抽出を開始します
+2025-10-14 19:09:16,856 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdefea3+66515]
+	GetHandleVerifier [0x0xdefee4+66580]
+	(No symbol) [0x0xbddc48]
+	(No symbol) [0x0xc28704]
+	(No symbol) [0x0xc28aab]
+	(No symbol) [0x0xc6f482]
+	(No symbol) [0x0xc4b214]
+	(No symbol) [0x0xc6cba7]
+	(No symbol) [0x0xc4afc6]
+	(No symbol) [0x0xc1c2ca]
+	(No symbol) [0x0xc1d154]
+	GetHandleVerifier [0x0x10473d3+2521347]
+	GetHandleVerifier [0x0x1042353+2500739]
+	GetHandleVerifier [0x0xe17cf4+229924]
+	GetHandleVerifier [0x0xe08258+165768]
+	GetHandleVerifier [0x0xe0ed0d+193085]
+	GetHandleVerifier [0x0xdf81b8+100072]
+	GetHandleVerifier [0x0xdf8350+100480]
+	GetHandleVerifier [0x0xde260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-14 19:09:27,162 - INFO - 画像の取得に失敗しました
+2025-10-14 19:09:29,598 - INFO - 処理終了
+================================================================================
+2025-10-14 22:57:50,764 - INFO - 処理開始 PROCESSID:20251014_225747
+2025-10-14 22:57:50,764 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-14 22:57:50,764 - INFO - 処理を開始します
+2025-10-14 22:57:50,821 - INFO - 選択されたプロファイル: Profile 10
+2025-10-14 22:57:50,821 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-14 22:57:55,265 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-14 22:58:17,540 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 22:58:20,682 - INFO - 動画の取得に失敗しました
+2025-10-14 22:58:20,683 - INFO - datetime属性の抽出を開始します
+2025-10-14 22:58:31,029 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x107fe83+66515]
+	GetHandleVerifier [0x0x107fec4+66580]
+	(No symbol) [0x0xe6dc48]
+	(No symbol) [0x0xeb8704]
+	(No symbol) [0x0xeb8aab]
+	(No symbol) [0x0xeff482]
+	(No symbol) [0x0xedb214]
+	(No symbol) [0x0xefcba7]
+	(No symbol) [0x0xedafc6]
+	(No symbol) [0x0xeac2ca]
+	(No symbol) [0x0xead154]
+	GetHandleVerifier [0x0x12d73b3+2521347]
+	GetHandleVerifier [0x0x12d2333+2500739]
+	GetHandleVerifier [0x0x10a7cd4+229924]
+	GetHandleVerifier [0x0x1098238+165768]
+	GetHandleVerifier [0x0x109eced+193085]
+	GetHandleVerifier [0x0x1088198+100072]
+	GetHandleVerifier [0x0x1088330+100480]
+	GetHandleVerifier [0x0x10725ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-14 22:58:41,308 - INFO - 画像の取得に失敗しました
+2025-10-14 22:58:44,726 - INFO - 処理終了

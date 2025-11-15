@@ -1,0 +1,312 @@
+================================================================================
+2025-11-06 00:04:44,024 - INFO - 処理開始 PROCESSID:20251106_000440
+2025-11-06 00:04:44,026 - INFO - 対象ユーザー: poteribakery_yokohama
+2025-11-06 00:04:44,026 - INFO - 処理を開始します
+2025-11-06 00:04:44,093 - INFO - 選択されたプロファイル: Profile 10
+2025-11-06 00:04:44,093 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-06 00:04:48,719 - INFO - poteribakery_yokohama のプロフィールページにアクセスします
+2025-11-06 00:05:00,784 - INFO - 最新投稿を読み込みます
+2025-11-06 00:05:06,398 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFRyaEiKi/?hl=ja → 日付確認
+2025-11-06 00:05:08,762 - INFO - ピン留めだが3日以上前(33日) → スキップ
+2025-11-06 00:05:08,762 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFN8TkqZ0/?hl=ja → 日付確認
+2025-11-06 00:05:11,265 - INFO - ピン留めだが3日以上前(33日) → スキップ
+2025-11-06 00:05:11,265 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFLPqEiiC/?hl=ja → 日付確認
+2025-11-06 00:05:13,098 - INFO - ピン留めだが3日以上前(33日) → スキップ
+2025-11-06 00:05:13,098 - INFO - 選定: 非ピン留め https://www.instagram.com/poteribakery_yokohama/p/DQqIN-5kihK/?hl=ja
+2025-11-06 00:05:17,683 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 00:05:21,457 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 00:05:21,499 - INFO - datetime属性の抽出を開始します
+2025-11-06 00:05:21,525 - INFO - 抽出されたdatetime: 2025-11-05T02:36:56.000Z
+2025-11-06 00:05:21,525 - INFO - poteribakery_yokohama の投稿日時: 2025-11-05T02:36:56.000Z
+2025-11-06 00:05:21,534 - INFO - date:2025-11-05 11:36:56+09:00
+2025-11-06 00:05:21,534 - INFO - post_date:20251105
+2025-11-06 00:05:21,588 - INFO - カルーセル推定: 1枚
+2025-11-06 00:05:21,652 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=zX5DnQzBJJ8UA0souWpHkw&oh=00_Afgr3Qo9mF4BlJYiNRyKo2YjFI9DNIFRy-QYVCPa8cyFiQ&oe=6911A0CA
+2025-11-06 00:05:21,652 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=zX5DnQzBJJ8UA0souWpHkw&oh=00_Afgr3Qo9mF4BlJYiNRyKo2YjFI9DNIFRy-QYVCPa8cyFiQ&oe=6911A0CA
+2025-11-06 00:05:21,652 - INFO - [caption/by_username] 開始
+2025-11-06 00:05:21,736 - INFO - [caption/by_username] 説明文確定（先頭100）: 'おはようございます‼️
+ポテリベーカリー横浜は本日も元気に営業致します！
+
+毎日当店の生ドーナツをお買い求めいただき、
+ありがとうございます🙇‍♂️
+
+横浜駅を代表するスイーツとなれるよう、
+日々頑張'
+2025-11-06 00:05:21,738 - INFO - [caption/by_username] 説明文を保存: media\poteribakery_yokohama\description\20251106_000440
+2025-11-06 00:05:21,739 - INFO - 画像URLを取得しました
+2025-11-06 00:05:21,741 - INFO - DUP(with-key): user=poteribakery_yokohama, key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA==, dt=2025-11-05T02:36:56.000Z
+2025-11-06 00:05:21,741 - INFO - このレコードは存在します
+2025-11-06 00:05:21,741 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-06 03:07:32,062 - INFO - 処理開始 PROCESSID:20251106_030728
+2025-11-06 03:07:32,062 - INFO - 対象ユーザー: poteribakery_yokohama
+2025-11-06 03:07:32,062 - INFO - 処理を開始します
+2025-11-06 03:07:32,121 - INFO - 選択されたプロファイル: Profile 12
+2025-11-06 03:07:32,121 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-06 03:07:36,497 - INFO - poteribakery_yokohama のプロフィールページにアクセスします
+2025-11-06 03:07:48,533 - INFO - 最新投稿を読み込みます
+2025-11-06 03:07:54,034 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFRyaEiKi/?hl=ja → 日付確認
+2025-11-06 03:07:56,376 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 03:07:56,376 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFN8TkqZ0/?hl=ja → 日付確認
+2025-11-06 03:07:59,600 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 03:07:59,600 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFLPqEiiC/?hl=ja → 日付確認
+2025-11-06 03:08:02,361 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 03:08:02,361 - INFO - 選定: 非ピン留め https://www.instagram.com/poteribakery_yokohama/p/DQqIN-5kihK/?hl=ja
+2025-11-06 03:08:05,996 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 03:08:09,425 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 03:08:09,507 - INFO - datetime属性の抽出を開始します
+2025-11-06 03:08:09,546 - INFO - 抽出されたdatetime: 2025-11-05T02:36:56.000Z
+2025-11-06 03:08:09,546 - INFO - poteribakery_yokohama の投稿日時: 2025-11-05T02:36:56.000Z
+2025-11-06 03:08:09,555 - INFO - date:2025-11-05 11:36:56+09:00
+2025-11-06 03:08:09,555 - INFO - post_date:20251105
+2025-11-06 03:08:09,617 - INFO - カルーセル推定: 1枚
+2025-11-06 03:08:09,687 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sQs8TSq5QiAKz-4rvy0HtQ&oh=00_Afj-9jwVjO0qVo0l6xa_-kELlIiKEoO2iXG707NNfhFG4g&oe=6911D90A
+2025-11-06 03:08:09,687 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sQs8TSq5QiAKz-4rvy0HtQ&oh=00_Afj-9jwVjO0qVo0l6xa_-kELlIiKEoO2iXG707NNfhFG4g&oe=6911D90A
+2025-11-06 03:08:09,687 - INFO - [caption/by_username] 開始
+2025-11-06 03:08:09,772 - INFO - [caption/by_username] 説明文確定（先頭100）: 'おはようございます‼️
+ポテリベーカリー横浜は本日も元気に営業致します！
+
+毎日当店の生ドーナツをお買い求めいただき、
+ありがとうございます🙇‍♂️
+
+横浜駅を代表するスイーツとなれるよう、
+日々頑張'
+2025-11-06 03:08:09,774 - INFO - [caption/by_username] 説明文を保存: media\poteribakery_yokohama\description\20251106_030728
+2025-11-06 03:08:09,774 - INFO - 画像URLを取得しました
+2025-11-06 03:08:09,776 - INFO - DUP(with-key): user=poteribakery_yokohama, key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA==, dt=2025-11-05T02:36:56.000Z
+2025-11-06 03:08:09,776 - INFO - このレコードは存在します
+2025-11-06 03:08:09,776 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-06 06:11:18,955 - INFO - 処理開始 PROCESSID:20251106_061115
+2025-11-06 06:11:18,955 - INFO - 対象ユーザー: poteribakery_yokohama
+2025-11-06 06:11:18,955 - INFO - 処理を開始します
+2025-11-06 06:11:19,020 - INFO - 選択されたプロファイル: Profile 13
+2025-11-06 06:11:19,020 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-06 06:11:23,609 - INFO - poteribakery_yokohama のプロフィールページにアクセスします
+2025-11-06 06:11:35,703 - INFO - 最新投稿を読み込みます
+2025-11-06 06:11:41,416 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFRyaEiKi/?hl=ja → 日付確認
+2025-11-06 06:11:43,709 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 06:11:43,709 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFN8TkqZ0/?hl=ja → 日付確認
+2025-11-06 06:11:46,851 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 06:11:46,851 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFLPqEiiC/?hl=ja → 日付確認
+2025-11-06 06:11:48,627 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 06:11:48,627 - INFO - 選定: 非ピン留め https://www.instagram.com/poteribakery_yokohama/p/DQqIN-5kihK/?hl=ja
+2025-11-06 06:11:52,022 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 06:11:55,837 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 06:11:55,908 - INFO - datetime属性の抽出を開始します
+2025-11-06 06:11:55,942 - INFO - 抽出されたdatetime: 2025-11-05T02:36:56.000Z
+2025-11-06 06:11:55,942 - INFO - poteribakery_yokohama の投稿日時: 2025-11-05T02:36:56.000Z
+2025-11-06 06:11:55,949 - INFO - date:2025-11-05 11:36:56+09:00
+2025-11-06 06:11:55,949 - INFO - post_date:20251105
+2025-11-06 06:11:56,026 - INFO - カルーセル推定: 1枚
+2025-11-06 06:11:56,129 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=USAzTAV5JnofEw2VcmcAFA&oh=00_Afhiqph4dgVP5v1tNpw9YSUscvP9EUBQPcUhpbqUjKeznQ&oe=6912114A
+2025-11-06 06:11:56,129 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=USAzTAV5JnofEw2VcmcAFA&oh=00_Afhiqph4dgVP5v1tNpw9YSUscvP9EUBQPcUhpbqUjKeznQ&oe=6912114A
+2025-11-06 06:11:56,130 - INFO - [caption/by_username] 開始
+2025-11-06 06:11:56,261 - INFO - [caption/by_username] 説明文確定（先頭100）: 'おはようございます‼️
+ポテリベーカリー横浜は本日も元気に営業致します！
+
+毎日当店の生ドーナツをお買い求めいただき、
+ありがとうございます🙇‍♂️
+
+横浜駅を代表するスイーツとなれるよう、
+日々頑張'
+2025-11-06 06:11:56,263 - INFO - [caption/by_username] 説明文を保存: media\poteribakery_yokohama\description\20251106_061115
+2025-11-06 06:11:56,263 - INFO - 画像URLを取得しました
+2025-11-06 06:11:56,266 - INFO - DUP(with-key): user=poteribakery_yokohama, key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA==, dt=2025-11-05T02:36:56.000Z
+2025-11-06 06:11:56,266 - INFO - このレコードは存在します
+2025-11-06 06:11:56,268 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-06 09:10:47,401 - INFO - 処理開始 PROCESSID:20251106_091044
+2025-11-06 09:10:47,401 - INFO - 対象ユーザー: poteribakery_yokohama
+2025-11-06 09:10:47,401 - INFO - 処理を開始します
+2025-11-06 09:10:47,460 - INFO - 選択されたプロファイル: Profile 13
+2025-11-06 09:10:47,460 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-06 09:10:51,815 - INFO - poteribakery_yokohama のプロフィールページにアクセスします
+2025-11-06 09:11:04,219 - INFO - 最新投稿を読み込みます
+2025-11-06 09:11:09,757 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFRyaEiKi/?hl=ja → 日付確認
+2025-11-06 09:11:12,085 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 09:11:12,086 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFN8TkqZ0/?hl=ja → 日付確認
+2025-11-06 09:11:15,031 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 09:11:15,031 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFLPqEiiC/?hl=ja → 日付確認
+2025-11-06 09:11:18,452 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 09:11:18,452 - INFO - 選定: 非ピン留め https://www.instagram.com/poteribakery_yokohama/p/DQqIN-5kihK/?hl=ja
+2025-11-06 09:11:22,148 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 09:11:25,844 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 09:11:25,884 - INFO - datetime属性の抽出を開始します
+2025-11-06 09:11:25,908 - INFO - 抽出されたdatetime: 2025-11-05T02:36:56.000Z
+2025-11-06 09:11:25,908 - INFO - poteribakery_yokohama の投稿日時: 2025-11-05T02:36:56.000Z
+2025-11-06 09:11:25,915 - INFO - date:2025-11-05 11:36:56+09:00
+2025-11-06 09:11:25,915 - INFO - post_date:20251105
+2025-11-06 09:11:25,966 - INFO - カルーセル推定: 1枚
+2025-11-06 09:11:26,002 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y0z2T4Ta2cLZDYemKwJPJQ&oh=00_Afjn3xG9XMeFMiWr-2PWfaMgVdouAA_fi--nMB9TZtOF-Q&oe=6912498A
+2025-11-06 09:11:26,002 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Y0z2T4Ta2cLZDYemKwJPJQ&oh=00_Afjn3xG9XMeFMiWr-2PWfaMgVdouAA_fi--nMB9TZtOF-Q&oe=6912498A
+2025-11-06 09:11:26,002 - INFO - [caption/by_username] 開始
+2025-11-06 09:11:26,077 - INFO - [caption/by_username] 説明文確定（先頭100）: 'おはようございます‼️
+ポテリベーカリー横浜は本日も元気に営業致します！
+
+毎日当店の生ドーナツをお買い求めいただき、
+ありがとうございます🙇‍♂️
+
+横浜駅を代表するスイーツとなれるよう、
+日々頑張'
+2025-11-06 09:11:26,081 - INFO - [caption/by_username] 説明文を保存: media\poteribakery_yokohama\description\20251106_091044
+2025-11-06 09:11:26,081 - INFO - 画像URLを取得しました
+2025-11-06 09:11:26,083 - INFO - DUP(with-key): user=poteribakery_yokohama, key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA==, dt=2025-11-05T02:36:56.000Z
+2025-11-06 09:11:26,083 - INFO - このレコードは存在します
+2025-11-06 09:11:26,083 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-06 12:17:12,014 - INFO - 処理開始 PROCESSID:20251106_121708
+2025-11-06 12:17:12,016 - INFO - 対象ユーザー: poteribakery_yokohama
+2025-11-06 12:17:12,016 - INFO - 処理を開始します
+2025-11-06 12:17:12,087 - INFO - 選択されたプロファイル: Profile 13
+2025-11-06 12:17:12,087 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-06 12:17:16,601 - INFO - poteribakery_yokohama のプロフィールページにアクセスします
+2025-11-06 12:17:28,648 - INFO - 最新投稿を読み込みます
+2025-11-06 12:17:34,248 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFRyaEiKi/?hl=ja → 日付確認
+2025-11-06 12:17:36,480 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 12:17:36,481 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFN8TkqZ0/?hl=ja → 日付確認
+2025-11-06 12:17:39,833 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 12:17:39,834 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFLPqEiiC/?hl=ja → 日付確認
+2025-11-06 12:17:42,933 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 12:17:42,933 - INFO - 選定: 非ピン留め https://www.instagram.com/poteribakery_yokohama/p/DQqIN-5kihK/?hl=ja
+2025-11-06 12:17:47,732 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 12:17:51,231 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 12:17:51,306 - INFO - datetime属性の抽出を開始します
+2025-11-06 12:17:51,342 - INFO - 抽出されたdatetime: 2025-11-05T02:36:56.000Z
+2025-11-06 12:17:51,342 - INFO - poteribakery_yokohama の投稿日時: 2025-11-05T02:36:56.000Z
+2025-11-06 12:17:51,397 - INFO - date:2025-11-05 11:36:56+09:00
+2025-11-06 12:17:51,397 - INFO - post_date:20251105
+2025-11-06 12:17:51,468 - INFO - カルーセル推定: 1枚
+2025-11-06 12:17:51,597 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=dVTZtGZpb1vfuGD20SCRqw&oh=00_AfgBnuRm0pnyO6VTGaPjVwoe16Gj4mwcKHAOkksl2ET8LQ&oe=6912498A
+2025-11-06 12:17:51,597 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=dVTZtGZpb1vfuGD20SCRqw&oh=00_AfgBnuRm0pnyO6VTGaPjVwoe16Gj4mwcKHAOkksl2ET8LQ&oe=6912498A
+2025-11-06 12:17:51,597 - INFO - [caption/by_username] 開始
+2025-11-06 12:17:51,716 - INFO - [caption/by_username] 説明文確定（先頭100）: 'おはようございます‼️
+ポテリベーカリー横浜は本日も元気に営業致します！
+
+毎日当店の生ドーナツをお買い求めいただき、
+ありがとうございます🙇‍♂️
+
+横浜駅を代表するスイーツとなれるよう、
+日々頑張'
+2025-11-06 12:17:51,718 - INFO - [caption/by_username] 説明文を保存: media\poteribakery_yokohama\description\20251106_121708
+2025-11-06 12:17:51,718 - INFO - 画像URLを取得しました
+2025-11-06 12:17:51,720 - INFO - DUP(with-key): user=poteribakery_yokohama, key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA==, dt=2025-11-05T02:36:56.000Z
+2025-11-06 12:17:51,720 - INFO - このレコードは存在します
+2025-11-06 12:17:51,720 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-06 15:14:18,690 - INFO - 処理開始 PROCESSID:20251106_151415
+2025-11-06 15:14:18,690 - INFO - 対象ユーザー: poteribakery_yokohama
+2025-11-06 15:14:18,690 - INFO - 処理を開始します
+2025-11-06 15:14:18,751 - INFO - 選択されたプロファイル: Profile 10
+2025-11-06 15:14:18,751 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-06 15:14:23,110 - INFO - poteribakery_yokohama のプロフィールページにアクセスします
+2025-11-06 15:14:34,735 - INFO - 最新投稿を読み込みます
+2025-11-06 15:14:40,086 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFRyaEiKi/?hl=ja → 日付確認
+2025-11-06 15:14:42,522 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 15:14:42,522 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFN8TkqZ0/?hl=ja → 日付確認
+2025-11-06 15:14:45,449 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 15:14:45,449 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFLPqEiiC/?hl=ja → 日付確認
+2025-11-06 15:14:48,292 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 15:14:48,292 - INFO - 選定: 非ピン留め https://www.instagram.com/poteribakery_yokohama/p/DQqIN-5kihK/?hl=ja
+2025-11-06 15:14:53,231 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 15:14:56,227 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 15:14:56,279 - INFO - datetime属性の抽出を開始します
+2025-11-06 15:14:56,303 - INFO - 抽出されたdatetime: 2025-11-05T02:36:56.000Z
+2025-11-06 15:14:56,303 - INFO - poteribakery_yokohama の投稿日時: 2025-11-05T02:36:56.000Z
+2025-11-06 15:14:56,311 - INFO - date:2025-11-05 11:36:56+09:00
+2025-11-06 15:14:56,311 - INFO - post_date:20251105
+2025-11-06 15:14:56,353 - INFO - カルーセル推定: 1枚
+2025-11-06 15:14:56,396 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kdCSLYorIQG21fnvdkVLfQ&oh=00_AfjYSaXFgHL8ihWsmGGc7gHfCmRI8ThyYca0o5zCKY2JYw&oe=691281CA
+2025-11-06 15:14:56,397 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kdCSLYorIQG21fnvdkVLfQ&oh=00_AfjYSaXFgHL8ihWsmGGc7gHfCmRI8ThyYca0o5zCKY2JYw&oe=691281CA
+2025-11-06 15:14:56,397 - INFO - [caption/by_username] 開始
+2025-11-06 15:14:56,574 - INFO - [caption/by_username] 説明文確定（先頭100）: 'おはようございます‼️
+ポテリベーカリー横浜は本日も元気に営業致します！
+
+毎日当店の生ドーナツをお買い求めいただき、
+ありがとうございます🙇‍♂️
+
+横浜駅を代表するスイーツとなれるよう、
+日々頑張'
+2025-11-06 15:14:56,576 - INFO - [caption/by_username] 説明文を保存: media\poteribakery_yokohama\description\20251106_151415
+2025-11-06 15:14:56,576 - INFO - 画像URLを取得しました
+2025-11-06 15:14:56,578 - INFO - DUP(with-key): user=poteribakery_yokohama, key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA==, dt=2025-11-05T02:36:56.000Z
+2025-11-06 15:14:56,579 - INFO - このレコードは存在します
+2025-11-06 15:14:56,579 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-06 18:10:46,956 - INFO - 処理開始 PROCESSID:20251106_181043
+2025-11-06 18:10:46,956 - INFO - 対象ユーザー: poteribakery_yokohama
+2025-11-06 18:10:46,956 - INFO - 処理を開始します
+2025-11-06 18:10:47,014 - INFO - 選択されたプロファイル: Profile 10
+2025-11-06 18:10:47,014 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-06 18:10:51,316 - INFO - poteribakery_yokohama のプロフィールページにアクセスします
+2025-11-06 18:11:04,954 - INFO - 最新投稿を読み込みます
+2025-11-06 18:11:10,238 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFRyaEiKi/?hl=ja → 日付確認
+2025-11-06 18:11:12,670 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 18:11:12,670 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFN8TkqZ0/?hl=ja → 日付確認
+2025-11-06 18:11:15,810 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 18:11:15,810 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFLPqEiiC/?hl=ja → 日付確認
+2025-11-06 18:11:18,691 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 18:11:18,691 - INFO - 選定: 非ピン留め https://www.instagram.com/poteribakery_yokohama/p/DQqIN-5kihK/?hl=ja
+2025-11-06 18:11:23,026 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 18:11:26,832 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 18:11:26,912 - INFO - datetime属性の抽出を開始します
+2025-11-06 18:11:26,931 - INFO - 抽出されたdatetime: 2025-11-05T02:36:56.000Z
+2025-11-06 18:11:26,933 - INFO - poteribakery_yokohama の投稿日時: 2025-11-05T02:36:56.000Z
+2025-11-06 18:11:26,939 - INFO - date:2025-11-05 11:36:56+09:00
+2025-11-06 18:11:26,939 - INFO - post_date:20251105
+2025-11-06 18:11:26,982 - INFO - カルーセル推定: 1枚
+2025-11-06 18:11:27,014 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kE3cgeYXw07ei8Dl14Me1g&oh=00_AfhurWWxVqQdl72ogXb891tZke7QsoIYBrHrhm_e5dlIEw&oe=6912BA0A
+2025-11-06 18:11:27,014 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kE3cgeYXw07ei8Dl14Me1g&oh=00_AfhurWWxVqQdl72ogXb891tZke7QsoIYBrHrhm_e5dlIEw&oe=6912BA0A
+2025-11-06 18:11:27,015 - INFO - [caption/by_username] 開始
+2025-11-06 18:11:27,100 - INFO - [caption/by_username] 説明文確定（先頭100）: 'おはようございます‼️
+ポテリベーカリー横浜は本日も元気に営業致します！
+
+毎日当店の生ドーナツをお買い求めいただき、
+ありがとうございます🙇‍♂️
+
+横浜駅を代表するスイーツとなれるよう、
+日々頑張'
+2025-11-06 18:11:27,102 - INFO - [caption/by_username] 説明文を保存: media\poteribakery_yokohama\description\20251106_181043
+2025-11-06 18:11:27,102 - INFO - 画像URLを取得しました
+2025-11-06 18:11:27,104 - INFO - DUP(with-key): user=poteribakery_yokohama, key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA==, dt=2025-11-05T02:36:56.000Z
+2025-11-06 18:11:27,104 - INFO - このレコードは存在します
+2025-11-06 18:11:27,104 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-06 21:05:59,172 - INFO - 処理開始 PROCESSID:20251106_210556
+2025-11-06 21:05:59,172 - INFO - 対象ユーザー: poteribakery_yokohama
+2025-11-06 21:05:59,172 - INFO - 処理を開始します
+2025-11-06 21:05:59,233 - INFO - 選択されたプロファイル: Profile 9
+2025-11-06 21:05:59,233 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-06 21:06:03,427 - INFO - poteribakery_yokohama のプロフィールページにアクセスします
+2025-11-06 21:06:15,221 - INFO - 最新投稿を読み込みます
+2025-11-06 21:06:20,500 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFRyaEiKi/?hl=ja → 日付確認
+2025-11-06 21:06:22,863 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 21:06:22,863 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFN8TkqZ0/?hl=ja → 日付確認
+2025-11-06 21:06:26,050 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 21:06:26,050 - INFO - 候補はピン留め: https://www.instagram.com/poteribakery_yokohama/p/DPVFLPqEiiC/?hl=ja → 日付確認
+2025-11-06 21:06:28,398 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-06 21:06:28,398 - INFO - 選定: 非ピン留め https://www.instagram.com/poteribakery_yokohama/p/DQqIN-5kihK/?hl=ja
+2025-11-06 21:06:32,847 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 21:06:36,245 - INFO - 最新投稿ページにアクセスしました
+2025-11-06 21:06:36,317 - INFO - datetime属性の抽出を開始します
+2025-11-06 21:06:36,363 - INFO - 抽出されたdatetime: 2025-11-05T02:36:56.000Z
+2025-11-06 21:06:36,363 - INFO - poteribakery_yokohama の投稿日時: 2025-11-05T02:36:56.000Z
+2025-11-06 21:06:36,370 - INFO - date:2025-11-05 11:36:56+09:00
+2025-11-06 21:06:36,370 - INFO - post_date:20251105
+2025-11-06 21:06:36,419 - INFO - カルーセル推定: 1枚
+2025-11-06 21:06:36,451 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uudCO0gprlx3Oxbg8P8g3Q&oh=00_AfjmGF_ZuxJozk-MzPjXlZ6v-Ty_FxtvzDYsvYSkJhbE0w&oe=6912F24A
+2025-11-06 21:06:36,451 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/572768462_17851788375578399_1297148776253077606_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=zDD9OskJ9moQ7kNvwEGm-SF&_nc_oc=Adk-JqannFOwkzWJWDTKyGeRPuNhiSPbe0c0XKGf8jpo0N-uhuXfQ6nQq1lz4A-Mdpo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uudCO0gprlx3Oxbg8P8g3Q&oh=00_AfjmGF_ZuxJozk-MzPjXlZ6v-Ty_FxtvzDYsvYSkJhbE0w&oe=6912F24A
+2025-11-06 21:06:36,451 - INFO - [caption/by_username] 開始
+2025-11-06 21:06:36,524 - INFO - [caption/by_username] 説明文確定（先頭100）: 'おはようございます‼️
+ポテリベーカリー横浜は本日も元気に営業致します！
+
+毎日当店の生ドーナツをお買い求めいただき、
+ありがとうございます🙇‍♂️
+
+横浜駅を代表するスイーツとなれるよう、
+日々頑張'
+2025-11-06 21:06:36,527 - INFO - [caption/by_username] 説明文を保存: media\poteribakery_yokohama\description\20251106_210556
+2025-11-06 21:06:36,527 - INFO - 画像URLを取得しました
+2025-11-06 21:06:36,529 - INFO - DUP(with-key): user=poteribakery_yokohama, key=Mzc1ODg1Mjk4NDI1NzI1OTU5NA==, dt=2025-11-05T02:36:56.000Z
+2025-11-06 21:06:36,529 - INFO - このレコードは存在します
+2025-11-06 21:06:36,529 - INFO - 全件レコードが存在します

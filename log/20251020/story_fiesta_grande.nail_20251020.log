@@ -1,0 +1,114 @@
+================================================================================
+2025-10-20 00:15:48,950 - INFO - 処理開始 PROCESSID:20251020_001545
+2025-10-20 00:15:48,950 - INFO - 対象ユーザー: fiesta_grande.nail
+2025-10-20 00:15:48,950 - INFO - 処理を開始します
+2025-10-20 00:15:49,008 - INFO - 選択されたプロファイル: Profile 10
+2025-10-20 00:15:49,008 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-20 00:15:54,361 - INFO - fiesta_grande.nail のプロフィールページにアクセスします
+2025-10-20 00:16:17,619 - INFO - プロフィール写真のクリックに成功しました
+2025-10-20 00:16:20,893 - INFO - 動画の取得に失敗しました
+2025-10-20 00:16:20,893 - INFO - datetime属性の抽出を開始します
+2025-10-20 00:16:30,939 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdcfe83+66515]
+	GetHandleVerifier [0x0xdcfec4+66580]
+	(No symbol) [0x0xbbdc48]
+	(No symbol) [0x0xc08704]
+	(No symbol) [0x0xc08aab]
+	(No symbol) [0x0xc4f482]
+	(No symbol) [0x0xc2b214]
+	(No symbol) [0x0xc4cba7]
+	(No symbol) [0x0xc2afc6]
+	(No symbol) [0x0xbfc2ca]
+	(No symbol) [0x0xbfd154]
+	GetHandleVerifier [0x0x10273b3+2521347]
+	GetHandleVerifier [0x0x1022333+2500739]
+	GetHandleVerifier [0x0xdf7cd4+229924]
+	GetHandleVerifier [0x0xde8238+165768]
+	GetHandleVerifier [0x0xdeeced+193085]
+	GetHandleVerifier [0x0xdd8198+100072]
+	GetHandleVerifier [0x0xdd8330+100480]
+	GetHandleVerifier [0x0xdc25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-20 00:16:41,239 - INFO - 画像の取得に失敗しました
+2025-10-20 00:16:43,658 - INFO - 処理終了
+================================================================================
+2025-10-20 06:05:49,568 - INFO - 処理開始 PROCESSID:20251020_060546
+2025-10-20 06:05:49,568 - INFO - 対象ユーザー: fiesta_grande.nail
+2025-10-20 06:05:49,568 - INFO - 処理を開始します
+2025-10-20 06:05:49,638 - INFO - 選択されたプロファイル: Profile 10
+2025-10-20 06:05:49,638 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-20 06:05:55,233 - INFO - fiesta_grande.nail のプロフィールページにアクセスします
+2025-10-20 06:06:17,541 - INFO - プロフィール写真のクリックに成功しました
+2025-10-20 06:06:18,365 - INFO - fiesta_grande.nail: 動画を検出しました
+2025-10-20 06:06:18,366 - INFO - datetime属性の抽出を開始します
+2025-10-20 06:06:18,468 - INFO - 抽出されたdatetime: 2025-10-20T01:13:51.000Z
+2025-10-20 06:06:18,468 - INFO - fiesta_grande.nail の投稿日時: 2025-10-20T01:13:51.000Z
+2025-10-20 06:06:20,016 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m78/AQO9_9FxofhCb1PN1TD_yq97TxiJpycw5dfA-Gma4ulLIE3u0ncRV03CBejDPQtBsmky2n7E_ApLZ76W-FuATm_dFXaYx9NgNyXNM6w.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=wTnxXCkbd74Q7kNvwE2x62L&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTM4MjAxNTMyMDU5NjMxNiwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=j86--xBJS00mq45WpPCl1w&_nc_zt=28&oh=00_AfeeCT5XPSaHk7pZCrF2ksTKL_q05pMUvGhoG5eHmbP0ig&oe=68F7C094&bytestart=0&byteend=152503
+2025-10-20 06:06:20,016 - INFO - 動画URLを取得しました
+2025-10-20 06:06:20,202 - INFO - INSERT(with-key): user=fiesta_grande.nail, key=AQO9_9FxofhCb1PN1TD_yq97TxiJpycw5dfA-Gma4ulLIE3u0ncRV03CBejDPQtBsmky2n7E_ApLZ76W-FuATm_dFXaYx9NgNyXNM6w, dt=2025-10-20T01:13:51.000Z
+2025-10-20 06:06:22,210 - INFO - ダウンロードを開始します: media\fiesta_grande.nail\fiesta_grande.nail_20251020060622.mp4
+2025-10-20 06:06:23,985 - INFO - ダウンロード完了: media\fiesta_grande.nail\fiesta_grande.nail_20251020060622.mp4
+2025-10-20 06:06:28,312 - INFO - 処理終了
+2025-10-20 06:06:28,314 - INFO - 説明文_AI: None
+2025-10-20 06:06:28,315 - INFO - 説明文_最終: 
+================================================================================
+2025-10-20 06:06:34,363 - INFO - 処理開始: Mode=story, Username=fiesta_grande.nail, GBP=fiestagrande
+2025-10-20 06:06:34,363 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJmaWVzdGFncmFuZGUiXQ.
+2025-10-20 06:07:36,468 - INFO - 元の動画サイズ: 720x1280
+2025-10-20 06:07:36,476 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-20 06:07:36,476 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fiesta_grande.nail\fiesta_grande.nail_20251020060622.mp4
+2025-10-20 06:07:47,102 - INFO - 一時ファイルが見つかりません: media\fiesta_grande.nail\description\20251020_060546
+2025-10-20 06:07:47,102 - INFO - Looking for button section...
+2025-10-20 06:07:56,335 - INFO - Trying to select CALL option...
+2025-10-20 06:07:57,321 - INFO - CALL option successfully selected
+2025-10-20 06:07:59,322 - INFO - Clicking submit button...
+2025-10-20 06:08:13,191 - INFO - 処理完了
+================================================================================
+2025-10-20 12:06:27,328 - INFO - 処理開始 PROCESSID:20251020_120620
+2025-10-20 12:06:27,328 - INFO - 対象ユーザー: fiesta_grande.nail
+2025-10-20 12:06:27,328 - INFO - 処理を開始します
+2025-10-20 12:06:27,454 - INFO - 選択されたプロファイル: Profile 12
+2025-10-20 12:06:27,454 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-20 12:06:37,563 - INFO - fiesta_grande.nail のプロフィールページにアクセスします
+2025-10-20 12:06:59,577 - INFO - プロフィール写真のクリックに成功しました
+2025-10-20 12:07:00,294 - INFO - fiesta_grande.nail: 動画を検出しました
+2025-10-20 12:07:00,294 - INFO - datetime属性の抽出を開始します
+2025-10-20 12:07:00,373 - INFO - 抽出されたdatetime: 2025-10-20T01:13:51.000Z
+2025-10-20 12:07:00,373 - INFO - fiesta_grande.nail の投稿日時: 2025-10-20T01:13:51.000Z
+2025-10-20 12:07:01,615 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m78/AQO9_9FxofhCb1PN1TD_yq97TxiJpycw5dfA-Gma4ulLIE3u0ncRV03CBejDPQtBsmky2n7E_ApLZ76W-FuATm_dFXaYx9NgNyXNM6w.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=wTnxXCkbd74Q7kNvwE2x62L&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzgyMDE1MzIwNTk2MzE2LCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=s9a1qkKBB09hu3cu7eNBCQ&_nc_zt=28&oh=00_AfeSAYZhL3gBAUzN9qMv8WigWW0Idcz7jKMplWtZ9UjHQQ&oe=68F7F8D4&bytestart=0&byteend=152503
+2025-10-20 12:07:01,615 - INFO - 動画URLを取得しました
+2025-10-20 12:07:01,619 - INFO - DUP(with-key): user=fiesta_grande.nail, key=AQO9_9FxofhCb1PN1TD_yq97TxiJpycw5dfA-Gma4ulLIE3u0ncRV03CBejDPQtBsmky2n7E_ApLZ76W-FuATm_dFXaYx9NgNyXNM6w, dt=2025-10-20T01:13:51.000Z
+================================================================================
+2025-10-20 18:02:19,479 - INFO - 処理開始 PROCESSID:20251020_180213
+2025-10-20 18:02:19,479 - INFO - 対象ユーザー: fiesta_grande.nail
+2025-10-20 18:02:19,481 - INFO - 処理を開始します
+2025-10-20 18:02:19,615 - INFO - 選択されたプロファイル: Profile 10
+2025-10-20 18:02:19,615 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-20 18:02:30,816 - INFO - fiesta_grande.nail のプロフィールページにアクセスします
+2025-10-20 18:02:56,824 - INFO - プロフィール写真のクリックに成功しました
+2025-10-20 18:02:58,196 - INFO - fiesta_grande.nail: 動画を検出しました
+2025-10-20 18:02:58,196 - INFO - datetime属性の抽出を開始します
+2025-10-20 18:02:58,259 - INFO - 抽出されたdatetime: 2025-10-20T01:13:51.000Z
+2025-10-20 18:02:58,259 - INFO - fiesta_grande.nail の投稿日時: 2025-10-20T01:13:51.000Z
+2025-10-20 18:02:59,503 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m78/AQO9_9FxofhCb1PN1TD_yq97TxiJpycw5dfA-Gma4ulLIE3u0ncRV03CBejDPQtBsmky2n7E_ApLZ76W-FuATm_dFXaYx9NgNyXNM6w.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=wTnxXCkbd74Q7kNvwE2x62L&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTM4MjAxNTMyMDU5NjMxNiwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=2vJUJP16XrPrqKhsw3DBsw&_nc_zt=28&oh=00_AffM6bjL-jBTdP44lqw9m4w_16MnS_EI1oO-cpiw4_j4dA&oe=68F86954&bytestart=0&byteend=152503
+2025-10-20 18:02:59,503 - INFO - 動画URLを取得しました
+2025-10-20 18:02:59,506 - INFO - DUP(with-key): user=fiesta_grande.nail, key=AQO9_9FxofhCb1PN1TD_yq97TxiJpycw5dfA-Gma4ulLIE3u0ncRV03CBejDPQtBsmky2n7E_ApLZ76W-FuATm_dFXaYx9NgNyXNM6w, dt=2025-10-20T01:13:51.000Z
+================================================================================
+2025-10-20 23:44:45,954 - INFO - 処理開始 PROCESSID:20251020_234442
+2025-10-20 23:44:45,954 - INFO - 対象ユーザー: fiesta_grande.nail
+2025-10-20 23:44:45,954 - INFO - 処理を開始します
+2025-10-20 23:44:46,011 - INFO - 選択されたプロファイル: Profile 12
+2025-10-20 23:44:46,011 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-20 23:44:50,954 - INFO - fiesta_grande.nail のプロフィールページにアクセスします
+2025-10-20 23:45:13,043 - INFO - プロフィール写真のクリックに成功しました
+2025-10-20 23:45:13,944 - INFO - fiesta_grande.nail: 動画を検出しました
+2025-10-20 23:45:13,944 - INFO - datetime属性の抽出を開始します
+2025-10-20 23:45:13,994 - INFO - 抽出されたdatetime: 2025-10-20T01:13:51.000Z
+2025-10-20 23:45:13,994 - INFO - fiesta_grande.nail の投稿日時: 2025-10-20T01:13:51.000Z
+2025-10-20 23:45:15,228 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m78/AQO9_9FxofhCb1PN1TD_yq97TxiJpycw5dfA-Gma4ulLIE3u0ncRV03CBejDPQtBsmky2n7E_ApLZ76W-FuATm_dFXaYx9NgNyXNM6w.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=wTnxXCkbd74Q7kNvwE2x62L&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzgyMDE1MzIwNTk2MzE2LCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=PvaRAxMa7a9HHT69ksCPRA&_nc_zt=28&oh=00_Afd9BAf4hXYPLrMFLVVX6wdp2YiM4JZJwlkk5vzXnt1Wng&oe=68F8A194&bytestart=0&byteend=152503
+2025-10-20 23:45:15,228 - INFO - 動画URLを取得しました
+2025-10-20 23:45:15,231 - INFO - DUP(with-key): user=fiesta_grande.nail, key=AQO9_9FxofhCb1PN1TD_yq97TxiJpycw5dfA-Gma4ulLIE3u0ncRV03CBejDPQtBsmky2n7E_ApLZ76W-FuATm_dFXaYx9NgNyXNM6w, dt=2025-10-20T01:13:51.000Z

@@ -1,0 +1,98 @@
+================================================================================
+2025-10-03 04:16:20,919 - INFO - 処理開始 PROCESSID:20251003_041615
+2025-10-03 04:16:20,919 - INFO - 対象ユーザー: aradati_kitchen
+2025-10-03 04:16:20,919 - INFO - 処理を開始します
+2025-10-03 04:16:20,972 - INFO - 選択されたプロファイル: Profile 10
+2025-10-03 04:16:20,972 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-03 04:16:26,781 - INFO - aradati_kitchen のプロフィールページにアクセスします
+2025-10-03 04:16:49,299 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 04:16:52,525 - INFO - 動画の取得に失敗しました
+2025-10-03 04:16:52,526 - INFO - datetime属性の抽出を開始します
+2025-10-03 04:16:52,612 - INFO - 抽出されたdatetime: 2025-10-03T01:08:54.000Z
+2025-10-03 04:16:52,638 - INFO - 画像URLを取得しました
+2025-10-03 04:16:52,694 - INFO - INSERT(with-key): user=aradati_kitchen, key=MzczNDg5MTEwNTMwNjc0NjU4OA==, dt=2025-10-03T01:08:54.000Z
+2025-10-03 04:16:54,912 - INFO - ダウンロードを開始します: media\aradati_kitchen\aradati_kitchen_20251003041654.jpg
+2025-10-03 04:16:55,205 - INFO - ダウンロード完了: media\aradati_kitchen\aradati_kitchen_20251003041654.jpg
+2025-10-03 04:16:55,336 - INFO - 元の画像サイズ: 320x569
+2025-10-03 04:16:59,423 - INFO - 処理終了
+2025-10-03 04:16:59,425 - INFO - 説明文_AI: None
+2025-10-03 04:16:59,425 - INFO - 説明文_最終: 
+================================================================================
+2025-10-03 04:17:05,592 - INFO - 処理開始: Mode=story, Username=aradati_kitchen, GBP=MSOCJXXI604622
+2025-10-03 04:17:05,594 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU09DSlhYSTYwNDYyMiJd.
+2025-10-03 04:17:33,525 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\aradati_kitchen\aradati_kitchen_20251003041654.jpg
+2025-10-03 04:17:37,540 - INFO - 一時ファイルが見つかりません: media\aradati_kitchen\description\20251003_041615
+2025-10-03 04:17:37,540 - INFO - Looking for button section...
+2025-10-03 04:17:46,339 - INFO - Trying to select CALL option...
+2025-10-03 04:17:46,599 - INFO - CALL option successfully selected
+2025-10-03 04:17:48,600 - INFO - Clicking submit button...
+2025-10-03 04:17:57,605 - INFO - 処理完了
+================================================================================
+2025-10-03 09:05:01,154 - INFO - 処理開始 PROCESSID:20251003_090454
+2025-10-03 09:05:01,154 - INFO - 対象ユーザー: aradati_kitchen
+2025-10-03 09:05:01,154 - INFO - 処理を開始します
+2025-10-03 09:05:01,255 - INFO - 選択されたプロファイル: Profile 12
+2025-10-03 09:05:01,257 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-03 09:05:13,217 - INFO - aradati_kitchen のプロフィールページにアクセスします
+2025-10-03 09:05:40,371 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 09:05:43,701 - INFO - 動画の取得に失敗しました
+2025-10-03 09:05:43,755 - INFO - datetime属性の抽出を開始します
+2025-10-03 09:05:43,880 - INFO - 抽出されたdatetime: 2025-10-03T01:08:54.000Z
+2025-10-03 09:05:43,913 - INFO - 画像URLを取得しました
+2025-10-03 09:05:43,919 - INFO - DUP(with-key): user=aradati_kitchen, key=MzczNDg5MTEwNTMwNjc0NjU4OA==, dt=2025-10-03T01:08:54.000Z
+================================================================================
+2025-10-03 13:51:48,922 - INFO - 処理開始 PROCESSID:20251003_135145
+2025-10-03 13:51:48,922 - INFO - 対象ユーザー: aradati_kitchen
+2025-10-03 13:51:48,922 - INFO - 処理を開始します
+2025-10-03 13:51:48,987 - INFO - 選択されたプロファイル: Profile 13
+2025-10-03 13:51:48,987 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-03 13:51:53,899 - INFO - aradati_kitchen のプロフィールページにアクセスします
+2025-10-03 13:52:16,552 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 13:52:19,957 - INFO - 動画の取得に失敗しました
+2025-10-03 13:52:19,959 - INFO - datetime属性の抽出を開始します
+2025-10-03 13:52:20,066 - INFO - 抽出されたdatetime: 2025-10-03T01:08:54.000Z
+2025-10-03 13:52:20,128 - INFO - 画像URLを取得しました
+2025-10-03 13:52:20,131 - INFO - DUP(with-key): user=aradati_kitchen, key=MzczNDg5MTEwNTMwNjc0NjU4OA==, dt=2025-10-03T01:08:54.000Z
+================================================================================
+2025-10-03 18:25:38,768 - INFO - 処理開始 PROCESSID:20251003_182535
+2025-10-03 18:25:38,768 - INFO - 対象ユーザー: aradati_kitchen
+2025-10-03 18:25:38,768 - INFO - 処理を開始します
+2025-10-03 18:25:38,820 - INFO - 選択されたプロファイル: Profile 10
+2025-10-03 18:25:38,820 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-03 18:25:43,562 - INFO - aradati_kitchen のプロフィールページにアクセスします
+2025-10-03 18:26:06,147 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 18:26:09,501 - INFO - 動画の取得に失敗しました
+2025-10-03 18:26:09,501 - INFO - datetime属性の抽出を開始します
+2025-10-03 18:26:09,589 - INFO - 抽出されたdatetime: 2025-10-03T01:09:16.000Z
+2025-10-03 18:26:09,615 - INFO - 画像URLを取得しました
+2025-10-03 18:26:09,651 - INFO - INSERT(with-key): user=aradati_kitchen, key=MzczNDg5MTI5NDQxOTU2NTk0OQ==, dt=2025-10-03T01:09:16.000Z
+2025-10-03 18:26:11,893 - INFO - ダウンロードを開始します: media\aradati_kitchen\aradati_kitchen_20251003182611.jpg
+2025-10-03 18:26:12,295 - INFO - ダウンロード完了: media\aradati_kitchen\aradati_kitchen_20251003182611.jpg
+2025-10-03 18:26:12,528 - INFO - 元の画像サイズ: 480x853
+2025-10-03 18:26:12,528 - INFO - サイズ変更は不要です
+2025-10-03 18:26:17,540 - INFO - 処理終了
+2025-10-03 18:26:17,542 - INFO - 説明文_AI: None
+2025-10-03 18:26:17,542 - INFO - 説明文_最終: 
+================================================================================
+2025-10-03 18:26:23,797 - INFO - 処理開始: Mode=story, Username=aradati_kitchen, GBP=MSOCJXXI604622
+2025-10-03 18:26:23,797 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU09DSlhYSTYwNDYyMiJd.
+2025-10-03 18:26:49,324 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\aradati_kitchen\aradati_kitchen_20251003182611.jpg
+2025-10-03 18:26:52,615 - INFO - 一時ファイルが見つかりません: media\aradati_kitchen\description\20251003_182535
+2025-10-03 18:26:52,615 - INFO - Looking for button section...
+2025-10-03 18:26:57,206 - INFO - Trying to select CALL option...
+2025-10-03 18:26:57,621 - INFO - CALL option successfully selected
+2025-10-03 18:26:59,622 - INFO - Clicking submit button...
+2025-10-03 18:27:08,401 - INFO - 処理完了
+================================================================================
+2025-10-03 23:02:14,918 - INFO - 処理開始 PROCESSID:20251003_230208
+2025-10-03 23:02:14,918 - INFO - 対象ユーザー: aradati_kitchen
+2025-10-03 23:02:14,918 - INFO - 処理を開始します
+2025-10-03 23:02:15,057 - INFO - 選択されたプロファイル: Profile 13
+2025-10-03 23:02:15,057 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-03 23:02:22,614 - INFO - aradati_kitchen のプロフィールページにアクセスします
+2025-10-03 23:02:46,806 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 23:02:49,976 - INFO - 動画の取得に失敗しました
+2025-10-03 23:02:49,979 - INFO - datetime属性の抽出を開始します
+2025-10-03 23:02:50,071 - INFO - 抽出されたdatetime: 2025-10-03T01:09:16.000Z
+2025-10-03 23:02:50,114 - INFO - 画像URLを取得しました
+2025-10-03 23:02:50,116 - INFO - DUP(with-key): user=aradati_kitchen, key=MzczNDg5MTI5NDQxOTU2NTk0OQ==, dt=2025-10-03T01:09:16.000Z

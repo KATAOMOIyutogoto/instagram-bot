@@ -1,0 +1,131 @@
+================================================================================
+2025-10-01 01:54:49,867 - INFO - 処理開始 PROCESSID:20251001_015446
+2025-10-01 01:54:49,867 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-01 01:54:49,867 - INFO - 処理を開始します
+2025-10-01 01:54:49,930 - INFO - 選択されたプロファイル: Profile 10
+2025-10-01 01:54:49,930 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-01 01:54:55,818 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-01 01:55:18,431 - INFO - プロフィール写真のクリックに成功しました
+2025-10-01 01:55:20,031 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-01 01:55:20,032 - INFO - datetime属性の抽出を開始します
+2025-10-01 01:55:20,072 - INFO - 抽出されたdatetime: 2025-09-30T04:54:28.000Z
+2025-10-01 01:55:20,072 - INFO - anartsoho_shun の投稿日時: 2025-09-30T04:54:28.000Z
+2025-10-01 01:55:21,407 - INFO - 生成URL:https://scontent-ams4-1.cdninstagram.com/o1/v/t2/f2/m367/AQPzEv0Ktj-cUB5QiI8v8nL76j_szjJ7nKrQfmt1fCdv1RU5i1kAo1zd-AGmUilS9n0okFsTZkORxeI0rbSWcqBNXE3D8aGGGx4cfv4IFtLGLg.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=kYXKJ_Xb8ZEQ7kNvwHHR0zY&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzM2MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTM2NzkzNjM3MTQyMDAwMywidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Jhj23wHZAwxuUTeZM3LobQ&_nc_zt=28&oh=00_AfZBPy7W2ekKFyybdxblkL_U3aaY-TAFrPCZOZvtChZfmw&oe=68E253F9&bytestart=0&byteend=977147
+2025-10-01 01:55:21,407 - INFO - 動画URLを取得しました
+2025-10-01 01:55:21,411 - INFO - DUP(with-key): user=anartsoho_shun, key=AQPzEv0Ktj-cUB5QiI8v8nL76j_szjJ7nKrQfmt1fCdv1RU5i1kAo1zd-AGmUilS9n0okFsTZkORxeI0rbSWcqBNXE3D8aGGGx4cfv4IFtLGLg, dt=2025-09-30T04:54:28.000Z
+================================================================================
+2025-10-01 06:04:30,715 - INFO - 処理開始 PROCESSID:20251001_060427
+2025-10-01 06:04:30,715 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-01 06:04:30,715 - INFO - 処理を開始します
+2025-10-01 06:04:30,779 - INFO - 選択されたプロファイル: Profile 13
+2025-10-01 06:04:30,779 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-01 06:04:35,614 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-01 06:04:58,975 - INFO - プロフィール写真のクリックに成功しました
+2025-10-01 06:05:02,136 - INFO - 動画の取得に失敗しました
+2025-10-01 06:05:02,137 - INFO - datetime属性の抽出を開始します
+2025-10-01 06:05:12,350 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x3cc333+65459]
+	GetHandleVerifier [0x0x3cc374+65524]
+	(No symbol) [0x0x1ed973]
+	(No symbol) [0x0x2376e7]
+	(No symbol) [0x0x237a8b]
+	(No symbol) [0x0x27dea2]
+	(No symbol) [0x0x259e44]
+	(No symbol) [0x0x27b606]
+	(No symbol) [0x0x259bf6]
+	(No symbol) [0x0x22b38e]
+	(No symbol) [0x0x22c274]
+	GetHandleVerifier [0x0x64eda3+2697763]
+	GetHandleVerifier [0x0x649ec7+2677575]
+	GetHandleVerifier [0x0x3f4194+228884]
+	GetHandleVerifier [0x0x3e49f8+165496]
+	GetHandleVerifier [0x0x3eb18d+192013]
+	GetHandleVerifier [0x0x3d47d8+99416]
+	GetHandleVerifier [0x0x3d4972+99826]
+	GetHandleVerifier [0x0x3bebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-01 06:05:22,682 - INFO - 画像の取得に失敗しました
+2025-10-01 06:05:26,145 - INFO - 処理終了
+================================================================================
+2025-10-01 10:24:48,321 - INFO - 処理開始 PROCESSID:20251001_102444
+2025-10-01 10:24:48,321 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-01 10:24:48,323 - INFO - 処理を開始します
+2025-10-01 10:24:48,384 - INFO - 選択されたプロファイル: Profile 13
+2025-10-01 10:24:48,384 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-01 10:24:53,679 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-01 10:25:16,096 - INFO - プロフィール写真のクリックに成功しました
+2025-10-01 10:25:17,247 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-01 10:25:17,247 - INFO - datetime属性の抽出を開始します
+2025-10-01 10:25:17,347 - INFO - 抽出されたdatetime: 2025-10-01T09:10:05.000Z
+2025-10-01 10:25:17,347 - INFO - anartsoho_shun の投稿日時: 2025-10-01T09:10:05.000Z
+2025-10-01 10:25:18,694 - INFO - 生成URL:https://scontent-ams4-1.cdninstagram.com/o1/v/t2/f2/m367/AQNR8kAj3wvPGpBvk8B8WEPXqiVFGfGuzddxkwxN7w-owX1K4yInwq5EdpFBtGmTU9Tr34bKgpPaWPP6p7eK8HuMIWKzEmYgyKxb3yWA9h9kew.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=rAr5U1721qAQ7kNvwHESmzB&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6ODQwMjA4NDk4NjcwOTgwLCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=J7vzqXeGDaehjwVFUEpmTQ&_nc_zt=28&oh=00_AfZmMddqnmTcysKdMtmcI1Ld6qz186-8HfHNbIPciPiD8Q&oe=68E2DE6D&bytestart=0&byteend=1022578
+2025-10-01 10:25:18,694 - INFO - 動画URLを取得しました
+2025-10-01 10:25:18,939 - INFO - INSERT(with-key): user=anartsoho_shun, key=AQNR8kAj3wvPGpBvk8B8WEPXqiVFGfGuzddxkwxN7w-owX1K4yInwq5EdpFBtGmTU9Tr34bKgpPaWPP6p7eK8HuMIWKzEmYgyKxb3yWA9h9kew, dt=2025-10-01T09:10:05.000Z
+2025-10-01 10:25:21,417 - INFO - ダウンロードを開始します: media\anartsoho_shun\anartsoho_shun_20251001102521.mp4
+2025-10-01 10:25:23,935 - INFO - ダウンロード完了: media\anartsoho_shun\anartsoho_shun_20251001102521.mp4
+2025-10-01 10:25:26,429 - INFO - 処理終了
+2025-10-01 10:25:26,431 - INFO - 説明文_AI: None
+2025-10-01 10:25:26,431 - INFO - 説明文_最終: 
+================================================================================
+2025-10-01 10:25:32,553 - INFO - 処理開始: Mode=story, Username=anartsoho_shun, GBP=5450809710664299854
+2025-10-01 10:25:32,553 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICI1NDUwODA5NzEwNjY0Mjk5ODU0Il0.
+2025-10-01 10:25:58,528 - INFO - 元の動画サイズ: 1080x1920
+2025-10-01 10:25:58,528 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-01 10:25:58,528 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\anartsoho_shun\anartsoho_shun_20251001102521.mp4
+2025-10-01 10:26:08,594 - INFO - 一時ファイルが見つかりません: media\anartsoho_shun\description\20251001_102444
+2025-10-01 10:26:08,594 - INFO - Looking for button section...
+2025-10-01 10:26:13,337 - INFO - Trying to select CALL option...
+2025-10-01 10:26:13,595 - INFO - CALL option successfully selected
+2025-10-01 10:26:15,596 - INFO - Clicking submit button...
+2025-10-01 10:26:25,203 - INFO - 処理完了
+================================================================================
+2025-10-01 16:27:03,445 - INFO - 処理開始 PROCESSID:20251001_162659
+2025-10-01 16:27:03,445 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-01 16:27:03,445 - INFO - 処理を開始します
+2025-10-01 16:27:03,500 - INFO - 選択されたプロファイル: Profile 12
+2025-10-01 16:27:03,502 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-01 16:27:08,226 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-01 16:27:30,438 - INFO - プロフィール写真のクリックに成功しました
+2025-10-01 16:27:32,221 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-01 16:27:32,222 - INFO - datetime属性の抽出を開始します
+2025-10-01 16:27:32,262 - INFO - 抽出されたdatetime: 2025-10-01T09:10:05.000Z
+2025-10-01 16:27:32,262 - INFO - anartsoho_shun の投稿日時: 2025-10-01T09:10:05.000Z
+2025-10-01 16:27:33,717 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQPx6d9Ag30t6-FTla6O3O0p89I58duu6DK6SS7PX94mroO2Woz2W6yzeMt8z1uijQpk-jDPicnVU5mhqTr5BGa0URJLg1Gaazkjy_gpEa7HXQ.mp4?_nc_cat=100&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=iQPjsBCEZacQ7kNvwEParUQ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NDAyMDg0OTg2NzA5ODAsInZpX3VzZWNhc2VfaWQiOjEwMTAwLCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Qz4HaN8_YSJz7zrqzXObJw&_nc_zt=28&oh=00_AfbyJlZAH6qEdyz6TN22dYxVWHv5qFFltOW3AVa8yXE3TA&oe=68E3106C&bytestart=0&byteend=693156
+2025-10-01 16:27:33,717 - INFO - 動画URLを取得しました
+2025-10-01 16:27:33,871 - INFO - INSERT(with-key): user=anartsoho_shun, key=AQPx6d9Ag30t6-FTla6O3O0p89I58duu6DK6SS7PX94mroO2Woz2W6yzeMt8z1uijQpk-jDPicnVU5mhqTr5BGa0URJLg1Gaazkjy_gpEa7HXQ, dt=2025-10-01T09:10:05.000Z
+2025-10-01 16:27:35,941 - INFO - ダウンロードを開始します: media\anartsoho_shun\anartsoho_shun_20251001162735.mp4
+2025-10-01 16:27:38,019 - INFO - ダウンロード完了: media\anartsoho_shun\anartsoho_shun_20251001162735.mp4
+2025-10-01 16:27:40,550 - INFO - 処理終了
+2025-10-01 16:27:40,550 - INFO - 説明文_AI: None
+2025-10-01 16:27:40,550 - INFO - 説明文_最終: 
+================================================================================
+2025-10-01 16:27:48,375 - INFO - 処理開始: Mode=story, Username=anartsoho_shun, GBP=5450809710664299854
+2025-10-01 16:27:48,377 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICI1NDUwODA5NzEwNjY0Mjk5ODU0Il0.
+2025-10-01 16:28:12,152 - INFO - 元の動画サイズ: 720x1280
+2025-10-01 16:28:12,154 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-01 16:28:12,154 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\anartsoho_shun\anartsoho_shun_20251001162735.mp4
+2025-10-01 16:28:22,235 - INFO - 一時ファイルが見つかりません: media\anartsoho_shun\description\20251001_162659
+2025-10-01 16:28:22,235 - INFO - Looking for button section...
+2025-10-01 16:28:26,799 - INFO - Trying to select CALL option...
+2025-10-01 16:28:27,045 - INFO - CALL option successfully selected
+2025-10-01 16:28:29,046 - INFO - Clicking submit button...
+2025-10-01 16:28:37,656 - INFO - 処理完了
+================================================================================
+2025-10-01 20:23:20,224 - INFO - 処理開始 PROCESSID:20251001_202317
+2025-10-01 20:23:20,224 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-01 20:23:20,224 - INFO - 処理を開始します
+2025-10-01 20:23:20,276 - INFO - 選択されたプロファイル: Profile 9
+2025-10-01 20:23:20,276 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-01 20:23:25,168 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-01 20:23:47,260 - INFO - プロフィール写真のクリックに成功しました
+2025-10-01 20:23:48,388 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-01 20:23:48,388 - INFO - datetime属性の抽出を開始します
+2025-10-01 20:23:48,425 - INFO - 抽出されたdatetime: 2025-10-01T09:10:05.000Z
+2025-10-01 20:23:48,425 - INFO - anartsoho_shun の投稿日時: 2025-10-01T09:10:05.000Z
+2025-10-01 20:23:50,069 - INFO - 生成URL:https://scontent-atl3-1.cdninstagram.com/o1/v/t2/f2/m367/AQNR8kAj3wvPGpBvk8B8WEPXqiVFGfGuzddxkwxN7w-owX1K4yInwq5EdpFBtGmTU9Tr34bKgpPaWPP6p7eK8HuMIWKzEmYgyKxb3yWA9h9kew.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=rAr5U1721qAQ7kNvwHESmzB&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6ODQwMjA4NDk4NjcwOTgwLCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=5vWlxJW2IPl6J0u4V4wGdQ&_nc_zt=28&oh=00_Afbg7L1Qj3QGfZ99HHvR22ehSRmgipnmIqSGSQhS-pxdFw&oe=68E34EED&bytestart=0&byteend=1365410
+2025-10-01 20:23:50,069 - INFO - 動画URLを取得しました
+2025-10-01 20:23:50,073 - INFO - DUP(with-key): user=anartsoho_shun, key=AQNR8kAj3wvPGpBvk8B8WEPXqiVFGfGuzddxkwxN7w-owX1K4yInwq5EdpFBtGmTU9Tr34bKgpPaWPP6p7eK8HuMIWKzEmYgyKxb3yWA9h9kew, dt=2025-10-01T09:10:05.000Z

@@ -1,0 +1,344 @@
+================================================================================
+2025-11-02 01:40:04,415 - INFO - 処理開始 PROCESSID:20251102_014000
+2025-11-02 01:40:04,415 - INFO - 対象ユーザー: yamlapi_3b
+2025-11-02 01:40:04,416 - INFO - 処理を開始します
+2025-11-02 01:40:04,475 - INFO - 選択されたプロファイル: Profile 10
+2025-11-02 01:40:04,475 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-02 01:40:09,126 - INFO - yamlapi_3b のプロフィールページにアクセスします
+2025-11-02 01:40:20,751 - INFO - 最新投稿を読み込みます
+2025-11-02 01:40:26,126 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/p/DNt6almZh4k/?hl=ja → 日付確認
+2025-11-02 01:40:29,556 - INFO - ピン留めだが3日以上前(70日) → スキップ
+2025-11-02 01:40:29,556 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C-FBDhRPBXQ/?hl=ja → 日付確認
+2025-11-02 01:40:32,461 - INFO - ピン留めだが3日以上前(458日) → スキップ
+2025-11-02 01:40:32,461 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C8yz6HvvNoa/?hl=ja → 日付確認
+2025-11-02 01:40:37,116 - INFO - ピン留めだが3日以上前(490日) → スキップ
+2025-11-02 01:40:37,116 - INFO - 選定: 非ピン留め https://www.instagram.com/yamlapi_3b/p/DQiK2OZk_wf/?hl=ja
+2025-11-02 01:40:43,107 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 01:40:47,149 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 01:40:47,175 - INFO - datetime属性の抽出を開始します
+2025-11-02 01:40:47,198 - INFO - 抽出されたdatetime: 2025-11-02T00:26:00.000Z
+2025-11-02 01:40:47,198 - INFO - yamlapi_3b の投稿日時: 2025-11-02T00:26:00.000Z
+2025-11-02 01:40:47,208 - INFO - date:2025-11-02 09:26:00+09:00
+2025-11-02 01:40:47,208 - INFO - post_date:20251102
+2025-11-02 01:40:47,264 - INFO - カルーセル推定: 1枚
+2025-11-02 01:40:47,313 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=AZ2N4JX_bFrQ7z4Yv4WA6Q&oh=00_AfgafehEaEJOiZ0CM__QG5_wbJjmYXFWHXlAxj4to6qSBQ&oe=690C945B
+2025-11-02 01:40:47,314 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=AZ2N4JX_bFrQ7z4Yv4WA6Q&oh=00_AfgafehEaEJOiZ0CM__QG5_wbJjmYXFWHXlAxj4to6qSBQ&oe=690C945B
+2025-11-02 01:40:47,314 - INFO - [caption/by_username] 開始
+2025-11-02 01:40:47,417 - INFO - [caption/by_username] 説明文確定（先頭100）: '山形ミルボン・オージュア取り扱い
+山形ケラスターゼ取扱店です！
+　
+いつもご来店ありがとうございます❣️
+今回ご紹介するのはオージュア　フィルメロウです😍
+
+ブローやヘアアイロンなどの熱で硬くなった髪'
+2025-11-02 01:40:47,419 - INFO - [caption/by_username] 説明文を保存: media\yamlapi_3b\description\20251102_014000
+2025-11-02 01:40:47,419 - INFO - 画像URLを取得しました
+2025-11-02 01:40:47,467 - INFO - INSERT(with-key): user=yamlapi_3b, key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ==, dt=2025-11-02T00:26:00.000Z
+2025-11-02 01:40:47,468 - INFO - メディアを取得します
+2025-11-02 01:40:49,468 - INFO - ダウンロードを開始します: media\yamlapi_3b\yamlapi_3b_20251102014049.jpg
+2025-11-02 01:40:50,894 - INFO - ダウンロード完了: media\yamlapi_3b\yamlapi_3b_20251102014049.jpg
+2025-11-02 01:40:50,957 - INFO - 元の画像サイズ: 1170x1104
+2025-11-02 01:40:50,958 - INFO - サイズ変更は不要です
+2025-11-02 01:40:50,959 - INFO - 説明文:山形ミルボン・オージュア取り扱い
+山形ケラスターゼ取扱店です！
+　
+いつもご来店ありがとうございます❣️
+今回ご紹介するのはオージュア　フィルメロウです😍
+
+ブローやヘアアイロンなどの熱で硬くなった髪の悩みの方に❣️
+おうちでのケア効果を持続させたい方にオススメです❗️
+
+【営業時間】
+平日/土曜日 9:30～18:30、日曜日9:30～17:30
+定休日 毎週水曜日
+　　　
+
+◆ご予約はこちら↓
+ホットペッパービューティー
+https://beauty.hotpepper.jp/slnH000432609/
+　
+住所
+山形県山形市南三番町6－15
+
+===================================
+
+#Lapish #ラピッシュ #山形駅 #美容室 美容院 #美容師 #髪型 #ヘアカット #カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #ヘアサロン #ヘッドスパ #山形市美容院 #山形市美容室 #山形市ヘアサロン #山形美容院 #山形美容室 #山形ヘアサロン #山形市カット #山形市髪質改善 #山形市メンズカット #山形市女性人気美容室 #山形駅美容室 #山形駅美容院 #南三番町美容室 #南三番町美容院
+　　　　　　　　　　　　　　　　　　　　松裕
+2025-11-02 01:40:54,077 - INFO - 処理終了
+================================================================================
+2025-11-02 01:41:00,193 - INFO - 処理開始: Mode=post, Username=yamlapi_3b, GBP=lapishminami
+2025-11-02 01:41:00,193 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJsYXBpc2htaW5hbWkiXQ.
+2025-11-02 01:41:23,382 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\yamlapi_3b\yamlapi_3b_20251102014049.jpg
+2025-11-02 01:41:26,790 - INFO - Waiting for description field...
+2025-11-02 01:41:26,823 - INFO - Setting description via JS (no send_keys)...
+2025-11-02 01:41:27,947 - INFO - Looking for button section...
+2025-11-02 01:41:32,662 - INFO - Trying to select CALL option...
+2025-11-02 01:41:32,958 - INFO - CALL option successfully selected
+2025-11-02 01:41:34,960 - INFO - Clicking submit button...
+2025-11-02 01:41:44,654 - INFO - 処理完了
+================================================================================
+2025-11-02 04:40:24,863 - INFO - 処理開始 PROCESSID:20251102_044021
+2025-11-02 04:40:24,863 - INFO - 対象ユーザー: yamlapi_3b
+2025-11-02 04:40:24,865 - INFO - 処理を開始します
+2025-11-02 04:40:24,922 - INFO - 選択されたプロファイル: Profile 9
+2025-11-02 04:40:24,922 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-02 04:40:29,592 - INFO - yamlapi_3b のプロフィールページにアクセスします
+2025-11-02 04:40:42,209 - INFO - 最新投稿を読み込みます
+2025-11-02 04:40:47,478 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/p/DNt6almZh4k/?hl=ja → 日付確認
+2025-11-02 04:40:50,770 - INFO - ピン留めだが3日以上前(70日) → スキップ
+2025-11-02 04:40:50,771 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C-FBDhRPBXQ/?hl=ja → 日付確認
+2025-11-02 04:40:53,911 - INFO - ピン留めだが3日以上前(458日) → スキップ
+2025-11-02 04:40:53,911 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C8yz6HvvNoa/?hl=ja → 日付確認
+2025-11-02 04:40:58,374 - INFO - ピン留めだが3日以上前(490日) → スキップ
+2025-11-02 04:40:58,374 - INFO - 選定: 非ピン留め https://www.instagram.com/yamlapi_3b/p/DQiK2OZk_wf/?hl=ja
+2025-11-02 04:41:02,829 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 04:41:07,281 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 04:41:07,326 - INFO - datetime属性の抽出を開始します
+2025-11-02 04:41:07,352 - INFO - 抽出されたdatetime: 2025-11-02T00:26:00.000Z
+2025-11-02 04:41:07,352 - INFO - yamlapi_3b の投稿日時: 2025-11-02T00:26:00.000Z
+2025-11-02 04:41:07,360 - INFO - date:2025-11-02 09:26:00+09:00
+2025-11-02 04:41:07,360 - INFO - post_date:20251102
+2025-11-02 04:41:07,423 - INFO - カルーセル推定: 1枚
+2025-11-02 04:41:07,462 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=DJBW890AO8nNFcdwDVkkwA&oh=00_Afi6b0Tqi5YRnHvQ9T3xQ5t-3adgngeHxoL4VyIMxLBiEA&oe=690CCC9B
+2025-11-02 04:41:07,462 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=DJBW890AO8nNFcdwDVkkwA&oh=00_Afi6b0Tqi5YRnHvQ9T3xQ5t-3adgngeHxoL4VyIMxLBiEA&oe=690CCC9B
+2025-11-02 04:41:07,462 - INFO - [caption/by_username] 開始
+2025-11-02 04:41:07,551 - INFO - [caption/by_username] 説明文確定（先頭100）: '山形ミルボン・オージュア取り扱い
+山形ケラスターゼ取扱店です！
+　
+いつもご来店ありがとうございます❣️
+今回ご紹介するのはオージュア　フィルメロウです😍
+
+ブローやヘアアイロンなどの熱で硬くなった髪'
+2025-11-02 04:41:07,553 - INFO - [caption/by_username] 説明文を保存: media\yamlapi_3b\description\20251102_044021
+2025-11-02 04:41:07,553 - INFO - 画像URLを取得しました
+2025-11-02 04:41:07,558 - INFO - DUP(with-key): user=yamlapi_3b, key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ==, dt=2025-11-02T00:26:00.000Z
+2025-11-02 04:41:07,558 - INFO - このレコードは存在します
+2025-11-02 04:41:07,558 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-02 07:40:51,838 - INFO - 処理開始 PROCESSID:20251102_074048
+2025-11-02 07:40:51,838 - INFO - 対象ユーザー: yamlapi_3b
+2025-11-02 07:40:51,838 - INFO - 処理を開始します
+2025-11-02 07:40:51,897 - INFO - 選択されたプロファイル: Profile 13
+2025-11-02 07:40:51,897 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-02 07:40:56,602 - INFO - yamlapi_3b のプロフィールページにアクセスします
+2025-11-02 07:41:10,144 - INFO - 最新投稿を読み込みます
+2025-11-02 07:41:15,484 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/p/DNt6almZh4k/?hl=ja → 日付確認
+2025-11-02 07:41:18,995 - INFO - ピン留めだが3日以上前(70日) → スキップ
+2025-11-02 07:41:18,995 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C-FBDhRPBXQ/?hl=ja → 日付確認
+2025-11-02 07:41:22,821 - INFO - ピン留めだが3日以上前(459日) → スキップ
+2025-11-02 07:41:22,821 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C8yz6HvvNoa/?hl=ja → 日付確認
+2025-11-02 07:41:27,073 - INFO - ピン留めだが3日以上前(490日) → スキップ
+2025-11-02 07:41:27,073 - INFO - 選定: 非ピン留め https://www.instagram.com/yamlapi_3b/p/DQiK2OZk_wf/?hl=ja
+2025-11-02 07:41:31,164 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 07:41:35,108 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 07:41:35,182 - INFO - datetime属性の抽出を開始します
+2025-11-02 07:41:35,227 - INFO - 抽出されたdatetime: 2025-11-02T00:26:00.000Z
+2025-11-02 07:41:35,227 - INFO - yamlapi_3b の投稿日時: 2025-11-02T00:26:00.000Z
+2025-11-02 07:41:35,240 - INFO - date:2025-11-02 09:26:00+09:00
+2025-11-02 07:41:35,240 - INFO - post_date:20251102
+2025-11-02 07:41:35,420 - INFO - カルーセル推定: 1枚
+2025-11-02 07:41:35,518 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=5wWrXnOHTD52IQAwwzYNhw&oh=00_AfhlmlR8ddZkBK1LWgvcbgMQwvt9vTZGSkLiasiQeuXvgA&oe=690CCC9B
+2025-11-02 07:41:35,518 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=5wWrXnOHTD52IQAwwzYNhw&oh=00_AfhlmlR8ddZkBK1LWgvcbgMQwvt9vTZGSkLiasiQeuXvgA&oe=690CCC9B
+2025-11-02 07:41:35,518 - INFO - [caption/by_username] 開始
+2025-11-02 07:41:35,741 - INFO - [caption/by_username] 説明文確定（先頭100）: '山形ミルボン・オージュア取り扱い
+山形ケラスターゼ取扱店です！
+　
+いつもご来店ありがとうございます❣️
+今回ご紹介するのはオージュア　フィルメロウです😍
+
+ブローやヘアアイロンなどの熱で硬くなった髪'
+2025-11-02 07:41:35,744 - INFO - [caption/by_username] 説明文を保存: media\yamlapi_3b\description\20251102_074048
+2025-11-02 07:41:35,744 - INFO - 画像URLを取得しました
+2025-11-02 07:41:35,749 - INFO - DUP(with-key): user=yamlapi_3b, key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ==, dt=2025-11-02T00:26:00.000Z
+2025-11-02 07:41:35,749 - INFO - このレコードは存在します
+2025-11-02 07:41:35,749 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-02 10:43:13,104 - INFO - 処理開始 PROCESSID:20251102_104309
+2025-11-02 10:43:13,104 - INFO - 対象ユーザー: yamlapi_3b
+2025-11-02 10:43:13,105 - INFO - 処理を開始します
+2025-11-02 10:43:13,170 - INFO - 選択されたプロファイル: Profile 9
+2025-11-02 10:43:13,170 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-02 10:43:17,601 - INFO - yamlapi_3b のプロフィールページにアクセスします
+2025-11-02 10:43:29,149 - INFO - 最新投稿を読み込みます
+2025-11-02 10:43:34,430 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/p/DNt6almZh4k/?hl=ja → 日付確認
+2025-11-02 10:43:37,445 - INFO - ピン留めだが3日以上前(70日) → スキップ
+2025-11-02 10:43:37,446 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C-FBDhRPBXQ/?hl=ja → 日付確認
+2025-11-02 10:43:40,594 - INFO - ピン留めだが3日以上前(459日) → スキップ
+2025-11-02 10:43:40,594 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C8yz6HvvNoa/?hl=ja → 日付確認
+2025-11-02 10:43:43,964 - INFO - ピン留めだが3日以上前(491日) → スキップ
+2025-11-02 10:43:43,964 - INFO - 選定: 非ピン留め https://www.instagram.com/yamlapi_3b/p/DQiK2OZk_wf/?hl=ja
+2025-11-02 10:43:48,339 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 10:43:51,695 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 10:43:51,808 - INFO - datetime属性の抽出を開始します
+2025-11-02 10:43:51,867 - INFO - 抽出されたdatetime: 2025-11-02T00:26:00.000Z
+2025-11-02 10:43:51,868 - INFO - yamlapi_3b の投稿日時: 2025-11-02T00:26:00.000Z
+2025-11-02 10:43:51,916 - INFO - date:2025-11-02 09:26:00+09:00
+2025-11-02 10:43:51,916 - INFO - post_date:20251102
+2025-11-02 10:43:51,985 - INFO - カルーセル推定: 1枚
+2025-11-02 10:43:52,073 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=K8fb6SgeaieSjMClJ3Sz5A&oh=00_AfgxSUu5BPi_exyyoX0iBAhcNSMcrKH5drPiqNxMboEXSw&oe=690D04DB
+2025-11-02 10:43:52,073 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=K8fb6SgeaieSjMClJ3Sz5A&oh=00_AfgxSUu5BPi_exyyoX0iBAhcNSMcrKH5drPiqNxMboEXSw&oe=690D04DB
+2025-11-02 10:43:52,073 - INFO - [caption/by_username] 開始
+2025-11-02 10:43:52,207 - INFO - [caption/by_username] 説明文確定（先頭100）: '山形ミルボン・オージュア取り扱い
+山形ケラスターゼ取扱店です！
+　
+いつもご来店ありがとうございます❣️
+今回ご紹介するのはオージュア　フィルメロウです😍
+
+ブローやヘアアイロンなどの熱で硬くなった髪'
+2025-11-02 10:43:52,209 - INFO - [caption/by_username] 説明文を保存: media\yamlapi_3b\description\20251102_104309
+2025-11-02 10:43:52,209 - INFO - 画像URLを取得しました
+2025-11-02 10:43:52,211 - INFO - DUP(with-key): user=yamlapi_3b, key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ==, dt=2025-11-02T00:26:00.000Z
+2025-11-02 10:43:52,211 - INFO - このレコードは存在します
+2025-11-02 10:43:52,211 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-02 13:44:56,107 - INFO - 処理開始 PROCESSID:20251102_134452
+2025-11-02 13:44:56,107 - INFO - 対象ユーザー: yamlapi_3b
+2025-11-02 13:44:56,107 - INFO - 処理を開始します
+2025-11-02 13:44:56,167 - INFO - 選択されたプロファイル: Profile 12
+2025-11-02 13:44:56,168 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-02 13:45:00,528 - INFO - yamlapi_3b のプロフィールページにアクセスします
+2025-11-02 13:45:12,721 - INFO - 最新投稿を読み込みます
+2025-11-02 13:45:18,305 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/p/DNt6almZh4k/?hl=ja → 日付確認
+2025-11-02 13:45:20,729 - INFO - ピン留めだが3日以上前(70日) → スキップ
+2025-11-02 13:45:20,729 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C-FBDhRPBXQ/?hl=ja → 日付確認
+2025-11-02 13:45:24,391 - INFO - ピン留めだが3日以上前(459日) → スキップ
+2025-11-02 13:45:24,391 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C8yz6HvvNoa/?hl=ja → 日付確認
+2025-11-02 13:45:27,478 - INFO - ピン留めだが3日以上前(491日) → スキップ
+2025-11-02 13:45:27,478 - INFO - 選定: 非ピン留め https://www.instagram.com/yamlapi_3b/p/DQiK2OZk_wf/?hl=ja
+2025-11-02 13:45:32,058 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 13:45:35,933 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 13:45:36,018 - INFO - datetime属性の抽出を開始します
+2025-11-02 13:45:36,044 - INFO - 抽出されたdatetime: 2025-11-02T00:26:00.000Z
+2025-11-02 13:45:36,044 - INFO - yamlapi_3b の投稿日時: 2025-11-02T00:26:00.000Z
+2025-11-02 13:45:36,054 - INFO - date:2025-11-02 09:26:00+09:00
+2025-11-02 13:45:36,054 - INFO - post_date:20251102
+2025-11-02 13:45:36,146 - INFO - カルーセル推定: 1枚
+2025-11-02 13:45:36,219 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-rzl3Nr5SFCrsbszl3sZEQ&oh=00_AfiWu4Ri1jH6MifOJkSFfGmXvlkIh-CSvEKtw7EAbiWX_Q&oe=690D3D1B
+2025-11-02 13:45:36,219 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-rzl3Nr5SFCrsbszl3sZEQ&oh=00_AfiWu4Ri1jH6MifOJkSFfGmXvlkIh-CSvEKtw7EAbiWX_Q&oe=690D3D1B
+2025-11-02 13:45:36,220 - INFO - [caption/by_username] 開始
+2025-11-02 13:45:36,380 - INFO - [caption/by_username] 説明文確定（先頭100）: '山形ミルボン・オージュア取り扱い
+山形ケラスターゼ取扱店です！
+　
+いつもご来店ありがとうございます❣️
+今回ご紹介するのはオージュア　フィルメロウです😍
+
+ブローやヘアアイロンなどの熱で硬くなった髪'
+2025-11-02 13:45:36,382 - INFO - [caption/by_username] 説明文を保存: media\yamlapi_3b\description\20251102_134452
+2025-11-02 13:45:36,382 - INFO - 画像URLを取得しました
+2025-11-02 13:45:36,384 - INFO - DUP(with-key): user=yamlapi_3b, key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ==, dt=2025-11-02T00:26:00.000Z
+2025-11-02 13:45:36,384 - INFO - このレコードは存在します
+2025-11-02 13:45:36,384 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-02 16:44:24,610 - INFO - 処理開始 PROCESSID:20251102_164421
+2025-11-02 16:44:24,610 - INFO - 対象ユーザー: yamlapi_3b
+2025-11-02 16:44:24,610 - INFO - 処理を開始します
+2025-11-02 16:44:24,667 - INFO - 選択されたプロファイル: Profile 13
+2025-11-02 16:44:24,667 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-02 16:44:28,856 - INFO - yamlapi_3b のプロフィールページにアクセスします
+2025-11-02 16:44:40,878 - INFO - 最新投稿を読み込みます
+2025-11-02 16:44:46,216 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/p/DNt6almZh4k/?hl=ja → 日付確認
+2025-11-02 16:44:49,167 - INFO - ピン留めだが3日以上前(70日) → スキップ
+2025-11-02 16:44:49,168 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C-FBDhRPBXQ/?hl=ja → 日付確認
+2025-11-02 16:44:52,841 - INFO - ピン留めだが3日以上前(459日) → スキップ
+2025-11-02 16:44:52,841 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C8yz6HvvNoa/?hl=ja → 日付確認
+2025-11-02 16:44:55,103 - INFO - ピン留めだが3日以上前(491日) → スキップ
+2025-11-02 16:44:55,103 - INFO - 選定: 非ピン留め https://www.instagram.com/yamlapi_3b/p/DQiK2OZk_wf/?hl=ja
+2025-11-02 16:45:00,691 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 16:45:04,737 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 16:45:04,793 - INFO - datetime属性の抽出を開始します
+2025-11-02 16:45:04,826 - INFO - 抽出されたdatetime: 2025-11-02T00:26:00.000Z
+2025-11-02 16:45:04,826 - INFO - yamlapi_3b の投稿日時: 2025-11-02T00:26:00.000Z
+2025-11-02 16:45:04,833 - INFO - date:2025-11-02 09:26:00+09:00
+2025-11-02 16:45:04,834 - INFO - post_date:20251102
+2025-11-02 16:45:04,895 - INFO - カルーセル推定: 1枚
+2025-11-02 16:45:04,981 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=c4TOfRkcLooE4XG46-1QWw&oh=00_AfhukRDJ4LDfDBItfSB6S780b29hu8Rlv_03gLpzxX-4vA&oe=690D755B
+2025-11-02 16:45:04,981 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=c4TOfRkcLooE4XG46-1QWw&oh=00_AfhukRDJ4LDfDBItfSB6S780b29hu8Rlv_03gLpzxX-4vA&oe=690D755B
+2025-11-02 16:45:04,982 - INFO - [caption/by_username] 開始
+2025-11-02 16:45:05,084 - INFO - [caption/by_username] 説明文確定（先頭100）: '山形ミルボン・オージュア取り扱い
+山形ケラスターゼ取扱店です！
+　
+いつもご来店ありがとうございます❣️
+今回ご紹介するのはオージュア　フィルメロウです😍
+
+ブローやヘアアイロンなどの熱で硬くなった髪'
+2025-11-02 16:45:05,086 - INFO - [caption/by_username] 説明文を保存: media\yamlapi_3b\description\20251102_164421
+2025-11-02 16:45:05,086 - INFO - 画像URLを取得しました
+2025-11-02 16:45:05,089 - INFO - DUP(with-key): user=yamlapi_3b, key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ==, dt=2025-11-02T00:26:00.000Z
+2025-11-02 16:45:05,090 - INFO - このレコードは存在します
+2025-11-02 16:45:05,090 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-02 19:40:29,381 - INFO - 処理開始 PROCESSID:20251102_194026
+2025-11-02 19:40:29,383 - INFO - 対象ユーザー: yamlapi_3b
+2025-11-02 19:40:29,383 - INFO - 処理を開始します
+2025-11-02 19:40:29,438 - INFO - 選択されたプロファイル: Profile 9
+2025-11-02 19:40:29,438 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-02 19:40:34,050 - INFO - yamlapi_3b のプロフィールページにアクセスします
+2025-11-02 19:40:45,739 - INFO - 最新投稿を読み込みます
+2025-11-02 19:40:51,014 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/p/DNt6almZh4k/?hl=ja → 日付確認
+2025-11-02 19:40:53,639 - INFO - ピン留めだが3日以上前(70日) → スキップ
+2025-11-02 19:40:53,639 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C-FBDhRPBXQ/?hl=ja → 日付確認
+2025-11-02 19:40:57,216 - INFO - ピン留めだが3日以上前(459日) → スキップ
+2025-11-02 19:40:57,216 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C8yz6HvvNoa/?hl=ja → 日付確認
+2025-11-02 19:41:00,689 - INFO - ピン留めだが3日以上前(491日) → スキップ
+2025-11-02 19:41:00,690 - INFO - 選定: 非ピン留め https://www.instagram.com/yamlapi_3b/p/DQiK2OZk_wf/?hl=ja
+2025-11-02 19:41:05,808 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 19:41:09,559 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 19:41:09,610 - INFO - datetime属性の抽出を開始します
+2025-11-02 19:41:09,637 - INFO - 抽出されたdatetime: 2025-11-02T00:26:00.000Z
+2025-11-02 19:41:09,637 - INFO - yamlapi_3b の投稿日時: 2025-11-02T00:26:00.000Z
+2025-11-02 19:41:09,644 - INFO - date:2025-11-02 09:26:00+09:00
+2025-11-02 19:41:09,644 - INFO - post_date:20251102
+2025-11-02 19:41:09,689 - INFO - カルーセル推定: 1枚
+2025-11-02 19:41:09,730 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=86sKYmQ4tQeD8RbzPr0Ngw&oh=00_Afj7WrcebwQywIt1wjzH4luVNBHAo0LixXgiRSGSS0wvig&oe=690D755B
+2025-11-02 19:41:09,730 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=86sKYmQ4tQeD8RbzPr0Ngw&oh=00_Afj7WrcebwQywIt1wjzH4luVNBHAo0LixXgiRSGSS0wvig&oe=690D755B
+2025-11-02 19:41:09,730 - INFO - [caption/by_username] 開始
+2025-11-02 19:41:09,846 - INFO - [caption/by_username] 説明文確定（先頭100）: '山形ミルボン・オージュア取り扱い
+山形ケラスターゼ取扱店です！
+　
+いつもご来店ありがとうございます❣️
+今回ご紹介するのはオージュア　フィルメロウです😍
+
+ブローやヘアアイロンなどの熱で硬くなった髪'
+2025-11-02 19:41:09,848 - INFO - [caption/by_username] 説明文を保存: media\yamlapi_3b\description\20251102_194026
+2025-11-02 19:41:09,848 - INFO - 画像URLを取得しました
+2025-11-02 19:41:09,853 - INFO - DUP(with-key): user=yamlapi_3b, key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ==, dt=2025-11-02T00:26:00.000Z
+2025-11-02 19:41:09,853 - INFO - このレコードは存在します
+2025-11-02 19:41:09,853 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-02 22:36:09,554 - INFO - 処理開始 PROCESSID:20251102_223606
+2025-11-02 22:36:09,554 - INFO - 対象ユーザー: yamlapi_3b
+2025-11-02 22:36:09,554 - INFO - 処理を開始します
+2025-11-02 22:36:09,612 - INFO - 選択されたプロファイル: Profile 9
+2025-11-02 22:36:09,612 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-02 22:36:14,082 - INFO - yamlapi_3b のプロフィールページにアクセスします
+2025-11-02 22:36:27,738 - INFO - 最新投稿を読み込みます
+2025-11-02 22:36:33,066 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/p/DNt6almZh4k/?hl=ja → 日付確認
+2025-11-02 22:36:36,998 - INFO - ピン留めだが3日以上前(70日) → スキップ
+2025-11-02 22:36:36,999 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C-FBDhRPBXQ/?hl=ja → 日付確認
+2025-11-02 22:36:41,282 - INFO - ピン留めだが3日以上前(459日) → スキップ
+2025-11-02 22:36:41,282 - INFO - 候補はピン留め: https://www.instagram.com/yamlapi_3b/reel/C8yz6HvvNoa/?hl=ja → 日付確認
+2025-11-02 22:36:45,195 - INFO - ピン留めだが3日以上前(491日) → スキップ
+2025-11-02 22:36:45,195 - INFO - 選定: 非ピン留め https://www.instagram.com/yamlapi_3b/p/DQiK2OZk_wf/?hl=ja
+2025-11-02 22:36:50,247 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 22:36:53,889 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 22:36:53,973 - INFO - datetime属性の抽出を開始します
+2025-11-02 22:36:54,032 - INFO - 抽出されたdatetime: 2025-11-02T00:26:00.000Z
+2025-11-02 22:36:54,032 - INFO - yamlapi_3b の投稿日時: 2025-11-02T00:26:00.000Z
+2025-11-02 22:36:54,041 - INFO - date:2025-11-02 09:26:00+09:00
+2025-11-02 22:36:54,041 - INFO - post_date:20251102
+2025-11-02 22:36:54,114 - INFO - カルーセル推定: 1枚
+2025-11-02 22:36:54,193 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=JFv6hYt9tRN34E1mQukGFg&oh=00_AfjM54VblW057KbArIKFf45BHEsXrS4SpAcYDDwWHDlUpg&oe=690DAD9B
+2025-11-02 22:36:54,193 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573597243_17912207514232685_2360827652796273114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzB4MTEwNC5zZHIuQzMifQ%3D%3D&_nc_ohc=rB0UuC4LikEQ7kNvwHukkTJ&_nc_oc=Adkno4hhI_iu6H3Fjq7NAIZw9MIb0dOW_g8o8R9i4DoQyCVcSWwxvIGuvJ_kH_P_SMI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=JFv6hYt9tRN34E1mQukGFg&oh=00_AfjM54VblW057KbArIKFf45BHEsXrS4SpAcYDDwWHDlUpg&oe=690DAD9B
+2025-11-02 22:36:54,193 - INFO - [caption/by_username] 開始
+2025-11-02 22:36:54,295 - INFO - [caption/by_username] 説明文確定（先頭100）: '山形ミルボン・オージュア取り扱い
+山形ケラスターゼ取扱店です！
+　
+いつもご来店ありがとうございます❣️
+今回ご紹介するのはオージュア　フィルメロウです😍
+
+ブローやヘアアイロンなどの熱で硬くなった髪'
+2025-11-02 22:36:54,296 - INFO - [caption/by_username] 説明文を保存: media\yamlapi_3b\description\20251102_223606
+2025-11-02 22:36:54,297 - INFO - 画像URLを取得しました
+2025-11-02 22:36:54,298 - INFO - DUP(with-key): user=yamlapi_3b, key=Mzc1NjYxMjc0NTk1ODc4NDAzMQ==, dt=2025-11-02T00:26:00.000Z
+2025-11-02 22:36:54,298 - INFO - このレコードは存在します
+2025-11-02 22:36:54,299 - INFO - 全件レコードが存在します

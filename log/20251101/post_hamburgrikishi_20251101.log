@@ -1,0 +1,334 @@
+================================================================================
+2025-11-01 00:16:06,549 - INFO - 処理開始 PROCESSID:20251101_001603
+2025-11-01 00:16:06,551 - INFO - 対象ユーザー: hamburgrikishi
+2025-11-01 00:16:06,551 - INFO - 処理を開始します
+2025-11-01 00:16:06,611 - INFO - 選択されたプロファイル: Profile 9
+2025-11-01 00:16:06,611 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-01 00:16:11,117 - INFO - hamburgrikishi のプロフィールページにアクセスします
+2025-11-01 00:16:22,559 - INFO - 最新投稿を読み込みます
+2025-11-01 00:16:27,819 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DKEgRzVS0X3/?hl=ja → 日付確認
+2025-11-01 00:16:30,551 - INFO - ピン留めだが3日以上前(159日) → スキップ
+2025-11-01 00:16:30,551 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DJOUvhByInc/?hl=ja → 日付確認
+2025-11-01 00:16:33,861 - INFO - ピン留めだが3日以上前(180日) → スキップ
+2025-11-01 00:16:33,861 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DPI51D2kdXM/?hl=ja → 日付確認
+2025-11-01 00:16:37,252 - INFO - ピン留めだが3日以上前(33日) → スキップ
+2025-11-01 00:16:37,252 - INFO - 選定: 非ピン留め https://www.instagram.com/hamburgrikishi/p/DQd0tWakunZ/?hl=ja
+2025-11-01 00:16:42,085 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 00:16:46,606 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 00:16:46,634 - INFO - datetime属性の抽出を開始します
+2025-11-01 00:16:46,655 - INFO - 抽出されたdatetime: 2025-10-31T07:55:35.000Z
+2025-11-01 00:16:46,655 - INFO - hamburgrikishi の投稿日時: 2025-10-31T07:55:35.000Z
+2025-11-01 00:16:46,659 - INFO - date:2025-10-31 16:55:35+09:00
+2025-11-01 00:16:46,659 - INFO - post_date:20251031
+2025-11-01 00:16:46,705 - INFO - カルーセル推定: 2枚
+2025-11-01 00:16:46,763 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/570628968_17872391352446883_3584616541361338204_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1NTM4OTQ3MTc2OTY1NTAyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=EJH1QOLe7QoQ7kNvwF2e-oZ&_nc_oc=AdlEHyd1Vb09xRcT6aADeoarimO0JrX8HKeKrG_QRzZYA9mjM9bna9bkF53_faEiiq8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=l7zH5IGnvHA2abtv9_hq0g&oh=00_Afds8nc8TWWV-jcOSuN5Fh5JJbY5sVWnJWhTYsgtYUiyNA&oe=690B0B97
+2025-11-01 00:16:46,782 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/574257525_17872391367446883_4718684962296866249_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NTM4OTQ3MTkyOTA1MjQ0Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5oZHIuQzMifQ%3D%3D&_nc_ohc=hTN2HE0Z3SAQ7kNvwEzr68L&_nc_oc=Adm9iFWYbKakNyGpK20GWhINpL-2fD5rVtRwAzro0H1PY5UiS9BIY2emDz1emq8Ox-I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=l7zH5IGnvHA2abtv9_hq0g&oh=00_AfclsOVoZnoCKpx6V6ToO_LwePgmiGSyKpvpxy8vGQ-H1w&oe=690B3D73
+2025-11-01 00:16:46,782 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/570628968_17872391352446883_3584616541361338204_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1NTM4OTQ3MTc2OTY1NTAyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=EJH1QOLe7QoQ7kNvwF2e-oZ&_nc_oc=AdlEHyd1Vb09xRcT6aADeoarimO0JrX8HKeKrG_QRzZYA9mjM9bna9bkF53_faEiiq8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=l7zH5IGnvHA2abtv9_hq0g&oh=00_Afds8nc8TWWV-jcOSuN5Fh5JJbY5sVWnJWhTYsgtYUiyNA&oe=690B0B97
+2025-11-01 00:16:46,782 - INFO - 2枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/574257525_17872391367446883_4718684962296866249_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NTM4OTQ3MTkyOTA1MjQ0Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5oZHIuQzMifQ%3D%3D&_nc_ohc=hTN2HE0Z3SAQ7kNvwEzr68L&_nc_oc=Adm9iFWYbKakNyGpK20GWhINpL-2fD5rVtRwAzro0H1PY5UiS9BIY2emDz1emq8Ox-I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=l7zH5IGnvHA2abtv9_hq0g&oh=00_AfclsOVoZnoCKpx6V6ToO_LwePgmiGSyKpvpxy8vGQ-H1w&oe=690B3D73
+2025-11-01 00:16:46,782 - INFO - [caption/by_username] 開始
+2025-11-01 00:16:46,862 - INFO - [caption/by_username] 説明文確定（先頭100）: '元小結・北勝富士さんから引退大相撲のサイン入りポスターが届きました。
+技能賞、敢闘賞を含めて三賞3回、金星7個と見事な関取でありました。
+
+北勝富士さんありがとうございます。
+#大相撲#北勝富士#SU'
+2025-11-01 00:16:46,864 - INFO - [caption/by_username] 説明文を保存: media\hamburgrikishi\description\20251101_001603
+2025-11-01 00:16:46,865 - INFO - 画像URLを取得しました
+2025-11-01 00:16:46,867 - INFO - DUP(with-key): user=hamburgrikishi, key=Mzc1NTM4OTQ3MTc2OTY1NTAyMg==, dt=2025-10-31T07:55:35.000Z
+2025-11-01 00:16:46,867 - INFO - このレコードは存在します
+2025-11-01 00:16:46,867 - INFO - 画像URLを取得しました
+2025-11-01 00:16:46,868 - INFO - DUP(with-key): user=hamburgrikishi, key=Mzc1NTM4OTQ3MTkyOTA1MjQ0Mw==, dt=2025-10-31T07:55:35.000Z
+2025-11-01 00:16:46,868 - INFO - このレコードは存在します
+2025-11-01 00:16:46,868 - INFO - カルーセル集計: 想定2 / 収集2 / 新規DL0 / 既存スキップ2 / 失敗0
+2025-11-01 00:16:46,868 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-11-01 00:16:46,868 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-01 03:16:05,097 - INFO - 処理開始 PROCESSID:20251101_031601
+2025-11-01 03:16:05,097 - INFO - 対象ユーザー: hamburgrikishi
+2025-11-01 03:16:05,097 - INFO - 処理を開始します
+2025-11-01 03:16:05,159 - INFO - 選択されたプロファイル: Profile 10
+2025-11-01 03:16:05,161 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-01 03:16:09,789 - INFO - hamburgrikishi のプロフィールページにアクセスします
+2025-11-01 03:16:21,596 - INFO - 最新投稿を読み込みます
+2025-11-01 03:16:27,052 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DKEgRzVS0X3/?hl=ja → 日付確認
+2025-11-01 03:16:30,770 - INFO - ピン留めだが3日以上前(159日) → スキップ
+2025-11-01 03:16:30,770 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DJOUvhByInc/?hl=ja → 日付確認
+2025-11-01 03:16:33,230 - INFO - ピン留めだが3日以上前(180日) → スキップ
+2025-11-01 03:16:33,230 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DPI51D2kdXM/?hl=ja → 日付確認
+2025-11-01 03:16:36,743 - INFO - ピン留めだが3日以上前(33日) → スキップ
+2025-11-01 03:16:36,743 - INFO - 選定: 非ピン留め https://www.instagram.com/hamburgrikishi/p/DQd0tWakunZ/?hl=ja
+2025-11-01 03:16:41,998 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 03:16:46,351 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 03:16:46,380 - INFO - datetime属性の抽出を開始します
+2025-11-01 03:16:46,408 - INFO - 抽出されたdatetime: 2025-10-31T07:55:35.000Z
+2025-11-01 03:16:46,408 - INFO - hamburgrikishi の投稿日時: 2025-10-31T07:55:35.000Z
+2025-11-01 03:16:46,420 - INFO - date:2025-10-31 16:55:35+09:00
+2025-11-01 03:16:46,420 - INFO - post_date:20251031
+2025-11-01 03:16:46,487 - INFO - カルーセル推定: 2枚
+2025-11-01 03:16:46,572 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/570628968_17872391352446883_3584616541361338204_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1NTM4OTQ3MTc2OTY1NTAyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=EJH1QOLe7QoQ7kNvwF2e-oZ&_nc_oc=AdlEHyd1Vb09xRcT6aADeoarimO0JrX8HKeKrG_QRzZYA9mjM9bna9bkF53_faEiiq8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=E3AnGdPhepWsPQXphyQauA&oh=00_AffOMFVpTCG11Jx5cBp67RS-Xf258ep7vXyGDh1NQXOk3A&oe=690B43D7
+2025-11-01 03:16:46,582 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/574257525_17872391367446883_4718684962296866249_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NTM4OTQ3MTkyOTA1MjQ0Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5oZHIuQzMifQ%3D%3D&_nc_ohc=hTN2HE0Z3SAQ7kNvwEzr68L&_nc_oc=Adm9iFWYbKakNyGpK20GWhINpL-2fD5rVtRwAzro0H1PY5UiS9BIY2emDz1emq8Ox-I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=E3AnGdPhepWsPQXphyQauA&oh=00_Afd2dRfgCY_sVJfC6HEhB2YIjJWtt_YsEZ7XAp58H8003Q&oe=690B3D73
+2025-11-01 03:16:46,582 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/570628968_17872391352446883_3584616541361338204_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1NTM4OTQ3MTc2OTY1NTAyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=EJH1QOLe7QoQ7kNvwF2e-oZ&_nc_oc=AdlEHyd1Vb09xRcT6aADeoarimO0JrX8HKeKrG_QRzZYA9mjM9bna9bkF53_faEiiq8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=E3AnGdPhepWsPQXphyQauA&oh=00_AffOMFVpTCG11Jx5cBp67RS-Xf258ep7vXyGDh1NQXOk3A&oe=690B43D7
+2025-11-01 03:16:46,582 - INFO - 2枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/574257525_17872391367446883_4718684962296866249_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NTM4OTQ3MTkyOTA1MjQ0Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5oZHIuQzMifQ%3D%3D&_nc_ohc=hTN2HE0Z3SAQ7kNvwEzr68L&_nc_oc=Adm9iFWYbKakNyGpK20GWhINpL-2fD5rVtRwAzro0H1PY5UiS9BIY2emDz1emq8Ox-I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=E3AnGdPhepWsPQXphyQauA&oh=00_Afd2dRfgCY_sVJfC6HEhB2YIjJWtt_YsEZ7XAp58H8003Q&oe=690B3D73
+2025-11-01 03:16:46,582 - INFO - [caption/by_username] 開始
+2025-11-01 03:16:46,663 - INFO - [caption/by_username] 説明文確定（先頭100）: '元小結・北勝富士さんから引退大相撲のサイン入りポスターが届きました。
+技能賞、敢闘賞を含めて三賞3回、金星7個と見事な関取でありました。
+
+北勝富士さんありがとうございます。
+#大相撲#北勝富士#SU'
+2025-11-01 03:16:46,665 - INFO - [caption/by_username] 説明文を保存: media\hamburgrikishi\description\20251101_031601
+2025-11-01 03:16:46,665 - INFO - 画像URLを取得しました
+2025-11-01 03:16:46,667 - INFO - DUP(with-key): user=hamburgrikishi, key=Mzc1NTM4OTQ3MTc2OTY1NTAyMg==, dt=2025-10-31T07:55:35.000Z
+2025-11-01 03:16:46,667 - INFO - このレコードは存在します
+2025-11-01 03:16:46,668 - INFO - 画像URLを取得しました
+2025-11-01 03:16:46,668 - INFO - DUP(with-key): user=hamburgrikishi, key=Mzc1NTM4OTQ3MTkyOTA1MjQ0Mw==, dt=2025-10-31T07:55:35.000Z
+2025-11-01 03:16:46,668 - INFO - このレコードは存在します
+2025-11-01 03:16:46,669 - INFO - カルーセル集計: 想定2 / 収集2 / 新規DL0 / 既存スキップ2 / 失敗0
+2025-11-01 03:16:46,669 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-11-01 03:16:46,669 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-01 06:21:11,456 - INFO - 処理開始 PROCESSID:20251101_062107
+2025-11-01 06:21:11,456 - INFO - 対象ユーザー: hamburgrikishi
+2025-11-01 06:21:11,456 - INFO - 処理を開始します
+2025-11-01 06:21:11,522 - INFO - 選択されたプロファイル: Profile 10
+2025-11-01 06:21:11,522 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-01 06:21:16,320 - INFO - hamburgrikishi のプロフィールページにアクセスします
+2025-11-01 06:21:28,359 - INFO - 最新投稿を読み込みます
+2025-11-01 06:21:33,899 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DKEgRzVS0X3/?hl=ja → 日付確認
+2025-11-01 06:21:36,586 - INFO - ピン留めだが3日以上前(159日) → スキップ
+2025-11-01 06:21:36,586 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DJOUvhByInc/?hl=ja → 日付確認
+2025-11-01 06:21:39,501 - INFO - ピン留めだが3日以上前(180日) → スキップ
+2025-11-01 06:21:39,501 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DPI51D2kdXM/?hl=ja → 日付確認
+2025-11-01 06:21:42,980 - INFO - ピン留めだが3日以上前(33日) → スキップ
+2025-11-01 06:21:42,981 - INFO - 選定: 非ピン留め https://www.instagram.com/hamburgrikishi/p/DQd0tWakunZ/?hl=ja
+2025-11-01 06:21:48,108 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 06:21:52,923 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 06:21:52,944 - INFO - datetime属性の抽出を開始します
+2025-11-01 06:21:52,967 - INFO - 抽出されたdatetime: 2025-10-31T07:55:35.000Z
+2025-11-01 06:21:52,968 - INFO - hamburgrikishi の投稿日時: 2025-10-31T07:55:35.000Z
+2025-11-01 06:21:52,974 - INFO - date:2025-10-31 16:55:35+09:00
+2025-11-01 06:21:52,974 - INFO - post_date:20251031
+2025-11-01 06:21:53,036 - INFO - カルーセル推定: 2枚
+2025-11-01 06:21:53,056 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/570628968_17872391352446883_3584616541361338204_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1NTM4OTQ3MTc2OTY1NTAyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=EJH1QOLe7QoQ7kNvwF2e-oZ&_nc_oc=AdlEHyd1Vb09xRcT6aADeoarimO0JrX8HKeKrG_QRzZYA9mjM9bna9bkF53_faEiiq8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=IhPmlikbfntxP3QS37w99Q&oh=00_AfeKLoO0zbgvswhgn8jElvW9sydiM0bRCjey1VBJGD-EPQ&oe=690B7C17
+2025-11-01 06:21:53,066 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/574257525_17872391367446883_4718684962296866249_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NTM4OTQ3MTkyOTA1MjQ0Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5oZHIuQzMifQ%3D%3D&_nc_ohc=hTN2HE0Z3SAQ7kNvwEzr68L&_nc_oc=Adm9iFWYbKakNyGpK20GWhINpL-2fD5rVtRwAzro0H1PY5UiS9BIY2emDz1emq8Ox-I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=IhPmlikbfntxP3QS37w99Q&oh=00_Afd41w5TOU3_R4enXZezZS3i4F_zILcs7CaDulYmOeKNng&oe=690B75B3
+2025-11-01 06:21:53,067 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/570628968_17872391352446883_3584616541361338204_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=108&ig_cache_key=Mzc1NTM4OTQ3MTc2OTY1NTAyMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=EJH1QOLe7QoQ7kNvwF2e-oZ&_nc_oc=AdlEHyd1Vb09xRcT6aADeoarimO0JrX8HKeKrG_QRzZYA9mjM9bna9bkF53_faEiiq8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=IhPmlikbfntxP3QS37w99Q&oh=00_AfeKLoO0zbgvswhgn8jElvW9sydiM0bRCjey1VBJGD-EPQ&oe=690B7C17
+2025-11-01 06:21:53,067 - INFO - 2枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/574257525_17872391367446883_4718684962296866249_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NTM4OTQ3MTkyOTA1MjQ0Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5oZHIuQzMifQ%3D%3D&_nc_ohc=hTN2HE0Z3SAQ7kNvwEzr68L&_nc_oc=Adm9iFWYbKakNyGpK20GWhINpL-2fD5rVtRwAzro0H1PY5UiS9BIY2emDz1emq8Ox-I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=IhPmlikbfntxP3QS37w99Q&oh=00_Afd41w5TOU3_R4enXZezZS3i4F_zILcs7CaDulYmOeKNng&oe=690B75B3
+2025-11-01 06:21:53,067 - INFO - [caption/by_username] 開始
+2025-11-01 06:21:53,156 - INFO - [caption/by_username] 説明文確定（先頭100）: '元小結・北勝富士さんから引退大相撲のサイン入りポスターが届きました。
+技能賞、敢闘賞を含めて三賞3回、金星7個と見事な関取でありました。
+
+北勝富士さんありがとうございます。
+#大相撲#北勝富士#SU'
+2025-11-01 06:21:53,158 - INFO - [caption/by_username] 説明文を保存: media\hamburgrikishi\description\20251101_062107
+2025-11-01 06:21:53,158 - INFO - 画像URLを取得しました
+2025-11-01 06:21:53,159 - INFO - DUP(with-key): user=hamburgrikishi, key=Mzc1NTM4OTQ3MTc2OTY1NTAyMg==, dt=2025-10-31T07:55:35.000Z
+2025-11-01 06:21:53,160 - INFO - このレコードは存在します
+2025-11-01 06:21:53,160 - INFO - 画像URLを取得しました
+2025-11-01 06:21:53,161 - INFO - DUP(with-key): user=hamburgrikishi, key=Mzc1NTM4OTQ3MTkyOTA1MjQ0Mw==, dt=2025-10-31T07:55:35.000Z
+2025-11-01 06:21:53,161 - INFO - このレコードは存在します
+2025-11-01 06:21:53,161 - INFO - カルーセル集計: 想定2 / 収集2 / 新規DL0 / 既存スキップ2 / 失敗0
+2025-11-01 06:21:53,161 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-11-01 06:21:53,161 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-01 09:21:43,857 - INFO - 処理開始 PROCESSID:20251101_092140
+2025-11-01 09:21:43,857 - INFO - 対象ユーザー: hamburgrikishi
+2025-11-01 09:21:43,857 - INFO - 処理を開始します
+2025-11-01 09:21:43,917 - INFO - 選択されたプロファイル: Profile 9
+2025-11-01 09:21:43,917 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-01 09:21:48,478 - INFO - hamburgrikishi のプロフィールページにアクセスします
+2025-11-01 09:22:00,226 - INFO - 最新投稿を読み込みます
+2025-11-01 09:22:05,568 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DKEgRzVS0X3/?hl=ja → 日付確認
+2025-11-01 09:22:09,024 - INFO - ピン留めだが3日以上前(159日) → スキップ
+2025-11-01 09:22:09,025 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DJOUvhByInc/?hl=ja → 日付確認
+2025-11-01 09:22:11,132 - INFO - ピン留めだが3日以上前(180日) → スキップ
+2025-11-01 09:22:11,133 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DPI51D2kdXM/?hl=ja → 日付確認
+2025-11-01 09:22:14,436 - INFO - ピン留めだが3日以上前(33日) → スキップ
+2025-11-01 09:22:14,437 - INFO - 選定: 非ピン留め https://www.instagram.com/hamburgrikishi/p/DQgSj4iERrC/?hl=ja
+2025-11-01 09:22:19,679 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 09:22:23,744 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 09:22:23,785 - INFO - datetime属性の抽出を開始します
+2025-11-01 09:22:23,807 - INFO - 抽出されたdatetime: 2025-11-01T06:54:54.000Z
+2025-11-01 09:22:23,807 - INFO - hamburgrikishi の投稿日時: 2025-11-01T06:54:54.000Z
+2025-11-01 09:22:23,823 - INFO - date:2025-11-01 15:54:54+09:00
+2025-11-01 09:22:23,823 - INFO - post_date:20251101
+2025-11-01 09:22:23,922 - INFO - カルーセル推定: 1枚
+2025-11-01 09:22:23,956 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572159773_17872499901446883_2761928962198326040_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=F73-ZaLUPaMQ7kNvwGZdw9X&_nc_oc=AdlC7EZ1xYOrapCmAVYk2dFyd47zPY6ooMofQYZXlwRocf7vAv8defv4s4IbSV8yKp8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=QS8cEAvHrXs2wxYoqyPPCw&oh=00_AfcciBLOJ7li2rUEOCNwJxvbYtguoJg9bLAbT_YiH6652g&oe=690BAD7A
+2025-11-01 09:22:23,956 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572159773_17872499901446883_2761928962198326040_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=F73-ZaLUPaMQ7kNvwGZdw9X&_nc_oc=AdlC7EZ1xYOrapCmAVYk2dFyd47zPY6ooMofQYZXlwRocf7vAv8defv4s4IbSV8yKp8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=QS8cEAvHrXs2wxYoqyPPCw&oh=00_AfcciBLOJ7li2rUEOCNwJxvbYtguoJg9bLAbT_YiH6652g&oe=690BAD7A
+2025-11-01 09:22:23,956 - INFO - [caption/by_username] 開始
+2025-11-01 09:22:24,039 - INFO - [caption/by_username] 説明文確定（先頭100）: 'キックボクシング団体【RISE】のライトヘビー級王者
+〝南原健太選手〟が御来店くださいました。
+
+心もイケメンの南原選手は明日（11月2日）両国国技館で試合が行われます。
+南原選手の更なるご活躍を心よ'
+2025-11-01 09:22:24,041 - INFO - [caption/by_username] 説明文を保存: media\hamburgrikishi\description\20251101_092140
+2025-11-01 09:22:24,042 - INFO - 画像URLを取得しました
+2025-11-01 09:22:24,079 - INFO - INSERT(with-key): user=hamburgrikishi, key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng==, dt=2025-11-01T06:54:54.000Z
+2025-11-01 09:22:24,079 - INFO - メディアを取得します
+2025-11-01 09:22:26,080 - INFO - ダウンロードを開始します: media\hamburgrikishi\hamburgrikishi_20251101092226.jpg
+2025-11-01 09:22:27,998 - INFO - ダウンロード完了: media\hamburgrikishi\hamburgrikishi_20251101092226.jpg
+2025-11-01 09:22:28,117 - INFO - 元の画像サイズ: 1440x1920
+2025-11-01 09:22:28,117 - INFO - サイズ変更は不要です
+2025-11-01 09:22:28,120 - INFO - 説明文:キックボクシング団体【RISE】のライトヘビー級王者
+〝南原健太選手〟が御来店くださいました。
+
+心もイケメンの南原選手は明日（11月2日）両国国技館で試合が行われます。
+南原選手の更なるご活躍を心より祈念申し上げます。
+従業員一同応援しております。
+
+御来店頂きまして大変ありがとうございました。
+
+#キックボクシング#RISE#南原健太#ライトヘビー級王者#両国ハンバーグRIKISHI(りきし) #両国ランチ #両国グルメ #両国ハンバーグ #両国ご飯 #両国駅グルメ #両国ディナー #両国夜ご飯 #両国昼飲み #両国駅ランチ #両国駅 #両国飲食店 #両国レストラン #両国テイクアウト  #両国デート #両国肉 #両国駅ディナー #両国お昼ご飯 #両国 #両国国技館 #両国江戸noren #ハンバーグ好きな人と繋がりたい #両国洋食 #ハンバーグ #両国駅洋食 #両国駅ハンバーグ
+2025-11-01 09:22:30,576 - INFO - 処理終了
+================================================================================
+2025-11-01 09:22:36,635 - INFO - 処理開始: Mode=post, Username=hamburgrikishi, GBP=09630704539913258202
+2025-11-01 09:22:36,635 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwOTYzMDcwNDUzOTkxMzI1ODIwMiJd.
+2025-11-01 09:23:01,215 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hamburgrikishi\hamburgrikishi_20251101092226.jpg
+2025-11-01 09:23:04,330 - INFO - Waiting for description field...
+2025-11-01 09:23:04,362 - INFO - Setting description via JS (no send_keys)...
+2025-11-01 09:23:05,447 - INFO - Looking for button section...
+2025-11-01 09:23:09,958 - INFO - Trying to select CALL option...
+2025-11-01 09:23:10,239 - INFO - CALL option successfully selected
+2025-11-01 09:23:12,239 - INFO - Clicking submit button...
+2025-11-01 09:23:21,027 - INFO - 処理完了
+================================================================================
+2025-11-01 12:25:55,582 - INFO - 処理開始 PROCESSID:20251101_122552
+2025-11-01 12:25:55,582 - INFO - 対象ユーザー: hamburgrikishi
+2025-11-01 12:25:55,584 - INFO - 処理を開始します
+2025-11-01 12:25:55,643 - INFO - 選択されたプロファイル: Profile 12
+2025-11-01 12:25:55,645 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-01 12:26:00,297 - INFO - hamburgrikishi のプロフィールページにアクセスします
+2025-11-01 12:26:11,842 - INFO - 最新投稿を読み込みます
+2025-11-01 12:26:17,111 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DKEgRzVS0X3/?hl=ja → 日付確認
+2025-11-01 12:26:19,889 - INFO - ピン留めだが3日以上前(160日) → スキップ
+2025-11-01 12:26:19,889 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DJOUvhByInc/?hl=ja → 日付確認
+2025-11-01 12:26:23,423 - INFO - ピン留めだが3日以上前(180日) → スキップ
+2025-11-01 12:26:23,423 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DPI51D2kdXM/?hl=ja → 日付確認
+2025-11-01 12:26:26,791 - INFO - ピン留めだが3日以上前(33日) → スキップ
+2025-11-01 12:26:26,791 - INFO - 選定: 非ピン留め https://www.instagram.com/hamburgrikishi/p/DQgSj4iERrC/?hl=ja
+2025-11-01 12:26:31,880 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 12:26:36,781 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 12:26:36,810 - INFO - datetime属性の抽出を開始します
+2025-11-01 12:26:36,835 - INFO - 抽出されたdatetime: 2025-11-01T06:54:54.000Z
+2025-11-01 12:26:36,835 - INFO - hamburgrikishi の投稿日時: 2025-11-01T06:54:54.000Z
+2025-11-01 12:26:36,843 - INFO - date:2025-11-01 15:54:54+09:00
+2025-11-01 12:26:36,843 - INFO - post_date:20251101
+2025-11-01 12:26:36,888 - INFO - カルーセル推定: 1枚
+2025-11-01 12:26:36,950 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572159773_17872499901446883_2761928962198326040_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=F73-ZaLUPaMQ7kNvwGZdw9X&_nc_oc=AdlC7EZ1xYOrapCmAVYk2dFyd47zPY6ooMofQYZXlwRocf7vAv8defv4s4IbSV8yKp8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=zDLJhnDef0AE5wXU3qLEvQ&oh=00_AffgCc9WLtjbB6oY_b36wQ_5otuabvop8jyBspERYTkmIQ&oe=690BE5BA
+2025-11-01 12:26:36,951 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572159773_17872499901446883_2761928962198326040_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=F73-ZaLUPaMQ7kNvwGZdw9X&_nc_oc=AdlC7EZ1xYOrapCmAVYk2dFyd47zPY6ooMofQYZXlwRocf7vAv8defv4s4IbSV8yKp8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=zDLJhnDef0AE5wXU3qLEvQ&oh=00_AffgCc9WLtjbB6oY_b36wQ_5otuabvop8jyBspERYTkmIQ&oe=690BE5BA
+2025-11-01 12:26:36,951 - INFO - [caption/by_username] 開始
+2025-11-01 12:26:37,029 - INFO - [caption/by_username] 説明文確定（先頭100）: 'キックボクシング団体【RISE】のライトヘビー級王者
+〝南原健太選手〟が御来店くださいました。
+
+心もイケメンの南原選手は明日（11月2日）両国国技館で試合が行われます。
+南原選手の更なるご活躍を心よ'
+2025-11-01 12:26:37,032 - INFO - [caption/by_username] 説明文を保存: media\hamburgrikishi\description\20251101_122552
+2025-11-01 12:26:37,032 - INFO - 画像URLを取得しました
+2025-11-01 12:26:37,033 - INFO - DUP(with-key): user=hamburgrikishi, key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng==, dt=2025-11-01T06:54:54.000Z
+2025-11-01 12:26:37,034 - INFO - このレコードは存在します
+2025-11-01 12:26:37,034 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-01 15:22:19,928 - INFO - 処理開始 PROCESSID:20251101_152216
+2025-11-01 15:22:19,928 - INFO - 対象ユーザー: hamburgrikishi
+2025-11-01 15:22:19,928 - INFO - 処理を開始します
+2025-11-01 15:22:19,997 - INFO - 選択されたプロファイル: Profile 13
+2025-11-01 15:22:19,997 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-01 15:22:24,455 - INFO - hamburgrikishi のプロフィールページにアクセスします
+2025-11-01 15:22:36,396 - INFO - 最新投稿を読み込みます
+2025-11-01 15:22:41,843 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DKEgRzVS0X3/?hl=ja → 日付確認
+2025-11-01 15:22:45,348 - INFO - ピン留めだが3日以上前(160日) → スキップ
+2025-11-01 15:22:45,348 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DJOUvhByInc/?hl=ja → 日付確認
+2025-11-01 15:22:47,845 - INFO - ピン留めだが3日以上前(180日) → スキップ
+2025-11-01 15:22:47,846 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DPI51D2kdXM/?hl=ja → 日付確認
+2025-11-01 15:22:51,323 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-01 15:22:51,323 - INFO - 選定: 非ピン留め https://www.instagram.com/hamburgrikishi/p/DQgSj4iERrC/?hl=ja
+2025-11-01 15:22:55,800 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 15:23:00,630 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 15:23:00,681 - INFO - datetime属性の抽出を開始します
+2025-11-01 15:23:00,705 - INFO - 抽出されたdatetime: 2025-11-01T06:54:54.000Z
+2025-11-01 15:23:00,705 - INFO - hamburgrikishi の投稿日時: 2025-11-01T06:54:54.000Z
+2025-11-01 15:23:00,712 - INFO - date:2025-11-01 15:54:54+09:00
+2025-11-01 15:23:00,712 - INFO - post_date:20251101
+2025-11-01 15:23:00,769 - INFO - カルーセル推定: 1枚
+2025-11-01 15:23:00,815 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572159773_17872499901446883_2761928962198326040_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=F73-ZaLUPaMQ7kNvwGZdw9X&_nc_oc=AdlC7EZ1xYOrapCmAVYk2dFyd47zPY6ooMofQYZXlwRocf7vAv8defv4s4IbSV8yKp8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=A_aaWaP6NqfreiyqemBbdg&oh=00_AfdfYTZzONLDchaMtv_Z4LyFGrVoBNU_fxWr_TKGMXSGxQ&oe=690BE5BA
+2025-11-01 15:23:00,815 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572159773_17872499901446883_2761928962198326040_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=F73-ZaLUPaMQ7kNvwGZdw9X&_nc_oc=AdlC7EZ1xYOrapCmAVYk2dFyd47zPY6ooMofQYZXlwRocf7vAv8defv4s4IbSV8yKp8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=A_aaWaP6NqfreiyqemBbdg&oh=00_AfdfYTZzONLDchaMtv_Z4LyFGrVoBNU_fxWr_TKGMXSGxQ&oe=690BE5BA
+2025-11-01 15:23:00,815 - INFO - [caption/by_username] 開始
+2025-11-01 15:23:00,894 - INFO - [caption/by_username] 説明文確定（先頭100）: 'キックボクシング団体【RISE】のライトヘビー級王者
+〝南原健太選手〟が御来店くださいました。
+
+心もイケメンの南原選手は明日（11月2日）両国国技館で試合が行われます。
+南原選手の更なるご活躍を心よ'
+2025-11-01 15:23:00,896 - INFO - [caption/by_username] 説明文を保存: media\hamburgrikishi\description\20251101_152216
+2025-11-01 15:23:00,896 - INFO - 画像URLを取得しました
+2025-11-01 15:23:00,898 - INFO - DUP(with-key): user=hamburgrikishi, key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng==, dt=2025-11-01T06:54:54.000Z
+2025-11-01 15:23:00,898 - INFO - このレコードは存在します
+2025-11-01 15:23:00,898 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-01 18:17:17,983 - INFO - 処理開始 PROCESSID:20251101_181714
+2025-11-01 18:17:17,983 - INFO - 対象ユーザー: hamburgrikishi
+2025-11-01 18:17:17,983 - INFO - 処理を開始します
+2025-11-01 18:17:18,040 - INFO - 選択されたプロファイル: Profile 9
+2025-11-01 18:17:18,040 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-01 18:17:22,246 - INFO - hamburgrikishi のプロフィールページにアクセスします
+2025-11-01 18:17:34,130 - INFO - 最新投稿を読み込みます
+2025-11-01 18:17:39,387 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DKEgRzVS0X3/?hl=ja → 日付確認
+2025-11-01 18:17:42,971 - INFO - ピン留めだが3日以上前(160日) → スキップ
+2025-11-01 18:17:42,971 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DJOUvhByInc/?hl=ja → 日付確認
+2025-11-01 18:17:45,530 - INFO - ピン留めだが3日以上前(180日) → スキップ
+2025-11-01 18:17:45,530 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DPI51D2kdXM/?hl=ja → 日付確認
+2025-11-01 18:17:49,201 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-01 18:17:49,201 - INFO - 選定: 非ピン留め https://www.instagram.com/hamburgrikishi/p/DQgSj4iERrC/?hl=ja
+2025-11-01 18:17:53,786 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 18:17:58,085 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 18:17:58,117 - INFO - datetime属性の抽出を開始します
+2025-11-01 18:17:58,138 - INFO - 抽出されたdatetime: 2025-11-01T06:54:54.000Z
+2025-11-01 18:17:58,138 - INFO - hamburgrikishi の投稿日時: 2025-11-01T06:54:54.000Z
+2025-11-01 18:17:58,148 - INFO - date:2025-11-01 15:54:54+09:00
+2025-11-01 18:17:58,148 - INFO - post_date:20251101
+2025-11-01 18:17:58,187 - INFO - カルーセル推定: 1枚
+2025-11-01 18:17:58,239 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572159773_17872499901446883_2761928962198326040_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=F73-ZaLUPaMQ7kNvwGZdw9X&_nc_oc=AdlC7EZ1xYOrapCmAVYk2dFyd47zPY6ooMofQYZXlwRocf7vAv8defv4s4IbSV8yKp8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Xegi0Gr0ZMZ7Z1Cxq70syA&oh=00_AfeVuqiAoebxdnK2JNNEgCSA7dNuSMbI1sswfSw8g65wYQ&oe=690C1DFA
+2025-11-01 18:17:58,239 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572159773_17872499901446883_2761928962198326040_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=F73-ZaLUPaMQ7kNvwGZdw9X&_nc_oc=AdlC7EZ1xYOrapCmAVYk2dFyd47zPY6ooMofQYZXlwRocf7vAv8defv4s4IbSV8yKp8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Xegi0Gr0ZMZ7Z1Cxq70syA&oh=00_AfeVuqiAoebxdnK2JNNEgCSA7dNuSMbI1sswfSw8g65wYQ&oe=690C1DFA
+2025-11-01 18:17:58,239 - INFO - [caption/by_username] 開始
+2025-11-01 18:17:58,329 - INFO - [caption/by_username] 説明文確定（先頭100）: 'キックボクシング団体【RISE】のライトヘビー級王者
+〝南原健太選手〟が御来店くださいました。
+
+心もイケメンの南原選手は明日（11月2日）両国国技館で試合が行われます。
+南原選手の更なるご活躍を心よ'
+2025-11-01 18:17:58,330 - INFO - [caption/by_username] 説明文を保存: media\hamburgrikishi\description\20251101_181714
+2025-11-01 18:17:58,331 - INFO - 画像URLを取得しました
+2025-11-01 18:17:58,334 - INFO - DUP(with-key): user=hamburgrikishi, key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng==, dt=2025-11-01T06:54:54.000Z
+2025-11-01 18:17:58,334 - INFO - このレコードは存在します
+2025-11-01 18:17:58,334 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-01 21:10:07,653 - INFO - 処理開始 PROCESSID:20251101_211004
+2025-11-01 21:10:07,655 - INFO - 対象ユーザー: hamburgrikishi
+2025-11-01 21:10:07,655 - INFO - 処理を開始します
+2025-11-01 21:10:07,712 - INFO - 選択されたプロファイル: Profile 10
+2025-11-01 21:10:07,714 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-01 21:10:12,168 - INFO - hamburgrikishi のプロフィールページにアクセスします
+2025-11-01 21:10:24,463 - INFO - 最新投稿を読み込みます
+2025-11-01 21:10:29,952 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DKEgRzVS0X3/?hl=ja → 日付確認
+2025-11-01 21:10:33,418 - INFO - ピン留めだが3日以上前(160日) → スキップ
+2025-11-01 21:10:33,418 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DJOUvhByInc/?hl=ja → 日付確認
+2025-11-01 21:10:35,866 - INFO - ピン留めだが3日以上前(180日) → スキップ
+2025-11-01 21:10:35,866 - INFO - 候補はピン留め: https://www.instagram.com/hamburgrikishi/p/DPI51D2kdXM/?hl=ja → 日付確認
+2025-11-01 21:10:38,769 - INFO - ピン留めだが3日以上前(34日) → スキップ
+2025-11-01 21:10:38,769 - INFO - 選定: 非ピン留め https://www.instagram.com/hamburgrikishi/p/DQgSj4iERrC/?hl=ja
+2025-11-01 21:10:44,155 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 21:10:48,925 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 21:10:48,949 - INFO - datetime属性の抽出を開始します
+2025-11-01 21:10:48,982 - INFO - 抽出されたdatetime: 2025-11-01T06:54:54.000Z
+2025-11-01 21:10:48,982 - INFO - hamburgrikishi の投稿日時: 2025-11-01T06:54:54.000Z
+2025-11-01 21:10:48,990 - INFO - date:2025-11-01 15:54:54+09:00
+2025-11-01 21:10:48,990 - INFO - post_date:20251101
+2025-11-01 21:10:49,028 - INFO - カルーセル推定: 1枚
+2025-11-01 21:10:49,064 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572159773_17872499901446883_2761928962198326040_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=F73-ZaLUPaMQ7kNvwGZdw9X&_nc_oc=AdlC7EZ1xYOrapCmAVYk2dFyd47zPY6ooMofQYZXlwRocf7vAv8defv4s4IbSV8yKp8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=5Blxf3F2-oRLqLfWWsanaA&oh=00_AfejwV_zpl-fHbf6eSrd4dvt-npVl99KnnGx9vfe-oMKhA&oe=690C563A
+2025-11-01 21:10:49,065 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572159773_17872499901446883_2761928962198326040_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=F73-ZaLUPaMQ7kNvwGZdw9X&_nc_oc=AdlC7EZ1xYOrapCmAVYk2dFyd47zPY6ooMofQYZXlwRocf7vAv8defv4s4IbSV8yKp8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=5Blxf3F2-oRLqLfWWsanaA&oh=00_AfejwV_zpl-fHbf6eSrd4dvt-npVl99KnnGx9vfe-oMKhA&oe=690C563A
+2025-11-01 21:10:49,065 - INFO - [caption/by_username] 開始
+2025-11-01 21:10:49,153 - INFO - [caption/by_username] 説明文確定（先頭100）: 'キックボクシング団体【RISE】のライトヘビー級王者
+〝南原健太選手〟が御来店くださいました。
+
+心もイケメンの南原選手は明日（11月2日）両国国技館で試合が行われます。
+南原選手の更なるご活躍を心よ'
+2025-11-01 21:10:49,155 - INFO - [caption/by_username] 説明文を保存: media\hamburgrikishi\description\20251101_211004
+2025-11-01 21:10:49,155 - INFO - 画像URLを取得しました
+2025-11-01 21:10:49,157 - INFO - DUP(with-key): user=hamburgrikishi, key=Mzc1NjA4MzcxOTk0Njk2Nzc0Ng==, dt=2025-11-01T06:54:54.000Z
+2025-11-01 21:10:49,157 - INFO - このレコードは存在します
+2025-11-01 21:10:49,158 - INFO - 全件レコードが存在します

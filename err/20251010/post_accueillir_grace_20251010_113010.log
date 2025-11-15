@@ -1,0 +1,98 @@
+================================================================================
+2025-10-10 10:52:43,247 - INFO - 処理開始 PROCESSID:20251010_105239
+2025-10-10 10:52:43,249 - INFO - 対象ユーザー: accueillir_grace
+2025-10-10 10:52:43,249 - INFO - 処理を開始します
+2025-10-10 10:52:43,310 - INFO - 選択されたプロファイル: Profile 9
+2025-10-10 10:52:43,310 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-10 10:52:48,959 - INFO - accueillir_grace のプロフィールページにアクセスします
+2025-10-10 10:53:00,637 - INFO - 最新投稿を読み込みます
+2025-10-10 10:53:06,123 - INFO - 候補はピン留め: https://www.instagram.com/accueillir_grace/p/DLwZwD4ye9s/?hl=ja → 日付確認
+2025-10-10 10:53:10,502 - INFO - ピン留めだが3日以上前(96日) → スキップ
+2025-10-10 10:53:10,502 - INFO - 選定: 非ピン留め https://www.instagram.com/sakura_grace_/p/DPnq5ffExgy/?hl=ja
+2025-10-10 10:53:15,498 - INFO - 最新投稿ページにアクセスしました
+2025-10-10 10:53:19,736 - INFO - 最新投稿ページにアクセスしました
+2025-10-10 10:53:19,834 - INFO - datetime属性の抽出を開始します
+2025-10-10 10:53:19,861 - INFO - 抽出されたdatetime: 2025-10-10T07:10:51.000Z
+2025-10-10 10:53:19,861 - INFO - accueillir_grace の投稿日時: 2025-10-10T07:10:51.000Z
+2025-10-10 10:53:19,948 - INFO - date:2025-10-10 16:10:51+09:00
+2025-10-10 10:53:19,948 - INFO - post_date:20251010
+2025-10-10 10:53:20,562 - INFO - カルーセル推定: 1枚
+2025-10-10 10:53:20,744 - INFO - 検出(SINGLE): https://scontent-hkg4-1.cdninstagram.com/v/t51.82787-15/561466969_17921365881171434_367194186911850799_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0MDE0NjY4NDMyNTQ2ODIxMA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTc0Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=qPEUSby6s4kQ7kNvwEKNBGT&_nc_oc=AdlLEer0YcxfiZjwFjP_HI9V9GSO5bWavpBs-NT7pRGpm2y9_uPTN44PY9jhEo3KHqg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_gid=hWfeT8LC2vjDupBVhcWebA&oh=00_Afcq1ZEEd4HJyX4LPSVyyvttMMuuy4qY_dME1YXVJAnCHA&oe=68EEB792
+2025-10-10 10:53:20,744 - INFO - 1枚目: https://scontent-hkg4-1.cdninstagram.com/v/t51.82787-15/561466969_17921365881171434_367194186911850799_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc0MDE0NjY4NDMyNTQ2ODIxMA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTc0Mi5zZHIuQzMifQ%3D%3D&_nc_ohc=qPEUSby6s4kQ7kNvwEKNBGT&_nc_oc=AdlLEer0YcxfiZjwFjP_HI9V9GSO5bWavpBs-NT7pRGpm2y9_uPTN44PY9jhEo3KHqg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_gid=hWfeT8LC2vjDupBVhcWebA&oh=00_Afcq1ZEEd4HJyX4LPSVyyvttMMuuy4qY_dME1YXVJAnCHA&oe=68EEB792
+2025-10-10 10:53:20,745 - INFO - [caption/by_username] 開始
+2025-10-10 10:54:41,866 - INFO - [caption/by_username] 説明文確定（先頭100）: '赤みを抑えたオリーブグレージュ🫒🩶
+・
+・
+・⁡
+　♡ご予約♡
+⁡
+　ミニモ、DM、お電話にてご予約受け付けており
+　ます！お気軽にご連絡ください💌
+⁡
+　——————————————
+　〒940-2'
+2025-10-10 10:54:41,868 - INFO - [caption/by_username] 説明文を保存: media\accueillir_grace\description\20251010_105239
+2025-10-10 10:54:41,868 - INFO - 画像URLを取得しました
+2025-10-10 10:54:41,904 - INFO - INSERT(with-key): user=accueillir_grace, key=Mzc0MDE0NjY4NDMyNTQ2ODIxMA==, dt=2025-10-10T07:10:51.000Z
+2025-10-10 10:54:41,904 - INFO - メディアを取得します
+2025-10-10 10:54:43,906 - INFO - ダウンロードを開始します: media\accueillir_grace\accueillir_grace_20251010105443.jpg
+2025-10-10 10:54:44,302 - INFO - ダウンロード完了: media\accueillir_grace\accueillir_grace_20251010105443.jpg
+2025-10-10 10:54:44,404 - INFO - 元の画像サイズ: 1440x1742
+2025-10-10 10:54:44,404 - INFO - サイズ変更は不要です
+2025-10-10 10:54:44,405 - INFO - 説明文:赤みを抑えたオリーブグレージュ🫒🩶
+・
+・
+・⁡
+　♡ご予約♡
+⁡
+　ミニモ、DM、お電話にてご予約受け付けており
+　ます！お気軽にご連絡ください💌
+⁡
+　——————————————
+　〒940-2160
+　𝐀𝐜𝐜𝐮𝐞𝐢𝐥𝐥𝐢𝐫 𝐠𝐫𝐚𝐜𝐞(アクイールグラッセ)
+　新潟県長岡市古正寺3-33
+　📞0258-94-4533
+⁡
+　♡営業時間♡
+　火〜日　9:00〜18:30
+　定休日　月曜日
+⁡
+⁡
+⁡
+#カラー #ファッションカラー #ワンカラー #新潟美容室 #長岡美容室 #見附美容室
+⁡
+⁡
+　
+⁡
+⁡
+2025-10-10 10:54:46,799 - INFO - 処理終了
+================================================================================
+2025-10-10 10:54:52,883 - INFO - 処理開始: Mode=post, Username=accueillir_grace, GBP=18176898271205727261
+2025-10-10 10:54:52,883 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxODE3Njg5ODI3MTIwNTcyNzI2MSJd.
+2025-10-10 10:55:20,856 - ERROR - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x42fea3+66515]
+	GetHandleVerifier [0x0x42fee4+66580]
+	(No symbol) [0x0x21dc48]
+	(No symbol) [0x0x268704]
+	(No symbol) [0x0x268aab]
+	(No symbol) [0x0x2af482]
+	(No symbol) [0x0x28b214]
+	(No symbol) [0x0x2acba7]
+	(No symbol) [0x0x28afc6]
+	(No symbol) [0x0x25c2ca]
+	(No symbol) [0x0x25d154]
+	GetHandleVerifier [0x0x6873d3+2521347]
+	GetHandleVerifier [0x0x682353+2500739]
+	GetHandleVerifier [0x0x457cf4+229924]
+	GetHandleVerifier [0x0x448258+165768]
+	GetHandleVerifier [0x0x44ed0d+193085]
+	GetHandleVerifier [0x0x4381b8+100072]
+	GetHandleVerifier [0x0x438350+100480]
+	GetHandleVerifier [0x0x42260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-10 10:55:23,301 - ERROR - 投稿画面オープン失敗

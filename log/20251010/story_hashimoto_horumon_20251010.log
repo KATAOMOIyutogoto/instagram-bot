@@ -1,0 +1,198 @@
+================================================================================
+2025-10-10 01:43:22,227 - INFO - 処理開始 PROCESSID:20251010_014318
+2025-10-10 01:43:22,227 - INFO - 対象ユーザー: hashimoto_horumon
+2025-10-10 01:43:22,227 - INFO - 処理を開始します
+2025-10-10 01:43:22,304 - INFO - 選択されたプロファイル: Profile 12
+2025-10-10 01:43:22,304 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-10 01:43:28,015 - INFO - hashimoto_horumon のプロフィールページにアクセスします
+2025-10-10 01:43:50,007 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 01:43:53,255 - INFO - 動画の取得に失敗しました
+2025-10-10 01:43:53,258 - INFO - datetime属性の抽出を開始します
+2025-10-10 01:43:53,358 - INFO - 抽出されたdatetime: 2025-10-09T02:21:52.000Z
+2025-10-10 01:43:53,401 - INFO - 画像URLを取得しました
+2025-10-10 01:43:53,404 - INFO - DUP(with-key): user=hashimoto_horumon, key=MzczOTI3NjQ4MzE5OTIzNTAyMg==, dt=2025-10-09T02:21:52.000Z
+================================================================================
+2025-10-10 05:41:36,646 - INFO - 処理開始 PROCESSID:20251010_054133
+2025-10-10 05:41:36,646 - INFO - 対象ユーザー: hashimoto_horumon
+2025-10-10 05:41:36,646 - INFO - 処理を開始します
+2025-10-10 05:41:36,707 - INFO - 選択されたプロファイル: Profile 13
+2025-10-10 05:41:36,707 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-10 05:41:41,436 - INFO - hashimoto_horumon のプロフィールページにアクセスします
+2025-10-10 05:42:03,362 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 05:42:06,522 - INFO - 動画の取得に失敗しました
+2025-10-10 05:42:06,522 - INFO - datetime属性の抽出を開始します
+2025-10-10 05:42:16,981 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x42fea3+66515]
+	GetHandleVerifier [0x0x42fee4+66580]
+	(No symbol) [0x0x21dc48]
+	(No symbol) [0x0x268704]
+	(No symbol) [0x0x268aab]
+	(No symbol) [0x0x2af482]
+	(No symbol) [0x0x28b214]
+	(No symbol) [0x0x2acba7]
+	(No symbol) [0x0x28afc6]
+	(No symbol) [0x0x25c2ca]
+	(No symbol) [0x0x25d154]
+	GetHandleVerifier [0x0x6873d3+2521347]
+	GetHandleVerifier [0x0x682353+2500739]
+	GetHandleVerifier [0x0x457cf4+229924]
+	GetHandleVerifier [0x0x448258+165768]
+	GetHandleVerifier [0x0x44ed0d+193085]
+	GetHandleVerifier [0x0x4381b8+100072]
+	GetHandleVerifier [0x0x438350+100480]
+	GetHandleVerifier [0x0x42260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-10 05:42:27,312 - INFO - 画像の取得に失敗しました
+2025-10-10 05:42:29,733 - INFO - 処理終了
+================================================================================
+2025-10-10 09:42:53,748 - INFO - 処理開始 PROCESSID:20251010_094250
+2025-10-10 09:42:53,748 - INFO - 対象ユーザー: hashimoto_horumon
+2025-10-10 09:42:53,748 - INFO - 処理を開始します
+2025-10-10 09:42:53,805 - INFO - 選択されたプロファイル: Profile 9
+2025-10-10 09:42:53,805 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-10 09:42:58,663 - INFO - hashimoto_horumon のプロフィールページにアクセスします
+2025-10-10 09:43:20,834 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 09:43:23,939 - INFO - 動画の取得に失敗しました
+2025-10-10 09:43:23,939 - INFO - datetime属性の抽出を開始します
+2025-10-10 09:43:34,316 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x42fea3+66515]
+	GetHandleVerifier [0x0x42fee4+66580]
+	(No symbol) [0x0x21dc48]
+	(No symbol) [0x0x268704]
+	(No symbol) [0x0x268aab]
+	(No symbol) [0x0x2af482]
+	(No symbol) [0x0x28b214]
+	(No symbol) [0x0x2acba7]
+	(No symbol) [0x0x28afc6]
+	(No symbol) [0x0x25c2ca]
+	(No symbol) [0x0x25d154]
+	GetHandleVerifier [0x0x6873d3+2521347]
+	GetHandleVerifier [0x0x682353+2500739]
+	GetHandleVerifier [0x0x457cf4+229924]
+	GetHandleVerifier [0x0x448258+165768]
+	GetHandleVerifier [0x0x44ed0d+193085]
+	GetHandleVerifier [0x0x4381b8+100072]
+	GetHandleVerifier [0x0x438350+100480]
+	GetHandleVerifier [0x0x42260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-10 09:43:44,620 - INFO - 画像の取得に失敗しました
+2025-10-10 09:43:47,019 - INFO - 処理終了
+================================================================================
+2025-10-10 13:39:22,533 - INFO - 処理開始 PROCESSID:20251010_133919
+2025-10-10 13:39:22,533 - INFO - 対象ユーザー: hashimoto_horumon
+2025-10-10 13:39:22,533 - INFO - 処理を開始します
+2025-10-10 13:39:22,589 - INFO - 選択されたプロファイル: Profile 9
+2025-10-10 13:39:22,589 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-10 13:39:27,344 - INFO - hashimoto_horumon のプロフィールページにアクセスします
+2025-10-10 13:39:49,466 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 13:39:52,606 - INFO - 動画の取得に失敗しました
+2025-10-10 13:39:52,607 - INFO - datetime属性の抽出を開始します
+2025-10-10 13:40:02,963 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x42fea3+66515]
+	GetHandleVerifier [0x0x42fee4+66580]
+	(No symbol) [0x0x21dc48]
+	(No symbol) [0x0x268704]
+	(No symbol) [0x0x268aab]
+	(No symbol) [0x0x2af482]
+	(No symbol) [0x0x28b214]
+	(No symbol) [0x0x2acba7]
+	(No symbol) [0x0x28afc6]
+	(No symbol) [0x0x25c2ca]
+	(No symbol) [0x0x25d154]
+	GetHandleVerifier [0x0x6873d3+2521347]
+	GetHandleVerifier [0x0x682353+2500739]
+	GetHandleVerifier [0x0x457cf4+229924]
+	GetHandleVerifier [0x0x448258+165768]
+	GetHandleVerifier [0x0x44ed0d+193085]
+	GetHandleVerifier [0x0x4381b8+100072]
+	GetHandleVerifier [0x0x438350+100480]
+	GetHandleVerifier [0x0x42260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-10 13:40:13,264 - INFO - 画像の取得に失敗しました
+2025-10-10 13:40:15,685 - INFO - 処理終了
+================================================================================
+2025-10-10 17:32:41,299 - INFO - 処理開始 PROCESSID:20251010_173238
+2025-10-10 17:32:41,299 - INFO - 対象ユーザー: hashimoto_horumon
+2025-10-10 17:32:41,299 - INFO - 処理を開始します
+2025-10-10 17:32:41,357 - INFO - 選択されたプロファイル: Profile 12
+2025-10-10 17:32:41,357 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-10 17:32:46,114 - INFO - hashimoto_horumon のプロフィールページにアクセスします
+2025-10-10 17:33:08,607 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 17:33:11,725 - INFO - 動画の取得に失敗しました
+2025-10-10 17:33:11,728 - INFO - datetime属性の抽出を開始します
+2025-10-10 17:33:22,106 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x42fea3+66515]
+	GetHandleVerifier [0x0x42fee4+66580]
+	(No symbol) [0x0x21dc48]
+	(No symbol) [0x0x268704]
+	(No symbol) [0x0x268aab]
+	(No symbol) [0x0x2af482]
+	(No symbol) [0x0x28b214]
+	(No symbol) [0x0x2acba7]
+	(No symbol) [0x0x28afc6]
+	(No symbol) [0x0x25c2ca]
+	(No symbol) [0x0x25d154]
+	GetHandleVerifier [0x0x6873d3+2521347]
+	GetHandleVerifier [0x0x682353+2500739]
+	GetHandleVerifier [0x0x457cf4+229924]
+	GetHandleVerifier [0x0x448258+165768]
+	GetHandleVerifier [0x0x44ed0d+193085]
+	GetHandleVerifier [0x0x4381b8+100072]
+	GetHandleVerifier [0x0x438350+100480]
+	GetHandleVerifier [0x0x42260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-10 17:33:32,387 - INFO - 画像の取得に失敗しました
+2025-10-10 17:33:34,840 - INFO - 処理終了
+================================================================================
+2025-10-10 21:22:25,868 - INFO - 処理開始 PROCESSID:20251010_212222
+2025-10-10 21:22:25,868 - INFO - 対象ユーザー: hashimoto_horumon
+2025-10-10 21:22:25,868 - INFO - 処理を開始します
+2025-10-10 21:22:25,942 - INFO - 選択されたプロファイル: Profile 13
+2025-10-10 21:22:25,942 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-10 21:22:30,600 - INFO - hashimoto_horumon のプロフィールページにアクセスします
+2025-10-10 21:22:52,911 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 21:22:56,050 - INFO - 動画の取得に失敗しました
+2025-10-10 21:22:56,051 - INFO - datetime属性の抽出を開始します
+2025-10-10 21:23:06,184 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x42fea3+66515]
+	GetHandleVerifier [0x0x42fee4+66580]
+	(No symbol) [0x0x21dc48]
+	(No symbol) [0x0x268704]
+	(No symbol) [0x0x268aab]
+	(No symbol) [0x0x2af482]
+	(No symbol) [0x0x28b214]
+	(No symbol) [0x0x2acba7]
+	(No symbol) [0x0x28afc6]
+	(No symbol) [0x0x25c2ca]
+	(No symbol) [0x0x25d154]
+	GetHandleVerifier [0x0x6873d3+2521347]
+	GetHandleVerifier [0x0x682353+2500739]
+	GetHandleVerifier [0x0x457cf4+229924]
+	GetHandleVerifier [0x0x448258+165768]
+	GetHandleVerifier [0x0x44ed0d+193085]
+	GetHandleVerifier [0x0x4381b8+100072]
+	GetHandleVerifier [0x0x438350+100480]
+	GetHandleVerifier [0x0x42260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-10 21:23:16,464 - INFO - 画像の取得に失敗しました
+2025-10-10 21:23:18,876 - INFO - 処理終了

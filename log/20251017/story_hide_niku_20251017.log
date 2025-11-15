@@ -1,0 +1,105 @@
+================================================================================
+2025-10-17 00:58:16,216 - INFO - 処理開始 PROCESSID:20251017_005812
+2025-10-17 00:58:16,216 - INFO - 対象ユーザー: hide_niku
+2025-10-17 00:58:16,216 - INFO - 処理を開始します
+2025-10-17 00:58:16,269 - INFO - 選択されたプロファイル: Profile 9
+2025-10-17 00:58:16,269 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-17 00:58:20,808 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-17 00:58:43,051 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 00:58:46,420 - INFO - 動画の取得に失敗しました
+2025-10-17 00:58:46,420 - INFO - datetime属性の抽出を開始します
+2025-10-17 00:58:46,518 - INFO - 抽出されたdatetime: 2025-10-16T08:34:37.000Z
+2025-10-17 00:58:46,546 - INFO - 画像URLを取得しました
+2025-10-17 00:58:46,548 - INFO - DUP(with-key): user=hide_niku, key=Mzc0NDUzNzUzOTIzMjU3ODgzNQ==, dt=2025-10-16T08:34:37.000Z
+================================================================================
+2025-10-17 04:50:16,936 - INFO - 処理開始 PROCESSID:20251017_045013
+2025-10-17 04:50:16,936 - INFO - 対象ユーザー: hide_niku
+2025-10-17 04:50:16,936 - INFO - 処理を開始します
+2025-10-17 04:50:17,008 - INFO - 選択されたプロファイル: Profile 13
+2025-10-17 04:50:17,008 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-17 04:50:21,741 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-17 04:50:43,966 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 04:50:44,997 - INFO - hide_niku: 動画を検出しました
+2025-10-17 04:50:44,998 - INFO - datetime属性の抽出を開始します
+2025-10-17 04:50:45,147 - INFO - 抽出されたdatetime: 2025-10-17T02:55:03.000Z
+2025-10-17 04:50:45,147 - INFO - hide_niku の投稿日時: 2025-10-17T02:55:03.000Z
+2025-10-17 04:50:46,385 - INFO - 生成URL:https://scontent-lhr6-2.cdninstagram.com/o1/v/t16/f2/m69/AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB.mp4?strext=1&_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=1ZRH_Qg6E-oQ7kNvwHgUhlV&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E4MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1ODYxNzMwNDEwMDE4MTEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=-M2Ws6EoZK3pzniYpNhbYQ&_nc_zt=28&oh=00_AffloVnK6oMC-UgvoRd4DlLOMVoYXdv1mBcuztS8vhAaFQ&oe=68F7B997&bytestart=0&byteend=793868
+2025-10-17 04:50:46,385 - INFO - 動画URLを取得しました
+2025-10-17 04:50:46,451 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=hide_niku, key=AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB, dt=2025-10-17T02:55:03.000Z, url=https://scontent-lhr6-2.cdninstagram.com/o1/v/t16/f2/m69/AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB.mp4?strext=1&_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=1ZRH_Qg6E-oQ7kNvwHgUhlV&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E4MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1ODYxNzMwNDEwMDE4MTEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=-M2Ws6EoZK3pzniYpNhbYQ&_nc_zt=28&oh=00_AffloVnK6oMC-UgvoRd4DlLOMVoYXdv1mBcuztS8vhAaFQ&oe=68F7B997&bytestart=0&byteend=793868, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('hide_niku', 'AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB', 'https://scontent-lhr6-2.cdninstagram.com/o1/v/t16/f2/m69/AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB.mp4?strext=1&_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=1ZRH_Qg6E-oQ7kNvwHgUhlV&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E4MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1ODYxNzMwNDEwMDE4MTEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=-M2Ws6EoZK3pzniYpNhbYQ&_nc_zt=28&oh=00_AffloVnK6oMC-UgvoRd4DlLOMVoYXdv1mBcuztS8vhAaFQ&oe=68F7B997&bytestart=0&byteend=793868', '2025-10-17T02:55:03.000Z')
+================================================================================
+2025-10-17 08:46:50,735 - INFO - 処理開始 PROCESSID:20251017_084647
+2025-10-17 08:46:50,735 - INFO - 対象ユーザー: hide_niku
+2025-10-17 08:46:50,735 - INFO - 処理を開始します
+2025-10-17 08:46:50,793 - INFO - 選択されたプロファイル: Profile 9
+2025-10-17 08:46:50,793 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-17 08:46:55,412 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-17 08:47:17,375 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 08:47:18,481 - INFO - hide_niku: 動画を検出しました
+2025-10-17 08:47:18,482 - INFO - datetime属性の抽出を開始します
+2025-10-17 08:47:18,519 - INFO - 抽出されたdatetime: 2025-10-17T02:55:03.000Z
+2025-10-17 08:47:18,519 - INFO - hide_niku の投稿日時: 2025-10-17T02:55:03.000Z
+2025-10-17 08:47:19,859 - INFO - 生成URL:https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m367/AQOPpnzk9y5hMHu6G5bFvZr3M8gU7GicnaN6eCOACLkCGT8MJlaw_XPo1k7qFGBB1ovoFuVnULdSsGf5dzn24nPuhxOaLccmKfwzgs4O5pB2Gg.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=idoKlh0U4RAQ7kNvwGOVE9f&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE2NDIzMDcyODk0OTEyNywidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=yAsJtcruKd20hhKGAtV4Sg&_nc_zt=28&oh=00_AffvWe2blbOvkPqE2Vx4MXHwojCzC-dUcfnhD30unGEoeg&oe=68F7C2AA&bytestart=0&byteend=630592
+2025-10-17 08:47:19,859 - INFO - 動画URLを取得しました
+2025-10-17 08:47:20,126 - INFO - INSERT(with-key): user=hide_niku, key=AQOPpnzk9y5hMHu6G5bFvZr3M8gU7GicnaN6eCOACLkCGT8MJlaw_XPo1k7qFGBB1ovoFuVnULdSsGf5dzn24nPuhxOaLccmKfwzgs4O5pB2Gg, dt=2025-10-17T02:55:03.000Z
+2025-10-17 08:47:22,130 - INFO - ダウンロードを開始します: media\hide_niku\hide_niku_20251017084722.mp4
+2025-10-17 08:47:24,194 - INFO - ダウンロード完了: media\hide_niku\hide_niku_20251017084722.mp4
+2025-10-17 08:47:27,138 - INFO - 処理終了
+2025-10-17 08:47:27,140 - INFO - 説明文_AI: None
+2025-10-17 08:47:27,140 - INFO - 説明文_最終: 
+================================================================================
+2025-10-17 08:47:33,276 - INFO - 処理開始: Mode=story, Username=hide_niku, GBP=nikukappouhide
+2025-10-17 08:47:33,276 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJuaWt1a2FwcG91aGlkZSJd.
+2025-10-17 08:47:56,240 - INFO - 元の動画サイズ: 1080x1920
+2025-10-17 08:47:56,240 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-17 08:47:56,240 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hide_niku\hide_niku_20251017084722.mp4
+2025-10-17 08:48:06,372 - INFO - 一時ファイルが見つかりません: media\hide_niku\description\20251017_084647
+2025-10-17 08:48:06,372 - INFO - Looking for button section...
+2025-10-17 08:48:11,124 - INFO - Trying to select CALL option...
+2025-10-17 08:48:11,348 - INFO - CALL option successfully selected
+2025-10-17 08:48:13,349 - INFO - Clicking submit button...
+2025-10-17 08:48:22,972 - INFO - 処理完了
+================================================================================
+2025-10-17 17:27:59,750 - INFO - 処理開始 PROCESSID:20251017_172756
+2025-10-17 17:27:59,750 - INFO - 対象ユーザー: hide_niku
+2025-10-17 17:27:59,750 - INFO - 処理を開始します
+2025-10-17 17:27:59,804 - INFO - 選択されたプロファイル: Profile 9
+2025-10-17 17:27:59,804 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-17 17:28:04,342 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-17 17:28:26,683 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 17:28:29,881 - INFO - 動画の取得に失敗しました
+2025-10-17 17:28:29,881 - INFO - datetime属性の抽出を開始します
+2025-10-17 17:28:29,955 - INFO - 抽出されたdatetime: 2025-10-17T08:01:14.000Z
+2025-10-17 17:28:29,981 - INFO - 画像URLを取得しました
+2025-10-17 17:28:30,033 - INFO - INSERT(with-key): user=hide_niku, key=Mzc0NTI0NTUyMjU1NjAwNDU4NQ==, dt=2025-10-17T08:01:14.000Z
+2025-10-17 17:28:32,035 - INFO - ダウンロードを開始します: media\hide_niku\hide_niku_20251017172832.jpg
+2025-10-17 17:28:33,146 - INFO - ダウンロード完了: media\hide_niku\hide_niku_20251017172832.jpg
+2025-10-17 17:28:33,319 - INFO - 元の画像サイズ: 480x853
+2025-10-17 17:28:33,319 - INFO - サイズ変更は不要です
+2025-10-17 17:28:36,946 - INFO - 処理終了
+2025-10-17 17:28:36,947 - INFO - 説明文_AI: None
+2025-10-17 17:28:36,947 - INFO - 説明文_最終: 
+================================================================================
+2025-10-17 17:28:42,993 - INFO - 処理開始: Mode=story, Username=hide_niku, GBP=nikukappouhide
+2025-10-17 17:28:42,993 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJuaWt1a2FwcG91aGlkZSJd.
+2025-10-17 17:29:06,775 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hide_niku\hide_niku_20251017172832.jpg
+2025-10-17 17:29:09,927 - INFO - 一時ファイルが見つかりません: media\hide_niku\description\20251017_172756
+2025-10-17 17:29:09,927 - INFO - Looking for button section...
+2025-10-17 17:29:14,432 - INFO - Trying to select CALL option...
+2025-10-17 17:29:14,639 - INFO - CALL option successfully selected
+2025-10-17 17:29:16,640 - INFO - Clicking submit button...
+2025-10-17 17:29:25,289 - INFO - 処理完了
+================================================================================
+2025-10-17 20:47:16,082 - INFO - 処理開始 PROCESSID:20251017_204712
+2025-10-17 20:47:16,082 - INFO - 対象ユーザー: hide_niku
+2025-10-17 20:47:16,082 - INFO - 処理を開始します
+2025-10-17 20:47:16,143 - INFO - 選択されたプロファイル: Profile 12
+2025-10-17 20:47:16,144 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-17 20:47:20,731 - INFO - hide_niku のプロフィールページにアクセスします
+2025-10-17 20:47:42,579 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 20:47:43,296 - INFO - hide_niku: 動画を検出しました
+2025-10-17 20:47:43,297 - INFO - datetime属性の抽出を開始します
+2025-10-17 20:47:43,327 - INFO - 抽出されたdatetime: 2025-10-17T02:55:03.000Z
+2025-10-17 20:47:43,327 - INFO - hide_niku の投稿日時: 2025-10-17T02:55:03.000Z
+2025-10-17 20:47:44,698 - INFO - 生成URL:https://scontent-lhr6-2.cdninstagram.com/o1/v/t16/f2/m69/AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB.mp4?strext=1&_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=pPlRvIma0QMQ7kNvwEZukve&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E4MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1ODYxNzMwNDEwMDE4MTEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=xJOQAj0VpnhF0w95JOmzKQ&_nc_zt=28&oh=00_AfcXPfEtz3FfcHFOoiAXa2SLN-OwIrztRY_KLFh1agz-ZA&oe=68F86257&bytestart=0&byteend=793868
+2025-10-17 20:47:44,699 - INFO - 動画URLを取得しました
+2025-10-17 20:47:44,707 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=hide_niku, key=AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB, dt=2025-10-17T02:55:03.000Z, url=https://scontent-lhr6-2.cdninstagram.com/o1/v/t16/f2/m69/AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB.mp4?strext=1&_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=pPlRvIma0QMQ7kNvwEZukve&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E4MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1ODYxNzMwNDEwMDE4MTEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=xJOQAj0VpnhF0w95JOmzKQ&_nc_zt=28&oh=00_AfcXPfEtz3FfcHFOoiAXa2SLN-OwIrztRY_KLFh1agz-ZA&oe=68F86257&bytestart=0&byteend=793868, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('hide_niku', 'AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB', 'https://scontent-lhr6-2.cdninstagram.com/o1/v/t16/f2/m69/AQNZVBdjdtseU9p2UZbIBPVkjCSKAI95f6S9bB6k1w_WgA-eE4HqrJGU-kPGIz53r4qkCouMiwpwBNxB2vDqsKGB.mp4?strext=1&_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=pPlRvIma0QMQ7kNvwEZukve&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E4MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1ODYxNzMwNDEwMDE4MTEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=xJOQAj0VpnhF0w95JOmzKQ&_nc_zt=28&oh=00_AfcXPfEtz3FfcHFOoiAXa2SLN-OwIrztRY_KLFh1agz-ZA&oe=68F86257&bytestart=0&byteend=793868', '2025-10-17T02:55:03.000Z')

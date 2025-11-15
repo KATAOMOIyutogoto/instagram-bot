@@ -1,0 +1,126 @@
+================================================================================
+2025-10-26 01:31:00,377 - INFO - 処理開始 PROCESSID:20251026_013053
+2025-10-26 01:31:00,377 - INFO - 対象ユーザー: salon_de_prink
+2025-10-26 01:31:00,378 - INFO - 処理を開始します
+2025-10-26 01:31:00,513 - INFO - 選択されたプロファイル: Profile 13
+2025-10-26 01:31:00,513 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-26 01:31:12,230 - INFO - salon_de_prink のプロフィールページにアクセスします
+2025-10-26 01:31:56,576 - INFO - プロフィール写真のクリックに成功しました
+2025-10-26 01:32:00,697 - INFO - salon_de_prink: 動画を検出しました
+2025-10-26 01:32:00,704 - INFO - datetime属性の抽出を開始します
+2025-10-26 01:32:02,417 - INFO - 抽出されたdatetime: 2025-10-25T05:07:41.000Z
+2025-10-26 01:32:02,417 - INFO - salon_de_prink の投稿日時: 2025-10-25T05:07:41.000Z
+2025-10-26 01:32:06,834 - INFO - 生成URL:https://scontent-lhr6-2.cdninstagram.com/o1/v/t16/f2/m69/AQMPpulXMRUpF2eAcOgvTFOj_82rgirj5iWuzn9kHAdHPWoxLKxJvygk2T-dOYZUlAehFGFv8C2bciku5AuvL_mB.mp4?strext=1&_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=Bz3J1vbVblYQ7kNvwEVCI4q&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5LWFkc19xOTAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Nzk0NTU2MTY5NTk2NjMwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=j88IJPYMmhWmLshYk-Yg6g&_nc_zt=28&oh=00_Aff8tHaQRkYJH5MPPM0PT3oJx0CkMZ-A1IkAcVgRrTVV9A&oe=6903446F&bytestart=0&byteend=542313
+2025-10-26 01:32:06,834 - INFO - 動画URLを取得しました
+2025-10-26 01:32:06,856 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=salon_de_prink, key=AQMPpulXMRUpF2eAcOgvTFOj_82rgirj5iWuzn9kHAdHPWoxLKxJvygk2T-dOYZUlAehFGFv8C2bciku5AuvL_mB, dt=2025-10-25T05:07:41.000Z, url=https://scontent-lhr6-2.cdninstagram.com/o1/v/t16/f2/m69/AQMPpulXMRUpF2eAcOgvTFOj_82rgirj5iWuzn9kHAdHPWoxLKxJvygk2T-dOYZUlAehFGFv8C2bciku5AuvL_mB.mp4?strext=1&_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=Bz3J1vbVblYQ7kNvwEVCI4q&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5LWFkc19xOTAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Nzk0NTU2MTY5NTk2NjMwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=j88IJPYMmhWmLshYk-Yg6g&_nc_zt=28&oh=00_Aff8tHaQRkYJH5MPPM0PT3oJx0CkMZ-A1IkAcVgRrTVV9A&oe=6903446F&bytestart=0&byteend=542313, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('salon_de_prink', 'AQMPpulXMRUpF2eAcOgvTFOj_82rgirj5iWuzn9kHAdHPWoxLKxJvygk2T-dOYZUlAehFGFv8C2bciku5AuvL_mB', 'https://scontent-lhr6-2.cdninstagram.com/o1/v/t16/f2/m69/AQMPpulXMRUpF2eAcOgvTFOj_82rgirj5iWuzn9kHAdHPWoxLKxJvygk2T-dOYZUlAehFGFv8C2bciku5AuvL_mB.mp4?strext=1&_nc_cat=105&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=Bz3J1vbVblYQ7kNvwEVCI4q&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5LWFkc19xOTAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6Nzk0NTU2MTY5NTk2NjMwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=j88IJPYMmhWmLshYk-Yg6g&_nc_zt=28&oh=00_Aff8tHaQRkYJH5MPPM0PT3oJx0CkMZ-A1IkAcVgRrTVV9A&oe=6903446F&bytestart=0&byteend=542313', '2025-10-25T05:07:41.000Z')
+================================================================================
+2025-10-26 07:37:07,815 - INFO - 処理開始 PROCESSID:20251026_073704
+2025-10-26 07:37:07,815 - INFO - 対象ユーザー: salon_de_prink
+2025-10-26 07:37:07,815 - INFO - 処理を開始します
+2025-10-26 07:37:07,879 - INFO - 選択されたプロファイル: Profile 10
+2025-10-26 07:37:07,879 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-26 07:37:15,122 - INFO - salon_de_prink のプロフィールページにアクセスします
+2025-10-26 07:37:37,406 - INFO - プロフィール写真のクリックに成功しました
+2025-10-26 07:37:40,763 - INFO - 動画の取得に失敗しました
+2025-10-26 07:37:40,764 - INFO - datetime属性の抽出を開始します
+2025-10-26 07:37:50,807 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x121fe43+66515]
+	GetHandleVerifier [0x0x121fe84+66580]
+	(No symbol) [0x0x100dc48]
+	(No symbol) [0x0x1058704]
+	(No symbol) [0x0x1058aab]
+	(No symbol) [0x0x109f482]
+	(No symbol) [0x0x107b214]
+	(No symbol) [0x0x109cba7]
+	(No symbol) [0x0x107afc6]
+	(No symbol) [0x0x104c2ca]
+	(No symbol) [0x0x104d154]
+	GetHandleVerifier [0x0x1477353+2521315]
+	GetHandleVerifier [0x0x14722d3+2500707]
+	GetHandleVerifier [0x0x1247c94+229924]
+	GetHandleVerifier [0x0x12381f8+165768]
+	GetHandleVerifier [0x0x123ecad+193085]
+	GetHandleVerifier [0x0x1228158+100072]
+	GetHandleVerifier [0x0x12282f0+100480]
+	GetHandleVerifier [0x0x12125aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-26 07:38:01,088 - INFO - 画像の取得に失敗しました
+2025-10-26 07:38:04,520 - INFO - 処理終了
+================================================================================
+2025-10-26 14:13:38,783 - INFO - 処理開始 PROCESSID:20251026_141335
+2025-10-26 14:13:38,783 - INFO - 対象ユーザー: salon_de_prink
+2025-10-26 14:13:38,783 - INFO - 処理を開始します
+2025-10-26 14:13:38,838 - INFO - 選択されたプロファイル: Profile 12
+2025-10-26 14:13:38,838 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-26 14:13:45,695 - INFO - salon_de_prink のプロフィールページにアクセスします
+2025-10-26 14:14:22,448 - INFO - プロフィール写真のクリックに成功しました
+2025-10-26 14:14:26,314 - INFO - 動画の取得に失敗しました
+2025-10-26 14:14:26,315 - INFO - datetime属性の抽出を開始します
+2025-10-26 14:14:36,565 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x121fe43+66515]
+	GetHandleVerifier [0x0x121fe84+66580]
+	(No symbol) [0x0x100dc48]
+	(No symbol) [0x0x1058704]
+	(No symbol) [0x0x1058aab]
+	(No symbol) [0x0x109f482]
+	(No symbol) [0x0x107b214]
+	(No symbol) [0x0x109cba7]
+	(No symbol) [0x0x107afc6]
+	(No symbol) [0x0x104c2ca]
+	(No symbol) [0x0x104d154]
+	GetHandleVerifier [0x0x1477353+2521315]
+	GetHandleVerifier [0x0x14722d3+2500707]
+	GetHandleVerifier [0x0x1247c94+229924]
+	GetHandleVerifier [0x0x12381f8+165768]
+	GetHandleVerifier [0x0x123ecad+193085]
+	GetHandleVerifier [0x0x1228158+100072]
+	GetHandleVerifier [0x0x12282f0+100480]
+	GetHandleVerifier [0x0x12125aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-26 14:14:46,923 - INFO - 画像の取得に失敗しました
+2025-10-26 14:14:50,900 - INFO - 処理終了
+================================================================================
+2025-10-26 20:09:17,882 - INFO - 処理開始 PROCESSID:20251026_200914
+2025-10-26 20:09:17,882 - INFO - 対象ユーザー: salon_de_prink
+2025-10-26 20:09:17,882 - INFO - 処理を開始します
+2025-10-26 20:09:17,939 - INFO - 選択されたプロファイル: Profile 12
+2025-10-26 20:09:17,939 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-26 20:09:24,564 - INFO - salon_de_prink のプロフィールページにアクセスします
+2025-10-26 20:09:46,782 - INFO - プロフィール写真のクリックに成功しました
+2025-10-26 20:09:50,012 - INFO - 動画の取得に失敗しました
+2025-10-26 20:09:50,013 - INFO - datetime属性の抽出を開始します
+2025-10-26 20:10:00,284 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x121fe43+66515]
+	GetHandleVerifier [0x0x121fe84+66580]
+	(No symbol) [0x0x100dc48]
+	(No symbol) [0x0x1058704]
+	(No symbol) [0x0x1058aab]
+	(No symbol) [0x0x109f482]
+	(No symbol) [0x0x107b214]
+	(No symbol) [0x0x109cba7]
+	(No symbol) [0x0x107afc6]
+	(No symbol) [0x0x104c2ca]
+	(No symbol) [0x0x104d154]
+	GetHandleVerifier [0x0x1477353+2521315]
+	GetHandleVerifier [0x0x14722d3+2500707]
+	GetHandleVerifier [0x0x1247c94+229924]
+	GetHandleVerifier [0x0x12381f8+165768]
+	GetHandleVerifier [0x0x123ecad+193085]
+	GetHandleVerifier [0x0x1228158+100072]
+	GetHandleVerifier [0x0x12282f0+100480]
+	GetHandleVerifier [0x0x12125aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-26 20:10:10,649 - INFO - 画像の取得に失敗しました
+2025-10-26 20:10:14,568 - INFO - 処理終了

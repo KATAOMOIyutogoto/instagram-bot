@@ -1,0 +1,234 @@
+================================================================================
+2025-11-12 07:28:54,949 - INFO - 処理開始 PROCESSID:20251112_072851
+2025-11-12 07:28:54,949 - INFO - 対象ユーザー: sumibi_nao_yamato
+2025-11-12 07:28:54,949 - INFO - 処理を開始します
+2025-11-12 07:28:55,021 - INFO - 選択されたプロファイル: Profile 13
+2025-11-12 07:28:55,021 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-12 07:28:59,853 - INFO - sumibi_nao_yamato のプロフィールページにアクセスします
+2025-11-12 07:29:12,313 - INFO - 最新投稿を読み込みます
+2025-11-12 07:29:17,613 - INFO - 候補はピン留め: https://www.instagram.com/sumibi_nao_yamato/p/DQjYWwek_9P/?hl=ja → 日付確認
+2025-11-12 07:29:21,922 - INFO - ピン留めだが3日以上前(9日) → スキップ
+2025-11-12 07:29:21,922 - INFO - 選定: 非ピン留め https://www.instagram.com/sumibi_nao_yamato/p/DQ8laN-k4Pb/?hl=ja
+2025-11-12 07:29:27,224 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 07:29:31,376 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 07:29:31,444 - INFO - datetime属性の抽出を開始します
+2025-11-12 07:29:31,475 - INFO - 抽出されたdatetime: 2025-11-12T06:38:21.000Z
+2025-11-12 07:29:31,475 - INFO - sumibi_nao_yamato の投稿日時: 2025-11-12T06:38:21.000Z
+2025-11-12 07:29:31,484 - INFO - date:2025-11-12 15:38:21+09:00
+2025-11-12 07:29:31,484 - INFO - post_date:20251112
+2025-11-12 07:29:31,561 - INFO - カルーセル推定: 1枚
+2025-11-12 07:29:31,628 - INFO - 検出(SINGLE): https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/580873814_18006809366816296_6430031625580166432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2NDA0NzkxODAxMDY5NjY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjd4MTc5Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=uyeY79UZZhIQ7kNvwFTwNSK&_nc_oc=AdmB5W9kaF5hDbmNGs5C6FxD2OCSwcOCEPxzyFUWo1g_msWQeGu4go4QN9N1diYpSEE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=JB3vUbwfRj9sdglTBQ313A&oh=00_Afi0uDUw0OQaHbhRnf8n3sKKD3pmXKPDAmIFh6e3B8A-yw&oe=6919F83B
+2025-11-12 07:29:31,628 - INFO - 1枚目: https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/580873814_18006809366816296_6430031625580166432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2NDA0NzkxODAxMDY5NjY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjd4MTc5Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=uyeY79UZZhIQ7kNvwFTwNSK&_nc_oc=AdmB5W9kaF5hDbmNGs5C6FxD2OCSwcOCEPxzyFUWo1g_msWQeGu4go4QN9N1diYpSEE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=JB3vUbwfRj9sdglTBQ313A&oh=00_Afi0uDUw0OQaHbhRnf8n3sKKD3pmXKPDAmIFh6e3B8A-yw&oe=6919F83B
+2025-11-12 07:29:31,628 - INFO - [caption/by_username] 開始
+2025-11-12 07:29:32,355 - INFO - [caption/by_username] 説明文確定（先頭100）: '熊出没注意のステッカー昔あったなー
+
+どうもナオです。
+昨日も生まれたてのベイビーから、私を拒絶するかわい子ちゃんから犬から犬までありがとうございました。
+今日も涼しくて本格的に秋の終わりを感じます。'
+2025-11-12 07:29:32,357 - INFO - [caption/by_username] 説明文を保存: media\sumibi_nao_yamato\description\20251112_072851
+2025-11-12 07:29:32,357 - INFO - 画像URLを取得しました
+2025-11-12 07:29:32,390 - INFO - INSERT(with-key): user=sumibi_nao_yamato, key=Mzc2NDA0NzkxODAxMDY5NjY2Nw==, dt=2025-11-12T06:38:21.000Z
+2025-11-12 07:29:32,392 - INFO - メディアを取得します
+2025-11-12 07:29:34,393 - INFO - ダウンロードを開始します: media\sumibi_nao_yamato\sumibi_nao_yamato_20251112072934.jpg
+2025-11-12 07:29:35,983 - INFO - ダウンロード完了: media\sumibi_nao_yamato\sumibi_nao_yamato_20251112072934.jpg
+2025-11-12 07:29:36,084 - INFO - 元の画像サイズ: 1427x1796
+2025-11-12 07:29:36,084 - INFO - サイズ変更は不要です
+2025-11-12 07:29:36,086 - INFO - 説明文:熊出没注意のステッカー昔あったなー
+
+どうもナオです。
+昨日も生まれたてのベイビーから、私を拒絶するかわい子ちゃんから犬から犬までありがとうございました。
+今日も涼しくて本格的に秋の終わりを感じます。
+もちろんタンクトップですけどね
+
+今週の日曜は朝市がありますね
+当店は営業しますので休憩がてらにお立ち寄りくださいませ
+
+そしたら本日もよろしくお願いします。
+
+————炭火　直　桜ヶ丘————
+⁡
+1人で調理してるので提供が遅いです
+お時間と心に余裕のある方は是非！
+優しいお客様ばかりです
+
+〒242-0024
+神奈川県大和市福田5525-5
+小田急線　桜ヶ丘駅東口　徒歩1分
+定休日︰不定休
+　　　　日曜はカウンターのみ営業
+　　　　問い合わせは電話で受付中
+⁡
+———————————
+#炭火直 #焼き鳥 #日本酒  #焼酎 #グルメ #桜ヶ丘居酒屋  #桜ヶ丘グルメ #グルメ  #炭火焼き  #桜ヶ丘駅 #桜ヶ丘Love #大和
+2025-11-12 07:29:38,488 - INFO - 処理終了
+================================================================================
+2025-11-12 07:29:44,456 - INFO - 処理開始: Mode=post, Username=sumibi_nao_yamato, GBP=MSIOXWFX771716
+2025-11-12 07:29:44,458 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0lPWFdGWDc3MTcxNiJd.
+2025-11-12 07:30:07,248 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\sumibi_nao_yamato\sumibi_nao_yamato_20251112072934.jpg
+2025-11-12 07:30:10,545 - INFO - Waiting for description field...
+2025-11-12 07:30:10,587 - INFO - Setting description via JS (no send_keys)...
+2025-11-12 07:30:11,685 - INFO - Looking for button section...
+2025-11-12 07:30:16,262 - INFO - Trying to select CALL option...
+2025-11-12 07:30:16,501 - INFO - CALL option successfully selected
+2025-11-12 07:30:18,502 - INFO - Clicking submit button...
+2025-11-12 07:30:27,135 - INFO - 処理完了
+================================================================================
+2025-11-12 10:40:23,694 - INFO - 処理開始 PROCESSID:20251112_104020
+2025-11-12 10:40:23,694 - INFO - 対象ユーザー: sumibi_nao_yamato
+2025-11-12 10:40:23,694 - INFO - 処理を開始します
+2025-11-12 10:40:23,756 - INFO - 選択されたプロファイル: Profile 13
+2025-11-12 10:40:23,758 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-12 10:40:28,249 - INFO - sumibi_nao_yamato のプロフィールページにアクセスします
+2025-11-12 10:40:40,107 - INFO - 最新投稿を読み込みます
+2025-11-12 10:40:45,514 - INFO - 候補はピン留め: https://www.instagram.com/sumibi_nao_yamato/p/DQjYWwek_9P/?hl=ja → 日付確認
+2025-11-12 10:40:47,843 - INFO - ピン留めだが3日以上前(9日) → スキップ
+2025-11-12 10:40:47,843 - INFO - 選定: 非ピン留め https://www.instagram.com/sumibi_nao_yamato/p/DQ8laN-k4Pb/?hl=ja
+2025-11-12 10:40:52,443 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 10:40:55,968 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 10:40:56,108 - INFO - datetime属性の抽出を開始します
+2025-11-12 10:40:56,155 - INFO - 抽出されたdatetime: 2025-11-12T06:38:21.000Z
+2025-11-12 10:40:56,155 - INFO - sumibi_nao_yamato の投稿日時: 2025-11-12T06:38:21.000Z
+2025-11-12 10:40:56,167 - INFO - date:2025-11-12 15:38:21+09:00
+2025-11-12 10:40:56,167 - INFO - post_date:20251112
+2025-11-12 10:40:56,253 - INFO - カルーセル推定: 1枚
+2025-11-12 10:40:56,311 - INFO - 検出(SINGLE): https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/580873814_18006809366816296_6430031625580166432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2NDA0NzkxODAxMDY5NjY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjd4MTc5Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=uyeY79UZZhIQ7kNvwFTwNSK&_nc_oc=AdmB5W9kaF5hDbmNGs5C6FxD2OCSwcOCEPxzyFUWo1g_msWQeGu4go4QN9N1diYpSEE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=D02jsQI7ns6NXvkU5rkGFQ&oh=00_Afhiy_PD53hqcyS7TbMuRitQE36834xJNGsqjd6kEB41UQ&oe=691A307B
+2025-11-12 10:40:56,312 - INFO - 1枚目: https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/580873814_18006809366816296_6430031625580166432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2NDA0NzkxODAxMDY5NjY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjd4MTc5Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=uyeY79UZZhIQ7kNvwFTwNSK&_nc_oc=AdmB5W9kaF5hDbmNGs5C6FxD2OCSwcOCEPxzyFUWo1g_msWQeGu4go4QN9N1diYpSEE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=D02jsQI7ns6NXvkU5rkGFQ&oh=00_Afhiy_PD53hqcyS7TbMuRitQE36834xJNGsqjd6kEB41UQ&oe=691A307B
+2025-11-12 10:40:56,312 - INFO - [caption/by_username] 開始
+2025-11-12 10:40:56,974 - INFO - [caption/by_username] 説明文確定（先頭100）: '熊出没注意のステッカー昔あったなー
+
+どうもナオです。
+昨日も生まれたてのベイビーから、私を拒絶するかわい子ちゃんから犬から犬までありがとうございました。
+今日も涼しくて本格的に秋の終わりを感じます。'
+2025-11-12 10:40:56,977 - INFO - [caption/by_username] 説明文を保存: media\sumibi_nao_yamato\description\20251112_104020
+2025-11-12 10:40:56,977 - INFO - 画像URLを取得しました
+2025-11-12 10:40:56,979 - INFO - DUP(with-key): user=sumibi_nao_yamato, key=Mzc2NDA0NzkxODAxMDY5NjY2Nw==, dt=2025-11-12T06:38:21.000Z
+2025-11-12 10:40:56,979 - INFO - このレコードは存在します
+2025-11-12 10:40:56,979 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-12 13:41:23,624 - INFO - 処理開始 PROCESSID:20251112_134120
+2025-11-12 13:41:23,624 - INFO - 対象ユーザー: sumibi_nao_yamato
+2025-11-12 13:41:23,624 - INFO - 処理を開始します
+2025-11-12 13:41:23,687 - INFO - 選択されたプロファイル: Profile 13
+2025-11-12 13:41:23,687 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-12 13:41:28,227 - INFO - sumibi_nao_yamato のプロフィールページにアクセスします
+2025-11-12 13:41:39,827 - INFO - 最新投稿を読み込みます
+2025-11-12 13:41:45,108 - INFO - 候補はピン留め: https://www.instagram.com/sumibi_nao_yamato/p/DQjYWwek_9P/?hl=ja → 日付確認
+2025-11-12 13:41:47,381 - INFO - ピン留めだが3日以上前(10日) → スキップ
+2025-11-12 13:41:47,381 - INFO - 選定: 非ピン留め https://www.instagram.com/sumibi_nao_yamato/p/DQ8laN-k4Pb/?hl=ja
+2025-11-12 13:41:52,207 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 13:41:55,841 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 13:41:55,982 - INFO - datetime属性の抽出を開始します
+2025-11-12 13:41:56,014 - INFO - 抽出されたdatetime: 2025-11-12T06:38:21.000Z
+2025-11-12 13:41:56,014 - INFO - sumibi_nao_yamato の投稿日時: 2025-11-12T06:38:21.000Z
+2025-11-12 13:41:56,027 - INFO - date:2025-11-12 15:38:21+09:00
+2025-11-12 13:41:56,027 - INFO - post_date:20251112
+2025-11-12 13:41:56,069 - INFO - カルーセル推定: 1枚
+2025-11-12 13:41:56,152 - INFO - 検出(SINGLE): https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/580873814_18006809366816296_6430031625580166432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2NDA0NzkxODAxMDY5NjY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjd4MTc5Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=uyeY79UZZhIQ7kNvwFTwNSK&_nc_oc=AdmB5W9kaF5hDbmNGs5C6FxD2OCSwcOCEPxzyFUWo1g_msWQeGu4go4QN9N1diYpSEE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=I04pz7W_X4YuppT2Nou0Gw&oh=00_Afi4E21bS-FcIqf5kGx0jd4_xT7di1uRl6cwpKfXkx21ww&oe=691A68BB
+2025-11-12 13:41:56,152 - INFO - 1枚目: https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/580873814_18006809366816296_6430031625580166432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2NDA0NzkxODAxMDY5NjY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjd4MTc5Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=uyeY79UZZhIQ7kNvwFTwNSK&_nc_oc=AdmB5W9kaF5hDbmNGs5C6FxD2OCSwcOCEPxzyFUWo1g_msWQeGu4go4QN9N1diYpSEE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=I04pz7W_X4YuppT2Nou0Gw&oh=00_Afi4E21bS-FcIqf5kGx0jd4_xT7di1uRl6cwpKfXkx21ww&oe=691A68BB
+2025-11-12 13:41:56,152 - INFO - [caption/by_username] 開始
+2025-11-12 13:41:56,258 - INFO - [caption/by_username] 説明文確定（先頭100）: '熊出没注意のステッカー昔あったなー
+
+どうもナオです。
+昨日も生まれたてのベイビーから、私を拒絶するかわい子ちゃんから犬から犬までありがとうございました。
+今日も涼しくて本格的に秋の終わりを感じます。'
+2025-11-12 13:41:56,260 - INFO - [caption/by_username] 説明文を保存: media\sumibi_nao_yamato\description\20251112_134120
+2025-11-12 13:41:56,260 - INFO - 画像URLを取得しました
+2025-11-12 13:41:56,262 - INFO - DUP(with-key): user=sumibi_nao_yamato, key=Mzc2NDA0NzkxODAxMDY5NjY2Nw==, dt=2025-11-12T06:38:21.000Z
+2025-11-12 13:41:56,262 - INFO - このレコードは存在します
+2025-11-12 13:41:56,262 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-12 16:37:28,565 - INFO - 処理開始 PROCESSID:20251112_163725
+2025-11-12 16:37:28,565 - INFO - 対象ユーザー: sumibi_nao_yamato
+2025-11-12 16:37:28,565 - INFO - 処理を開始します
+2025-11-12 16:37:28,625 - INFO - 選択されたプロファイル: Profile 13
+2025-11-12 16:37:28,625 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-12 16:37:33,010 - INFO - sumibi_nao_yamato のプロフィールページにアクセスします
+2025-11-12 16:37:44,545 - INFO - 最新投稿を読み込みます
+2025-11-12 16:37:49,799 - INFO - 候補はピン留め: https://www.instagram.com/sumibi_nao_yamato/p/DQjYWwek_9P/?hl=ja → 日付確認
+2025-11-12 16:37:52,229 - INFO - ピン留めだが3日以上前(10日) → スキップ
+2025-11-12 16:37:52,229 - INFO - 選定: 非ピン留め https://www.instagram.com/sumibi_nao_yamato/p/DQ8laN-k4Pb/?hl=ja
+2025-11-12 16:37:56,549 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 16:38:00,456 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 16:38:00,671 - INFO - datetime属性の抽出を開始します
+2025-11-12 16:38:00,706 - INFO - 抽出されたdatetime: 2025-11-12T06:38:21.000Z
+2025-11-12 16:38:00,706 - INFO - sumibi_nao_yamato の投稿日時: 2025-11-12T06:38:21.000Z
+2025-11-12 16:38:00,736 - INFO - date:2025-11-12 15:38:21+09:00
+2025-11-12 16:38:00,736 - INFO - post_date:20251112
+2025-11-12 16:38:00,936 - INFO - カルーセル推定: 1枚
+2025-11-12 16:38:01,002 - INFO - 検出(SINGLE): https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/580873814_18006809366816296_6430031625580166432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2NDA0NzkxODAxMDY5NjY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjd4MTc5Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=uyeY79UZZhIQ7kNvwFTwNSK&_nc_oc=AdmB5W9kaF5hDbmNGs5C6FxD2OCSwcOCEPxzyFUWo1g_msWQeGu4go4QN9N1diYpSEE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=m6DGCp9K8v4Bt03F32Zz8Q&oh=00_AfhzQd0QOLYQkOzpaB_4yVdPiI1iPZ597KQdpnfkTrJR7Q&oe=691AA0FB
+2025-11-12 16:38:01,002 - INFO - 1枚目: https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/580873814_18006809366816296_6430031625580166432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2NDA0NzkxODAxMDY5NjY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjd4MTc5Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=uyeY79UZZhIQ7kNvwFTwNSK&_nc_oc=AdmB5W9kaF5hDbmNGs5C6FxD2OCSwcOCEPxzyFUWo1g_msWQeGu4go4QN9N1diYpSEE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=m6DGCp9K8v4Bt03F32Zz8Q&oh=00_AfhzQd0QOLYQkOzpaB_4yVdPiI1iPZ597KQdpnfkTrJR7Q&oe=691AA0FB
+2025-11-12 16:38:01,002 - INFO - [caption/by_username] 開始
+2025-11-12 16:38:01,151 - INFO - [caption/by_username] 説明文確定（先頭100）: '熊出没注意のステッカー昔あったなー
+
+どうもナオです。
+昨日も生まれたてのベイビーから、私を拒絶するかわい子ちゃんから犬から犬までありがとうございました。
+今日も涼しくて本格的に秋の終わりを感じます。'
+2025-11-12 16:38:01,153 - INFO - [caption/by_username] 説明文を保存: media\sumibi_nao_yamato\description\20251112_163725
+2025-11-12 16:38:01,153 - INFO - 画像URLを取得しました
+2025-11-12 16:38:01,155 - INFO - DUP(with-key): user=sumibi_nao_yamato, key=Mzc2NDA0NzkxODAxMDY5NjY2Nw==, dt=2025-11-12T06:38:21.000Z
+2025-11-12 16:38:01,155 - INFO - このレコードは存在します
+2025-11-12 16:38:01,155 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-12 19:32:37,063 - INFO - 処理開始 PROCESSID:20251112_193233
+2025-11-12 19:32:37,063 - INFO - 対象ユーザー: sumibi_nao_yamato
+2025-11-12 19:32:37,063 - INFO - 処理を開始します
+2025-11-12 19:32:37,124 - INFO - 選択されたプロファイル: Profile 9
+2025-11-12 19:32:37,124 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-12 19:32:41,477 - INFO - sumibi_nao_yamato のプロフィールページにアクセスします
+2025-11-12 19:32:53,056 - INFO - 最新投稿を読み込みます
+2025-11-12 19:32:58,325 - INFO - 候補はピン留め: https://www.instagram.com/sumibi_nao_yamato/p/DQjYWwek_9P/?hl=ja → 日付確認
+2025-11-12 19:33:01,012 - INFO - ピン留めだが3日以上前(10日) → スキップ
+2025-11-12 19:33:01,012 - INFO - 選定: 非ピン留め https://www.instagram.com/sumibi_nao_yamato/p/DQ8laN-k4Pb/?hl=ja
+2025-11-12 19:33:05,341 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 19:33:09,193 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 19:33:09,244 - INFO - datetime属性の抽出を開始します
+2025-11-12 19:33:09,268 - INFO - 抽出されたdatetime: 2025-11-12T06:38:21.000Z
+2025-11-12 19:33:09,269 - INFO - sumibi_nao_yamato の投稿日時: 2025-11-12T06:38:21.000Z
+2025-11-12 19:33:09,275 - INFO - date:2025-11-12 15:38:21+09:00
+2025-11-12 19:33:09,275 - INFO - post_date:20251112
+2025-11-12 19:33:09,368 - INFO - カルーセル推定: 1枚
+2025-11-12 19:33:09,452 - INFO - 検出(SINGLE): https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/580873814_18006809366816296_6430031625580166432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2NDA0NzkxODAxMDY5NjY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjd4MTc5Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=uyeY79UZZhIQ7kNvwFTwNSK&_nc_oc=AdmB5W9kaF5hDbmNGs5C6FxD2OCSwcOCEPxzyFUWo1g_msWQeGu4go4QN9N1diYpSEE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=Ws1MGnSP3RgX8SlUl2njiA&oh=00_AfgAx3Jf17hyuPCRYXu1QEd61iBrpAopy1Oi73gGedQE0g&oe=691AA0FB
+2025-11-12 19:33:09,453 - INFO - 1枚目: https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/580873814_18006809366816296_6430031625580166432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2NDA0NzkxODAxMDY5NjY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjd4MTc5Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=uyeY79UZZhIQ7kNvwFTwNSK&_nc_oc=AdmB5W9kaF5hDbmNGs5C6FxD2OCSwcOCEPxzyFUWo1g_msWQeGu4go4QN9N1diYpSEE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=Ws1MGnSP3RgX8SlUl2njiA&oh=00_AfgAx3Jf17hyuPCRYXu1QEd61iBrpAopy1Oi73gGedQE0g&oe=691AA0FB
+2025-11-12 19:33:09,453 - INFO - [caption/by_username] 開始
+2025-11-12 19:33:09,594 - INFO - [caption/by_username] 説明文確定（先頭100）: '熊出没注意のステッカー昔あったなー
+
+どうもナオです。
+昨日も生まれたてのベイビーから、私を拒絶するかわい子ちゃんから犬から犬までありがとうございました。
+今日も涼しくて本格的に秋の終わりを感じます。'
+2025-11-12 19:33:09,597 - INFO - [caption/by_username] 説明文を保存: media\sumibi_nao_yamato\description\20251112_193233
+2025-11-12 19:33:09,597 - INFO - 画像URLを取得しました
+2025-11-12 19:33:09,599 - INFO - DUP(with-key): user=sumibi_nao_yamato, key=Mzc2NDA0NzkxODAxMDY5NjY2Nw==, dt=2025-11-12T06:38:21.000Z
+2025-11-12 19:33:09,599 - INFO - このレコードは存在します
+2025-11-12 19:33:09,600 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-12 22:26:00,252 - INFO - 処理開始 PROCESSID:20251112_222556
+2025-11-12 22:26:00,252 - INFO - 対象ユーザー: sumibi_nao_yamato
+2025-11-12 22:26:00,252 - INFO - 処理を開始します
+2025-11-12 22:26:00,314 - INFO - 選択されたプロファイル: Profile 10
+2025-11-12 22:26:00,314 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-12 22:26:04,916 - INFO - sumibi_nao_yamato のプロフィールページにアクセスします
+2025-11-12 22:26:16,911 - INFO - 最新投稿を読み込みます
+2025-11-12 22:26:22,716 - INFO - 候補はピン留め: https://www.instagram.com/sumibi_nao_yamato/p/DQjYWwek_9P/?hl=ja → 日付確認
+2025-11-12 22:26:24,735 - INFO - ピン留めだが3日以上前(10日) → スキップ
+2025-11-12 22:26:24,735 - INFO - 選定: 非ピン留め https://www.instagram.com/sumibi_nao_yamato/p/DQ8laN-k4Pb/?hl=ja
+2025-11-12 22:26:29,196 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 22:26:33,273 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 22:26:33,405 - INFO - datetime属性の抽出を開始します
+2025-11-12 22:26:33,440 - INFO - 抽出されたdatetime: 2025-11-12T06:38:21.000Z
+2025-11-12 22:26:33,440 - INFO - sumibi_nao_yamato の投稿日時: 2025-11-12T06:38:21.000Z
+2025-11-12 22:26:33,464 - INFO - date:2025-11-12 15:38:21+09:00
+2025-11-12 22:26:33,464 - INFO - post_date:20251112
+2025-11-12 22:26:33,566 - INFO - カルーセル推定: 1枚
+2025-11-12 22:26:33,644 - INFO - 検出(SINGLE): https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/580873814_18006809366816296_6430031625580166432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2NDA0NzkxODAxMDY5NjY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjd4MTc5Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=uyeY79UZZhIQ7kNvwFTwNSK&_nc_oc=AdmB5W9kaF5hDbmNGs5C6FxD2OCSwcOCEPxzyFUWo1g_msWQeGu4go4QN9N1diYpSEE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=Gc-nacLMNz21QF9eg-Nh-A&oh=00_Afg9c-VHWWRh2j2Qo_HCjlwYTS7FDo8IlimxscTpWs_e4w&oe=691AD93B
+2025-11-12 22:26:33,644 - INFO - 1枚目: https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/580873814_18006809366816296_6430031625580166432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2NDA0NzkxODAxMDY5NjY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0Mjd4MTc5Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=uyeY79UZZhIQ7kNvwFTwNSK&_nc_oc=AdmB5W9kaF5hDbmNGs5C6FxD2OCSwcOCEPxzyFUWo1g_msWQeGu4go4QN9N1diYpSEE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=Gc-nacLMNz21QF9eg-Nh-A&oh=00_Afg9c-VHWWRh2j2Qo_HCjlwYTS7FDo8IlimxscTpWs_e4w&oe=691AD93B
+2025-11-12 22:26:33,644 - INFO - [caption/by_username] 開始
+2025-11-12 22:26:33,733 - INFO - [caption/by_username] 説明文確定（先頭100）: '熊出没注意のステッカー昔あったなー
+
+どうもナオです。
+昨日も生まれたてのベイビーから、私を拒絶するかわい子ちゃんから犬から犬までありがとうございました。
+今日も涼しくて本格的に秋の終わりを感じます。'
+2025-11-12 22:26:33,735 - INFO - [caption/by_username] 説明文を保存: media\sumibi_nao_yamato\description\20251112_222556
+2025-11-12 22:26:33,735 - INFO - 画像URLを取得しました
+2025-11-12 22:26:33,737 - INFO - DUP(with-key): user=sumibi_nao_yamato, key=Mzc2NDA0NzkxODAxMDY5NjY2Nw==, dt=2025-11-12T06:38:21.000Z
+2025-11-12 22:26:33,737 - INFO - このレコードは存在します
+2025-11-12 22:26:33,738 - INFO - 全件レコードが存在します

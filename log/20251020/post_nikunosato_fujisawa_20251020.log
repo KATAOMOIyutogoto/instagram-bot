@@ -1,0 +1,79 @@
+================================================================================
+2025-10-20 04:42:36,028 - INFO - 処理開始 PROCESSID:20251020_044232
+2025-10-20 04:42:36,028 - INFO - 対象ユーザー: nikunosato_fujisawa
+2025-10-20 04:42:36,028 - INFO - 処理を開始します
+2025-10-20 04:42:36,098 - INFO - 選択されたプロファイル: Profile 10
+2025-10-20 04:42:36,098 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-20 04:42:41,325 - INFO - nikunosato_fujisawa のプロフィールページにアクセスします
+2025-10-20 04:42:54,291 - INFO - 最新投稿を読み込みます
+2025-10-20 04:42:59,730 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_fujisawa/reel/DP54DcpEiEz/?hl=ja
+2025-10-20 04:43:04,960 - INFO - 最新投稿ページにアクセスしました
+2025-10-20 04:43:09,978 - INFO - 最新投稿ページにアクセスしました
+2025-10-20 04:43:10,144 - INFO - datetime属性の抽出を開始します
+2025-10-20 04:43:10,261 - INFO - 抽出されたdatetime: 2025-10-17T08:52:16.000Z
+2025-10-20 04:43:10,261 - INFO - nikunosato_fujisawa の投稿日時: 2025-10-17T08:52:16.000Z
+2025-10-20 04:43:10,290 - INFO - date:2025-10-17 17:52:16+09:00
+2025-10-20 04:43:10,290 - INFO - post_date:20251017
+2025-10-20 04:43:10,447 - INFO - 1枚目: blob:https://www.instagram.com/8e4bdb61-e0c7-4bad-83bc-0a8590812e9d
+2025-10-20 04:43:10,447 - INFO - [caption/by_username] 開始
+2025-10-20 04:43:13,354 - INFO - [caption/by_username] 説明文確定（先頭100）: 'もつ焼き×串焼き 肉の佐藤 藤沢店
+……………………………………………………
+［営業時間］
+〇月曜日〜木曜曜日〇
+12:00〜22:00
+
+〇金土曜日〇
+13:00〜23:00
+
+〇日曜日〇
+12:0'
+2025-10-20 04:43:13,356 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_fujisawa\description\20251020_044232
+2025-10-20 04:43:14,695 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQONRENlUZF-KT9ww8rXxXcNgwxT3ysXSG5nUIcHwqU_Kcp9gLH7xGHvkGUOHEJBJXSG-3ATS7bJVmoklfwgzSSciBoHk7pf7wPOPMw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=uAgaNSgbG8gQ7kNvwFiTaUH&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MjUwMTM5NDA2MzU3MzgwNiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Tafsy9w8xCxohHW9EWvCmA&_nc_zt=28&oh=00_AfdMyClvIrgA5FZMB849c9opZhiyDAU6tTi72U3h5qdhSA&oe=68F7AFBF&bytestart=0&byteend=192464
+2025-10-20 04:43:14,700 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_fujisawa, key=AQONRENlUZF-KT9ww8rXxXcNgwxT3ysXSG5nUIcHwqU_Kcp9gLH7xGHvkGUOHEJBJXSG-3ATS7bJVmoklfwgzSSciBoHk7pf7wPOPMw, dt=2025-10-17T08:52:16.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQONRENlUZF-KT9ww8rXxXcNgwxT3ysXSG5nUIcHwqU_Kcp9gLH7xGHvkGUOHEJBJXSG-3ATS7bJVmoklfwgzSSciBoHk7pf7wPOPMw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=uAgaNSgbG8gQ7kNvwFiTaUH&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MjUwMTM5NDA2MzU3MzgwNiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Tafsy9w8xCxohHW9EWvCmA&_nc_zt=28&oh=00_AfdMyClvIrgA5FZMB849c9opZhiyDAU6tTi72U3h5qdhSA&oe=68F7AFBF&bytestart=0&byteend=192464, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_fujisawa', 'AQONRENlUZF-KT9ww8rXxXcNgwxT3ysXSG5nUIcHwqU_Kcp9gLH7xGHvkGUOHEJBJXSG-3ATS7bJVmoklfwgzSSciBoHk7pf7wPOPMw', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQONRENlUZF-KT9ww8rXxXcNgwxT3ysXSG5nUIcHwqU_Kcp9gLH7xGHvkGUOHEJBJXSG-3ATS7bJVmoklfwgzSSciBoHk7pf7wPOPMw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=uAgaNSgbG8gQ7kNvwFiTaUH&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MjUwMTM5NDA2MzU3MzgwNiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Tafsy9w8xCxohHW9EWvCmA&_nc_zt=28&oh=00_AfdMyClvIrgA5FZMB849c9opZhiyDAU6tTi72U3h5qdhSA&oe=68F7AFBF&bytestart=0&byteend=192464', '2025-10-17T08:52:16.000Z')
+2025-10-20 04:43:14,700 - INFO - このレコードは存在します
+2025-10-20 04:43:14,702 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-20 10:47:38,341 - INFO - 処理開始 PROCESSID:20251020_104733
+2025-10-20 10:47:38,341 - INFO - 対象ユーザー: nikunosato_fujisawa
+2025-10-20 10:47:38,341 - INFO - 処理を開始します
+2025-10-20 10:47:38,451 - INFO - 選択されたプロファイル: Profile 9
+2025-10-20 10:47:38,451 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-20 10:47:49,989 - INFO - nikunosato_fujisawa のプロフィールページにアクセスします
+2025-10-20 10:48:34,984 - INFO - 最新投稿を読み込みます
+2025-10-20 10:48:42,387 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_fujisawa/reel/DP54DcpEiEz/?hl=ja
+2025-10-20 10:48:47,905 - INFO - 最新投稿ページにアクセスしました
+2025-10-20 10:48:57,015 - INFO - 最新投稿ページにアクセスしました
+2025-10-20 10:49:00,689 - INFO - datetime属性の抽出を開始します
+2025-10-20 10:49:17,817 - INFO - 抽出されたdatetime: 2025-10-17T08:52:16.000Z
+2025-10-20 10:49:17,817 - INFO - nikunosato_fujisawa の投稿日時: 2025-10-17T08:52:16.000Z
+2025-10-20 10:49:18,439 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-17T08:52:16+00:00, age=3 days, 1:57:02.439584
+================================================================================
+2025-10-20 16:45:37,219 - INFO - 処理開始 PROCESSID:20251020_164533
+2025-10-20 16:45:37,219 - INFO - 対象ユーザー: nikunosato_fujisawa
+2025-10-20 16:45:37,220 - INFO - 処理を開始します
+2025-10-20 16:45:37,283 - INFO - 選択されたプロファイル: Profile 10
+2025-10-20 16:45:37,284 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-20 16:45:41,593 - INFO - nikunosato_fujisawa のプロフィールページにアクセスします
+2025-10-20 16:45:55,641 - INFO - 最新投稿を読み込みます
+2025-10-20 16:46:00,915 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_fujisawa/reel/DP54DcpEiEz/?hl=ja
+2025-10-20 16:46:10,451 - INFO - 最新投稿ページにアクセスしました
+2025-10-20 16:46:15,714 - INFO - 最新投稿ページにアクセスしました
+2025-10-20 16:46:15,943 - INFO - datetime属性の抽出を開始します
+2025-10-20 16:46:16,033 - INFO - 抽出されたdatetime: 2025-10-17T08:52:16.000Z
+2025-10-20 16:46:16,034 - INFO - nikunosato_fujisawa の投稿日時: 2025-10-17T08:52:16.000Z
+2025-10-20 16:46:16,043 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-17T08:52:16+00:00, age=3 days, 7:54:00.043312
+================================================================================
+2025-10-20 22:26:40,436 - INFO - 処理開始 PROCESSID:20251020_222637
+2025-10-20 22:26:40,436 - INFO - 対象ユーザー: nikunosato_fujisawa
+2025-10-20 22:26:40,436 - INFO - 処理を開始します
+2025-10-20 22:26:40,496 - INFO - 選択されたプロファイル: Profile 13
+2025-10-20 22:26:40,496 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-20 22:26:45,438 - INFO - nikunosato_fujisawa のプロフィールページにアクセスします
+2025-10-20 22:26:57,234 - INFO - 最新投稿を読み込みます
+2025-10-20 22:27:02,758 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_fujisawa/reel/DP54DcpEiEz/?hl=ja
+2025-10-20 22:27:07,860 - INFO - 最新投稿ページにアクセスしました
+2025-10-20 22:27:12,125 - INFO - 最新投稿ページにアクセスしました
+2025-10-20 22:27:12,331 - INFO - datetime属性の抽出を開始します
+2025-10-20 22:27:12,651 - INFO - 抽出されたdatetime: 2025-10-17T08:52:16.000Z
+2025-10-20 22:27:12,652 - INFO - nikunosato_fujisawa の投稿日時: 2025-10-17T08:52:16.000Z
+2025-10-20 22:27:12,785 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-17T08:52:16+00:00, age=3 days, 13:34:56.785549

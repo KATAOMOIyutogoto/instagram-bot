@@ -1,0 +1,131 @@
+================================================================================
+2025-10-21 00:16:20,757 - INFO - 処理開始 PROCESSID:20251021_001617
+2025-10-21 00:16:20,757 - INFO - 対象ユーザー: begokko_no_karubi
+2025-10-21 00:16:20,757 - INFO - 処理を開始します
+2025-10-21 00:16:20,815 - INFO - 選択されたプロファイル: Profile 13
+2025-10-21 00:16:20,817 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-21 00:16:25,558 - INFO - begokko_no_karubi のプロフィールページにアクセスします
+2025-10-21 00:16:47,910 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 00:16:51,416 - INFO - 動画の取得に失敗しました
+2025-10-21 00:16:51,419 - INFO - datetime属性の抽出を開始します
+2025-10-21 00:17:01,750 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9dfe83+66515]
+	GetHandleVerifier [0x0x9dfec4+66580]
+	(No symbol) [0x0x7cdc48]
+	(No symbol) [0x0x818704]
+	(No symbol) [0x0x818aab]
+	(No symbol) [0x0x85f482]
+	(No symbol) [0x0x83b214]
+	(No symbol) [0x0x85cba7]
+	(No symbol) [0x0x83afc6]
+	(No symbol) [0x0x80c2ca]
+	(No symbol) [0x0x80d154]
+	GetHandleVerifier [0x0xc373b3+2521347]
+	GetHandleVerifier [0x0xc32333+2500739]
+	GetHandleVerifier [0x0xa07cd4+229924]
+	GetHandleVerifier [0x0x9f8238+165768]
+	GetHandleVerifier [0x0x9feced+193085]
+	GetHandleVerifier [0x0x9e8198+100072]
+	GetHandleVerifier [0x0x9e8330+100480]
+	GetHandleVerifier [0x0x9d25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-21 00:17:12,022 - INFO - 画像の取得に失敗しました
+2025-10-21 00:17:14,439 - INFO - 処理終了
+================================================================================
+2025-10-21 10:33:16,815 - INFO - 処理開始 PROCESSID:20251021_103313
+2025-10-21 10:33:16,817 - INFO - 対象ユーザー: begokko_no_karubi
+2025-10-21 10:33:16,817 - INFO - 処理を開始します
+2025-10-21 10:33:16,870 - INFO - 選択されたプロファイル: Profile 13
+2025-10-21 10:33:16,870 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-21 10:33:21,586 - INFO - begokko_no_karubi のプロフィールページにアクセスします
+2025-10-21 10:33:43,701 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 10:33:44,895 - INFO - begokko_no_karubi: 動画を検出しました
+2025-10-21 10:33:44,895 - INFO - datetime属性の抽出を開始します
+2025-10-21 10:33:45,103 - INFO - 抽出されたdatetime: 2025-10-21T09:18:05.000Z
+2025-10-21 10:33:45,103 - INFO - begokko_no_karubi の投稿日時: 2025-10-21T09:18:05.000Z
+2025-10-21 10:33:46,323 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMMrAa2D24o78wajvpahueq0oDOzYEp3U1kd6TkB0Vt2jfJzQGh1EUKuE-YE7XQoA-xJwFMcrI2xZS45W4bEvzkeRjR5H9Wu55F32-k70Zu_Q.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=A7B3dM7ZlxAQ7kNvwHsDL4o&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTA4OTc5ODQ2NjM1MTk1MiwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=LaM2HCXyT3Qu0x5_e7gycg&_nc_zt=28&oh=00_Affqvr_sOXNpP_t80smOGr4_iQHNTwpjPyLneXiI_m8y8A&oe=68FD1A96&bytestart=0&byteend=204723
+2025-10-21 10:33:46,323 - INFO - 動画URLを取得しました
+2025-10-21 10:33:46,505 - INFO - INSERT(with-key): user=begokko_no_karubi, key=AQMMrAa2D24o78wajvpahueq0oDOzYEp3U1kd6TkB0Vt2jfJzQGh1EUKuE-YE7XQoA-xJwFMcrI2xZS45W4bEvzkeRjR5H9Wu55F32-k70Zu_Q, dt=2025-10-21T09:18:05.000Z
+2025-10-21 10:33:48,508 - INFO - ダウンロードを開始します: media\begokko_no_karubi\begokko_no_karubi_20251021103348.mp4
+2025-10-21 10:33:50,238 - INFO - ダウンロード完了: media\begokko_no_karubi\begokko_no_karubi_20251021103348.mp4
+2025-10-21 10:33:55,369 - INFO - 処理終了
+2025-10-21 10:33:55,371 - INFO - 説明文_AI: None
+2025-10-21 10:33:55,371 - INFO - 説明文_最終: 
+================================================================================
+2025-10-21 10:34:01,361 - INFO - 処理開始: Mode=story, Username=begokko_no_karubi, GBP=pa00014356
+2025-10-21 10:34:01,362 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJwYTAwMDE0MzU2Il0.
+2025-10-21 10:34:24,547 - INFO - 元の動画サイズ: 1080x1920
+2025-10-21 10:34:24,547 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-21 10:34:24,547 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\begokko_no_karubi\begokko_no_karubi_20251021103348.mp4
+2025-10-21 10:34:34,608 - INFO - 一時ファイルが見つかりません: media\begokko_no_karubi\description\20251021_103313
+2025-10-21 10:34:34,608 - INFO - Looking for button section...
+2025-10-21 10:34:39,281 - INFO - Trying to select CALL option...
+2025-10-21 10:34:39,540 - INFO - CALL option successfully selected
+2025-10-21 10:34:41,541 - INFO - Clicking submit button...
+2025-10-21 10:34:50,195 - INFO - 処理完了
+================================================================================
+2025-10-21 14:42:25,523 - INFO - 処理開始 PROCESSID:20251021_144222
+2025-10-21 14:42:25,523 - INFO - 対象ユーザー: begokko_no_karubi
+2025-10-21 14:42:25,523 - INFO - 処理を開始します
+2025-10-21 14:42:25,581 - INFO - 選択されたプロファイル: Profile 10
+2025-10-21 14:42:25,583 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-21 14:42:30,209 - INFO - begokko_no_karubi のプロフィールページにアクセスします
+2025-10-21 14:42:52,593 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 14:42:53,305 - INFO - begokko_no_karubi: 動画を検出しました
+2025-10-21 14:42:53,305 - INFO - datetime属性の抽出を開始します
+2025-10-21 14:42:53,672 - INFO - 抽出されたdatetime: 2025-10-21T09:18:05.000Z
+2025-10-21 14:42:53,672 - INFO - begokko_no_karubi の投稿日時: 2025-10-21T09:18:05.000Z
+2025-10-21 14:42:54,881 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMMrAa2D24o78wajvpahueq0oDOzYEp3U1kd6TkB0Vt2jfJzQGh1EUKuE-YE7XQoA-xJwFMcrI2xZS45W4bEvzkeRjR5H9Wu55F32-k70Zu_Q.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=A7B3dM7ZlxAQ7kNvwHsDL4o&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjEwODk3OTg0NjYzNTE5NTIsInZpX3VzZWNhc2VfaWQiOjEwMTAwLCJkdXJhdGlvbl9zIjo1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=s779VBzc4i3ZHsXGwiazEw&_nc_zt=28&oh=00_AfeujOobKBtrqqZ2kcmOsJy7aPcX0XPcAQM_1LWygwdefg&oe=68FD52D6&bytestart=0&byteend=204723
+2025-10-21 14:42:54,881 - INFO - 動画URLを取得しました
+2025-10-21 14:42:54,882 - INFO - DUP(with-key): user=begokko_no_karubi, key=AQMMrAa2D24o78wajvpahueq0oDOzYEp3U1kd6TkB0Vt2jfJzQGh1EUKuE-YE7XQoA-xJwFMcrI2xZS45W4bEvzkeRjR5H9Wu55F32-k70Zu_Q, dt=2025-10-21T09:18:05.000Z
+================================================================================
+2025-10-21 18:44:36,332 - INFO - 処理開始 PROCESSID:20251021_184433
+2025-10-21 18:44:36,332 - INFO - 対象ユーザー: begokko_no_karubi
+2025-10-21 18:44:36,332 - INFO - 処理を開始します
+2025-10-21 18:44:36,398 - INFO - 選択されたプロファイル: Profile 12
+2025-10-21 18:44:36,398 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-21 18:44:40,811 - INFO - begokko_no_karubi のプロフィールページにアクセスします
+2025-10-21 18:45:02,850 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 18:45:03,514 - INFO - begokko_no_karubi: 動画を検出しました
+2025-10-21 18:45:03,514 - INFO - datetime属性の抽出を開始します
+2025-10-21 18:45:03,878 - INFO - 抽出されたdatetime: 2025-10-21T09:18:05.000Z
+2025-10-21 18:45:03,879 - INFO - begokko_no_karubi の投稿日時: 2025-10-21T09:18:05.000Z
+2025-10-21 18:45:05,085 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOir0tuUd7DrvwyLzMcOPh0VjrmDvo_Rt7iB4CS22qH0BfKE4ZNunAzjrnWzyagjM11hbgtEhtYkjK0qfsDVD7jffy9BfQkoGnJGJk.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=NhkAqI5obSUQ7kNvwH-aTjp&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9yMmV2ZXZwOS1yMWdlbjJ2cDlfcTgwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjExMzc3NTM1OTE4MTczNjYsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=n1bkMMBYgbewzUEGiWk4XA&_nc_zt=28&oh=00_AfcWP2EblNvbw9uIK6C3_B6KjcIXWX-F5JOAKkPWO5c8IQ&oe=68FDA4FD&bytestart=0&byteend=271632
+2025-10-21 18:45:05,085 - INFO - 動画URLを取得しました
+2025-10-21 18:45:05,266 - INFO - INSERT(with-key): user=begokko_no_karubi, key=AQOir0tuUd7DrvwyLzMcOPh0VjrmDvo_Rt7iB4CS22qH0BfKE4ZNunAzjrnWzyagjM11hbgtEhtYkjK0qfsDVD7jffy9BfQkoGnJGJk, dt=2025-10-21T09:18:05.000Z
+2025-10-21 18:45:07,305 - INFO - ダウンロードを開始します: media\begokko_no_karubi\begokko_no_karubi_20251021184507.mp4
+2025-10-21 18:45:09,167 - INFO - ダウンロード完了: media\begokko_no_karubi\begokko_no_karubi_20251021184507.mp4
+2025-10-21 18:45:13,465 - INFO - 処理終了
+2025-10-21 18:45:13,465 - INFO - 説明文_AI: None
+2025-10-21 18:45:13,465 - INFO - 説明文_最終: 
+================================================================================
+2025-10-21 18:45:19,640 - INFO - 処理開始: Mode=story, Username=begokko_no_karubi, GBP=pa00014356
+2025-10-21 18:45:19,640 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJwYTAwMDE0MzU2Il0.
+2025-10-21 18:45:45,059 - INFO - 元の動画サイズ: 720x900
+2025-10-21 18:45:45,060 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-21 18:45:45,060 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\begokko_no_karubi\begokko_no_karubi_20251021184507.mp4
+2025-10-21 18:45:55,174 - INFO - 一時ファイルが見つかりません: media\begokko_no_karubi\description\20251021_184433
+2025-10-21 18:45:55,175 - INFO - Looking for button section...
+2025-10-21 18:45:59,934 - INFO - Trying to select CALL option...
+2025-10-21 18:46:00,188 - INFO - CALL option successfully selected
+2025-10-21 18:46:02,188 - INFO - Clicking submit button...
+2025-10-21 18:46:10,934 - INFO - 処理完了
+================================================================================
+2025-10-21 22:45:50,325 - INFO - 処理開始 PROCESSID:20251021_224546
+2025-10-21 22:45:50,325 - INFO - 対象ユーザー: begokko_no_karubi
+2025-10-21 22:45:50,325 - INFO - 処理を開始します
+2025-10-21 22:45:50,383 - INFO - 選択されたプロファイル: Profile 13
+2025-10-21 22:45:50,383 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-21 22:45:54,973 - INFO - begokko_no_karubi のプロフィールページにアクセスします
+2025-10-21 22:46:17,622 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 22:46:18,580 - INFO - begokko_no_karubi: 動画を検出しました
+2025-10-21 22:46:18,580 - INFO - datetime属性の抽出を開始します
+2025-10-21 22:46:18,644 - INFO - 抽出されたdatetime: 2025-10-21T09:18:05.000Z
+2025-10-21 22:46:18,644 - INFO - begokko_no_karubi の投稿日時: 2025-10-21T09:18:05.000Z
+2025-10-21 22:46:19,851 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMMrAa2D24o78wajvpahueq0oDOzYEp3U1kd6TkB0Vt2jfJzQGh1EUKuE-YE7XQoA-xJwFMcrI2xZS45W4bEvzkeRjR5H9Wu55F32-k70Zu_Q.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=1VwcDVejNs4Q7kNvwFNFLBL&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTA4OTc5ODQ2NjM1MTk1MiwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=v-a8LGBTJSK8v1r1i9h04Q&_nc_zt=28&oh=00_AfeeWqTtNxAjLxiID4FRevbHhisSnTRq1CSXBXfzHw9H4A&oe=68FDFB96&bytestart=0&byteend=204723
+2025-10-21 22:46:19,851 - INFO - 動画URLを取得しました
+2025-10-21 22:46:19,853 - INFO - DUP(with-key): user=begokko_no_karubi, key=AQMMrAa2D24o78wajvpahueq0oDOzYEp3U1kd6TkB0Vt2jfJzQGh1EUKuE-YE7XQoA-xJwFMcrI2xZS45W4bEvzkeRjR5H9Wu55F32-k70Zu_Q, dt=2025-10-21T09:18:05.000Z

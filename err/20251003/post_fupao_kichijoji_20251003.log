@@ -1,0 +1,61 @@
+================================================================================
+2025-10-03 04:24:00,327 - INFO - 処理開始 PROCESSID:20251003_042357
+2025-10-03 04:24:00,327 - INFO - 対象ユーザー: fupao_kichijoji
+2025-10-03 04:24:00,327 - INFO - 処理を開始します
+2025-10-03 04:24:00,385 - INFO - 選択されたプロファイル: Profile 13
+2025-10-03 04:24:00,386 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-03 04:24:06,046 - INFO - fupao_kichijoji のプロフィールページにアクセスします
+2025-10-03 04:24:18,084 - INFO - 最新投稿を読み込みます
+2025-10-03 04:24:25,048 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_kichijoji/reel/DPJSaw8k5XA/?hl=ja
+2025-10-03 04:24:31,213 - INFO - 最新投稿ページにアクセスしました
+2025-10-03 04:24:39,675 - INFO - 最新投稿ページにアクセスしました
+2025-10-03 04:24:42,994 - INFO - datetime属性の抽出を開始します
+2025-10-03 04:24:45,081 - INFO - 抽出されたdatetime: 2025-09-28T12:01:26.000Z
+2025-10-03 04:24:45,088 - INFO - fupao_kichijoji の投稿日時: 2025-09-28T12:01:26.000Z
+2025-10-03 04:24:48,053 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-09-28T12:01:26+00:00, age=4 days, 16:23:22.053288
+================================================================================
+2025-10-03 09:11:09,241 - INFO - 処理開始 PROCESSID:20251003_091058
+2025-10-03 09:11:09,241 - INFO - 対象ユーザー: fupao_kichijoji
+2025-10-03 09:11:09,241 - INFO - 処理を開始します
+2025-10-03 09:11:09,371 - INFO - 選択されたプロファイル: Profile 9
+2025-10-03 09:11:09,371 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-03 09:11:25,454 - INFO - fupao_kichijoji のプロフィールページにアクセスします
+2025-10-03 09:11:57,382 - INFO - 最新投稿を読み込みます
+2025-10-03 09:12:04,894 - INFO - 選定: 非ピン留め https://www.instagram.com/fupao_kichijoji/reel/DPJSaw8k5XA/?hl=ja
+2025-10-03 09:12:10,494 - INFO - 最新投稿ページにアクセスしました
+2025-10-03 09:12:19,536 - INFO - 最新投稿ページにアクセスしました
+2025-10-03 09:12:21,369 - INFO - datetime属性の抽出を開始します
+2025-10-03 09:12:24,641 - INFO - 抽出されたdatetime: 2025-09-28T12:01:26.000Z
+2025-10-03 09:12:24,642 - INFO - fupao_kichijoji の投稿日時: 2025-09-28T12:01:26.000Z
+2025-10-03 09:12:25,544 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-09-28T12:01:26+00:00, age=4 days, 21:10:59.544527
+================================================================================
+2025-10-03 13:56:31,244 - INFO - 処理開始 PROCESSID:20251003_135623
+2025-10-03 13:56:31,244 - INFO - 対象ユーザー: fupao_kichijoji
+2025-10-03 13:56:31,246 - INFO - 処理を開始します
+2025-10-03 13:56:31,357 - INFO - 選択されたプロファイル: Profile 12
+2025-10-03 13:56:31,357 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-03 13:56:43,991 - ERROR - Chromeドライバーの設定でエラーが発生しました: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+	GetHandleVerifier [0x0x104c333+65459]
+	GetHandleVerifier [0x0x104c374+65524]
+	(No symbol) [0x0xe6d973]
+	(No symbol) [0x0xea256a]
+	(No symbol) [0x0xe9db5a]
+	(No symbol) [0x0xee5a50]
+	(No symbol) [0x0xee534a]
+	(No symbol) [0x0xed9bf6]
+	(No symbol) [0x0xeab38e]
+	(No symbol) [0x0xeac274]
+	GetHandleVerifier [0x0x12ceda3+2697763]
+	GetHandleVerifier [0x0x12c9ec7+2677575]
+	GetHandleVerifier [0x0x1074194+228884]
+	GetHandleVerifier [0x0x10649f8+165496]
+	GetHandleVerifier [0x0x106b18d+192013]
+	GetHandleVerifier [0x0x10547d8+99416]
+	GetHandleVerifier [0x0x1054972+99826]
+	GetHandleVerifier [0x0x103ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-03 13:56:43,998 - ERROR - 注意: Chromeを完全に終了してから実行してください

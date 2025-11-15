@@ -1,0 +1,127 @@
+================================================================================
+2025-10-10 01:02:02,227 - INFO - 処理開始 PROCESSID:20251010_010158
+2025-10-10 01:02:02,227 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-10 01:02:02,227 - INFO - 処理を開始します
+2025-10-10 01:02:02,282 - INFO - 選択されたプロファイル: Profile 12
+2025-10-10 01:02:02,282 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-10 01:02:07,845 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-10 01:02:30,085 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 01:02:33,202 - INFO - 動画の取得に失敗しました
+2025-10-10 01:02:33,202 - INFO - datetime属性の抽出を開始します
+2025-10-10 01:02:33,307 - INFO - 抽出されたdatetime: 2025-10-10T00:44:57.000Z
+2025-10-10 01:02:33,339 - INFO - 画像URLを取得しました
+2025-10-10 01:02:33,380 - INFO - INSERT(with-key): user=cuthouse_hiragishi, key=MzczOTk1MjQ4MTQ4MTkzMjM2OQ==, dt=2025-10-10T00:44:57.000Z
+2025-10-10 01:02:35,410 - INFO - ダウンロードを開始します: media\cuthouse_hiragishi\cuthouse_hiragishi_20251010010235.jpg
+2025-10-10 01:02:35,735 - INFO - ダウンロード完了: media\cuthouse_hiragishi\cuthouse_hiragishi_20251010010235.jpg
+2025-10-10 01:02:36,069 - INFO - 元の画像サイズ: 480x853
+2025-10-10 01:02:36,070 - INFO - サイズ変更は不要です
+2025-10-10 01:02:40,441 - INFO - 処理終了
+2025-10-10 01:02:40,445 - INFO - 説明文_AI: None
+2025-10-10 01:02:40,445 - INFO - 説明文_最終: 
+================================================================================
+2025-10-10 01:02:46,626 - INFO - 処理開始: Mode=story, Username=cuthouse_hiragishi, GBP=cuthousehiragishi
+2025-10-10 01:02:46,626 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJjdXRob3VzZWhpcmFnaXNoaSJd.
+2025-10-10 01:03:10,226 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\cuthouse_hiragishi\cuthouse_hiragishi_20251010010235.jpg
+2025-10-10 01:03:13,402 - INFO - 一時ファイルが見つかりません: media\cuthouse_hiragishi\description\20251010_010158
+2025-10-10 01:03:13,402 - INFO - Looking for button section...
+2025-10-10 01:03:18,084 - INFO - Trying to select CALL option...
+2025-10-10 01:03:18,327 - INFO - CALL option successfully selected
+2025-10-10 01:03:20,328 - INFO - Clicking submit button...
+2025-10-10 01:03:28,992 - INFO - 処理完了
+================================================================================
+2025-10-10 05:02:52,245 - INFO - 処理開始 PROCESSID:20251010_050248
+2025-10-10 05:02:52,245 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-10 05:02:52,245 - INFO - 処理を開始します
+2025-10-10 05:02:52,307 - INFO - 選択されたプロファイル: Profile 9
+2025-10-10 05:02:52,309 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-10 05:02:57,066 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-10 05:03:19,128 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 05:03:22,332 - INFO - 動画の取得に失敗しました
+2025-10-10 05:03:22,333 - INFO - datetime属性の抽出を開始します
+2025-10-10 05:03:22,418 - INFO - 抽出されたdatetime: 2025-10-10T00:44:57.000Z
+2025-10-10 05:03:22,444 - INFO - 画像URLを取得しました
+2025-10-10 05:03:22,449 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=MzczOTk1MjQ4MTQ4MTkzMjM2OQ==, dt=2025-10-10T00:44:57.000Z
+================================================================================
+2025-10-10 09:03:42,632 - INFO - 処理開始 PROCESSID:20251010_090339
+2025-10-10 09:03:42,633 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-10 09:03:42,633 - INFO - 処理を開始します
+2025-10-10 09:03:42,690 - INFO - 選択されたプロファイル: Profile 13
+2025-10-10 09:03:42,690 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-10 09:03:47,421 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-10 09:04:09,699 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 09:04:13,012 - INFO - 動画の取得に失敗しました
+2025-10-10 09:04:13,013 - INFO - datetime属性の抽出を開始します
+2025-10-10 09:04:13,129 - INFO - 抽出されたdatetime: 2025-10-10T00:44:57.000Z
+2025-10-10 09:04:13,172 - INFO - 画像URLを取得しました
+2025-10-10 09:04:13,174 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=MzczOTk1MjQ4MTQ4MTkzMjM2OQ==, dt=2025-10-10T00:44:57.000Z
+================================================================================
+2025-10-10 13:01:25,643 - INFO - 処理開始 PROCESSID:20251010_130122
+2025-10-10 13:01:25,643 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-10 13:01:25,644 - INFO - 処理を開始します
+2025-10-10 13:01:25,698 - INFO - 選択されたプロファイル: Profile 10
+2025-10-10 13:01:25,698 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-10 13:01:31,987 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-10 13:01:54,672 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 13:01:57,799 - INFO - 動画の取得に失敗しました
+2025-10-10 13:01:57,800 - INFO - datetime属性の抽出を開始します
+2025-10-10 13:01:57,918 - INFO - 抽出されたdatetime: 2025-10-10T00:44:57.000Z
+2025-10-10 13:01:57,945 - INFO - 画像URLを取得しました
+2025-10-10 13:01:57,947 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=MzczOTk1MjQ4MTQ4MTkzMjM2OQ==, dt=2025-10-10T00:44:57.000Z
+================================================================================
+2025-10-10 16:53:43,232 - INFO - 処理開始 PROCESSID:20251010_165339
+2025-10-10 16:53:43,232 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-10 16:53:43,234 - INFO - 処理を開始します
+2025-10-10 16:53:43,287 - INFO - 選択されたプロファイル: Profile 13
+2025-10-10 16:53:43,289 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-10 16:53:47,888 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-10 16:54:10,169 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 16:54:13,432 - INFO - 動画の取得に失敗しました
+2025-10-10 16:54:13,432 - INFO - datetime属性の抽出を開始します
+2025-10-10 16:54:13,520 - INFO - 抽出されたdatetime: 2025-10-10T00:48:33.000Z
+2025-10-10 16:54:13,552 - INFO - 画像URLを取得しました
+2025-10-10 16:54:13,602 - INFO - INSERT(with-key): user=cuthouse_hiragishi, key=MzczOTk1NDI5Nzk5MzA0ODcxNw==, dt=2025-10-10T00:48:33.000Z
+2025-10-10 16:54:15,604 - INFO - ダウンロードを開始します: media\cuthouse_hiragishi\cuthouse_hiragishi_20251010165415.jpg
+2025-10-10 16:54:15,946 - INFO - ダウンロード完了: media\cuthouse_hiragishi\cuthouse_hiragishi_20251010165415.jpg
+2025-10-10 16:54:16,183 - INFO - 元の画像サイズ: 320x569
+2025-10-10 16:54:22,116 - INFO - 処理終了
+2025-10-10 16:54:22,118 - INFO - 説明文_AI: None
+2025-10-10 16:54:22,118 - INFO - 説明文_最終: 
+================================================================================
+2025-10-10 16:54:28,273 - INFO - 処理開始: Mode=story, Username=cuthouse_hiragishi, GBP=cuthousehiragishi
+2025-10-10 16:54:28,273 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJjdXRob3VzZWhpcmFnaXNoaSJd.
+2025-10-10 16:54:53,231 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\cuthouse_hiragishi\cuthouse_hiragishi_20251010165415.jpg
+2025-10-10 16:54:56,366 - INFO - 一時ファイルが見つかりません: media\cuthouse_hiragishi\description\20251010_165339
+2025-10-10 16:54:56,367 - INFO - Looking for button section...
+2025-10-10 16:55:01,067 - INFO - Trying to select CALL option...
+2025-10-10 16:55:01,308 - INFO - CALL option successfully selected
+2025-10-10 16:55:03,309 - INFO - Clicking submit button...
+2025-10-10 16:55:11,954 - INFO - 処理完了
+================================================================================
+2025-10-10 20:43:33,669 - INFO - 処理開始 PROCESSID:20251010_204330
+2025-10-10 20:43:33,669 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-10 20:43:33,669 - INFO - 処理を開始します
+2025-10-10 20:43:33,730 - INFO - 選択されたプロファイル: Profile 13
+2025-10-10 20:43:33,730 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-10 20:43:38,443 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-10 20:44:00,342 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 20:44:03,509 - INFO - 動画の取得に失敗しました
+2025-10-10 20:44:03,509 - INFO - datetime属性の抽出を開始します
+2025-10-10 20:44:03,586 - INFO - 抽出されたdatetime: 2025-10-10T00:48:50.000Z
+2025-10-10 20:44:03,613 - INFO - 画像URLを取得しました
+2025-10-10 20:44:03,654 - INFO - INSERT(with-key): user=cuthouse_hiragishi, key=MzczOTk1NDQ0MTMyMDc5NjAyMQ==, dt=2025-10-10T00:48:50.000Z
+2025-10-10 20:44:05,655 - INFO - ダウンロードを開始します: media\cuthouse_hiragishi\cuthouse_hiragishi_20251010204405.jpg
+2025-10-10 20:44:05,909 - INFO - ダウンロード完了: media\cuthouse_hiragishi\cuthouse_hiragishi_20251010204405.jpg
+2025-10-10 20:44:06,022 - INFO - 元の画像サイズ: 320x569
+2025-10-10 20:44:08,443 - INFO - 処理終了
+2025-10-10 20:44:08,445 - INFO - 説明文_AI: None
+2025-10-10 20:44:08,445 - INFO - 説明文_最終: 
+================================================================================
+2025-10-10 20:44:14,540 - INFO - 処理開始: Mode=story, Username=cuthouse_hiragishi, GBP=cuthousehiragishi
+2025-10-10 20:44:14,540 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJjdXRob3VzZWhpcmFnaXNoaSJd.
+2025-10-10 20:44:39,633 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\cuthouse_hiragishi\cuthouse_hiragishi_20251010204405.jpg
+2025-10-10 20:44:42,877 - INFO - 一時ファイルが見つかりません: media\cuthouse_hiragishi\description\20251010_204330
+2025-10-10 20:44:42,878 - INFO - Looking for button section...
+2025-10-10 20:44:47,408 - INFO - Trying to select CALL option...
+2025-10-10 20:44:47,632 - INFO - CALL option successfully selected
+2025-10-10 20:44:49,633 - INFO - Clicking submit button...
+2025-10-10 20:44:58,288 - INFO - 処理完了

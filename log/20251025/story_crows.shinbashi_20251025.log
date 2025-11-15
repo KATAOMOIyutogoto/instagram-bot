@@ -1,0 +1,101 @@
+================================================================================
+2025-10-25 00:29:57,257 - INFO - 処理開始 PROCESSID:20251025_002954
+2025-10-25 00:29:57,257 - INFO - 対象ユーザー: crows.shinbashi
+2025-10-25 00:29:57,259 - INFO - 処理を開始します
+2025-10-25 00:29:57,318 - INFO - 選択されたプロファイル: Profile 12
+2025-10-25 00:29:57,318 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-25 00:30:02,862 - INFO - crows.shinbashi のプロフィールページにアクセスします
+2025-10-25 00:30:27,085 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 00:30:30,227 - INFO - 動画の取得に失敗しました
+2025-10-25 00:30:30,246 - INFO - datetime属性の抽出を開始します
+2025-10-25 00:30:30,458 - INFO - 抽出されたdatetime: 2025-10-24T11:06:04.000Z
+2025-10-25 00:30:30,496 - INFO - 画像URLを取得しました
+2025-10-25 00:30:30,625 - INFO - INSERT(with-key): user=crows.shinbashi, key=Mzc1MDQxMTk2MDM3NTc0NzQ1NQ==, dt=2025-10-24T11:06:04.000Z
+2025-10-25 00:30:32,628 - INFO - ダウンロードを開始します: media\crows.shinbashi\crows.shinbashi_20251025003032.jpg
+2025-10-25 00:30:33,727 - INFO - ダウンロード完了: media\crows.shinbashi\crows.shinbashi_20251025003032.jpg
+2025-10-25 00:30:33,832 - INFO - 元の画像サイズ: 480x853
+2025-10-25 00:30:33,833 - INFO - サイズ変更は不要です
+2025-10-25 00:30:36,213 - INFO - 処理終了
+2025-10-25 00:30:36,219 - INFO - 説明文_AI: None
+2025-10-25 00:30:36,219 - INFO - 説明文_最終: 
+================================================================================
+2025-10-25 00:30:42,257 - INFO - 処理開始: Mode=story, Username=crows.shinbashi, GBP=MSQRGNPN304962
+2025-10-25 00:30:42,257 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU1FSR05QTjMwNDk2MiJd.
+2025-10-25 00:31:10,941 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\crows.shinbashi\crows.shinbashi_20251025003032.jpg
+2025-10-25 00:31:14,028 - INFO - 一時ファイルが見つかりません: media\crows.shinbashi\description\20251025_002954
+2025-10-25 00:31:14,028 - INFO - Looking for button section...
+2025-10-25 00:31:18,631 - INFO - Trying to select CALL option...
+2025-10-25 00:31:18,851 - INFO - CALL option successfully selected
+2025-10-25 00:31:20,852 - INFO - Clicking submit button...
+2025-10-25 00:31:30,513 - INFO - 処理完了
+================================================================================
+2025-10-25 04:51:10,356 - INFO - 処理開始 PROCESSID:20251025_045107
+2025-10-25 04:51:10,356 - INFO - 対象ユーザー: crows.shinbashi
+2025-10-25 04:51:10,356 - INFO - 処理を開始します
+2025-10-25 04:51:10,416 - INFO - 選択されたプロファイル: Profile 13
+2025-10-25 04:51:10,416 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-25 04:51:15,147 - INFO - crows.shinbashi のプロフィールページにアクセスします
+2025-10-25 04:51:37,232 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 04:51:40,611 - INFO - 動画の取得に失敗しました
+2025-10-25 04:51:40,612 - INFO - datetime属性の抽出を開始します
+2025-10-25 04:51:40,760 - INFO - 抽出されたdatetime: 2025-10-24T11:06:04.000Z
+2025-10-25 04:51:40,913 - INFO - 画像URLを取得しました
+2025-10-25 04:51:40,916 - INFO - DUP(with-key): user=crows.shinbashi, key=Mzc1MDQxMTk2MDM3NTc0NzQ1NQ==, dt=2025-10-24T11:06:04.000Z
+================================================================================
+2025-10-25 09:13:43,075 - INFO - 処理開始 PROCESSID:20251025_091339
+2025-10-25 09:13:43,075 - INFO - 対象ユーザー: crows.shinbashi
+2025-10-25 09:13:43,075 - INFO - 処理を開始します
+2025-10-25 09:13:43,142 - INFO - 選択されたプロファイル: Profile 12
+2025-10-25 09:13:43,142 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-25 09:13:49,248 - INFO - crows.shinbashi のプロフィールページにアクセスします
+2025-10-25 09:14:11,821 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 09:14:12,750 - INFO - crows.shinbashi: 動画を検出しました
+2025-10-25 09:14:12,751 - INFO - datetime属性の抽出を開始します
+2025-10-25 09:14:12,937 - INFO - 抽出されたdatetime: 2025-10-24T11:04:07.000Z
+2025-10-25 09:14:12,937 - INFO - crows.shinbashi の投稿日時: 2025-10-24T11:04:07.000Z
+2025-10-25 09:14:14,589 - INFO - 生成URL:https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m78/AQM5d73iF2Ft9oRvkScSTiwZA0RsJYHqEaOv6ShfGb1nIALOeuyrGpdikov3ZVPzRxKy9W1UjLzWxW8wEFpEjJoUEkz79QR9DEJpxUs.mp4?_nc_cat=109&_nc_sid=9ca052&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=NeGOFcd83FoQ7kNvwHKAKqC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NTExOTU1MzM4OTg3MDgsInZpX3VzZWNhc2VfaWQiOjEwMTAwLCJkdXJhdGlvbl9zIjoxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=U8urWDqRAFewI0MEvOIITQ&_nc_zt=28&oh=00_Afc470sh2-E-6XGMuWzG_JDUfZuXRLOi5sjcWAaVZINjow&oe=68FE5B3A&bytestart=0&byteend=2440291
+2025-10-25 09:14:14,590 - INFO - 動画URLを取得しました
+2025-10-25 09:14:14,596 - INFO - DUP(with-key): user=crows.shinbashi, key=AQM5d73iF2Ft9oRvkScSTiwZA0RsJYHqEaOv6ShfGb1nIALOeuyrGpdikov3ZVPzRxKy9W1UjLzWxW8wEFpEjJoUEkz79QR9DEJpxUs, dt=2025-10-24T11:04:07.000Z
+================================================================================
+2025-10-25 13:39:16,257 - INFO - 処理開始 PROCESSID:20251025_133913
+2025-10-25 13:39:16,257 - INFO - 対象ユーザー: crows.shinbashi
+2025-10-25 13:39:16,257 - INFO - 処理を開始します
+2025-10-25 13:39:16,316 - INFO - 選択されたプロファイル: Profile 9
+2025-10-25 13:39:16,316 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-25 13:39:22,285 - INFO - crows.shinbashi のプロフィールページにアクセスします
+2025-10-25 13:39:44,421 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 13:39:47,918 - INFO - 動画の取得に失敗しました
+2025-10-25 13:39:47,919 - INFO - datetime属性の抽出を開始します
+2025-10-25 13:39:48,001 - INFO - 抽出されたdatetime: 2025-10-25T11:03:05.000Z
+2025-10-25 13:39:48,039 - INFO - 画像URLを取得しました
+2025-10-25 13:39:48,098 - INFO - INSERT(with-key): user=crows.shinbashi, key=Mzc1MTEzNTIyNzU1MDAwODU2Mg==, dt=2025-10-25T11:03:05.000Z
+2025-10-25 13:39:50,101 - INFO - ダウンロードを開始します: media\crows.shinbashi\crows.shinbashi_20251025133950.jpg
+2025-10-25 13:39:51,273 - INFO - ダウンロード完了: media\crows.shinbashi\crows.shinbashi_20251025133950.jpg
+2025-10-25 13:39:51,386 - INFO - 元の画像サイズ: 480x853
+2025-10-25 13:39:51,386 - INFO - サイズ変更は不要です
+2025-10-25 13:39:53,781 - INFO - 処理終了
+2025-10-25 13:39:53,787 - INFO - 説明文_AI: None
+2025-10-25 13:39:53,789 - INFO - 説明文_最終: 
+================================================================================
+2025-10-25 13:39:59,839 - INFO - 処理開始: Mode=story, Username=crows.shinbashi, GBP=MSQRGNPN304962
+2025-10-25 13:39:59,839 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU1FSR05QTjMwNDk2MiJd.
+2025-10-25 13:40:30,171 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\crows.shinbashi\crows.shinbashi_20251025133950.jpg
+2025-10-25 13:40:33,307 - INFO - 一時ファイルが見つかりません: media\crows.shinbashi\description\20251025_133913
+2025-10-25 13:40:33,307 - INFO - Looking for button section...
+2025-10-25 13:40:38,134 - INFO - Trying to select CALL option...
+2025-10-25 13:40:38,376 - INFO - CALL option successfully selected
+2025-10-25 13:40:40,377 - INFO - Clicking submit button...
+2025-10-25 13:40:49,051 - INFO - 処理完了
+================================================================================
+2025-10-25 19:27:22,317 - INFO - 処理開始 PROCESSID:20251025_192719
+2025-10-25 19:27:22,317 - INFO - 対象ユーザー: crows.shinbashi
+2025-10-25 19:27:22,317 - INFO - 処理を開始します
+2025-10-25 19:27:22,377 - INFO - 選択されたプロファイル: Profile 10
+2025-10-25 19:27:22,377 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-25 19:27:28,515 - INFO - crows.shinbashi のプロフィールページにアクセスします
+2025-10-25 19:27:50,996 - INFO - プロフィール写真のクリックに成功しました
+2025-10-25 19:27:54,188 - INFO - 動画の取得に失敗しました
+2025-10-25 19:27:54,200 - INFO - datetime属性の抽出を開始します
+2025-10-25 19:27:54,486 - INFO - 抽出されたdatetime: 2025-10-25T11:03:05.000Z
+2025-10-25 19:27:54,719 - INFO - 画像URLを取得しました
+2025-10-25 19:27:54,721 - INFO - DUP(with-key): user=crows.shinbashi, key=Mzc1MTEzNTIyNzU1MDAwODU2Mg==, dt=2025-10-25T11:03:05.000Z

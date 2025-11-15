@@ -1,0 +1,114 @@
+================================================================================
+2025-10-26 00:09:51,199 - INFO - 処理開始 PROCESSID:20251026_000943
+2025-10-26 00:09:51,199 - INFO - 対象ユーザー: wadining_124
+2025-10-26 00:09:51,199 - INFO - 処理を開始します
+2025-10-26 00:09:51,324 - INFO - 選択されたプロファイル: Profile 10
+2025-10-26 00:09:51,324 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-26 00:10:02,962 - INFO - wadining_124 のプロフィールページにアクセスします
+2025-10-26 00:10:41,707 - INFO - 最新投稿を読み込みます
+2025-10-26 00:10:48,216 - INFO - 選定: 非ピン留め https://www.instagram.com/wadining_124/reel/DQL6iLnE7JW/?hl=ja
+2025-10-26 00:10:53,277 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 00:11:00,688 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 00:11:02,667 - INFO - datetime属性の抽出を開始します
+2025-10-26 00:11:05,724 - INFO - 抽出されたdatetime: 2025-10-24T09:00:06.000Z
+2025-10-26 00:11:05,725 - INFO - wadining_124 の投稿日時: 2025-10-24T09:00:06.000Z
+2025-10-26 00:11:07,753 - INFO - date:2025-10-24 18:00:06+09:00
+2025-10-26 00:11:07,753 - INFO - post_date:20251024
+2025-10-26 00:11:20,083 - INFO - 1枚目: blob:https://www.instagram.com/373780aa-fefc-4c37-9952-95e4880fb2ee
+2025-10-26 00:11:20,084 - INFO - [caption/by_username] 開始
+2025-10-26 00:11:22,212 - INFO - [caption/by_username] 説明文確定（先頭100）: '#和ダイニング一如　#横浜グルメ　#横浜和食　#岡野町グルメ  #路地裏　#隠れ家　#鯛めし　#横浜西口　#平沼橋'
+2025-10-26 00:11:22,214 - INFO - [caption/by_username] 説明文を保存: media\wadining_124\description\20251026_000943
+2025-10-26 00:11:30,354 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m367/AQPgn2wRdUsZJMuGq9b1YsRvO1jlEt2pbtaWxnqRiX4Wl9tbwTX4NHNnKZrfZynBfcVOvKspzaymN95qjKLzS1kGhYQljfyR1J8uqnjGUjZ7mQ.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=EWlOQBkGUN4Q7kNvwGEjzhx&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxOTczOTY4NzA5ODM4NjY0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=qqIUkNdXgK4flKYQ5LzyTw&_nc_zt=28&oh=00_AfdITDoogUfy_3eeqhH6Oq43PtrfnNqQ8RQPhKwPi5n6xA&oe=69032F42&bytestart=0&byteend=734058
+2025-10-26 00:11:30,704 - INFO - INSERT(with-key): user=wadining_124, key=AQPgn2wRdUsZJMuGq9b1YsRvO1jlEt2pbtaWxnqRiX4Wl9tbwTX4NHNnKZrfZynBfcVOvKspzaymN95qjKLzS1kGhYQljfyR1J8uqnjGUjZ7mQ, dt=2025-10-24T09:00:06.000Z
+2025-10-26 00:11:32,740 - INFO - ダウンロードを開始します: media\wadining_124\wadining_124_20251026001132.mp4
+2025-10-26 00:11:35,012 - INFO - ダウンロード完了: media\wadining_124\wadining_124_20251026001132.mp4
+2025-10-26 00:11:35,019 - INFO - 説明文:#和ダイニング一如　#横浜グルメ　#横浜和食　#岡野町グルメ  #路地裏　#隠れ家　#鯛めし　#横浜西口　#平沼橋
+2025-10-26 00:11:52,085 - INFO - 処理終了
+================================================================================
+2025-10-26 00:12:00,613 - INFO - 処理開始: Mode=post, Username=wadining_124, GBP=wadining124
+2025-10-26 00:12:00,613 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJ3YWRpbmluZzEyNCJd.
+2025-10-26 00:13:06,279 - INFO - 元の動画サイズ: 360x640
+2025-10-26 00:13:06,281 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-26 00:13:06,281 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\wadining_124\wadining_124_20251026001132.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\wadining_124\wadining_124_20251026001132_resized.mp4
+2025-10-26 00:14:01,463 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\wadining_124\wadining_124_20251026001132_resized.mp4
+2025-10-26 00:14:01,471 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\wadining_124\wadining_124_20251026001132.mp4
+2025-10-26 00:14:01,471 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\wadining_124\wadining_124_20251026001132_resized.mp4
+2025-10-26 00:14:12,260 - INFO - Waiting for description field...
+2025-10-26 00:14:12,294 - INFO - Setting description via JS (no send_keys)...
+2025-10-26 00:14:13,347 - INFO - Looking for button section...
+2025-10-26 00:14:18,087 - INFO - Trying to select CALL option...
+2025-10-26 00:14:18,322 - INFO - CALL option successfully selected
+2025-10-26 00:14:20,327 - INFO - Clicking submit button...
+2025-10-26 00:14:31,611 - INFO - 処理完了
+================================================================================
+2025-10-26 06:18:01,703 - INFO - 処理開始 PROCESSID:20251026_061758
+2025-10-26 06:18:01,705 - INFO - 対象ユーザー: wadining_124
+2025-10-26 06:18:01,705 - INFO - 処理を開始します
+2025-10-26 06:18:01,767 - INFO - 選択されたプロファイル: Profile 9
+2025-10-26 06:18:01,767 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-26 06:18:06,336 - INFO - wadining_124 のプロフィールページにアクセスします
+2025-10-26 06:18:20,964 - INFO - 最新投稿を読み込みます
+2025-10-26 06:18:26,290 - INFO - 選定: 非ピン留め https://www.instagram.com/wadining_124/reel/DQL6iLnE7JW/?hl=ja
+2025-10-26 06:18:32,578 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 06:18:38,873 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 06:18:39,165 - INFO - datetime属性の抽出を開始します
+2025-10-26 06:18:39,373 - INFO - 抽出されたdatetime: 2025-10-24T09:00:06.000Z
+2025-10-26 06:18:39,373 - INFO - wadining_124 の投稿日時: 2025-10-24T09:00:06.000Z
+2025-10-26 06:18:39,562 - INFO - date:2025-10-24 18:00:06+09:00
+2025-10-26 06:18:39,562 - INFO - post_date:20251024
+2025-10-26 06:18:39,858 - INFO - 1枚目: blob:https://www.instagram.com/d371d242-a585-4052-b567-b0ecf80d0ec5
+2025-10-26 06:18:39,858 - INFO - [caption/by_username] 開始
+2025-10-26 06:18:40,390 - INFO - [caption/by_username] 説明文確定（先頭100）: '#和ダイニング一如　#横浜グルメ　#横浜和食　#岡野町グルメ  #路地裏　#隠れ家　#鯛めし　#横浜西口　#平沼橋'
+2025-10-26 06:18:40,393 - INFO - [caption/by_username] 説明文を保存: media\wadining_124\description\20251026_061758
+2025-10-26 06:18:43,076 - INFO - 生成URL:https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m367/AQMRKFJ1WUd77p0Cdreb4nTwHVifePLCaqFYtnKmGMcaXULUcB79Wp27JCvJRAh6NwtnydxtOX1w0QoQUSvdzlFiwbtHjdchQKn-9Lg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=EzsYeiQPTugQ7kNvwE32kbg&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjItaGZyXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE5NzM5Njg3MDk4Mzg2NjQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QYItSrs2ZHxkIZN3_oBRBQ&_nc_zt=28&oh=00_AfdbNuQwZKpdFytsuK1sLH_sxqxjUVgImtIK1E9NuCZf_A&oe=6903A309&bytestart=0&byteend=5356719
+2025-10-26 06:18:43,087 - INFO - DUP(with-key): user=wadining_124, key=AQMRKFJ1WUd77p0Cdreb4nTwHVifePLCaqFYtnKmGMcaXULUcB79Wp27JCvJRAh6NwtnydxtOX1w0QoQUSvdzlFiwbtHjdchQKn-9Lg, dt=2025-10-24T09:00:06.000Z
+2025-10-26 06:18:43,088 - INFO - このレコードは存在します
+2025-10-26 06:18:43,088 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-26 12:54:36,212 - INFO - 処理開始 PROCESSID:20251026_125433
+2025-10-26 12:54:36,212 - INFO - 対象ユーザー: wadining_124
+2025-10-26 12:54:36,212 - INFO - 処理を開始します
+2025-10-26 12:54:36,277 - INFO - 選択されたプロファイル: Profile 13
+2025-10-26 12:54:36,277 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-26 12:54:40,796 - INFO - wadining_124 のプロフィールページにアクセスします
+2025-10-26 12:54:53,148 - INFO - 最新投稿を読み込みます
+2025-10-26 12:54:59,412 - INFO - 選定: 非ピン留め https://www.instagram.com/wadining_124/reel/DQL6iLnE7JW/?hl=ja
+2025-10-26 12:55:07,663 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 12:55:16,170 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 12:55:16,927 - INFO - datetime属性の抽出を開始します
+2025-10-26 12:55:20,795 - INFO - 抽出されたdatetime: 2025-10-24T09:00:06.000Z
+2025-10-26 12:55:20,795 - INFO - wadining_124 の投稿日時: 2025-10-24T09:00:06.000Z
+2025-10-26 12:55:21,754 - INFO - date:2025-10-24 18:00:06+09:00
+2025-10-26 12:55:21,754 - INFO - post_date:20251024
+2025-10-26 12:55:31,655 - INFO - 1枚目: blob:https://www.instagram.com/c0e122ba-d386-43c2-ac9d-9ab6619186fb
+2025-10-26 12:55:31,655 - INFO - [caption/by_username] 開始
+2025-10-26 12:55:35,238 - INFO - [caption/by_username] 説明文確定（先頭100）: '#和ダイニング一如　#横浜グルメ　#横浜和食　#岡野町グルメ  #路地裏　#隠れ家　#鯛めし　#横浜西口　#平沼橋'
+2025-10-26 12:55:35,241 - INFO - [caption/by_username] 説明文を保存: media\wadining_124\description\20251026_125433
+2025-10-26 12:55:41,714 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m367/AQPgn2wRdUsZJMuGq9b1YsRvO1jlEt2pbtaWxnqRiX4Wl9tbwTX4NHNnKZrfZynBfcVOvKspzaymN95qjKLzS1kGhYQljfyR1J8uqnjGUjZ7mQ.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=EWlOQBkGUN4Q7kNvwGEjzhx&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxOTczOTY4NzA5ODM4NjY0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=uMzojqih8qMDnWb2uvaXvA&_nc_zt=28&oh=00_AferrIilo-aA7zkww5tDkhl6HD-BOJ6CBgbq_S4-_7OskQ&oe=6903D802&bytestart=0&byteend=734058
+2025-10-26 12:55:41,892 - INFO - DUP(with-key): user=wadining_124, key=AQPgn2wRdUsZJMuGq9b1YsRvO1jlEt2pbtaWxnqRiX4Wl9tbwTX4NHNnKZrfZynBfcVOvKspzaymN95qjKLzS1kGhYQljfyR1J8uqnjGUjZ7mQ, dt=2025-10-24T09:00:06.000Z
+2025-10-26 12:55:41,892 - INFO - このレコードは存在します
+2025-10-26 12:55:41,892 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-26 18:53:19,973 - INFO - 処理開始 PROCESSID:20251026_185311
+2025-10-26 18:53:19,973 - INFO - 対象ユーザー: wadining_124
+2025-10-26 18:53:19,973 - INFO - 処理を開始します
+2025-10-26 18:53:20,089 - INFO - 選択されたプロファイル: Profile 9
+2025-10-26 18:53:20,089 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-26 18:53:31,161 - INFO - wadining_124 のプロフィールページにアクセスします
+2025-10-26 18:54:19,572 - INFO - 最新投稿を読み込みます
+2025-10-26 18:54:26,343 - INFO - 選定: 非ピン留め https://www.instagram.com/wadining_124/reel/DQL6iLnE7JW/?hl=ja
+2025-10-26 18:54:34,621 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 18:54:43,354 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 18:54:45,118 - INFO - datetime属性の抽出を開始します
+2025-10-26 18:54:49,476 - INFO - 抽出されたdatetime: 2025-10-24T09:00:06.000Z
+2025-10-26 18:54:49,476 - INFO - wadining_124 の投稿日時: 2025-10-24T09:00:06.000Z
+2025-10-26 18:55:01,325 - INFO - date:2025-10-24 18:00:06+09:00
+2025-10-26 18:55:01,325 - INFO - post_date:20251024
+2025-10-26 18:55:02,480 - INFO - 1枚目: blob:https://www.instagram.com/e5f30cd2-1235-45c0-85e7-36667a0e302f
+2025-10-26 18:55:02,481 - INFO - [caption/by_username] 開始
+2025-10-26 18:55:05,393 - INFO - [caption/by_username] 説明文確定（先頭100）: '#和ダイニング一如　#横浜グルメ　#横浜和食　#岡野町グルメ  #路地裏　#隠れ家　#鯛めし　#横浜西口　#平沼橋'
+2025-10-26 18:55:05,402 - INFO - [caption/by_username] 説明文を保存: media\wadining_124\description\20251026_185311
+2025-10-26 18:55:12,746 - INFO - 生成URL:https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m367/AQMRKFJ1WUd77p0Cdreb4nTwHVifePLCaqFYtnKmGMcaXULUcB79Wp27JCvJRAh6NwtnydxtOX1w0QoQUSvdzlFiwbtHjdchQKn-9Lg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=EzsYeiQPTugQ7kNvwE32kbg&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjItaGZyXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE5NzM5Njg3MDk4Mzg2NjQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Y9Z3OeU-R7PeX2z2lX0oRA&_nc_zt=28&oh=00_AfeJnr1_3L7h0XL5ZY9-D7Faptz1JmF8eJeWx0t7qvU1zw&oe=69044BC9&bytestart=0&byteend=5356719
+2025-10-26 18:55:12,757 - INFO - DUP(with-key): user=wadining_124, key=AQMRKFJ1WUd77p0Cdreb4nTwHVifePLCaqFYtnKmGMcaXULUcB79Wp27JCvJRAh6NwtnydxtOX1w0QoQUSvdzlFiwbtHjdchQKn-9Lg, dt=2025-10-24T09:00:06.000Z
+2025-10-26 18:55:12,882 - INFO - このレコードは存在します
+2025-10-26 18:55:12,883 - INFO - 全件レコードが存在します

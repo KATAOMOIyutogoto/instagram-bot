@@ -1,0 +1,575 @@
+================================================================================
+2025-11-08 00:54:26,573 - INFO - 処理開始 PROCESSID:20251108_005423
+2025-11-08 00:54:26,573 - INFO - 対象ユーザー: hfhsp2c
+2025-11-08 00:54:26,573 - INFO - 処理を開始します
+2025-11-08 00:54:26,628 - INFO - 選択されたプロファイル: Profile 9
+2025-11-08 00:54:26,628 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-08 00:54:31,000 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-11-08 00:54:42,994 - INFO - 最新投稿を読み込みます
+2025-11-08 00:54:48,514 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-11-08 00:54:51,240 - INFO - ピン留めだが3日以上前(161日) → スキップ
+2025-11-08 00:54:51,241 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-11-08 00:54:54,592 - INFO - ピン留めだが3日以上前(177日) → スキップ
+2025-11-08 00:54:54,592 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-11-08 00:54:58,003 - INFO - ピン留めだが3日以上前(662日) → スキップ
+2025-11-08 00:54:58,003 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQuyJ5uEwz8/?hl=ja
+2025-11-08 00:55:02,867 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 00:55:07,173 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 00:55:07,341 - INFO - datetime属性の抽出を開始します
+2025-11-08 00:55:07,361 - INFO - 抽出されたdatetime: 2025-11-06T22:00:23.000Z
+2025-11-08 00:55:07,361 - INFO - hfhsp2c の投稿日時: 2025-11-06T22:00:23.000Z
+2025-11-08 00:55:07,368 - INFO - date:2025-11-07 07:00:23+09:00
+2025-11-08 00:55:07,368 - INFO - post_date:20251107
+2025-11-08 00:55:07,414 - INFO - カルーセル推定: 11枚
+2025-11-08 00:55:07,447 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574244015_18431500027097894_8970743804247873630_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc2MDE2MzMwNTczOTc3MzM1MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gE9Eidh4ECQQ7kNvwH8TMPe&_nc_oc=Adl1WyIWGrm_KNt6PEiv1MfsU_O9b_5VtDxhq7XHv0sMNN07yAcTg1HErg2bp54V0gk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfiaFjgdCJrzFC3Hdgw75C3azNSfknqgd2MLEU2RXUCRpA&oe=69144FFA
+2025-11-08 00:55:07,459 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574022194_18431500036097894_1822019407700534972_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2MDE2MzMwNTU4ODc4MjI3Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=p6uqnDsTbUkQ7kNvwErNWsl&_nc_oc=Adk-a8P4xzJLXygcMIhx2sl6P8cnU-TlZKRGhr_yAShwLuvFa9jqRZKWhYP5dSpOfco&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfjG5uMR7OsANagFarZUGWuppN3TuQceDCH5Wr1msRQNXw&oe=69146BC2
+2025-11-08 00:55:49,053 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573600427_18431500045097894_4443024466245995733_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc2MDE2MzMwNTcxNDYxMTM3Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=hLTWl5I9800Q7kNvwEWUGzX&_nc_oc=AdmeighIq4a2VwH4rXUCHkJbz2qd8GxxE1uH1SPUbFnIyrzSq8e1BeP2mZS7IHKNa6I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_Afh5rG82GtGEBfNo4fnhwo2zyIaAKJEvE7aR2-uXrsugmw&oe=6914803C
+2025-11-08 00:55:50,103 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/576041378_18431500054097894_8471195992142609740_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU3MTk5MDIzMA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=pZChvmDctFUQ7kNvwHNcVnY&_nc_oc=Adn4WLfUndsPiCzZHeU8_RbNJCS2RDDfnYDpPZ8yp7hwDpTSznVQMfZtzKrMiXrHORI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_Afhf-yXTZ4Rpl3tYBRjbkBqoRPvCFbzFWJIhJTL-8utwBA&oe=69144F59
+2025-11-08 00:55:51,169 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573402454_18431500063097894_5953037060278928130_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTU3MTk4MTkzNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=e4zNDKJ7YE4Q7kNvwGUyE-_&_nc_oc=AdlHiv-T1Gr3VMyy8dlZHiimnY8jnip2je7trvzAk26Nu3vU_65tQuUHB8pw5klAR7g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfhmlhiZbUocW0SLyXosSNZoLvv1pJkQFZnSLZ_C8QYj-w&oe=69147A9D
+2025-11-08 00:55:52,320 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573645951_18431500075097894_4875439565513429572_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTk1NzgyNDc3MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Tgu9eaD9kQEQ7kNvwFq9WCT&_nc_oc=Adl4ANGQwAD6_64mXORi-DfpDRvmxPUIWILZLI3Xh98GVvzEzd_9uXSe-L_mqw8URsI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfjbgXIvxiiu965AaG3Qx6G8HuhVorgdkbpIcMxGkbPLcQ&oe=69146AC2
+2025-11-08 00:55:53,399 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573630586_18431500084097894_7600378095380225994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MDE2MzMwNTczOTc1OTE5MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=PArA2-rkCKAQ7kNvwF-znY_&_nc_oc=AdnNIC3qanRdYfhq5QN9C3yGI0fVmswVhYHr0197rXKSrfepxKGIsRty1sDDW0nqPV8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfjdTEmky4Oc46VPmMOqZg9JJrsuLqLrBnyqQht0XC4ifA&oe=69146AFE
+2025-11-08 00:55:54,466 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573552476_18431500093097894_2335112486461953355_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NjkyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=NNRsrXzlelMQ7kNvwFVTDD4&_nc_oc=Adn9Bu6YSwKwrqR1CMsFQ1LtkSRydHEwBZpJlYs3iV-QyX-MiBsRrw67Bi0HLwLdFFw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfgqOL-7Fl1sF3_OXt1-7i5jDu6tbemlm2U4D5hB4XNg1A&oe=69144C7D
+2025-11-08 00:55:55,535 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574044240_18431500102097894_8333894616741970452_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NTE3NQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=4fSxAVdx2vEQ7kNvwHRbsSZ&_nc_oc=AdmCEAkw-4AfvwhmFAvbMp5LRaV2Ie6JwhEW0dTOo0U4eAtpRX_vnPSFTWnITvpY4gs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfjZfuwe1mJQAwQCQJQV67sJLq159lIo8l3LCYdzwvGYaQ&oe=69146F3C
+2025-11-08 00:55:56,582 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574246567_18431500111097894_144122938315840640_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTgwNjg1MjE4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=X1-o1gvs7YYQ7kNvwF7inX8&_nc_oc=Adm8vkBJc3rinAVdVhGDRPSHqSxMtAyp5YY4jvJVA_YgMDdijxq3PdqGkmMD7Sm3FRg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfjevoDewPHTAtOk_17YIu5qSBVdtS62_jxBExUaJ936CA&oe=691455F0
+2025-11-08 00:55:57,629 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573553290_18431500123097894_7625826194978047499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTU4ODcyODc3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gLIf2Eb_ZEEQ7kNvwHmPLQt&_nc_oc=Admrc74pfPXXkvXxD9ubw91w6D92pzhCPQ8OUZFhbeXZ90-UwrNWmG0AzXsaJ4bGo8g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_Afgi-C8DpQRcabW6gwhzD_UwVfh0Z5I-0NqeiwRrtSixaQ&oe=69147B13
+2025-11-08 00:55:57,643 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574244015_18431500027097894_8970743804247873630_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc2MDE2MzMwNTczOTc3MzM1MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gE9Eidh4ECQQ7kNvwH8TMPe&_nc_oc=Adl1WyIWGrm_KNt6PEiv1MfsU_O9b_5VtDxhq7XHv0sMNN07yAcTg1HErg2bp54V0gk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfiaFjgdCJrzFC3Hdgw75C3azNSfknqgd2MLEU2RXUCRpA&oe=69144FFA
+2025-11-08 00:55:57,643 - INFO - 2枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574022194_18431500036097894_1822019407700534972_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2MDE2MzMwNTU4ODc4MjI3Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=p6uqnDsTbUkQ7kNvwErNWsl&_nc_oc=Adk-a8P4xzJLXygcMIhx2sl6P8cnU-TlZKRGhr_yAShwLuvFa9jqRZKWhYP5dSpOfco&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfjG5uMR7OsANagFarZUGWuppN3TuQceDCH5Wr1msRQNXw&oe=69146BC2
+2025-11-08 00:55:57,643 - INFO - 3枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573600427_18431500045097894_4443024466245995733_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc2MDE2MzMwNTcxNDYxMTM3Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=hLTWl5I9800Q7kNvwEWUGzX&_nc_oc=AdmeighIq4a2VwH4rXUCHkJbz2qd8GxxE1uH1SPUbFnIyrzSq8e1BeP2mZS7IHKNa6I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_Afh5rG82GtGEBfNo4fnhwo2zyIaAKJEvE7aR2-uXrsugmw&oe=6914803C
+2025-11-08 00:55:57,643 - INFO - 4枚目: https://scontent.cdninstagram.com/v/t51.82787-15/576041378_18431500054097894_8471195992142609740_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU3MTk5MDIzMA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=pZChvmDctFUQ7kNvwHNcVnY&_nc_oc=Adn4WLfUndsPiCzZHeU8_RbNJCS2RDDfnYDpPZ8yp7hwDpTSznVQMfZtzKrMiXrHORI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_Afhf-yXTZ4Rpl3tYBRjbkBqoRPvCFbzFWJIhJTL-8utwBA&oe=69144F59
+2025-11-08 00:55:57,643 - INFO - 5枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573402454_18431500063097894_5953037060278928130_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTU3MTk4MTkzNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=e4zNDKJ7YE4Q7kNvwGUyE-_&_nc_oc=AdlHiv-T1Gr3VMyy8dlZHiimnY8jnip2je7trvzAk26Nu3vU_65tQuUHB8pw5klAR7g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfhmlhiZbUocW0SLyXosSNZoLvv1pJkQFZnSLZ_C8QYj-w&oe=69147A9D
+2025-11-08 00:55:57,643 - INFO - 6枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573645951_18431500075097894_4875439565513429572_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTk1NzgyNDc3MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Tgu9eaD9kQEQ7kNvwFq9WCT&_nc_oc=Adl4ANGQwAD6_64mXORi-DfpDRvmxPUIWILZLI3Xh98GVvzEzd_9uXSe-L_mqw8URsI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfjbgXIvxiiu965AaG3Qx6G8HuhVorgdkbpIcMxGkbPLcQ&oe=69146AC2
+2025-11-08 00:55:57,643 - INFO - 7枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573630586_18431500084097894_7600378095380225994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MDE2MzMwNTczOTc1OTE5MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=PArA2-rkCKAQ7kNvwF-znY_&_nc_oc=AdnNIC3qanRdYfhq5QN9C3yGI0fVmswVhYHr0197rXKSrfepxKGIsRty1sDDW0nqPV8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfjdTEmky4Oc46VPmMOqZg9JJrsuLqLrBnyqQht0XC4ifA&oe=69146AFE
+2025-11-08 00:55:57,643 - INFO - 8枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573552476_18431500093097894_2335112486461953355_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NjkyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=NNRsrXzlelMQ7kNvwFVTDD4&_nc_oc=Adn9Bu6YSwKwrqR1CMsFQ1LtkSRydHEwBZpJlYs3iV-QyX-MiBsRrw67Bi0HLwLdFFw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfgqOL-7Fl1sF3_OXt1-7i5jDu6tbemlm2U4D5hB4XNg1A&oe=69144C7D
+2025-11-08 00:55:57,643 - INFO - 9枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574044240_18431500102097894_8333894616741970452_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NTE3NQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=4fSxAVdx2vEQ7kNvwHRbsSZ&_nc_oc=AdmCEAkw-4AfvwhmFAvbMp5LRaV2Ie6JwhEW0dTOo0U4eAtpRX_vnPSFTWnITvpY4gs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfjZfuwe1mJQAwQCQJQV67sJLq159lIo8l3LCYdzwvGYaQ&oe=69146F3C
+2025-11-08 00:55:57,643 - INFO - 10枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574246567_18431500111097894_144122938315840640_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTgwNjg1MjE4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=X1-o1gvs7YYQ7kNvwF7inX8&_nc_oc=Adm8vkBJc3rinAVdVhGDRPSHqSxMtAyp5YY4jvJVA_YgMDdijxq3PdqGkmMD7Sm3FRg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_AfjevoDewPHTAtOk_17YIu5qSBVdtS62_jxBExUaJ936CA&oe=691455F0
+2025-11-08 00:55:57,643 - INFO - 11枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573553290_18431500123097894_7625826194978047499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTU4ODcyODc3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gLIf2Eb_ZEEQ7kNvwHmPLQt&_nc_oc=Admrc74pfPXXkvXxD9ubw91w6D92pzhCPQ8OUZFhbeXZ90-UwrNWmG0AzXsaJ4bGo8g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=R8hhzMW94OIB2v1GfNBN4g&oh=00_Afgi-C8DpQRcabW6gwhzD_UwVfh0Z5I-0NqeiwRrtSixaQ&oe=69147B13
+2025-11-08 00:55:57,643 - INFO - [caption/by_username] 開始
+2025-11-08 00:55:57,717 - INFO - [caption/by_username] 説明文確定（先頭100）: '🟰🟰🟰🟰🟰🟰🟰
+美しい髪になる為の
+HFHSコラム
+🟰🟰🟰🟰🟰🟰🟰
+
+皆様の美髪へのお手伝い情報を発信していきます✨
+
+VOL.7
+髪の静電気対策🍂
+
+湿度が40%を下回ると静電気が起きると言われてい'
+2025-11-08 00:55:57,719 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251108_005423
+2025-11-08 00:55:57,719 - INFO - 画像URLを取得しました
+2025-11-08 00:55:57,723 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTczOTc3MzM1MA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 00:55:57,723 - INFO - このレコードは存在します
+2025-11-08 00:55:57,723 - INFO - 画像URLを取得しました
+2025-11-08 00:55:57,724 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODc4MjI3Mw==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 00:55:57,724 - INFO - このレコードは存在します
+2025-11-08 00:55:57,724 - INFO - 画像URLを取得しました
+2025-11-08 00:55:57,725 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTcxNDYxMTM3Nw==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 00:55:57,725 - INFO - このレコードは存在します
+2025-11-08 00:55:57,725 - INFO - 画像URLを取得しました
+2025-11-08 00:55:57,726 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU3MTk5MDIzMA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 00:55:57,726 - INFO - このレコードは存在します
+2025-11-08 00:55:57,726 - INFO - 画像URLを取得しました
+2025-11-08 00:55:57,728 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU3MTk4MTkzNg==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 00:55:57,728 - INFO - このレコードは存在します
+2025-11-08 00:55:57,728 - INFO - 画像URLを取得しました
+2025-11-08 00:55:57,729 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTk1NzgyNDc3MQ==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 00:55:57,731 - INFO - このレコードは存在します
+2025-11-08 00:55:57,731 - INFO - 画像URLを取得しました
+2025-11-08 00:55:57,732 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTczOTc1OTE5MA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 00:55:57,732 - INFO - このレコードは存在します
+2025-11-08 00:55:57,732 - INFO - 画像URLを取得しました
+2025-11-08 00:55:57,733 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODc2NjkyMQ==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 00:55:57,733 - INFO - このレコードは存在します
+2025-11-08 00:55:57,734 - INFO - 画像URLを取得しました
+2025-11-08 00:55:57,734 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODc2NTE3NQ==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 00:55:57,735 - INFO - このレコードは存在します
+2025-11-08 00:55:57,735 - INFO - 画像URLを取得しました
+2025-11-08 00:55:57,736 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTgwNjg1MjE4Ng==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 00:55:57,736 - INFO - このレコードは存在します
+2025-11-08 00:55:57,736 - INFO - 画像URLを取得しました
+2025-11-08 00:55:57,737 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODcyODc3NA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 00:55:57,737 - INFO - このレコードは存在します
+2025-11-08 00:55:57,737 - INFO - カルーセル集計: 想定11 / 収集11 / 新規DL0 / 既存スキップ11 / 失敗0
+2025-11-08 00:55:57,737 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-11-08 00:55:57,737 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 03:54:23,624 - INFO - 処理開始 PROCESSID:20251108_035420
+2025-11-08 03:54:23,624 - INFO - 対象ユーザー: hfhsp2c
+2025-11-08 03:54:23,625 - INFO - 処理を開始します
+2025-11-08 03:54:23,689 - INFO - 選択されたプロファイル: Profile 12
+2025-11-08 03:54:23,689 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-08 03:54:27,966 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-11-08 03:54:39,639 - INFO - 最新投稿を読み込みます
+2025-11-08 03:54:44,929 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-11-08 03:54:47,330 - INFO - ピン留めだが3日以上前(162日) → スキップ
+2025-11-08 03:54:47,330 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-11-08 03:54:50,390 - INFO - ピン留めだが3日以上前(177日) → スキップ
+2025-11-08 03:54:50,390 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-11-08 03:54:53,667 - INFO - ピン留めだが3日以上前(662日) → スキップ
+2025-11-08 03:54:53,667 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQuyJ5uEwz8/?hl=ja
+2025-11-08 03:54:57,961 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 03:55:01,285 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 03:55:01,373 - INFO - datetime属性の抽出を開始します
+2025-11-08 03:55:01,398 - INFO - 抽出されたdatetime: 2025-11-06T22:00:23.000Z
+2025-11-08 03:55:01,398 - INFO - hfhsp2c の投稿日時: 2025-11-06T22:00:23.000Z
+2025-11-08 03:55:01,406 - INFO - date:2025-11-07 07:00:23+09:00
+2025-11-08 03:55:01,406 - INFO - post_date:20251107
+2025-11-08 03:55:01,539 - INFO - カルーセル推定: 11枚
+2025-11-08 03:55:01,587 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574244015_18431500027097894_8970743804247873630_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc2MDE2MzMwNTczOTc3MzM1MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gE9Eidh4ECQQ7kNvwH8TMPe&_nc_oc=Adl1WyIWGrm_KNt6PEiv1MfsU_O9b_5VtDxhq7XHv0sMNN07yAcTg1HErg2bp54V0gk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfgxP-mvp3DADOh-seayhW_euDlP_hLy7CPHgkZ5xeP51g&oe=6914883A
+2025-11-08 03:55:01,596 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574022194_18431500036097894_1822019407700534972_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2MDE2MzMwNTU4ODc4MjI3Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=p6uqnDsTbUkQ7kNvwErNWsl&_nc_oc=Adk-a8P4xzJLXygcMIhx2sl6P8cnU-TlZKRGhr_yAShwLuvFa9jqRZKWhYP5dSpOfco&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfgWXWCdiX2yVYayLqucsPAW18imiYiihSkQW5Wq7NQmKA&oe=6914A402
+2025-11-08 03:55:43,617 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573600427_18431500045097894_4443024466245995733_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc2MDE2MzMwNTcxNDYxMTM3Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=hLTWl5I9800Q7kNvwEWUGzX&_nc_oc=AdmeighIq4a2VwH4rXUCHkJbz2qd8GxxE1uH1SPUbFnIyrzSq8e1BeP2mZS7IHKNa6I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfjNSOENel-h76_KHLWOE0TD1WQoVT9vqfabdJxFsOoahw&oe=6914803C
+2025-11-08 03:55:44,661 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/576041378_18431500054097894_8471195992142609740_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU3MTk5MDIzMA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=DKMG7EVW9C4Q7kNvwG1tSSA&_nc_oc=Adk-BkOa_6wl2nqWgqZO89vfgDNql3na_0AbT2f0O5enN_Dzmw4yr7Zu4NLAk6lHjaQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_Afg26-0lrybXNLPK-FMe5bhlN45OhW1zcIq0q0FXOFiCmQ&oe=69148799
+2025-11-08 03:55:45,693 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573402454_18431500063097894_5953037060278928130_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTU3MTk4MTkzNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=e4zNDKJ7YE4Q7kNvwGUyE-_&_nc_oc=AdlHiv-T1Gr3VMyy8dlZHiimnY8jnip2je7trvzAk26Nu3vU_65tQuUHB8pw5klAR7g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfhbGuaAbL0oayicroWleXwJPo7eBsQLM1iLWAeZqvFN0w&oe=69147A9D
+2025-11-08 03:55:46,708 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573645951_18431500075097894_4875439565513429572_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTk1NzgyNDc3MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Tgu9eaD9kQEQ7kNvwFq9WCT&_nc_oc=Adl4ANGQwAD6_64mXORi-DfpDRvmxPUIWILZLI3Xh98GVvzEzd_9uXSe-L_mqw8URsI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfhFFhsRnoYZnOak1Bq_7SFko8r_5Ki6xI3f0VorgqH2Mg&oe=6914A302
+2025-11-08 03:55:47,883 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573630586_18431500084097894_7600378095380225994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MDE2MzMwNTczOTc1OTE5MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=PArA2-rkCKAQ7kNvwF-znY_&_nc_oc=AdnNIC3qanRdYfhq5QN9C3yGI0fVmswVhYHr0197rXKSrfepxKGIsRty1sDDW0nqPV8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfhNICrjUgLPuz4fuXzuV_pC5K8WVQ9n0o4Ud6k4ZEJMsw&oe=6914A33E
+2025-11-08 03:55:48,958 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573552476_18431500093097894_2335112486461953355_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NjkyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=NNRsrXzlelMQ7kNvwFVTDD4&_nc_oc=Adn9Bu6YSwKwrqR1CMsFQ1LtkSRydHEwBZpJlYs3iV-QyX-MiBsRrw67Bi0HLwLdFFw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfjXnlRNe_VwtTIiJGFOqTB117H-Le42Ru6ewRDAelRXyA&oe=691484BD
+2025-11-08 03:55:50,057 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574044240_18431500102097894_8333894616741970452_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NTE3NQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=4fSxAVdx2vEQ7kNvwHRbsSZ&_nc_oc=AdmCEAkw-4AfvwhmFAvbMp5LRaV2Ie6JwhEW0dTOo0U4eAtpRX_vnPSFTWnITvpY4gs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfjWcoqBP3h42zXlyxpVbNzx_WNVYKIruBRQ8_FWCba7bA&oe=6914A77C
+2025-11-08 03:55:51,069 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574246567_18431500111097894_144122938315840640_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTgwNjg1MjE4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=X1-o1gvs7YYQ7kNvwF7inX8&_nc_oc=Adm8vkBJc3rinAVdVhGDRPSHqSxMtAyp5YY4jvJVA_YgMDdijxq3PdqGkmMD7Sm3FRg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfhHD93qKPvYXdNTk2cta6d237evw722q69wlLQWcW__hA&oe=69148E30
+2025-11-08 03:55:52,136 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573553290_18431500123097894_7625826194978047499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTU4ODcyODc3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gLIf2Eb_ZEEQ7kNvwHmPLQt&_nc_oc=Admrc74pfPXXkvXxD9ubw91w6D92pzhCPQ8OUZFhbeXZ90-UwrNWmG0AzXsaJ4bGo8g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfiXTZ1ZIRbKpQ3ujZoDdibpqMOoLQwUoERUj_GiuPW9yA&oe=69147B13
+2025-11-08 03:55:52,154 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574244015_18431500027097894_8970743804247873630_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc2MDE2MzMwNTczOTc3MzM1MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gE9Eidh4ECQQ7kNvwH8TMPe&_nc_oc=Adl1WyIWGrm_KNt6PEiv1MfsU_O9b_5VtDxhq7XHv0sMNN07yAcTg1HErg2bp54V0gk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfgxP-mvp3DADOh-seayhW_euDlP_hLy7CPHgkZ5xeP51g&oe=6914883A
+2025-11-08 03:55:52,154 - INFO - 2枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574022194_18431500036097894_1822019407700534972_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2MDE2MzMwNTU4ODc4MjI3Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=p6uqnDsTbUkQ7kNvwErNWsl&_nc_oc=Adk-a8P4xzJLXygcMIhx2sl6P8cnU-TlZKRGhr_yAShwLuvFa9jqRZKWhYP5dSpOfco&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfgWXWCdiX2yVYayLqucsPAW18imiYiihSkQW5Wq7NQmKA&oe=6914A402
+2025-11-08 03:55:52,154 - INFO - 3枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573600427_18431500045097894_4443024466245995733_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc2MDE2MzMwNTcxNDYxMTM3Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=hLTWl5I9800Q7kNvwEWUGzX&_nc_oc=AdmeighIq4a2VwH4rXUCHkJbz2qd8GxxE1uH1SPUbFnIyrzSq8e1BeP2mZS7IHKNa6I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfjNSOENel-h76_KHLWOE0TD1WQoVT9vqfabdJxFsOoahw&oe=6914803C
+2025-11-08 03:55:52,154 - INFO - 4枚目: https://scontent.cdninstagram.com/v/t51.82787-15/576041378_18431500054097894_8471195992142609740_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU3MTk5MDIzMA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=DKMG7EVW9C4Q7kNvwG1tSSA&_nc_oc=Adk-BkOa_6wl2nqWgqZO89vfgDNql3na_0AbT2f0O5enN_Dzmw4yr7Zu4NLAk6lHjaQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_Afg26-0lrybXNLPK-FMe5bhlN45OhW1zcIq0q0FXOFiCmQ&oe=69148799
+2025-11-08 03:55:52,154 - INFO - 5枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573402454_18431500063097894_5953037060278928130_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTU3MTk4MTkzNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=e4zNDKJ7YE4Q7kNvwGUyE-_&_nc_oc=AdlHiv-T1Gr3VMyy8dlZHiimnY8jnip2je7trvzAk26Nu3vU_65tQuUHB8pw5klAR7g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfhbGuaAbL0oayicroWleXwJPo7eBsQLM1iLWAeZqvFN0w&oe=69147A9D
+2025-11-08 03:55:52,155 - INFO - 6枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573645951_18431500075097894_4875439565513429572_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTk1NzgyNDc3MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Tgu9eaD9kQEQ7kNvwFq9WCT&_nc_oc=Adl4ANGQwAD6_64mXORi-DfpDRvmxPUIWILZLI3Xh98GVvzEzd_9uXSe-L_mqw8URsI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfhFFhsRnoYZnOak1Bq_7SFko8r_5Ki6xI3f0VorgqH2Mg&oe=6914A302
+2025-11-08 03:55:52,155 - INFO - 7枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573630586_18431500084097894_7600378095380225994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MDE2MzMwNTczOTc1OTE5MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=PArA2-rkCKAQ7kNvwF-znY_&_nc_oc=AdnNIC3qanRdYfhq5QN9C3yGI0fVmswVhYHr0197rXKSrfepxKGIsRty1sDDW0nqPV8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfhNICrjUgLPuz4fuXzuV_pC5K8WVQ9n0o4Ud6k4ZEJMsw&oe=6914A33E
+2025-11-08 03:55:52,155 - INFO - 8枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573552476_18431500093097894_2335112486461953355_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NjkyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=NNRsrXzlelMQ7kNvwFVTDD4&_nc_oc=Adn9Bu6YSwKwrqR1CMsFQ1LtkSRydHEwBZpJlYs3iV-QyX-MiBsRrw67Bi0HLwLdFFw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfjXnlRNe_VwtTIiJGFOqTB117H-Le42Ru6ewRDAelRXyA&oe=691484BD
+2025-11-08 03:55:52,155 - INFO - 9枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574044240_18431500102097894_8333894616741970452_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NTE3NQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=4fSxAVdx2vEQ7kNvwHRbsSZ&_nc_oc=AdmCEAkw-4AfvwhmFAvbMp5LRaV2Ie6JwhEW0dTOo0U4eAtpRX_vnPSFTWnITvpY4gs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfjWcoqBP3h42zXlyxpVbNzx_WNVYKIruBRQ8_FWCba7bA&oe=6914A77C
+2025-11-08 03:55:52,155 - INFO - 10枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574246567_18431500111097894_144122938315840640_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTgwNjg1MjE4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=X1-o1gvs7YYQ7kNvwF7inX8&_nc_oc=Adm8vkBJc3rinAVdVhGDRPSHqSxMtAyp5YY4jvJVA_YgMDdijxq3PdqGkmMD7Sm3FRg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfhHD93qKPvYXdNTk2cta6d237evw722q69wlLQWcW__hA&oe=69148E30
+2025-11-08 03:55:52,155 - INFO - 11枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573553290_18431500123097894_7625826194978047499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTU4ODcyODc3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gLIf2Eb_ZEEQ7kNvwHmPLQt&_nc_oc=Admrc74pfPXXkvXxD9ubw91w6D92pzhCPQ8OUZFhbeXZ90-UwrNWmG0AzXsaJ4bGo8g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=lvNxv9xk5ToQMl-v7sARJg&oh=00_AfiXTZ1ZIRbKpQ3ujZoDdibpqMOoLQwUoERUj_GiuPW9yA&oe=69147B13
+2025-11-08 03:55:52,155 - INFO - [caption/by_username] 開始
+2025-11-08 03:55:52,250 - INFO - [caption/by_username] 説明文確定（先頭100）: '🟰🟰🟰🟰🟰🟰🟰
+美しい髪になる為の
+HFHSコラム
+🟰🟰🟰🟰🟰🟰🟰
+
+皆様の美髪へのお手伝い情報を発信していきます✨
+
+VOL.7
+髪の静電気対策🍂
+
+湿度が40%を下回ると静電気が起きると言われてい'
+2025-11-08 03:55:52,252 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251108_035420
+2025-11-08 03:55:52,252 - INFO - 画像URLを取得しました
+2025-11-08 03:55:52,254 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTczOTc3MzM1MA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 03:55:52,254 - INFO - このレコードは存在します
+2025-11-08 03:55:52,254 - INFO - 画像URLを取得しました
+2025-11-08 03:55:52,255 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODc4MjI3Mw==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 03:55:52,255 - INFO - このレコードは存在します
+2025-11-08 03:55:52,255 - INFO - 画像URLを取得しました
+2025-11-08 03:55:52,256 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTcxNDYxMTM3Nw==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 03:55:52,256 - INFO - このレコードは存在します
+2025-11-08 03:55:52,257 - INFO - 画像URLを取得しました
+2025-11-08 03:55:52,257 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU3MTk5MDIzMA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 03:55:52,258 - INFO - このレコードは存在します
+2025-11-08 03:55:52,258 - INFO - 画像URLを取得しました
+2025-11-08 03:55:52,258 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU3MTk4MTkzNg==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 03:55:52,259 - INFO - このレコードは存在します
+2025-11-08 03:55:52,259 - INFO - 画像URLを取得しました
+2025-11-08 03:55:52,260 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTk1NzgyNDc3MQ==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 03:55:52,260 - INFO - このレコードは存在します
+2025-11-08 03:55:52,260 - INFO - 画像URLを取得しました
+2025-11-08 03:55:52,261 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTczOTc1OTE5MA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 03:55:52,261 - INFO - このレコードは存在します
+2025-11-08 03:55:52,261 - INFO - 画像URLを取得しました
+2025-11-08 03:55:52,262 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODc2NjkyMQ==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 03:55:52,262 - INFO - このレコードは存在します
+2025-11-08 03:55:52,263 - INFO - 画像URLを取得しました
+2025-11-08 03:55:52,264 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODc2NTE3NQ==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 03:55:52,264 - INFO - このレコードは存在します
+2025-11-08 03:55:52,264 - INFO - 画像URLを取得しました
+2025-11-08 03:55:52,265 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTgwNjg1MjE4Ng==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 03:55:52,265 - INFO - このレコードは存在します
+2025-11-08 03:55:52,265 - INFO - 画像URLを取得しました
+2025-11-08 03:55:52,266 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODcyODc3NA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 03:55:52,266 - INFO - このレコードは存在します
+2025-11-08 03:55:52,266 - INFO - カルーセル集計: 想定11 / 収集11 / 新規DL0 / 既存スキップ11 / 失敗0
+2025-11-08 03:55:52,266 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-11-08 03:55:52,266 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 06:58:11,483 - INFO - 処理開始 PROCESSID:20251108_065808
+2025-11-08 06:58:11,483 - INFO - 対象ユーザー: hfhsp2c
+2025-11-08 06:58:11,483 - INFO - 処理を開始します
+2025-11-08 06:58:11,550 - INFO - 選択されたプロファイル: Profile 12
+2025-11-08 06:58:11,550 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-08 06:58:15,993 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-11-08 06:58:28,030 - INFO - 最新投稿を読み込みます
+2025-11-08 06:58:33,654 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-11-08 06:58:36,201 - INFO - ピン留めだが3日以上前(162日) → スキップ
+2025-11-08 06:58:36,201 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-11-08 06:58:39,430 - INFO - ピン留めだが3日以上前(177日) → スキップ
+2025-11-08 06:58:39,430 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-11-08 06:58:42,306 - INFO - ピン留めだが3日以上前(662日) → スキップ
+2025-11-08 06:58:42,307 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQuyJ5uEwz8/?hl=ja
+2025-11-08 06:58:47,149 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 06:58:50,906 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 06:58:50,974 - INFO - datetime属性の抽出を開始します
+2025-11-08 06:58:51,002 - INFO - 抽出されたdatetime: 2025-11-06T22:00:23.000Z
+2025-11-08 06:58:51,002 - INFO - hfhsp2c の投稿日時: 2025-11-06T22:00:23.000Z
+2025-11-08 06:58:51,028 - INFO - date:2025-11-07 07:00:23+09:00
+2025-11-08 06:58:51,028 - INFO - post_date:20251107
+2025-11-08 06:58:51,081 - INFO - カルーセル推定: 11枚
+2025-11-08 06:58:51,106 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574244015_18431500027097894_8970743804247873630_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc2MDE2MzMwNTczOTc3MzM1MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gE9Eidh4ECQQ7kNvwH8TMPe&_nc_oc=Adl1WyIWGrm_KNt6PEiv1MfsU_O9b_5VtDxhq7XHv0sMNN07yAcTg1HErg2bp54V0gk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfjAtdNvrTVuaEyky-uxFmTxn_LnQjLxJe_Oasdrb-SPbA&oe=6914C07A
+2025-11-08 06:58:51,120 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574022194_18431500036097894_1822019407700534972_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2MDE2MzMwNTU4ODc4MjI3Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=p6uqnDsTbUkQ7kNvwErNWsl&_nc_oc=Adk-a8P4xzJLXygcMIhx2sl6P8cnU-TlZKRGhr_yAShwLuvFa9jqRZKWhYP5dSpOfco&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfgygXxA6o2a0Lv5CWY3CKdPVGfjGxwFXtWJsdetFkMdsg&oe=6914A402
+2025-11-08 06:59:32,960 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573600427_18431500045097894_4443024466245995733_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc2MDE2MzMwNTcxNDYxMTM3Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=hLTWl5I9800Q7kNvwEWUGzX&_nc_oc=AdmeighIq4a2VwH4rXUCHkJbz2qd8GxxE1uH1SPUbFnIyrzSq8e1BeP2mZS7IHKNa6I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfjgSnZqBWe1si12QiHUKcIqIdorUTJaa-0Rgk43Pe8Vuw&oe=6914B87C
+2025-11-08 06:59:34,019 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/576041378_18431500054097894_8471195992142609740_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU3MTk5MDIzMA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=DKMG7EVW9C4Q7kNvwG1tSSA&_nc_oc=Adk-BkOa_6wl2nqWgqZO89vfgDNql3na_0AbT2f0O5enN_Dzmw4yr7Zu4NLAk6lHjaQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfgZv4vgBrB-xZKr6dxsHNWdVC65-jyPl3Dkty-L_PMP6g&oe=6914BFD9
+2025-11-08 06:59:35,166 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573402454_18431500063097894_5953037060278928130_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTU3MTk4MTkzNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=e4zNDKJ7YE4Q7kNvwGUyE-_&_nc_oc=AdlHiv-T1Gr3VMyy8dlZHiimnY8jnip2je7trvzAk26Nu3vU_65tQuUHB8pw5klAR7g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfhgfLd71gJNJmu0KB6n-Q1PIhW9wk2cys9DFEm0RGB96A&oe=6914B2DD
+2025-11-08 06:59:36,224 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573645951_18431500075097894_4875439565513429572_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTk1NzgyNDc3MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Tgu9eaD9kQEQ7kNvwFq9WCT&_nc_oc=Adl4ANGQwAD6_64mXORi-DfpDRvmxPUIWILZLI3Xh98GVvzEzd_9uXSe-L_mqw8URsI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfhFwi8H4_grQXvpAdVYBPuF8ipOWskKk5Q94kJdgt3TrA&oe=6914A302
+2025-11-08 06:59:37,262 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573630586_18431500084097894_7600378095380225994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MDE2MzMwNTczOTc1OTE5MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=PArA2-rkCKAQ7kNvwF-znY_&_nc_oc=AdnNIC3qanRdYfhq5QN9C3yGI0fVmswVhYHr0197rXKSrfepxKGIsRty1sDDW0nqPV8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_Afiw5ulQPcF-LLuw_og3RH7TmhI5cpKN4fE0cWJPWXkvRA&oe=6914A33E
+2025-11-08 06:59:38,329 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573552476_18431500093097894_2335112486461953355_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NjkyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=NNRsrXzlelMQ7kNvwFVTDD4&_nc_oc=Adn9Bu6YSwKwrqR1CMsFQ1LtkSRydHEwBZpJlYs3iV-QyX-MiBsRrw67Bi0HLwLdFFw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfhLONyQZ0tt5c0kdh5v_b4exJjN_wmhtUOmtZjVEGlJ8A&oe=6914BCFD
+2025-11-08 06:59:39,379 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574044240_18431500102097894_8333894616741970452_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NTE3NQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=4fSxAVdx2vEQ7kNvwHRbsSZ&_nc_oc=AdmCEAkw-4AfvwhmFAvbMp5LRaV2Ie6JwhEW0dTOo0U4eAtpRX_vnPSFTWnITvpY4gs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfhfV_pJaDjZSDLJNOTyilxvVyU8nErhlxbdI4_OeppAlg&oe=6914A77C
+2025-11-08 06:59:40,481 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574246567_18431500111097894_144122938315840640_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTgwNjg1MjE4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=X1-o1gvs7YYQ7kNvwF7inX8&_nc_oc=Adm8vkBJc3rinAVdVhGDRPSHqSxMtAyp5YY4jvJVA_YgMDdijxq3PdqGkmMD7Sm3FRg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfjZr209oZPHFK_bxBDnzb_sNc7GMlwO-rxRoOtna6qJ9g&oe=6914C670
+2025-11-08 06:59:41,552 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573553290_18431500123097894_7625826194978047499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTU4ODcyODc3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gLIf2Eb_ZEEQ7kNvwHmPLQt&_nc_oc=Admrc74pfPXXkvXxD9ubw91w6D92pzhCPQ8OUZFhbeXZ90-UwrNWmG0AzXsaJ4bGo8g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfgQOuOKJWtYbzrUe-hVFx3ypIY7fHQFQzpcRcj2396wkw&oe=6914B353
+2025-11-08 06:59:41,569 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574244015_18431500027097894_8970743804247873630_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc2MDE2MzMwNTczOTc3MzM1MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gE9Eidh4ECQQ7kNvwH8TMPe&_nc_oc=Adl1WyIWGrm_KNt6PEiv1MfsU_O9b_5VtDxhq7XHv0sMNN07yAcTg1HErg2bp54V0gk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfjAtdNvrTVuaEyky-uxFmTxn_LnQjLxJe_Oasdrb-SPbA&oe=6914C07A
+2025-11-08 06:59:41,570 - INFO - 2枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574022194_18431500036097894_1822019407700534972_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2MDE2MzMwNTU4ODc4MjI3Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=p6uqnDsTbUkQ7kNvwErNWsl&_nc_oc=Adk-a8P4xzJLXygcMIhx2sl6P8cnU-TlZKRGhr_yAShwLuvFa9jqRZKWhYP5dSpOfco&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfgygXxA6o2a0Lv5CWY3CKdPVGfjGxwFXtWJsdetFkMdsg&oe=6914A402
+2025-11-08 06:59:41,570 - INFO - 3枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573600427_18431500045097894_4443024466245995733_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc2MDE2MzMwNTcxNDYxMTM3Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=hLTWl5I9800Q7kNvwEWUGzX&_nc_oc=AdmeighIq4a2VwH4rXUCHkJbz2qd8GxxE1uH1SPUbFnIyrzSq8e1BeP2mZS7IHKNa6I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfjgSnZqBWe1si12QiHUKcIqIdorUTJaa-0Rgk43Pe8Vuw&oe=6914B87C
+2025-11-08 06:59:41,570 - INFO - 4枚目: https://scontent.cdninstagram.com/v/t51.82787-15/576041378_18431500054097894_8471195992142609740_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU3MTk5MDIzMA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=DKMG7EVW9C4Q7kNvwG1tSSA&_nc_oc=Adk-BkOa_6wl2nqWgqZO89vfgDNql3na_0AbT2f0O5enN_Dzmw4yr7Zu4NLAk6lHjaQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfgZv4vgBrB-xZKr6dxsHNWdVC65-jyPl3Dkty-L_PMP6g&oe=6914BFD9
+2025-11-08 06:59:41,570 - INFO - 5枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573402454_18431500063097894_5953037060278928130_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTU3MTk4MTkzNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=e4zNDKJ7YE4Q7kNvwGUyE-_&_nc_oc=AdlHiv-T1Gr3VMyy8dlZHiimnY8jnip2je7trvzAk26Nu3vU_65tQuUHB8pw5klAR7g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfhgfLd71gJNJmu0KB6n-Q1PIhW9wk2cys9DFEm0RGB96A&oe=6914B2DD
+2025-11-08 06:59:41,570 - INFO - 6枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573645951_18431500075097894_4875439565513429572_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTk1NzgyNDc3MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Tgu9eaD9kQEQ7kNvwFq9WCT&_nc_oc=Adl4ANGQwAD6_64mXORi-DfpDRvmxPUIWILZLI3Xh98GVvzEzd_9uXSe-L_mqw8URsI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfhFwi8H4_grQXvpAdVYBPuF8ipOWskKk5Q94kJdgt3TrA&oe=6914A302
+2025-11-08 06:59:41,570 - INFO - 7枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573630586_18431500084097894_7600378095380225994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MDE2MzMwNTczOTc1OTE5MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=PArA2-rkCKAQ7kNvwF-znY_&_nc_oc=AdnNIC3qanRdYfhq5QN9C3yGI0fVmswVhYHr0197rXKSrfepxKGIsRty1sDDW0nqPV8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_Afiw5ulQPcF-LLuw_og3RH7TmhI5cpKN4fE0cWJPWXkvRA&oe=6914A33E
+2025-11-08 06:59:41,570 - INFO - 8枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573552476_18431500093097894_2335112486461953355_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NjkyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=NNRsrXzlelMQ7kNvwFVTDD4&_nc_oc=Adn9Bu6YSwKwrqR1CMsFQ1LtkSRydHEwBZpJlYs3iV-QyX-MiBsRrw67Bi0HLwLdFFw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfhLONyQZ0tt5c0kdh5v_b4exJjN_wmhtUOmtZjVEGlJ8A&oe=6914BCFD
+2025-11-08 06:59:41,570 - INFO - 9枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574044240_18431500102097894_8333894616741970452_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NTE3NQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=4fSxAVdx2vEQ7kNvwHRbsSZ&_nc_oc=AdmCEAkw-4AfvwhmFAvbMp5LRaV2Ie6JwhEW0dTOo0U4eAtpRX_vnPSFTWnITvpY4gs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfhfV_pJaDjZSDLJNOTyilxvVyU8nErhlxbdI4_OeppAlg&oe=6914A77C
+2025-11-08 06:59:41,570 - INFO - 10枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574246567_18431500111097894_144122938315840640_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTgwNjg1MjE4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=X1-o1gvs7YYQ7kNvwF7inX8&_nc_oc=Adm8vkBJc3rinAVdVhGDRPSHqSxMtAyp5YY4jvJVA_YgMDdijxq3PdqGkmMD7Sm3FRg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfjZr209oZPHFK_bxBDnzb_sNc7GMlwO-rxRoOtna6qJ9g&oe=6914C670
+2025-11-08 06:59:41,570 - INFO - 11枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573553290_18431500123097894_7625826194978047499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTU4ODcyODc3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gLIf2Eb_ZEEQ7kNvwHmPLQt&_nc_oc=Admrc74pfPXXkvXxD9ubw91w6D92pzhCPQ8OUZFhbeXZ90-UwrNWmG0AzXsaJ4bGo8g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=hLZoamCGOjV0Um1d56UHLA&oh=00_AfgQOuOKJWtYbzrUe-hVFx3ypIY7fHQFQzpcRcj2396wkw&oe=6914B353
+2025-11-08 06:59:41,571 - INFO - [caption/by_username] 開始
+2025-11-08 06:59:41,849 - INFO - [caption/by_username] 説明文確定（先頭100）: '🟰🟰🟰🟰🟰🟰🟰
+美しい髪になる為の
+HFHSコラム
+🟰🟰🟰🟰🟰🟰🟰
+
+皆様の美髪へのお手伝い情報を発信していきます✨
+
+VOL.7
+髪の静電気対策🍂
+
+湿度が40%を下回ると静電気が起きると言われてい'
+2025-11-08 06:59:41,851 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251108_065808
+2025-11-08 06:59:41,851 - INFO - 画像URLを取得しました
+2025-11-08 06:59:41,855 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTczOTc3MzM1MA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 06:59:41,855 - INFO - このレコードは存在します
+2025-11-08 06:59:41,855 - INFO - 画像URLを取得しました
+2025-11-08 06:59:41,856 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODc4MjI3Mw==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 06:59:41,856 - INFO - このレコードは存在します
+2025-11-08 06:59:41,856 - INFO - 画像URLを取得しました
+2025-11-08 06:59:41,857 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTcxNDYxMTM3Nw==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 06:59:41,857 - INFO - このレコードは存在します
+2025-11-08 06:59:41,857 - INFO - 画像URLを取得しました
+2025-11-08 06:59:41,859 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU3MTk5MDIzMA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 06:59:41,859 - INFO - このレコードは存在します
+2025-11-08 06:59:41,859 - INFO - 画像URLを取得しました
+2025-11-08 06:59:41,862 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU3MTk4MTkzNg==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 06:59:41,862 - INFO - このレコードは存在します
+2025-11-08 06:59:41,862 - INFO - 画像URLを取得しました
+2025-11-08 06:59:41,863 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTk1NzgyNDc3MQ==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 06:59:41,863 - INFO - このレコードは存在します
+2025-11-08 06:59:41,863 - INFO - 画像URLを取得しました
+2025-11-08 06:59:41,864 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTczOTc1OTE5MA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 06:59:41,864 - INFO - このレコードは存在します
+2025-11-08 06:59:41,864 - INFO - 画像URLを取得しました
+2025-11-08 06:59:41,865 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODc2NjkyMQ==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 06:59:41,865 - INFO - このレコードは存在します
+2025-11-08 06:59:41,865 - INFO - 画像URLを取得しました
+2025-11-08 06:59:41,866 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODc2NTE3NQ==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 06:59:41,867 - INFO - このレコードは存在します
+2025-11-08 06:59:41,867 - INFO - 画像URLを取得しました
+2025-11-08 06:59:41,868 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTgwNjg1MjE4Ng==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 06:59:41,868 - INFO - このレコードは存在します
+2025-11-08 06:59:41,868 - INFO - 画像URLを取得しました
+2025-11-08 06:59:41,869 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODcyODc3NA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 06:59:41,870 - INFO - このレコードは存在します
+2025-11-08 06:59:41,870 - INFO - カルーセル集計: 想定11 / 収集11 / 新規DL0 / 既存スキップ11 / 失敗0
+2025-11-08 06:59:41,870 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-11-08 06:59:41,870 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 10:02:07,168 - INFO - 処理開始 PROCESSID:20251108_100203
+2025-11-08 10:02:07,168 - INFO - 対象ユーザー: hfhsp2c
+2025-11-08 10:02:07,168 - INFO - 処理を開始します
+2025-11-08 10:02:07,245 - INFO - 選択されたプロファイル: Profile 9
+2025-11-08 10:02:07,245 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-08 10:02:11,681 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-11-08 10:02:24,151 - INFO - 最新投稿を読み込みます
+2025-11-08 10:02:29,603 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-11-08 10:02:32,068 - INFO - ピン留めだが3日以上前(162日) → スキップ
+2025-11-08 10:02:32,068 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-11-08 10:02:35,433 - INFO - ピン留めだが3日以上前(177日) → スキップ
+2025-11-08 10:02:35,433 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-11-08 10:02:38,983 - INFO - ピン留めだが3日以上前(662日) → スキップ
+2025-11-08 10:02:38,983 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQuyJ5uEwz8/?hl=ja
+2025-11-08 10:02:43,715 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 10:02:46,912 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 10:02:46,982 - INFO - datetime属性の抽出を開始します
+2025-11-08 10:02:47,027 - INFO - 抽出されたdatetime: 2025-11-06T22:00:23.000Z
+2025-11-08 10:02:47,027 - INFO - hfhsp2c の投稿日時: 2025-11-06T22:00:23.000Z
+2025-11-08 10:02:47,034 - INFO - date:2025-11-07 07:00:23+09:00
+2025-11-08 10:02:47,034 - INFO - post_date:20251107
+2025-11-08 10:02:47,181 - INFO - カルーセル推定: 11枚
+2025-11-08 10:02:47,202 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574244015_18431500027097894_8970743804247873630_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc2MDE2MzMwNTczOTc3MzM1MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gE9Eidh4ECQQ7kNvwH8TMPe&_nc_oc=Adl1WyIWGrm_KNt6PEiv1MfsU_O9b_5VtDxhq7XHv0sMNN07yAcTg1HErg2bp54V0gk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfjnFFaqXq9rtcOVZvOS1ELltFNPthJo6YzRqhtuW0e_nw&oe=6914F8BA
+2025-11-08 10:02:47,210 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574022194_18431500036097894_1822019407700534972_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2MDE2MzMwNTU4ODc4MjI3Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=p6uqnDsTbUkQ7kNvwErNWsl&_nc_oc=Adk-a8P4xzJLXygcMIhx2sl6P8cnU-TlZKRGhr_yAShwLuvFa9jqRZKWhYP5dSpOfco&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_Afhzsl3EUYgzjOzLwuIUX7YTuL_oe7WSzoM6N7XdjBzrng&oe=6914DC42
+2025-11-08 10:03:29,161 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573600427_18431500045097894_4443024466245995733_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc2MDE2MzMwNTcxNDYxMTM3Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=hLTWl5I9800Q7kNvwEWUGzX&_nc_oc=AdmeighIq4a2VwH4rXUCHkJbz2qd8GxxE1uH1SPUbFnIyrzSq8e1BeP2mZS7IHKNa6I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfjqGApJGLEN5hxQ30rXg0YTAF1YCrO1lx2l_rxH8Yht7Q&oe=6914F0BC
+2025-11-08 10:03:30,219 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/576041378_18431500054097894_8471195992142609740_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU3MTk5MDIzMA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=DKMG7EVW9C4Q7kNvwG1tSSA&_nc_oc=Adk-BkOa_6wl2nqWgqZO89vfgDNql3na_0AbT2f0O5enN_Dzmw4yr7Zu4NLAk6lHjaQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfgP5OGdP1roenMbrw6PPouf5xx7qQkZTCQ_LLqQh7bBcA&oe=6914F819
+2025-11-08 10:03:31,266 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573402454_18431500063097894_5953037060278928130_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTU3MTk4MTkzNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=e4zNDKJ7YE4Q7kNvwGUyE-_&_nc_oc=AdlHiv-T1Gr3VMyy8dlZHiimnY8jnip2je7trvzAk26Nu3vU_65tQuUHB8pw5klAR7g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfjkIZ_ScglqZySQ2r_STLn85wz3y_83TT2-ii41rEd2xA&oe=6914EB1D
+2025-11-08 10:03:32,446 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573645951_18431500075097894_4875439565513429572_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTk1NzgyNDc3MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Tgu9eaD9kQEQ7kNvwFq9WCT&_nc_oc=Adl4ANGQwAD6_64mXORi-DfpDRvmxPUIWILZLI3Xh98GVvzEzd_9uXSe-L_mqw8URsI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfiHBZHylK7m2tfu6Tx_41jJFxN8nuMdBs54VFxNbzb90w&oe=6914DB42
+2025-11-08 10:03:33,528 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573630586_18431500084097894_7600378095380225994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MDE2MzMwNTczOTc1OTE5MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=PArA2-rkCKAQ7kNvwF-znY_&_nc_oc=AdnNIC3qanRdYfhq5QN9C3yGI0fVmswVhYHr0197rXKSrfepxKGIsRty1sDDW0nqPV8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfioW9QGkl-4U__TaRH6ZqjyimzcvSQKAXiYnK5Yt163Lg&oe=6914DB7E
+2025-11-08 10:03:34,566 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573552476_18431500093097894_2335112486461953355_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NjkyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=NNRsrXzlelMQ7kNvwFVTDD4&_nc_oc=Adn9Bu6YSwKwrqR1CMsFQ1LtkSRydHEwBZpJlYs3iV-QyX-MiBsRrw67Bi0HLwLdFFw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_Afjet2KXdcsUCYHwPDBCOPoVn3aN7euQj5xYdRC0vii8TQ&oe=6914F53D
+2025-11-08 10:03:35,622 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574044240_18431500102097894_8333894616741970452_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NTE3NQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=4fSxAVdx2vEQ7kNvwHRbsSZ&_nc_oc=AdmCEAkw-4AfvwhmFAvbMp5LRaV2Ie6JwhEW0dTOo0U4eAtpRX_vnPSFTWnITvpY4gs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfhvycdEbrrIxUqZHjeyyBV9TsCeGP3CDdOVyDYmt-5KvQ&oe=6914DFBC
+2025-11-08 10:03:36,671 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/574246567_18431500111097894_144122938315840640_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTgwNjg1MjE4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=X1-o1gvs7YYQ7kNvwF7inX8&_nc_oc=Adm8vkBJc3rinAVdVhGDRPSHqSxMtAyp5YY4jvJVA_YgMDdijxq3PdqGkmMD7Sm3FRg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfigQyJOXKGMUAk5Qx7TMdIiT-Tb1mUkOFUcXyHNd8WT0g&oe=6914FEB0
+2025-11-08 10:03:37,723 - INFO - 検出(UL): https://scontent.cdninstagram.com/v/t51.82787-15/573553290_18431500123097894_7625826194978047499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTU4ODcyODc3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gLIf2Eb_ZEEQ7kNvwHmPLQt&_nc_oc=Admrc74pfPXXkvXxD9ubw91w6D92pzhCPQ8OUZFhbeXZ90-UwrNWmG0AzXsaJ4bGo8g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_Afjd8_9NXQh1OZnAWgNZ7sdVKzBUEtxJ77_Io3HrdhaXsw&oe=6914EB93
+2025-11-08 10:03:37,744 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574244015_18431500027097894_8970743804247873630_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc2MDE2MzMwNTczOTc3MzM1MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gE9Eidh4ECQQ7kNvwH8TMPe&_nc_oc=Adl1WyIWGrm_KNt6PEiv1MfsU_O9b_5VtDxhq7XHv0sMNN07yAcTg1HErg2bp54V0gk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfjnFFaqXq9rtcOVZvOS1ELltFNPthJo6YzRqhtuW0e_nw&oe=6914F8BA
+2025-11-08 10:03:37,744 - INFO - 2枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574022194_18431500036097894_1822019407700534972_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2MDE2MzMwNTU4ODc4MjI3Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=p6uqnDsTbUkQ7kNvwErNWsl&_nc_oc=Adk-a8P4xzJLXygcMIhx2sl6P8cnU-TlZKRGhr_yAShwLuvFa9jqRZKWhYP5dSpOfco&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_Afhzsl3EUYgzjOzLwuIUX7YTuL_oe7WSzoM6N7XdjBzrng&oe=6914DC42
+2025-11-08 10:03:37,744 - INFO - 3枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573600427_18431500045097894_4443024466245995733_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc2MDE2MzMwNTcxNDYxMTM3Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=hLTWl5I9800Q7kNvwEWUGzX&_nc_oc=AdmeighIq4a2VwH4rXUCHkJbz2qd8GxxE1uH1SPUbFnIyrzSq8e1BeP2mZS7IHKNa6I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfjqGApJGLEN5hxQ30rXg0YTAF1YCrO1lx2l_rxH8Yht7Q&oe=6914F0BC
+2025-11-08 10:03:37,744 - INFO - 4枚目: https://scontent.cdninstagram.com/v/t51.82787-15/576041378_18431500054097894_8471195992142609740_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU3MTk5MDIzMA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=DKMG7EVW9C4Q7kNvwG1tSSA&_nc_oc=Adk-BkOa_6wl2nqWgqZO89vfgDNql3na_0AbT2f0O5enN_Dzmw4yr7Zu4NLAk6lHjaQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfgP5OGdP1roenMbrw6PPouf5xx7qQkZTCQ_LLqQh7bBcA&oe=6914F819
+2025-11-08 10:03:37,744 - INFO - 5枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573402454_18431500063097894_5953037060278928130_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTU3MTk4MTkzNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=e4zNDKJ7YE4Q7kNvwGUyE-_&_nc_oc=AdlHiv-T1Gr3VMyy8dlZHiimnY8jnip2je7trvzAk26Nu3vU_65tQuUHB8pw5klAR7g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfjkIZ_ScglqZySQ2r_STLn85wz3y_83TT2-ii41rEd2xA&oe=6914EB1D
+2025-11-08 10:03:37,745 - INFO - 6枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573645951_18431500075097894_4875439565513429572_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDE2MzMwNTk1NzgyNDc3MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Tgu9eaD9kQEQ7kNvwFq9WCT&_nc_oc=Adl4ANGQwAD6_64mXORi-DfpDRvmxPUIWILZLI3Xh98GVvzEzd_9uXSe-L_mqw8URsI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfiHBZHylK7m2tfu6Tx_41jJFxN8nuMdBs54VFxNbzb90w&oe=6914DB42
+2025-11-08 10:03:37,745 - INFO - 7枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573630586_18431500084097894_7600378095380225994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc2MDE2MzMwNTczOTc1OTE5MA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=PArA2-rkCKAQ7kNvwF-znY_&_nc_oc=AdnNIC3qanRdYfhq5QN9C3yGI0fVmswVhYHr0197rXKSrfepxKGIsRty1sDDW0nqPV8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfioW9QGkl-4U__TaRH6ZqjyimzcvSQKAXiYnK5Yt163Lg&oe=6914DB7E
+2025-11-08 10:03:37,745 - INFO - 8枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573552476_18431500093097894_2335112486461953355_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NjkyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=NNRsrXzlelMQ7kNvwFVTDD4&_nc_oc=Adn9Bu6YSwKwrqR1CMsFQ1LtkSRydHEwBZpJlYs3iV-QyX-MiBsRrw67Bi0HLwLdFFw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_Afjet2KXdcsUCYHwPDBCOPoVn3aN7euQj5xYdRC0vii8TQ&oe=6914F53D
+2025-11-08 10:03:37,745 - INFO - 9枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574044240_18431500102097894_8333894616741970452_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MDE2MzMwNTU4ODc2NTE3NQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=4fSxAVdx2vEQ7kNvwHRbsSZ&_nc_oc=AdmCEAkw-4AfvwhmFAvbMp5LRaV2Ie6JwhEW0dTOo0U4eAtpRX_vnPSFTWnITvpY4gs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfhvycdEbrrIxUqZHjeyyBV9TsCeGP3CDdOVyDYmt-5KvQ&oe=6914DFBC
+2025-11-08 10:03:37,745 - INFO - 10枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574246567_18431500111097894_144122938315840640_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTgwNjg1MjE4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=X1-o1gvs7YYQ7kNvwF7inX8&_nc_oc=Adm8vkBJc3rinAVdVhGDRPSHqSxMtAyp5YY4jvJVA_YgMDdijxq3PdqGkmMD7Sm3FRg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_AfigQyJOXKGMUAk5Qx7TMdIiT-Tb1mUkOFUcXyHNd8WT0g&oe=6914FEB0
+2025-11-08 10:03:37,745 - INFO - 11枚目: https://scontent.cdninstagram.com/v/t51.82787-15/573553290_18431500123097894_7625826194978047499_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc2MDE2MzMwNTU4ODcyODc3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=gLIf2Eb_ZEEQ7kNvwHmPLQt&_nc_oc=Admrc74pfPXXkvXxD9ubw91w6D92pzhCPQ8OUZFhbeXZ90-UwrNWmG0AzXsaJ4bGo8g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GhrvgeG84qQNii0ZEU6Kfg&oh=00_Afjd8_9NXQh1OZnAWgNZ7sdVKzBUEtxJ77_Io3HrdhaXsw&oe=6914EB93
+2025-11-08 10:03:37,745 - INFO - [caption/by_username] 開始
+2025-11-08 10:03:37,829 - INFO - [caption/by_username] 説明文確定（先頭100）: '🟰🟰🟰🟰🟰🟰🟰
+美しい髪になる為の
+HFHSコラム
+🟰🟰🟰🟰🟰🟰🟰
+
+皆様の美髪へのお手伝い情報を発信していきます✨
+
+VOL.7
+髪の静電気対策🍂
+
+湿度が40%を下回ると静電気が起きると言われてい'
+2025-11-08 10:03:37,830 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251108_100203
+2025-11-08 10:03:37,830 - INFO - 画像URLを取得しました
+2025-11-08 10:03:37,835 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTczOTc3MzM1MA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 10:03:37,835 - INFO - このレコードは存在します
+2025-11-08 10:03:37,835 - INFO - 画像URLを取得しました
+2025-11-08 10:03:37,836 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODc4MjI3Mw==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 10:03:37,837 - INFO - このレコードは存在します
+2025-11-08 10:03:37,837 - INFO - 画像URLを取得しました
+2025-11-08 10:03:37,838 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTcxNDYxMTM3Nw==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 10:03:37,838 - INFO - このレコードは存在します
+2025-11-08 10:03:37,838 - INFO - 画像URLを取得しました
+2025-11-08 10:03:37,840 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU3MTk5MDIzMA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 10:03:37,841 - INFO - このレコードは存在します
+2025-11-08 10:03:37,841 - INFO - 画像URLを取得しました
+2025-11-08 10:03:37,843 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU3MTk4MTkzNg==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 10:03:37,843 - INFO - このレコードは存在します
+2025-11-08 10:03:37,843 - INFO - 画像URLを取得しました
+2025-11-08 10:03:37,844 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTk1NzgyNDc3MQ==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 10:03:37,844 - INFO - このレコードは存在します
+2025-11-08 10:03:37,844 - INFO - 画像URLを取得しました
+2025-11-08 10:03:37,845 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTczOTc1OTE5MA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 10:03:37,845 - INFO - このレコードは存在します
+2025-11-08 10:03:37,845 - INFO - 画像URLを取得しました
+2025-11-08 10:03:37,847 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODc2NjkyMQ==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 10:03:37,847 - INFO - このレコードは存在します
+2025-11-08 10:03:37,847 - INFO - 画像URLを取得しました
+2025-11-08 10:03:37,848 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODc2NTE3NQ==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 10:03:37,849 - INFO - このレコードは存在します
+2025-11-08 10:03:37,849 - INFO - 画像URLを取得しました
+2025-11-08 10:03:37,850 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTgwNjg1MjE4Ng==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 10:03:37,850 - INFO - このレコードは存在します
+2025-11-08 10:03:37,850 - INFO - 画像URLを取得しました
+2025-11-08 10:03:37,851 - INFO - DUP(with-key): user=hfhsp2c, key=Mzc2MDE2MzMwNTU4ODcyODc3NA==, dt=2025-11-06T22:00:23.000Z
+2025-11-08 10:03:37,851 - INFO - このレコードは存在します
+2025-11-08 10:03:37,851 - INFO - カルーセル集計: 想定11 / 収集11 / 新規DL0 / 既存スキップ11 / 失敗0
+2025-11-08 10:03:37,851 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-11-08 10:03:37,851 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 13:01:28,646 - INFO - 処理開始 PROCESSID:20251108_130125
+2025-11-08 13:01:28,646 - INFO - 対象ユーザー: hfhsp2c
+2025-11-08 13:01:28,646 - INFO - 処理を開始します
+2025-11-08 13:01:28,708 - INFO - 選択されたプロファイル: Profile 12
+2025-11-08 13:01:28,708 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-08 13:01:33,188 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-11-08 13:01:44,821 - INFO - 最新投稿を読み込みます
+2025-11-08 13:01:50,090 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-11-08 13:01:52,770 - INFO - ピン留めだが3日以上前(162日) → スキップ
+2025-11-08 13:01:52,771 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-11-08 13:01:55,886 - INFO - ピン留めだが3日以上前(177日) → スキップ
+2025-11-08 13:01:55,886 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-11-08 13:01:59,716 - INFO - ピン留めだが3日以上前(663日) → スキップ
+2025-11-08 13:01:59,716 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQyvefLAeZT/?hl=ja
+2025-11-08 13:02:04,927 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 13:02:08,968 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 13:02:09,065 - INFO - datetime属性の抽出を開始します
+2025-11-08 13:02:09,117 - INFO - 抽出されたdatetime: 2025-11-08T10:53:55.000Z
+2025-11-08 13:02:09,117 - INFO - hfhsp2c の投稿日時: 2025-11-08T10:53:55.000Z
+2025-11-08 13:02:09,134 - INFO - date:2025-11-08 19:53:55+09:00
+2025-11-08 13:02:09,134 - INFO - post_date:20251108
+2025-11-08 13:02:09,183 - INFO - 1枚目: blob:https://www.instagram.com/b6f2bca2-f04b-4fcd-b301-329818ad27c0
+2025-11-08 13:02:09,183 - INFO - [caption/by_username] 開始
+2025-11-08 13:02:09,501 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様フォト📷
+
+ダンスの発表会は、ヘアスタイルもパフォーマンスの一部👍
+
+今回は、細かく編み込んだコーンロースタイルでビシッとキメたダンサーさん💥
+
+動きのあるステージでも崩れにくく、正面も横顔も3'
+2025-11-08 13:02:09,503 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251108_130125
+2025-11-08 13:02:11,178 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo.mp4?_nc_cat=108&_nc_oc=AdkYEJYFiVFnEp3yixXhLM_i_4zZ_hQFPzn8JMi2yNvYg_yGDilOYMe-dNs5sqe8Qcg&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=D9rIjjoVEWIQ7kNvwFKvXZm&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjMyNTk1MzU4NzgwMDc4MzE4LCJhc3NldF9hZ2VfZGF5cyI6NCwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjUsImJpdHJhdGUiOjI3NTgxMjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=HzRCkJ8-9zgaM5tpn5Elxw&_nc_zt=28&oh=00_AfgnulNMXBU2Y5NHpwBmEGWK9_E2Ku9zRedI_Hlm_WStbA&oe=69111774&bytestart=0&byteend=1828633
+2025-11-08 13:02:11,185 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=hfhsp2c, key=AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo, dt=2025-11-08T10:53:55.000Z, url=https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo.mp4?_nc_cat=108&_nc_oc=AdkYEJYFiVFnEp3yixXhLM_i_4zZ_hQFPzn8JMi2yNvYg_yGDilOYMe-dNs5sqe8Qcg&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=D9rIjjoVEWIQ7kNvwFKvXZm&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjMyNTk1MzU4NzgwMDc4MzE4LCJhc3NldF9hZ2VfZGF5cyI6NCwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjUsImJpdHJhdGUiOjI3NTgxMjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=HzRCkJ8-9zgaM5tpn5Elxw&_nc_zt=28&oh=00_AfgnulNMXBU2Y5NHpwBmEGWK9_E2Ku9zRedI_Hlm_WStbA&oe=69111774&bytestart=0&byteend=1828633, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('hfhsp2c', 'AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo', 'https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo.mp4?_nc_cat=108&_nc_oc=AdkYEJYFiVFnEp3yixXhLM_i_4zZ_hQFPzn8JMi2yNvYg_yGDilOYMe-dNs5sqe8Qcg&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=D9rIjjoVEWIQ7kNvwFKvXZm&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjMyNTk1MzU4NzgwMDc4MzE4LCJhc3NldF9hZ2VfZGF5cyI6NCwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjUsImJpdHJhdGUiOjI3NTgxMjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=HzRCkJ8-9zgaM5tpn5Elxw&_nc_zt=28&oh=00_AfgnulNMXBU2Y5NHpwBmEGWK9_E2Ku9zRedI_Hlm_WStbA&oe=69111774&bytestart=0&byteend=1828633', '2025-11-08T10:53:55.000Z')
+2025-11-08 13:02:11,185 - INFO - このレコードは存在します
+2025-11-08 13:02:11,185 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 15:58:08,583 - INFO - 処理開始 PROCESSID:20251108_155805
+2025-11-08 15:58:08,583 - INFO - 対象ユーザー: hfhsp2c
+2025-11-08 15:58:08,583 - INFO - 処理を開始します
+2025-11-08 15:58:08,643 - INFO - 選択されたプロファイル: Profile 9
+2025-11-08 15:58:08,643 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-08 15:58:12,761 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-11-08 15:58:24,726 - INFO - 最新投稿を読み込みます
+2025-11-08 15:58:29,996 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-11-08 15:58:32,732 - INFO - ピン留めだが3日以上前(162日) → スキップ
+2025-11-08 15:58:32,732 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-11-08 15:58:36,110 - INFO - ピン留めだが3日以上前(177日) → スキップ
+2025-11-08 15:58:36,110 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-11-08 15:58:39,291 - INFO - ピン留めだが3日以上前(663日) → スキップ
+2025-11-08 15:58:39,291 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQyvefLAeZT/?hl=ja
+2025-11-08 15:58:45,862 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 15:58:50,595 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 15:58:50,633 - INFO - datetime属性の抽出を開始します
+2025-11-08 15:58:50,674 - INFO - 抽出されたdatetime: 2025-11-08T10:53:55.000Z
+2025-11-08 15:58:50,674 - INFO - hfhsp2c の投稿日時: 2025-11-08T10:53:55.000Z
+2025-11-08 15:58:50,680 - INFO - date:2025-11-08 19:53:55+09:00
+2025-11-08 15:58:50,680 - INFO - post_date:20251108
+2025-11-08 15:58:50,701 - INFO - 1枚目: blob:https://www.instagram.com/c5ac6433-60fc-47f2-931f-590dad679592
+2025-11-08 15:58:50,701 - INFO - [caption/by_username] 開始
+2025-11-08 15:58:50,830 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様フォト📷
+
+ダンスの発表会は、ヘアスタイルもパフォーマンスの一部👍
+
+今回は、細かく編み込んだコーンロースタイルでビシッとキメたダンサーさん💥
+
+動きのあるステージでも崩れにくく、正面も横顔も3'
+2025-11-08 15:58:50,832 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251108_155805
+2025-11-08 15:58:52,386 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQMDg40TPuOH6DkBb6yd1qbQ6C3q2gcTpf5xI6E4O6ghVsKDNqxyNsltqbxcJdMwZ8ZzHBQHudwcMavMSsNijUZrRIcCbCROhSV6Ir8.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=t9W6oyJ6jn4Q7kNvwFkbsQP&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9yMmV2ZXZwOS1yMWdlbjJ2cDlfcTkwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjEzODA3NzQ4MTAzMjI2NjQsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6NywiYml0cmF0ZSI6MTMwNjA2OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Z92ukq8SIIO9SV6Z5JklYg&_nc_zt=28&oh=00_AfjlbzD9g7yekKFQz70fU8Wig8pKJ03NjOUHx6YCnX9k-Q&oe=69154B3F&bytestart=0&byteend=1240765
+2025-11-08 15:58:52,423 - INFO - INSERT(with-key): user=hfhsp2c, key=AQMDg40TPuOH6DkBb6yd1qbQ6C3q2gcTpf5xI6E4O6ghVsKDNqxyNsltqbxcJdMwZ8ZzHBQHudwcMavMSsNijUZrRIcCbCROhSV6Ir8, dt=2025-11-08T10:53:55.000Z
+2025-11-08 15:58:54,425 - INFO - ダウンロードを開始します: media\hfhsp2c\hfhsp2c_20251108155854.mp4
+2025-11-08 15:58:55,066 - INFO - ダウンロード完了: media\hfhsp2c\hfhsp2c_20251108155854.mp4
+2025-11-08 15:58:55,067 - INFO - 説明文:お客様フォト📷
+
+ダンスの発表会は、ヘアスタイルもパフォーマンスの一部👍
+
+今回は、細かく編み込んだコーンロースタイルでビシッとキメたダンサーさん💥
+
+動きのあるステージでも崩れにくく、正面も横顔も360度カッコいい✨
+
+個性的でエッジの効いたスタイルは、ステージ上で圧倒的な存在感を放ちます🌀
+
+衣装やジャンルに合わせたデザインアレンジも可能なので、チームオーダーも大歓迎✌️
+
+✔ 他と差をつけたい
+✔ キレイに崩れないスタイルがいい
+✔ 写真映え・動画映えを狙いたい
+
+そんな方にはコーンロー、間違いなし🔥
+
+イベント前は早めのご予約がおすすめです📩
+
+「最高の自分」でステージに立とう🎉
+
+担当　@p2c_naoto 
+
+========= hair design p2c =========
+
+【営業時間】
+9:00～19:00（パーマ・カラー最終受付17:00）
+
+定休日　毎週火曜日・第3月曜日 
+
+◆ご予約はこちら↓
+ホットペッパービューティー
+https://beauty.hotpepper.jp/slnH000379778/
+
+住所📍
+栃木県佐野市並木町1779 
+
+=============================
+
+#p2c #ピニック #美容室 #美容院 #美容師 #髪型 #ヘアカット　#カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #縮毛矯正 #ヘアサロン #ヘッドスパ #佐野市美容院 #佐野市美容室 #佐野市ヘアサロン #佐野市ヘアカット #佐野市髪質改善 #佐野市美容室メンズ #佐野市女性人気美容室 #佐野市並木町美容室 #佐野市並木町美容院 #佐野市並木町ヘアサロン #佐野駅 #佐野駅美容院 #佐
+2025-11-08 15:58:58,176 - INFO - 処理終了
+================================================================================
+2025-11-08 15:59:04,094 - INFO - 処理開始: Mode=post, Username=hfhsp2c, GBP=16579664487385497265
+2025-11-08 15:59:04,094 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxNjU3OTY2NDQ4NzM4NTQ5NzI2NSJd.
+2025-11-08 15:59:27,075 - INFO - 元の動画サイズ: 1080x1440
+2025-11-08 15:59:27,075 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-11-08 15:59:27,075 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsp2c\hfhsp2c_20251108155854.mp4
+2025-11-08 15:59:37,148 - INFO - Waiting for description field...
+2025-11-08 15:59:37,232 - INFO - Setting description via JS (no send_keys)...
+2025-11-08 15:59:38,359 - INFO - Looking for button section...
+2025-11-08 15:59:42,815 - INFO - Trying to select CALL option...
+2025-11-08 15:59:43,042 - INFO - CALL option successfully selected
+2025-11-08 15:59:45,043 - INFO - Clicking submit button...
+2025-11-08 15:59:53,793 - INFO - 処理完了
+================================================================================
+2025-11-08 18:53:41,455 - INFO - 処理開始 PROCESSID:20251108_185338
+2025-11-08 18:53:41,455 - INFO - 対象ユーザー: hfhsp2c
+2025-11-08 18:53:41,455 - INFO - 処理を開始します
+2025-11-08 18:53:41,521 - INFO - 選択されたプロファイル: Profile 12
+2025-11-08 18:53:41,521 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-08 18:53:46,000 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-11-08 18:53:58,068 - INFO - 最新投稿を読み込みます
+2025-11-08 18:54:03,684 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-11-08 18:54:06,182 - INFO - ピン留めだが3日以上前(162日) → スキップ
+2025-11-08 18:54:06,182 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-11-08 18:54:07,933 - INFO - ピン留めだが3日以上前(177日) → スキップ
+2025-11-08 18:54:07,933 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-11-08 18:54:10,219 - INFO - ピン留めだが3日以上前(663日) → スキップ
+2025-11-08 18:54:10,219 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQyvefLAeZT/?hl=ja
+2025-11-08 18:54:15,552 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 18:54:19,375 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 18:54:19,482 - INFO - datetime属性の抽出を開始します
+2025-11-08 18:54:19,529 - INFO - 抽出されたdatetime: 2025-11-08T10:53:55.000Z
+2025-11-08 18:54:19,530 - INFO - hfhsp2c の投稿日時: 2025-11-08T10:53:55.000Z
+2025-11-08 18:54:19,546 - INFO - date:2025-11-08 19:53:55+09:00
+2025-11-08 18:54:19,546 - INFO - post_date:20251108
+2025-11-08 18:54:19,599 - INFO - 1枚目: blob:https://www.instagram.com/ebc41b9d-5c92-40f9-b7e8-f9cc07c50e4f
+2025-11-08 18:54:19,599 - INFO - [caption/by_username] 開始
+2025-11-08 18:54:19,764 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様フォト📷
+
+ダンスの発表会は、ヘアスタイルもパフォーマンスの一部👍
+
+今回は、細かく編み込んだコーンロースタイルでビシッとキメたダンサーさん💥
+
+動きのあるステージでも崩れにくく、正面も横顔も3'
+2025-11-08 18:54:19,766 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251108_185338
+2025-11-08 18:54:21,284 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t16/f2/m84/AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=D9rIjjoVEWIQ7kNvwFKvXZm&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjMyNTk1MzU4NzgwMDc4MzE4LCJhc3NldF9hZ2VfZGF5cyI6NCwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjUsImJpdHJhdGUiOjI3NTgxMjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=4C1RlkapK3CT-Jrl2y1V2A&_nc_zt=28&oh=00_AfjayT9KHZPa_w9aZiO3IMr5NKOkArzu5PD5-F7A3BErDg&oe=691187F4&bytestart=0&byteend=1828633
+2025-11-08 18:54:21,287 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=hfhsp2c, key=AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo, dt=2025-11-08T10:53:55.000Z, url=https://scontent-hkg4-1.cdninstagram.com/o1/v/t16/f2/m84/AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=D9rIjjoVEWIQ7kNvwFKvXZm&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjMyNTk1MzU4NzgwMDc4MzE4LCJhc3NldF9hZ2VfZGF5cyI6NCwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjUsImJpdHJhdGUiOjI3NTgxMjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=4C1RlkapK3CT-Jrl2y1V2A&_nc_zt=28&oh=00_AfjayT9KHZPa_w9aZiO3IMr5NKOkArzu5PD5-F7A3BErDg&oe=691187F4&bytestart=0&byteend=1828633, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('hfhsp2c', 'AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo', 'https://scontent-hkg4-1.cdninstagram.com/o1/v/t16/f2/m84/AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=D9rIjjoVEWIQ7kNvwFKvXZm&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjMyNTk1MzU4NzgwMDc4MzE4LCJhc3NldF9hZ2VfZGF5cyI6NCwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjUsImJpdHJhdGUiOjI3NTgxMjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=4C1RlkapK3CT-Jrl2y1V2A&_nc_zt=28&oh=00_AfjayT9KHZPa_w9aZiO3IMr5NKOkArzu5PD5-F7A3BErDg&oe=691187F4&bytestart=0&byteend=1828633', '2025-11-08T10:53:55.000Z')
+2025-11-08 18:54:21,288 - INFO - このレコードは存在します
+2025-11-08 18:54:21,288 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 21:49:03,410 - INFO - 処理開始 PROCESSID:20251108_214900
+2025-11-08 21:49:03,410 - INFO - 対象ユーザー: hfhsp2c
+2025-11-08 21:49:03,410 - INFO - 処理を開始します
+2025-11-08 21:49:03,472 - INFO - 選択されたプロファイル: Profile 10
+2025-11-08 21:49:03,472 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-08 21:49:07,696 - INFO - hfhsp2c のプロフィールページにアクセスします
+2025-11-08 21:49:19,283 - INFO - 最新投稿を読み込みます
+2025-11-08 21:49:24,547 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DKQkgHlB5Lw/?hl=ja → 日付確認
+2025-11-08 21:49:27,261 - INFO - ピン留めだが3日以上前(162日) → スキップ
+2025-11-08 21:49:27,261 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/p/DJp5gzOBYp0/?hl=ja → 日付確認
+2025-11-08 21:49:30,441 - INFO - ピン留めだが3日以上前(177日) → スキップ
+2025-11-08 21:49:30,441 - INFO - 候補はピン留め: https://www.instagram.com/hfhsp2c/reel/C2HqasAJass/?hl=ja → 日付確認
+2025-11-08 21:49:33,962 - INFO - ピン留めだが3日以上前(663日) → スキップ
+2025-11-08 21:49:33,962 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsp2c/p/DQyvefLAeZT/?hl=ja
+2025-11-08 21:49:37,804 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 21:49:41,976 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 21:49:42,039 - INFO - datetime属性の抽出を開始します
+2025-11-08 21:49:42,109 - INFO - 抽出されたdatetime: 2025-11-08T10:53:55.000Z
+2025-11-08 21:49:42,109 - INFO - hfhsp2c の投稿日時: 2025-11-08T10:53:55.000Z
+2025-11-08 21:49:42,130 - INFO - date:2025-11-08 19:53:55+09:00
+2025-11-08 21:49:42,130 - INFO - post_date:20251108
+2025-11-08 21:49:42,180 - INFO - 1枚目: blob:https://www.instagram.com/2e52457a-cbcd-4ac6-83a9-94012651262d
+2025-11-08 21:49:42,180 - INFO - [caption/by_username] 開始
+2025-11-08 21:49:42,360 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様フォト📷
+
+ダンスの発表会は、ヘアスタイルもパフォーマンスの一部👍
+
+今回は、細かく編み込んだコーンロースタイルでビシッとキメたダンサーさん💥
+
+動きのあるステージでも崩れにくく、正面も横顔も3'
+2025-11-08 21:49:42,362 - INFO - [caption/by_username] 説明文を保存: media\hfhsp2c\description\20251108_214900
+2025-11-08 21:49:43,992 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t16/f2/m84/AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=D9rIjjoVEWIQ7kNvwFKvXZm&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uZXhwZXJpbWVudGFsLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjozMjU5NTM1ODc4MDA3ODMxOCwiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo1LCJiaXRyYXRlIjoyNzU4MTI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=gj2UtHOobsBQiuJnoMpP5w&_nc_zt=28&oh=00_Afjk8s5ibxHbJvaapWrmQTLioKzjicizjC2I41R_-hErAQ&oe=691187F4&bytestart=0&byteend=1828633
+2025-11-08 21:49:43,994 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=hfhsp2c, key=AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo, dt=2025-11-08T10:53:55.000Z, url=https://scontent-hkg4-1.cdninstagram.com/o1/v/t16/f2/m84/AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=D9rIjjoVEWIQ7kNvwFKvXZm&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uZXhwZXJpbWVudGFsLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjozMjU5NTM1ODc4MDA3ODMxOCwiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo1LCJiaXRyYXRlIjoyNzU4MTI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=gj2UtHOobsBQiuJnoMpP5w&_nc_zt=28&oh=00_Afjk8s5ibxHbJvaapWrmQTLioKzjicizjC2I41R_-hErAQ&oe=691187F4&bytestart=0&byteend=1828633, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('hfhsp2c', 'AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo', 'https://scontent-hkg4-1.cdninstagram.com/o1/v/t16/f2/m84/AQMI7JRHqWGW-5ki2-Dqws0S3gAWQ2Fo327KraxZkX88FUnjFTIGFgLN_93QtHCxXlMO7cbDjrR5r3r5OsmwQ044Y74wRmjlbMEKlRo.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=D9rIjjoVEWIQ7kNvwFKvXZm&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uZXhwZXJpbWVudGFsLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjozMjU5NTM1ODc4MDA3ODMxOCwiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo1LCJiaXRyYXRlIjoyNzU4MTI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=gj2UtHOobsBQiuJnoMpP5w&_nc_zt=28&oh=00_Afjk8s5ibxHbJvaapWrmQTLioKzjicizjC2I41R_-hErAQ&oe=691187F4&bytestart=0&byteend=1828633', '2025-11-08T10:53:55.000Z')
+2025-11-08 21:49:43,995 - INFO - このレコードは存在します
+2025-11-08 21:49:43,995 - INFO - 全件レコードが存在します

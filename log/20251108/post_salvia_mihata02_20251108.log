@@ -1,0 +1,296 @@
+================================================================================
+2025-11-08 01:23:28,588 - INFO - 処理開始 PROCESSID:20251108_012325
+2025-11-08 01:23:28,588 - INFO - 対象ユーザー: salvia_mihata02
+2025-11-08 01:23:28,588 - INFO - 処理を開始します
+2025-11-08 01:23:28,657 - INFO - 選択されたプロファイル: Profile 13
+2025-11-08 01:23:28,657 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-08 01:23:33,000 - INFO - salvia_mihata02 のプロフィールページにアクセスします
+2025-11-08 01:23:44,847 - INFO - 最新投稿を読み込みます
+2025-11-08 01:23:50,177 - INFO - 選定: 非ピン留め https://www.instagram.com/salvia_mihata02/p/DQxnOwmktgF/?hl=ja
+2025-11-08 01:23:52,679 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 01:23:57,064 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 01:23:57,119 - INFO - datetime属性の抽出を開始します
+2025-11-08 01:23:57,177 - INFO - 抽出されたdatetime: 2025-11-08T00:22:36.000Z
+2025-11-08 01:23:57,177 - INFO - salvia_mihata02 の投稿日時: 2025-11-08T00:22:36.000Z
+2025-11-08 01:23:57,196 - INFO - date:2025-11-08 09:22:36+09:00
+2025-11-08 01:23:57,196 - INFO - post_date:20251108
+2025-11-08 01:23:57,239 - INFO - カルーセル推定: 1枚
+2025-11-08 01:23:57,278 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/574809399_18100660270663204_2041040583275999254_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc2MDk1OTcwMTkwNDQ0NzQ5Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=hGYbc_2pJq0Q7kNvwFzYvWy&_nc_oc=AdkOaB_AxMj0ECWbzPnxjanJWEF4goWa92LLBnIh4sVvFrSmLl4sLQEBrrdIwgLmWro&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=yc9sIDnl218y61oPG5J8zw&oh=00_AfiKHYgrsg5TAAmSxk3TawkTxPE0pIn5d-S25ZQYhS5lyQ&oe=69145FE4
+2025-11-08 01:23:57,278 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574809399_18100660270663204_2041040583275999254_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc2MDk1OTcwMTkwNDQ0NzQ5Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=hGYbc_2pJq0Q7kNvwFzYvWy&_nc_oc=AdkOaB_AxMj0ECWbzPnxjanJWEF4goWa92LLBnIh4sVvFrSmLl4sLQEBrrdIwgLmWro&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=yc9sIDnl218y61oPG5J8zw&oh=00_AfiKHYgrsg5TAAmSxk3TawkTxPE0pIn5d-S25ZQYhS5lyQ&oe=69145FE4
+2025-11-08 01:23:57,278 - INFO - [caption/by_username] 開始
+2025-11-08 01:23:57,371 - INFO - [caption/by_username] 説明文確定（先頭100）: '========== サルビア・リタ ==========
+当店ではトータルビューティーとして脱毛をおこなっております😊
+【営業時間】
+火曜日～金曜日　9：30～18：30（最終受付18：00） 
+定'
+2025-11-08 01:23:57,374 - INFO - [caption/by_username] 説明文を保存: media\salvia_mihata02\description\20251108_012325
+2025-11-08 01:23:57,374 - INFO - 画像URLを取得しました
+2025-11-08 01:23:57,405 - INFO - INSERT(with-key): user=salvia_mihata02, key=Mzc2MDk1OTcwMTkwNDQ0NzQ5Mw==, dt=2025-11-08T00:22:36.000Z
+2025-11-08 01:23:57,405 - INFO - メディアを取得します
+2025-11-08 01:23:59,408 - INFO - ダウンロードを開始します: media\salvia_mihata02\salvia_mihata02_20251108012359.jpg
+2025-11-08 01:24:00,114 - INFO - ダウンロード完了: media\salvia_mihata02\salvia_mihata02_20251108012359.jpg
+2025-11-08 01:24:00,195 - INFO - 元の画像サイズ: 1440x1440
+2025-11-08 01:24:00,196 - INFO - サイズ変更は不要です
+2025-11-08 01:24:00,197 - INFO - 説明文:========== サルビア・リタ ==========
+当店ではトータルビューティーとして脱毛をおこなっております😊
+【営業時間】
+火曜日～金曜日　9：30～18：30（最終受付18：00） 
+定休日	毎週月曜日・第1火曜日・第3火曜日 
+
+◆ホットペッパービューティー
+美容室のご予約はこちら↓
+https://beauty.hotpepper.jp/slnH000476326/
+
+エステのご予約はこちら↓
+https://beauty.hotpepper.jp/kr/slnH000451984/
+　
+住所📍
+山形県山形市美畑町8-1 
+
+===================================
+
+#サルビア・リタ #salvia #美容室 #美容院 #理容室 #ヘアカット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #ヘアサロン #エステサロン #脱毛 #ヒゲ脱毛 #ネイル #マツエク #山形市美容院 #山形市美容室 #山形市ヘアサロン #山形市カット #山形市髪質改善 #山形市メンズカット #山形市女性人気美容室 #山形市脱毛サロン #山形市マツエク #山形市ネイル #山形美容室 #山形美容院 #山形駅
+2025-11-08 01:24:02,650 - INFO - 処理終了
+================================================================================
+2025-11-08 01:24:08,619 - INFO - 処理開始: Mode=post, Username=salvia_mihata02, GBP=salviarita
+2025-11-08 01:24:08,619 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJzYWx2aWFyaXRhIl0.
+2025-11-08 01:24:31,175 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\salvia_mihata02\salvia_mihata02_20251108012359.jpg
+2025-11-08 01:24:34,310 - INFO - Waiting for description field...
+2025-11-08 01:24:34,355 - INFO - Setting description via JS (no send_keys)...
+2025-11-08 01:24:35,451 - INFO - Looking for button section...
+2025-11-08 01:24:40,084 - INFO - Trying to select CALL option...
+2025-11-08 01:24:40,327 - INFO - CALL option successfully selected
+2025-11-08 01:24:42,328 - INFO - Clicking submit button...
+2025-11-08 01:24:51,089 - INFO - 処理完了
+================================================================================
+2025-11-08 04:25:05,038 - INFO - 処理開始 PROCESSID:20251108_042501
+2025-11-08 04:25:05,038 - INFO - 対象ユーザー: salvia_mihata02
+2025-11-08 04:25:05,038 - INFO - 処理を開始します
+2025-11-08 04:25:05,103 - INFO - 選択されたプロファイル: Profile 12
+2025-11-08 04:25:05,103 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-08 04:25:09,300 - INFO - salvia_mihata02 のプロフィールページにアクセスします
+2025-11-08 04:25:20,829 - INFO - 最新投稿を読み込みます
+2025-11-08 04:25:26,124 - INFO - 選定: 非ピン留め https://www.instagram.com/salvia_mihata02/p/DQx6tKrEpSY/?hl=ja
+2025-11-08 04:25:29,952 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 04:25:33,619 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 04:25:33,685 - INFO - datetime属性の抽出を開始します
+2025-11-08 04:25:33,710 - INFO - 抽出されたdatetime: 2025-11-08T03:12:48.000Z
+2025-11-08 04:25:33,710 - INFO - salvia_mihata02 の投稿日時: 2025-11-08T03:12:48.000Z
+2025-11-08 04:25:33,718 - INFO - date:2025-11-08 12:12:48+09:00
+2025-11-08 04:25:33,719 - INFO - post_date:20251108
+2025-11-08 04:25:33,765 - INFO - カルーセル推定: 1枚
+2025-11-08 04:25:33,800 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/574463421_18100685017663204_883772943222319676_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2MTA0NTM1NDM2NTIyODE4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=F71LR8TGia4Q7kNvwH6Ub-h&_nc_oc=AdmzpfX61KSqco0eP6brpeOViPkV-CDqHbPigZIhmZRbFD-Hul-vMd1vbgqqUpCNDGk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=b4Yg5IkzWomIiSlwc41tUA&oh=00_Afg0nEgbVyyGx9lUKDI5gzB3RaERcOjyleTFOFq1qZte4g&oe=69148FBF
+2025-11-08 04:25:33,800 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574463421_18100685017663204_883772943222319676_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2MTA0NTM1NDM2NTIyODE4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=F71LR8TGia4Q7kNvwH6Ub-h&_nc_oc=AdmzpfX61KSqco0eP6brpeOViPkV-CDqHbPigZIhmZRbFD-Hul-vMd1vbgqqUpCNDGk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=b4Yg5IkzWomIiSlwc41tUA&oh=00_Afg0nEgbVyyGx9lUKDI5gzB3RaERcOjyleTFOFq1qZte4g&oe=69148FBF
+2025-11-08 04:25:33,800 - INFO - [caption/by_username] 開始
+2025-11-08 04:25:33,884 - INFO - [caption/by_username] 説明文確定（先頭100）: '========== サルビア・リタ ==========
+当店ではトータルビューティーとして脱毛をおこなっております😊
+当店のマシンは新理論SHR方式により、従来の脱毛方法とは違い、メラニンではなく'
+2025-11-08 04:25:33,886 - INFO - [caption/by_username] 説明文を保存: media\salvia_mihata02\description\20251108_042501
+2025-11-08 04:25:33,886 - INFO - 画像URLを取得しました
+2025-11-08 04:25:33,918 - INFO - INSERT(with-key): user=salvia_mihata02, key=Mzc2MTA0NTM1NDM2NTIyODE4NA==, dt=2025-11-08T03:12:48.000Z
+2025-11-08 04:25:33,918 - INFO - メディアを取得します
+2025-11-08 04:25:35,919 - INFO - ダウンロードを開始します: media\salvia_mihata02\salvia_mihata02_20251108042535.jpg
+2025-11-08 04:25:35,953 - INFO - ダウンロード完了: media\salvia_mihata02\salvia_mihata02_20251108042535.jpg
+2025-11-08 04:25:36,060 - INFO - 元の画像サイズ: 1440x1440
+2025-11-08 04:25:36,060 - INFO - サイズ変更は不要です
+2025-11-08 04:25:36,063 - INFO - 説明文:========== サルビア・リタ ==========
+当店ではトータルビューティーとして脱毛をおこなっております😊
+当店のマシンは新理論SHR方式により、従来の脱毛方法とは違い、メラニンではなく毛包をターゲットにすることで、痛みや皮膚へのダメージを軽減しながら脱毛を可能にしました👍
+毛周期に関係なくが可能です🙆
+【営業時間】
+火曜日～金曜日　9：30～18：30（最終受付18：00） 
+定休日	毎週月曜日・第1火曜日・第3火曜日 
+
+◆ホットペッパービューティー
+美容室のご予約はこちら↓
+https://beauty.hotpepper.jp/slnH000476326/
+
+エステのご予約はこちら↓
+https://beauty.hotpepper.jp/kr/slnH000451984/
+　
+住所📍
+山形県山形市美畑町8-1 
+
+===================================
+
+#サルビア・リタ #salvia #美容室 #美容院 #理容室 #ヘアカット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #ヘアサロン #エステサロン #脱毛 #ヒゲ脱毛 #ネイル #マツエク #山形市美容院 #山形市美容室 #山形市ヘアサロン #山形市カット #山形市髪質改善 #山形市メンズカット #山形市女性人気美容室 #山形市脱毛サロン #山形市マツエク #山形市ネイル #山形美容室 #山形美容院 #山形駅
+2025-11-08 04:25:38,478 - INFO - 処理終了
+================================================================================
+2025-11-08 04:25:44,427 - INFO - 処理開始: Mode=post, Username=salvia_mihata02, GBP=salviarita
+2025-11-08 04:25:44,427 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJzYWx2aWFyaXRhIl0.
+2025-11-08 04:26:06,458 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\salvia_mihata02\salvia_mihata02_20251108042535.jpg
+2025-11-08 04:26:09,867 - INFO - Waiting for description field...
+2025-11-08 04:26:09,915 - INFO - Setting description via JS (no send_keys)...
+2025-11-08 04:26:11,043 - INFO - Looking for button section...
+2025-11-08 04:26:15,534 - INFO - Trying to select CALL option...
+2025-11-08 04:26:15,789 - INFO - CALL option successfully selected
+2025-11-08 04:26:17,790 - INFO - Clicking submit button...
+2025-11-08 04:26:26,425 - INFO - 処理完了
+================================================================================
+2025-11-08 07:27:04,864 - INFO - 処理開始 PROCESSID:20251108_072701
+2025-11-08 07:27:04,864 - INFO - 対象ユーザー: salvia_mihata02
+2025-11-08 07:27:04,864 - INFO - 処理を開始します
+2025-11-08 07:27:04,917 - INFO - 選択されたプロファイル: Profile 13
+2025-11-08 07:27:04,917 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-08 07:27:09,233 - INFO - salvia_mihata02 のプロフィールページにアクセスします
+2025-11-08 07:27:20,885 - INFO - 最新投稿を読み込みます
+2025-11-08 07:27:26,181 - INFO - 選定: 非ピン留め https://www.instagram.com/salvia_mihata02/p/DQx6tKrEpSY/?hl=ja
+2025-11-08 07:27:29,851 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 07:27:35,002 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 07:27:35,077 - INFO - datetime属性の抽出を開始します
+2025-11-08 07:27:35,107 - INFO - 抽出されたdatetime: 2025-11-08T03:12:48.000Z
+2025-11-08 07:27:35,107 - INFO - salvia_mihata02 の投稿日時: 2025-11-08T03:12:48.000Z
+2025-11-08 07:27:35,120 - INFO - date:2025-11-08 12:12:48+09:00
+2025-11-08 07:27:35,120 - INFO - post_date:20251108
+2025-11-08 07:27:35,180 - INFO - カルーセル推定: 1枚
+2025-11-08 07:27:35,357 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/574463421_18100685017663204_883772943222319676_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2MTA0NTM1NDM2NTIyODE4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=F71LR8TGia4Q7kNvwH6Ub-h&_nc_oc=AdmzpfX61KSqco0eP6brpeOViPkV-CDqHbPigZIhmZRbFD-Hul-vMd1vbgqqUpCNDGk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=iCvbb36ePthmT53Cl5f_8w&oh=00_AfhC1QZx4cIJsMZfE6mVp-xJYD-tgPIg1zsWBkpclzZgXQ&oe=6914C7FF
+2025-11-08 07:27:35,357 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574463421_18100685017663204_883772943222319676_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2MTA0NTM1NDM2NTIyODE4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=F71LR8TGia4Q7kNvwH6Ub-h&_nc_oc=AdmzpfX61KSqco0eP6brpeOViPkV-CDqHbPigZIhmZRbFD-Hul-vMd1vbgqqUpCNDGk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=iCvbb36ePthmT53Cl5f_8w&oh=00_AfhC1QZx4cIJsMZfE6mVp-xJYD-tgPIg1zsWBkpclzZgXQ&oe=6914C7FF
+2025-11-08 07:27:35,357 - INFO - [caption/by_username] 開始
+2025-11-08 07:27:35,465 - INFO - [caption/by_username] 説明文確定（先頭100）: '========== サルビア・リタ ==========
+当店ではトータルビューティーとして脱毛をおこなっております😊
+当店のマシンは新理論SHR方式により、従来の脱毛方法とは違い、メラニンではなく'
+2025-11-08 07:27:35,467 - INFO - [caption/by_username] 説明文を保存: media\salvia_mihata02\description\20251108_072701
+2025-11-08 07:27:35,467 - INFO - 画像URLを取得しました
+2025-11-08 07:27:35,470 - INFO - DUP(with-key): user=salvia_mihata02, key=Mzc2MTA0NTM1NDM2NTIyODE4NA==, dt=2025-11-08T03:12:48.000Z
+2025-11-08 07:27:35,470 - INFO - このレコードは存在します
+2025-11-08 07:27:35,470 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 10:30:54,636 - INFO - 処理開始 PROCESSID:20251108_103051
+2025-11-08 10:30:54,636 - INFO - 対象ユーザー: salvia_mihata02
+2025-11-08 10:30:54,636 - INFO - 処理を開始します
+2025-11-08 10:30:54,697 - INFO - 選択されたプロファイル: Profile 12
+2025-11-08 10:30:54,697 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-08 10:30:59,227 - INFO - salvia_mihata02 のプロフィールページにアクセスします
+2025-11-08 10:31:10,845 - INFO - 最新投稿を読み込みます
+2025-11-08 10:31:16,147 - INFO - 選定: 非ピン留め https://www.instagram.com/salvia_mihata02/p/DQx6tKrEpSY/?hl=ja
+2025-11-08 10:31:20,425 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 10:31:24,308 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 10:31:24,737 - INFO - datetime属性の抽出を開始します
+2025-11-08 10:31:24,766 - INFO - 抽出されたdatetime: 2025-11-08T03:12:48.000Z
+2025-11-08 10:31:24,766 - INFO - salvia_mihata02 の投稿日時: 2025-11-08T03:12:48.000Z
+2025-11-08 10:31:24,776 - INFO - date:2025-11-08 12:12:48+09:00
+2025-11-08 10:31:24,776 - INFO - post_date:20251108
+2025-11-08 10:31:24,979 - INFO - カルーセル推定: 1枚
+2025-11-08 10:31:25,053 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/574463421_18100685017663204_883772943222319676_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2MTA0NTM1NDM2NTIyODE4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=F71LR8TGia4Q7kNvwH6Ub-h&_nc_oc=AdmzpfX61KSqco0eP6brpeOViPkV-CDqHbPigZIhmZRbFD-Hul-vMd1vbgqqUpCNDGk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kMBb_oC7GJKbcmlerxHaYQ&oh=00_Afjhq8DplUQIvLBX-AW4pUd2bY_tgErqkpy7ke01lsuOUg&oe=6915003F
+2025-11-08 10:31:25,053 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574463421_18100685017663204_883772943222319676_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2MTA0NTM1NDM2NTIyODE4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=F71LR8TGia4Q7kNvwH6Ub-h&_nc_oc=AdmzpfX61KSqco0eP6brpeOViPkV-CDqHbPigZIhmZRbFD-Hul-vMd1vbgqqUpCNDGk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kMBb_oC7GJKbcmlerxHaYQ&oh=00_Afjhq8DplUQIvLBX-AW4pUd2bY_tgErqkpy7ke01lsuOUg&oe=6915003F
+2025-11-08 10:31:25,053 - INFO - [caption/by_username] 開始
+2025-11-08 10:31:25,132 - INFO - [caption/by_username] 説明文確定（先頭100）: '========== サルビア・リタ ==========
+当店ではトータルビューティーとして脱毛をおこなっております😊
+当店のマシンは新理論SHR方式により、従来の脱毛方法とは違い、メラニンではなく'
+2025-11-08 10:31:25,134 - INFO - [caption/by_username] 説明文を保存: media\salvia_mihata02\description\20251108_103051
+2025-11-08 10:31:25,134 - INFO - 画像URLを取得しました
+2025-11-08 10:31:25,137 - INFO - DUP(with-key): user=salvia_mihata02, key=Mzc2MTA0NTM1NDM2NTIyODE4NA==, dt=2025-11-08T03:12:48.000Z
+2025-11-08 10:31:25,137 - INFO - このレコードは存在します
+2025-11-08 10:31:25,137 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 13:29:28,616 - INFO - 処理開始 PROCESSID:20251108_132925
+2025-11-08 13:29:28,618 - INFO - 対象ユーザー: salvia_mihata02
+2025-11-08 13:29:28,618 - INFO - 処理を開始します
+2025-11-08 13:29:28,686 - INFO - 選択されたプロファイル: Profile 13
+2025-11-08 13:29:28,686 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-08 13:29:33,118 - INFO - salvia_mihata02 のプロフィールページにアクセスします
+2025-11-08 13:29:44,895 - INFO - 最新投稿を読み込みます
+2025-11-08 13:29:50,183 - INFO - 選定: 非ピン留め https://www.instagram.com/salvia_mihata02/p/DQx6tKrEpSY/?hl=ja
+2025-11-08 13:29:54,168 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 13:29:57,874 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 13:29:57,962 - INFO - datetime属性の抽出を開始します
+2025-11-08 13:29:57,991 - INFO - 抽出されたdatetime: 2025-11-08T03:12:48.000Z
+2025-11-08 13:29:57,991 - INFO - salvia_mihata02 の投稿日時: 2025-11-08T03:12:48.000Z
+2025-11-08 13:29:58,001 - INFO - date:2025-11-08 12:12:48+09:00
+2025-11-08 13:29:58,001 - INFO - post_date:20251108
+2025-11-08 13:29:58,075 - INFO - カルーセル推定: 1枚
+2025-11-08 13:29:58,120 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/574463421_18100685017663204_883772943222319676_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2MTA0NTM1NDM2NTIyODE4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=F71LR8TGia4Q7kNvwH6Ub-h&_nc_oc=AdmzpfX61KSqco0eP6brpeOViPkV-CDqHbPigZIhmZRbFD-Hul-vMd1vbgqqUpCNDGk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sw8TBR3p6tPEpuLHwWnUag&oh=00_Afg_paPRXvoYAunsheVhmDqm5jiWVjZfTwmDs55rMNMMzA&oe=6915003F
+2025-11-08 13:29:58,121 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/574463421_18100685017663204_883772943222319676_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2MTA0NTM1NDM2NTIyODE4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=F71LR8TGia4Q7kNvwH6Ub-h&_nc_oc=AdmzpfX61KSqco0eP6brpeOViPkV-CDqHbPigZIhmZRbFD-Hul-vMd1vbgqqUpCNDGk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=sw8TBR3p6tPEpuLHwWnUag&oh=00_Afg_paPRXvoYAunsheVhmDqm5jiWVjZfTwmDs55rMNMMzA&oe=6915003F
+2025-11-08 13:29:58,121 - INFO - [caption/by_username] 開始
+2025-11-08 13:29:58,197 - INFO - [caption/by_username] 説明文確定（先頭100）: '========== サルビア・リタ ==========
+当店ではトータルビューティーとして脱毛をおこなっております😊
+当店のマシンは新理論SHR方式により、従来の脱毛方法とは違い、メラニンではなく'
+2025-11-08 13:29:58,199 - INFO - [caption/by_username] 説明文を保存: media\salvia_mihata02\description\20251108_132925
+2025-11-08 13:29:58,199 - INFO - 画像URLを取得しました
+2025-11-08 13:29:58,200 - INFO - DUP(with-key): user=salvia_mihata02, key=Mzc2MTA0NTM1NDM2NTIyODE4NA==, dt=2025-11-08T03:12:48.000Z
+2025-11-08 13:29:58,201 - INFO - このレコードは存在します
+2025-11-08 13:29:58,201 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 16:27:04,378 - INFO - 処理開始 PROCESSID:20251108_162701
+2025-11-08 16:27:04,378 - INFO - 対象ユーザー: salvia_mihata02
+2025-11-08 16:27:04,379 - INFO - 処理を開始します
+2025-11-08 16:27:04,439 - INFO - 選択されたプロファイル: Profile 12
+2025-11-08 16:27:04,439 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-08 16:27:08,607 - INFO - salvia_mihata02 のプロフィールページにアクセスします
+2025-11-08 16:27:21,006 - INFO - 最新投稿を読み込みます
+2025-11-08 16:27:26,501 - INFO - 選定: 非ピン留め https://www.instagram.com/salvia_mihata02/p/DQx6tKrEpSY/?hl=ja
+2025-11-08 16:27:30,207 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 16:27:34,099 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 16:27:34,204 - INFO - datetime属性の抽出を開始します
+2025-11-08 16:27:34,229 - INFO - 抽出されたdatetime: 2025-11-08T03:12:48.000Z
+2025-11-08 16:27:34,229 - INFO - salvia_mihata02 の投稿日時: 2025-11-08T03:12:48.000Z
+2025-11-08 16:27:34,236 - INFO - date:2025-11-08 12:12:48+09:00
+2025-11-08 16:27:34,236 - INFO - post_date:20251108
+2025-11-08 16:27:34,286 - INFO - カルーセル推定: 1枚
+2025-11-08 16:27:34,330 - INFO - 検出(SINGLE): https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/574463421_18100685017663204_883772943222319676_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2MTA0NTM1NDM2NTIyODE4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=F71LR8TGia4Q7kNvwH6Ub-h&_nc_oc=AdmzpfX61KSqco0eP6brpeOViPkV-CDqHbPigZIhmZRbFD-Hul-vMd1vbgqqUpCNDGk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=OOqB1I6sXYOCW6WtBhBsow&oh=00_AfhdHneQcChGm_2r-l6XjUvSwAo3dzxFIXpH-rQlEuWrvA&oe=6915387F
+2025-11-08 16:27:34,330 - INFO - 1枚目: https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/574463421_18100685017663204_883772943222319676_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2MTA0NTM1NDM2NTIyODE4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=F71LR8TGia4Q7kNvwH6Ub-h&_nc_oc=AdmzpfX61KSqco0eP6brpeOViPkV-CDqHbPigZIhmZRbFD-Hul-vMd1vbgqqUpCNDGk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=OOqB1I6sXYOCW6WtBhBsow&oh=00_AfhdHneQcChGm_2r-l6XjUvSwAo3dzxFIXpH-rQlEuWrvA&oe=6915387F
+2025-11-08 16:27:34,330 - INFO - [caption/by_username] 開始
+2025-11-08 16:27:34,580 - INFO - [caption/by_username] 説明文確定（先頭100）: '========== サルビア・リタ ==========
+当店ではトータルビューティーとして脱毛をおこなっております😊
+当店のマシンは新理論SHR方式により、従来の脱毛方法とは違い、メラニンではなく'
+2025-11-08 16:27:34,581 - INFO - [caption/by_username] 説明文を保存: media\salvia_mihata02\description\20251108_162701
+2025-11-08 16:27:34,581 - INFO - 画像URLを取得しました
+2025-11-08 16:27:34,583 - INFO - DUP(with-key): user=salvia_mihata02, key=Mzc2MTA0NTM1NDM2NTIyODE4NA==, dt=2025-11-08T03:12:48.000Z
+2025-11-08 16:27:34,583 - INFO - このレコードは存在します
+2025-11-08 16:27:34,584 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 19:21:45,250 - INFO - 処理開始 PROCESSID:20251108_192141
+2025-11-08 19:21:45,250 - INFO - 対象ユーザー: salvia_mihata02
+2025-11-08 19:21:45,250 - INFO - 処理を開始します
+2025-11-08 19:21:45,317 - INFO - 選択されたプロファイル: Profile 9
+2025-11-08 19:21:45,317 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-08 19:21:49,653 - INFO - salvia_mihata02 のプロフィールページにアクセスします
+2025-11-08 19:22:01,662 - INFO - 最新投稿を読み込みます
+2025-11-08 19:22:07,134 - INFO - 選定: 非ピン留め https://www.instagram.com/salvia_mihata02/p/DQx6tKrEpSY/?hl=ja
+2025-11-08 19:22:11,106 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 19:22:14,287 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 19:22:14,390 - INFO - datetime属性の抽出を開始します
+2025-11-08 19:22:14,425 - INFO - 抽出されたdatetime: 2025-11-08T03:12:48.000Z
+2025-11-08 19:22:14,425 - INFO - salvia_mihata02 の投稿日時: 2025-11-08T03:12:48.000Z
+2025-11-08 19:22:14,431 - INFO - date:2025-11-08 12:12:48+09:00
+2025-11-08 19:22:14,432 - INFO - post_date:20251108
+2025-11-08 19:22:14,478 - INFO - カルーセル推定: 1枚
+2025-11-08 19:22:14,616 - INFO - 検出(SINGLE): https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/574463421_18100685017663204_883772943222319676_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2MTA0NTM1NDM2NTIyODE4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=F71LR8TGia4Q7kNvwH6Ub-h&_nc_oc=AdmzpfX61KSqco0eP6brpeOViPkV-CDqHbPigZIhmZRbFD-Hul-vMd1vbgqqUpCNDGk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=bc66FIJUCxCJrKajYHUnfw&oh=00_Afj6v01-AYehBxaq7eKrQbA1seViPnU5GfYSnsgMjgxVMQ&oe=691570BF
+2025-11-08 19:22:14,617 - INFO - 1枚目: https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/574463421_18100685017663204_883772943222319676_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2MTA0NTM1NDM2NTIyODE4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=F71LR8TGia4Q7kNvwH6Ub-h&_nc_oc=AdmzpfX61KSqco0eP6brpeOViPkV-CDqHbPigZIhmZRbFD-Hul-vMd1vbgqqUpCNDGk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=bc66FIJUCxCJrKajYHUnfw&oh=00_Afj6v01-AYehBxaq7eKrQbA1seViPnU5GfYSnsgMjgxVMQ&oe=691570BF
+2025-11-08 19:22:14,617 - INFO - [caption/by_username] 開始
+2025-11-08 19:22:14,847 - INFO - [caption/by_username] 説明文確定（先頭100）: '========== サルビア・リタ ==========
+当店ではトータルビューティーとして脱毛をおこなっております😊
+当店のマシンは新理論SHR方式により、従来の脱毛方法とは違い、メラニンではなく'
+2025-11-08 19:22:14,849 - INFO - [caption/by_username] 説明文を保存: media\salvia_mihata02\description\20251108_192141
+2025-11-08 19:22:14,849 - INFO - 画像URLを取得しました
+2025-11-08 19:22:14,851 - INFO - DUP(with-key): user=salvia_mihata02, key=Mzc2MTA0NTM1NDM2NTIyODE4NA==, dt=2025-11-08T03:12:48.000Z
+2025-11-08 19:22:14,852 - INFO - このレコードは存在します
+2025-11-08 19:22:14,852 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 22:16:51,694 - INFO - 処理開始 PROCESSID:20251108_221648
+2025-11-08 22:16:51,694 - INFO - 対象ユーザー: salvia_mihata02
+2025-11-08 22:16:51,694 - INFO - 処理を開始します
+2025-11-08 22:16:51,754 - INFO - 選択されたプロファイル: Profile 13
+2025-11-08 22:16:51,756 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-08 22:16:55,894 - INFO - salvia_mihata02 のプロフィールページにアクセスします
+2025-11-08 22:17:07,427 - INFO - 最新投稿を読み込みます
+2025-11-08 22:17:12,750 - INFO - 選定: 非ピン留め https://www.instagram.com/salvia_mihata02/p/DQx6tKrEpSY/?hl=ja
+2025-11-08 22:17:16,364 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 22:17:18,929 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 22:17:19,092 - INFO - datetime属性の抽出を開始します
+2025-11-08 22:17:19,198 - INFO - 抽出されたdatetime: 2025-11-08T03:12:48.000Z
+2025-11-08 22:17:19,198 - INFO - salvia_mihata02 の投稿日時: 2025-11-08T03:12:48.000Z
+2025-11-08 22:17:19,208 - INFO - date:2025-11-08 12:12:48+09:00
+2025-11-08 22:17:19,208 - INFO - post_date:20251108
+2025-11-08 22:17:19,264 - INFO - カルーセル推定: 1枚
+2025-11-08 22:17:19,315 - INFO - 検出(SINGLE): https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/574463421_18100685017663204_883772943222319676_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2MTA0NTM1NDM2NTIyODE4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=F71LR8TGia4Q7kNvwH6Ub-h&_nc_oc=AdmzpfX61KSqco0eP6brpeOViPkV-CDqHbPigZIhmZRbFD-Hul-vMd1vbgqqUpCNDGk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=5Fwg4n7E90sW5yZG--TRTA&oh=00_AfiP_bKFvVWiql6qBGvX3PATWj0jnAmrfPKfu0cnGr_qAA&oe=6915A8FF
+2025-11-08 22:17:19,315 - INFO - 1枚目: https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/574463421_18100685017663204_883772943222319676_n.heic?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc2MTA0NTM1NDM2NTIyODE4NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=F71LR8TGia4Q7kNvwH6Ub-h&_nc_oc=AdmzpfX61KSqco0eP6brpeOViPkV-CDqHbPigZIhmZRbFD-Hul-vMd1vbgqqUpCNDGk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=5Fwg4n7E90sW5yZG--TRTA&oh=00_AfiP_bKFvVWiql6qBGvX3PATWj0jnAmrfPKfu0cnGr_qAA&oe=6915A8FF
+2025-11-08 22:17:19,315 - INFO - [caption/by_username] 開始
+2025-11-08 22:17:20,013 - INFO - [caption/by_username] 説明文確定（先頭100）: '========== サルビア・リタ ==========
+当店ではトータルビューティーとして脱毛をおこなっております😊
+当店のマシンは新理論SHR方式により、従来の脱毛方法とは違い、メラニンではなく'
+2025-11-08 22:17:20,015 - INFO - [caption/by_username] 説明文を保存: media\salvia_mihata02\description\20251108_221648
+2025-11-08 22:17:20,015 - INFO - 画像URLを取得しました
+2025-11-08 22:17:20,017 - INFO - DUP(with-key): user=salvia_mihata02, key=Mzc2MTA0NTM1NDM2NTIyODE4NA==, dt=2025-11-08T03:12:48.000Z
+2025-11-08 22:17:20,017 - INFO - このレコードは存在します
+2025-11-08 22:17:20,017 - INFO - 全件レコードが存在します

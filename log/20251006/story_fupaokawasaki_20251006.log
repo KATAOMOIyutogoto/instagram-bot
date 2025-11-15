@@ -1,0 +1,210 @@
+================================================================================
+2025-10-06 02:40:21,294 - INFO - 処理開始 PROCESSID:20251006_024013
+2025-10-06 02:40:21,295 - INFO - 対象ユーザー: fupaokawasaki
+2025-10-06 02:40:21,295 - INFO - 処理を開始します
+2025-10-06 02:40:21,413 - INFO - 選択されたプロファイル: Profile 12
+2025-10-06 02:40:21,413 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-06 02:40:27,371 - INFO - fupaokawasaki のプロフィールページにアクセスします
+2025-10-06 02:40:49,914 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 02:40:51,271 - INFO - fupaokawasaki: 動画を検出しました
+2025-10-06 02:40:51,271 - INFO - datetime属性の抽出を開始します
+2025-10-06 02:40:51,588 - INFO - 抽出されたdatetime: 2025-10-05T12:51:29.000Z
+2025-10-06 02:40:51,588 - INFO - fupaokawasaki の投稿日時: 2025-10-05T12:51:29.000Z
+2025-10-06 02:40:52,799 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m78/AQNXVCbXrym6lnBZcFoUttXvSKtBSeNLFu-tz7REaJdsRO_QxVHnsVI1fyGlxulSkUSSIU8gwj8w2JFahZLc2VYNrFFYomHgHZejhUw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=LRxLszqQ1X4Q7kNvwGZZfif&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxODk1MjI4MTM0MzkyODYxLCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Ikxc_jqQGgPOjY12XynmWA&_nc_zt=28&oh=00_Afe2wREc_vPyR7TxtL71lPoC2vzuvmytlXKq_P3izKnDBQ&oe=68E50F7F&bytestart=0&byteend=54769
+2025-10-06 02:40:52,799 - INFO - 動画URLを取得しました
+2025-10-06 02:40:52,972 - INFO - INSERT(with-key): user=fupaokawasaki, key=AQNXVCbXrym6lnBZcFoUttXvSKtBSeNLFu-tz7REaJdsRO_QxVHnsVI1fyGlxulSkUSSIU8gwj8w2JFahZLc2VYNrFFYomHgHZejhUw, dt=2025-10-05T12:51:29.000Z
+2025-10-06 02:40:55,032 - INFO - ダウンロードを開始します: media\fupaokawasaki\fupaokawasaki_20251006024054.mp4
+2025-10-06 02:40:55,367 - INFO - ダウンロード完了: media\fupaokawasaki\fupaokawasaki_20251006024054.mp4
+2025-10-06 02:41:00,121 - INFO - 処理終了
+2025-10-06 02:41:00,123 - INFO - 説明文_AI: None
+2025-10-06 02:41:00,123 - INFO - 説明文_最終: 
+================================================================================
+2025-10-06 02:41:06,268 - INFO - 処理開始: Mode=story, Username=fupaokawasaki, GBP=MSKSPTVF842595
+2025-10-06 02:41:06,268 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0tTUFRWRjg0MjU5NSJd.
+2025-10-06 02:41:31,825 - INFO - 元の動画サイズ: 360x640
+2025-10-06 02:41:31,825 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-06 02:41:31,825 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupaokawasaki\fupaokawasaki_20251006024054.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupaokawasaki\fupaokawasaki_20251006024054_resized.mp4
+2025-10-06 02:41:39,170 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupaokawasaki\fupaokawasaki_20251006024054_resized.mp4
+2025-10-06 02:41:39,177 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupaokawasaki\fupaokawasaki_20251006024054.mp4
+2025-10-06 02:41:39,177 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupaokawasaki\fupaokawasaki_20251006024054_resized.mp4
+2025-10-06 02:41:49,312 - INFO - 一時ファイルが見つかりません: media\fupaokawasaki\description\20251006_024013
+2025-10-06 02:41:49,312 - INFO - Looking for button section...
+2025-10-06 02:41:53,854 - INFO - Trying to select CALL option...
+2025-10-06 02:41:54,108 - INFO - CALL option successfully selected
+2025-10-06 02:41:56,109 - INFO - Clicking submit button...
+2025-10-06 02:42:06,172 - INFO - 処理完了
+================================================================================
+2025-10-06 06:42:23,336 - INFO - 処理開始 PROCESSID:20251006_064219
+2025-10-06 06:42:23,336 - INFO - 対象ユーザー: fupaokawasaki
+2025-10-06 06:42:23,336 - INFO - 処理を開始します
+2025-10-06 06:42:23,395 - INFO - 選択されたプロファイル: Profile 13
+2025-10-06 06:42:23,397 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-06 06:42:28,235 - INFO - fupaokawasaki のプロフィールページにアクセスします
+2025-10-06 06:42:50,311 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 06:42:51,086 - INFO - fupaokawasaki: 動画を検出しました
+2025-10-06 06:42:51,087 - INFO - datetime属性の抽出を開始します
+2025-10-06 06:42:51,216 - INFO - 抽出されたdatetime: 2025-10-05T12:51:29.000Z
+2025-10-06 06:42:51,216 - INFO - fupaokawasaki の投稿日時: 2025-10-05T12:51:29.000Z
+2025-10-06 06:42:52,405 - INFO - 生成URL:https://scontent-hkg1-1.cdninstagram.com/o1/v/t16/f2/m69/AQOsU79-jvtweRxVVZ5x91fa2Ut_KYEllJuoRTcKYVqtjfts6_EizbeqaJDR2Sq9_qGNSwD7f4eewT3HFXMu8HDG.mp4?strext=1&_nc_cat=109&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=h8r99kuk18AQ7kNvwFB2qt2&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmFkLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E5MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxODg1OTUzMDU4NDc3NjYyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=OTcRV1Y17_pFv_e5YJ_skA&_nc_zt=28&oh=00_AffvmlweQzBYE563n81UfUBlatRO4L9ycoQ99Td-I6fcjA&oe=68E94EFB&bytestart=0&byteend=376272
+2025-10-06 06:42:52,406 - INFO - 動画URLを取得しました
+2025-10-06 06:42:52,614 - INFO - INSERT(with-key): user=fupaokawasaki, key=AQOsU79-jvtweRxVVZ5x91fa2Ut_KYEllJuoRTcKYVqtjfts6_EizbeqaJDR2Sq9_qGNSwD7f4eewT3HFXMu8HDG, dt=2025-10-05T12:51:29.000Z
+2025-10-06 06:42:54,624 - INFO - ダウンロードを開始します: media\fupaokawasaki\fupaokawasaki_20251006064254.mp4
+2025-10-06 06:42:55,050 - INFO - ダウンロード完了: media\fupaokawasaki\fupaokawasaki_20251006064254.mp4
+2025-10-06 06:42:57,579 - INFO - 処理終了
+2025-10-06 06:42:57,582 - INFO - 説明文_AI: None
+2025-10-06 06:42:57,582 - INFO - 説明文_最終: 
+================================================================================
+2025-10-06 06:43:03,727 - INFO - 処理開始: Mode=story, Username=fupaokawasaki, GBP=MSKSPTVF842595
+2025-10-06 06:43:03,727 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0tTUFRWRjg0MjU5NSJd.
+2025-10-06 06:43:27,149 - INFO - 元の動画サイズ: 1280x720
+2025-10-06 06:43:27,149 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-06 06:43:27,149 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupaokawasaki\fupaokawasaki_20251006064254.mp4
+2025-10-06 06:43:37,226 - INFO - 一時ファイルが見つかりません: media\fupaokawasaki\description\20251006_064219
+2025-10-06 06:43:37,226 - INFO - Looking for button section...
+2025-10-06 06:43:42,062 - INFO - Trying to select CALL option...
+2025-10-06 06:43:42,302 - INFO - CALL option successfully selected
+2025-10-06 06:43:44,303 - INFO - Clicking submit button...
+2025-10-06 06:43:52,995 - INFO - 処理完了
+================================================================================
+2025-10-06 10:38:28,407 - INFO - 処理開始 PROCESSID:20251006_103824
+2025-10-06 10:38:28,407 - INFO - 対象ユーザー: fupaokawasaki
+2025-10-06 10:38:28,407 - INFO - 処理を開始します
+2025-10-06 10:38:28,479 - INFO - 選択されたプロファイル: Profile 13
+2025-10-06 10:38:28,479 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-06 10:38:33,294 - INFO - fupaokawasaki のプロフィールページにアクセスします
+2025-10-06 10:38:55,769 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 10:38:56,776 - INFO - fupaokawasaki: 動画を検出しました
+2025-10-06 10:38:56,776 - INFO - datetime属性の抽出を開始します
+2025-10-06 10:38:56,806 - INFO - 抽出されたdatetime: 2025-10-05T12:51:29.000Z
+2025-10-06 10:38:56,806 - INFO - fupaokawasaki の投稿日時: 2025-10-05T12:51:29.000Z
+2025-10-06 10:38:57,977 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQMVthsquqhgPOuItldzgJyRy5xFY-OVPHjK6i37XKeVkpWDf2B3TBWwdGkGEFJbSayOLmW-3tyVEXW_iGBNqnMyXRjxTFFXrWxDDKc.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=_-MVEO_vqCYQ7kNvwFDiLW7&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmFkLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E4MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMDI2MDkyMTkxNDk4MTE2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=URpoErNoDWvkijSgU03MrQ&_nc_zt=28&oh=00_AfcfMObuslrXUhFleujOd_AT0PhH9BeykXEReZSvnMuerw&oe=68E96BEB&bytestart=0&byteend=917602
+2025-10-06 10:38:57,977 - INFO - 動画URLを取得しました
+2025-10-06 10:38:58,183 - INFO - INSERT(with-key): user=fupaokawasaki, key=AQMVthsquqhgPOuItldzgJyRy5xFY-OVPHjK6i37XKeVkpWDf2B3TBWwdGkGEFJbSayOLmW-3tyVEXW_iGBNqnMyXRjxTFFXrWxDDKc, dt=2025-10-05T12:51:29.000Z
+2025-10-06 10:39:00,193 - INFO - ダウンロードを開始します: media\fupaokawasaki\fupaokawasaki_20251006103900.mp4
+2025-10-06 10:39:00,722 - INFO - ダウンロード完了: media\fupaokawasaki\fupaokawasaki_20251006103900.mp4
+2025-10-06 10:39:03,282 - INFO - 処理終了
+2025-10-06 10:39:03,284 - INFO - 説明文_AI: None
+2025-10-06 10:39:03,284 - INFO - 説明文_最終: 
+================================================================================
+2025-10-06 10:39:09,505 - INFO - 処理開始: Mode=story, Username=fupaokawasaki, GBP=MSKSPTVF842595
+2025-10-06 10:39:09,505 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0tTUFRWRjg0MjU5NSJd.
+2025-10-06 10:39:33,169 - INFO - 元の動画サイズ: 720x1280
+2025-10-06 10:39:33,169 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-06 10:39:33,169 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupaokawasaki\fupaokawasaki_20251006103900.mp4
+2025-10-06 10:39:43,239 - INFO - 一時ファイルが見つかりません: media\fupaokawasaki\description\20251006_103824
+2025-10-06 10:39:43,239 - INFO - Looking for button section...
+2025-10-06 10:39:47,789 - INFO - Trying to select CALL option...
+2025-10-06 10:39:48,035 - INFO - CALL option successfully selected
+2025-10-06 10:39:50,036 - INFO - Clicking submit button...
+2025-10-06 10:39:58,655 - INFO - 処理完了
+================================================================================
+2025-10-06 14:32:01,995 - INFO - 処理開始 PROCESSID:20251006_143158
+2025-10-06 14:32:01,995 - INFO - 対象ユーザー: fupaokawasaki
+2025-10-06 14:32:01,997 - INFO - 処理を開始します
+2025-10-06 14:32:02,055 - INFO - 選択されたプロファイル: Profile 13
+2025-10-06 14:32:02,055 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-06 14:32:06,739 - INFO - fupaokawasaki のプロフィールページにアクセスします
+2025-10-06 14:32:29,463 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 14:32:32,571 - INFO - 動画の取得に失敗しました
+2025-10-06 14:32:32,572 - INFO - datetime属性の抽出を開始します
+2025-10-06 14:32:42,927 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xe3c333+65459]
+	GetHandleVerifier [0x0xe3c374+65524]
+	(No symbol) [0x0xc5d973]
+	(No symbol) [0x0xca76e7]
+	(No symbol) [0x0xca7a8b]
+	(No symbol) [0x0xcedea2]
+	(No symbol) [0x0xcc9e44]
+	(No symbol) [0x0xceb606]
+	(No symbol) [0x0xcc9bf6]
+	(No symbol) [0x0xc9b38e]
+	(No symbol) [0x0xc9c274]
+	GetHandleVerifier [0x0x10beda3+2697763]
+	GetHandleVerifier [0x0x10b9ec7+2677575]
+	GetHandleVerifier [0x0xe64194+228884]
+	GetHandleVerifier [0x0xe549f8+165496]
+	GetHandleVerifier [0x0xe5b18d+192013]
+	GetHandleVerifier [0x0xe447d8+99416]
+	GetHandleVerifier [0x0xe44972+99826]
+	GetHandleVerifier [0x0xe2ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-06 14:32:53,238 - INFO - 画像の取得に失敗しました
+2025-10-06 14:32:55,734 - INFO - 処理終了
+================================================================================
+2025-10-06 18:19:48,488 - INFO - 処理開始 PROCESSID:20251006_181945
+2025-10-06 18:19:48,488 - INFO - 対象ユーザー: fupaokawasaki
+2025-10-06 18:19:48,490 - INFO - 処理を開始します
+2025-10-06 18:19:48,546 - INFO - 選択されたプロファイル: Profile 9
+2025-10-06 18:19:48,546 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-06 18:19:53,286 - INFO - fupaokawasaki のプロフィールページにアクセスします
+2025-10-06 18:20:15,663 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 18:20:18,796 - INFO - 動画の取得に失敗しました
+2025-10-06 18:20:18,796 - INFO - datetime属性の抽出を開始します
+2025-10-06 18:20:28,863 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xe3c333+65459]
+	GetHandleVerifier [0x0xe3c374+65524]
+	(No symbol) [0x0xc5d973]
+	(No symbol) [0x0xca76e7]
+	(No symbol) [0x0xca7a8b]
+	(No symbol) [0x0xcedea2]
+	(No symbol) [0x0xcc9e44]
+	(No symbol) [0x0xceb606]
+	(No symbol) [0x0xcc9bf6]
+	(No symbol) [0x0xc9b38e]
+	(No symbol) [0x0xc9c274]
+	GetHandleVerifier [0x0x10beda3+2697763]
+	GetHandleVerifier [0x0x10b9ec7+2677575]
+	GetHandleVerifier [0x0xe64194+228884]
+	GetHandleVerifier [0x0xe549f8+165496]
+	GetHandleVerifier [0x0xe5b18d+192013]
+	GetHandleVerifier [0x0xe447d8+99416]
+	GetHandleVerifier [0x0xe44972+99826]
+	GetHandleVerifier [0x0xe2ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-06 18:20:39,228 - INFO - 画像の取得に失敗しました
+2025-10-06 18:20:42,634 - INFO - 処理終了
+================================================================================
+2025-10-06 22:02:10,353 - INFO - 処理開始 PROCESSID:20251006_220207
+2025-10-06 22:02:10,353 - INFO - 対象ユーザー: fupaokawasaki
+2025-10-06 22:02:10,353 - INFO - 処理を開始します
+2025-10-06 22:02:10,411 - INFO - 選択されたプロファイル: Profile 13
+2025-10-06 22:02:10,413 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-06 22:02:15,049 - INFO - fupaokawasaki のプロフィールページにアクセスします
+2025-10-06 22:02:38,829 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 22:02:41,939 - INFO - 動画の取得に失敗しました
+2025-10-06 22:02:41,939 - INFO - datetime属性の抽出を開始します
+2025-10-06 22:02:52,282 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xe3c333+65459]
+	GetHandleVerifier [0x0xe3c374+65524]
+	(No symbol) [0x0xc5d973]
+	(No symbol) [0x0xca76e7]
+	(No symbol) [0x0xca7a8b]
+	(No symbol) [0x0xcedea2]
+	(No symbol) [0x0xcc9e44]
+	(No symbol) [0x0xceb606]
+	(No symbol) [0x0xcc9bf6]
+	(No symbol) [0x0xc9b38e]
+	(No symbol) [0x0xc9c274]
+	GetHandleVerifier [0x0x10beda3+2697763]
+	GetHandleVerifier [0x0x10b9ec7+2677575]
+	GetHandleVerifier [0x0xe64194+228884]
+	GetHandleVerifier [0x0xe549f8+165496]
+	GetHandleVerifier [0x0xe5b18d+192013]
+	GetHandleVerifier [0x0xe447d8+99416]
+	GetHandleVerifier [0x0xe44972+99826]
+	GetHandleVerifier [0x0xe2ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-06 22:03:02,602 - INFO - 画像の取得に失敗しました
+2025-10-06 22:03:06,122 - INFO - 処理終了

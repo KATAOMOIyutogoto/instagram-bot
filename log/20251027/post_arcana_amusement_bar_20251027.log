@@ -1,0 +1,541 @@
+================================================================================
+2025-10-27 04:48:55,281 - INFO - 処理開始 PROCESSID:20251027_044851
+2025-10-27 04:48:55,282 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-27 04:48:55,282 - INFO - 処理を開始します
+2025-10-27 04:48:55,348 - INFO - 選択されたプロファイル: Profile 13
+2025-10-27 04:48:55,350 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-27 04:49:00,128 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-27 04:49:12,383 - INFO - 最新投稿を読み込みます
+2025-10-27 04:49:17,808 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-27 04:49:20,149 - INFO - ピン留めだが3日以上前(4日) → スキップ
+2025-10-27 04:49:20,149 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/p/DHLOlDqhxt7/?hl=ja → 日付確認
+2025-10-27 04:49:23,676 - INFO - ピン留めだが3日以上前(77日) → スキップ
+2025-10-27 04:49:23,676 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/C6ve5Qmh_ow/?hl=ja → 日付確認
+2025-10-27 04:49:29,628 - INFO - ピン留めだが3日以上前(415日) → スキップ
+2025-10-27 04:49:29,629 - INFO - 選定: 非ピン留め https://www.instagram.com/arcana_amusement_bar/p/DQRHniGkuXi/?hl=ja
+2025-10-27 04:49:33,363 - INFO - 最新投稿ページにアクセスしました
+2025-10-27 04:49:38,160 - INFO - 最新投稿ページにアクセスしました
+2025-10-27 04:49:38,192 - INFO - datetime属性の抽出を開始します
+2025-10-27 04:49:38,219 - INFO - 抽出されたdatetime: 2025-10-26T09:30:08.000Z
+2025-10-27 04:49:38,219 - INFO - arcana_amusement_bar の投稿日時: 2025-10-26T09:30:08.000Z
+2025-10-27 04:49:38,228 - INFO - date:2025-10-26 18:30:08+09:00
+2025-10-27 04:49:38,228 - INFO - post_date:20251026
+2025-10-27 04:49:38,276 - INFO - カルーセル推定: 4枚
+2025-10-27 04:49:38,298 - INFO - 検出(UL): https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/571880331_17965822130988053_1136227936015954819_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1MTc3MjY4Nzk4ODYxNzYwNQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTQ3OC5zZHIuQzMifQ%3D%3D&_nc_ohc=Jiu6Y-Jb9dIQ7kNvwF4Z_tt&_nc_oc=AdnCGIOrIGTlBQgz1t0vtcWXL5nOeAIfM6FWRWK_E7OPjNZ-xnsodjAt9u7hdLBga1c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=igP2T3_eWpqfDCJ9TQlCxw&oh=00_Afcyq9lC3tmvL_Dh7ikRkXXaLiV0bcPRYVsUnLrACDDthQ&oe=6904D106
+2025-10-27 04:49:38,305 - INFO - 検出(UL): https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/573506540_17965822139988053_7083680395375499664_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1MTc3MjY4Nzk4ODYxNTI3OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTI3Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qhDaP4vAyP0Q7kNvwEHa-0v&_nc_oc=AdndC0xM0-vU7aIfSrljm5FIexqCLGckYbWQri7O7VVy0oyIRcAmhQj9XnJnCSJsSpY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=igP2T3_eWpqfDCJ9TQlCxw&oh=00_Afcrs18-KlurBdSJyVfljIjnnwcK_VdyVCwD0ZEQtdZG-w&oe=6904D161
+2025-10-27 04:50:20,148 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/572131949_17965822148988053_8830117792603855613_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1MTc3MjY4NzgyOTE4MTMzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTI4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ZLcbD1Oq-gUQ7kNvwGWtENS&_nc_oc=AdlWn5FU8YKYL1el2AjO7TVLWhbLTl3bF6yrDZskqjP7KTXCpEazpyTkKkOsF5Zaisw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=igP2T3_eWpqfDCJ9TQlCxw&oh=00_AfdYI1lk3XIpnWCJbciNGw5tbW70U8lmDdPsEB059qGbrA&oe=6904CA17
+2025-10-27 04:50:21,212 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/571116212_17965822157988053_1166745953608969180_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MTc3MjY4Nzc5NTY3MDEyNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM0Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=FGgASj8Km6QQ7kNvwETvf-A&_nc_oc=AdkQMjvo0jGsa1VZSLeCAtlK4V-Vc13LCihIH2DfhaCUREjxFJ5LuwG6iKyFgvTIlw4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=igP2T3_eWpqfDCJ9TQlCxw&oh=00_Afe8RvKyVtSg-PZgiXWVCYeG09Mgr2V100PuQv0ChkscDA&oe=6904B4F5
+2025-10-27 04:50:21,232 - INFO - 1枚目: https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/571880331_17965822130988053_1136227936015954819_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1MTc3MjY4Nzk4ODYxNzYwNQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTQ3OC5zZHIuQzMifQ%3D%3D&_nc_ohc=Jiu6Y-Jb9dIQ7kNvwF4Z_tt&_nc_oc=AdnCGIOrIGTlBQgz1t0vtcWXL5nOeAIfM6FWRWK_E7OPjNZ-xnsodjAt9u7hdLBga1c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=igP2T3_eWpqfDCJ9TQlCxw&oh=00_Afcyq9lC3tmvL_Dh7ikRkXXaLiV0bcPRYVsUnLrACDDthQ&oe=6904D106
+2025-10-27 04:50:21,232 - INFO - 2枚目: https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/573506540_17965822139988053_7083680395375499664_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1MTc3MjY4Nzk4ODYxNTI3OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTI3Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qhDaP4vAyP0Q7kNvwEHa-0v&_nc_oc=AdndC0xM0-vU7aIfSrljm5FIexqCLGckYbWQri7O7VVy0oyIRcAmhQj9XnJnCSJsSpY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=igP2T3_eWpqfDCJ9TQlCxw&oh=00_Afcrs18-KlurBdSJyVfljIjnnwcK_VdyVCwD0ZEQtdZG-w&oe=6904D161
+2025-10-27 04:50:21,232 - INFO - 3枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/572131949_17965822148988053_8830117792603855613_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1MTc3MjY4NzgyOTE4MTMzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTI4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ZLcbD1Oq-gUQ7kNvwGWtENS&_nc_oc=AdlWn5FU8YKYL1el2AjO7TVLWhbLTl3bF6yrDZskqjP7KTXCpEazpyTkKkOsF5Zaisw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=igP2T3_eWpqfDCJ9TQlCxw&oh=00_AfdYI1lk3XIpnWCJbciNGw5tbW70U8lmDdPsEB059qGbrA&oe=6904CA17
+2025-10-27 04:50:21,232 - INFO - 4枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/571116212_17965822157988053_1166745953608969180_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MTc3MjY4Nzc5NTY3MDEyNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM0Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=FGgASj8Km6QQ7kNvwETvf-A&_nc_oc=AdkQMjvo0jGsa1VZSLeCAtlK4V-Vc13LCihIH2DfhaCUREjxFJ5LuwG6iKyFgvTIlw4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=igP2T3_eWpqfDCJ9TQlCxw&oh=00_Afe8RvKyVtSg-PZgiXWVCYeG09Mgr2V100PuQv0ChkscDA&oe=6904B4F5
+2025-10-27 04:50:21,232 - INFO - [caption/by_username] 開始
+2025-10-27 04:50:21,315 - INFO - [caption/by_username] 説明文確定（先頭100）: '10/26(日)本日も19:00より営業しております⭐️⭐️
+
+🎃👻10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+期間中に仮装をして来店して'
+2025-10-27 04:50:21,316 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251027_044851
+2025-10-27 04:50:21,317 - INFO - 画像URLを取得しました
+2025-10-27 04:50:21,320 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MTc3MjY4Nzk4ODYxNzYwNQ==, dt=2025-10-26T09:30:08.000Z
+2025-10-27 04:50:21,320 - INFO - このレコードは存在します
+2025-10-27 04:50:21,320 - INFO - 画像URLを取得しました
+2025-10-27 04:50:21,321 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MTc3MjY4Nzk4ODYxNTI3OQ==, dt=2025-10-26T09:30:08.000Z
+2025-10-27 04:50:21,321 - INFO - このレコードは存在します
+2025-10-27 04:50:21,322 - INFO - 画像URLを取得しました
+2025-10-27 04:50:21,323 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MTc3MjY4NzgyOTE4MTMzOQ==, dt=2025-10-26T09:30:08.000Z
+2025-10-27 04:50:21,323 - INFO - このレコードは存在します
+2025-10-27 04:50:21,323 - INFO - 画像URLを取得しました
+2025-10-27 04:50:21,324 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MTc3MjY4Nzc5NTY3MDEyNw==, dt=2025-10-26T09:30:08.000Z
+2025-10-27 04:50:21,324 - INFO - このレコードは存在します
+2025-10-27 04:50:21,324 - INFO - カルーセル集計: 想定4 / 収集4 / 新規DL0 / 既存スキップ4 / 失敗0
+2025-10-27 04:50:21,324 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-27 04:50:21,324 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-27 07:54:25,505 - INFO - 処理開始 PROCESSID:20251027_075421
+2025-10-27 07:54:25,505 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-27 07:54:25,505 - INFO - 処理を開始します
+2025-10-27 07:54:25,575 - INFO - 選択されたプロファイル: Profile 12
+2025-10-27 07:54:25,575 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-27 07:54:30,618 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-27 07:54:42,864 - INFO - 最新投稿を読み込みます
+2025-10-27 07:54:48,182 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-27 07:54:52,794 - INFO - ピン留めだが3日以上前(4日) → スキップ
+2025-10-27 07:54:52,794 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/p/DHLOlDqhxt7/?hl=ja → 日付確認
+2025-10-27 07:54:56,252 - INFO - ピン留めだが3日以上前(77日) → スキップ
+2025-10-27 07:54:56,252 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/C6ve5Qmh_ow/?hl=ja → 日付確認
+2025-10-27 07:55:00,834 - INFO - ピン留めだが3日以上前(415日) → スキップ
+2025-10-27 07:55:00,834 - INFO - 選定: 非ピン留め https://www.instagram.com/arcana_amusement_bar/p/DQRHniGkuXi/?hl=ja
+2025-10-27 07:55:06,142 - INFO - 最新投稿ページにアクセスしました
+2025-10-27 07:55:10,990 - INFO - 最新投稿ページにアクセスしました
+2025-10-27 07:55:11,247 - INFO - datetime属性の抽出を開始します
+2025-10-27 07:55:11,466 - INFO - 抽出されたdatetime: 2025-10-26T09:30:08.000Z
+2025-10-27 07:55:11,466 - INFO - arcana_amusement_bar の投稿日時: 2025-10-26T09:30:08.000Z
+2025-10-27 07:55:11,490 - INFO - date:2025-10-26 18:30:08+09:00
+2025-10-27 07:55:11,490 - INFO - post_date:20251026
+2025-10-27 07:55:11,644 - INFO - カルーセル推定: 4枚
+2025-10-27 07:55:11,680 - INFO - 検出(UL): https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/571880331_17965822130988053_1136227936015954819_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1MTc3MjY4Nzk4ODYxNzYwNQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTQ3OC5zZHIuQzMifQ%3D%3D&_nc_ohc=Jiu6Y-Jb9dIQ7kNvwF4Z_tt&_nc_oc=AdnCGIOrIGTlBQgz1t0vtcWXL5nOeAIfM6FWRWK_E7OPjNZ-xnsodjAt9u7hdLBga1c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=tTbTRBR84Tpi6GePCkG7-A&oh=00_AfcTjhrBDF2ReKoHnVA-2UlagqRUS1gAvxOYaZQwkAQD5A&oe=69050946
+2025-10-27 07:55:11,704 - INFO - 検出(UL): https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/573506540_17965822139988053_7083680395375499664_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1MTc3MjY4Nzk4ODYxNTI3OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTI3Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qhDaP4vAyP0Q7kNvwEHa-0v&_nc_oc=AdndC0xM0-vU7aIfSrljm5FIexqCLGckYbWQri7O7VVy0oyIRcAmhQj9XnJnCSJsSpY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=tTbTRBR84Tpi6GePCkG7-A&oh=00_AfdcFxG5s_bSGvcJA1cQMy2Edtv3tweYCzWV2RwS6PedOw&oe=690509A1
+2025-10-27 07:55:34,285 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/572131949_17965822148988053_8830117792603855613_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1MTc3MjY4NzgyOTE4MTMzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTI4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ZLcbD1Oq-gUQ7kNvwGWtENS&_nc_oc=AdlWn5FU8YKYL1el2AjO7TVLWhbLTl3bF6yrDZskqjP7KTXCpEazpyTkKkOsF5Zaisw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=tTbTRBR84Tpi6GePCkG7-A&oh=00_Afdrjwg9e8xIoEDnQ7roUKW-RTSL67VhByM-kfwTD_IJqQ&oe=69050257
+2025-10-27 07:55:35,502 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/571116212_17965822157988053_1166745953608969180_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MTc3MjY4Nzc5NTY3MDEyNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM0Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=FGgASj8Km6QQ7kNvwETvf-A&_nc_oc=AdkQMjvo0jGsa1VZSLeCAtlK4V-Vc13LCihIH2DfhaCUREjxFJ5LuwG6iKyFgvTIlw4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=tTbTRBR84Tpi6GePCkG7-A&oh=00_Afe7ifEkz39R1QWNPKLAo0iPWriFuxbfcERpDw85WlozVg&oe=6904ED35
+2025-10-27 07:55:35,524 - INFO - 1枚目: https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/571880331_17965822130988053_1136227936015954819_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1MTc3MjY4Nzk4ODYxNzYwNQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTQ3OC5zZHIuQzMifQ%3D%3D&_nc_ohc=Jiu6Y-Jb9dIQ7kNvwF4Z_tt&_nc_oc=AdnCGIOrIGTlBQgz1t0vtcWXL5nOeAIfM6FWRWK_E7OPjNZ-xnsodjAt9u7hdLBga1c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=tTbTRBR84Tpi6GePCkG7-A&oh=00_AfcTjhrBDF2ReKoHnVA-2UlagqRUS1gAvxOYaZQwkAQD5A&oe=69050946
+2025-10-27 07:55:35,524 - INFO - 2枚目: https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/573506540_17965822139988053_7083680395375499664_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc1MTc3MjY4Nzk4ODYxNTI3OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjN4MTI3Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qhDaP4vAyP0Q7kNvwEHa-0v&_nc_oc=AdndC0xM0-vU7aIfSrljm5FIexqCLGckYbWQri7O7VVy0oyIRcAmhQj9XnJnCSJsSpY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=tTbTRBR84Tpi6GePCkG7-A&oh=00_AfdcFxG5s_bSGvcJA1cQMy2Edtv3tweYCzWV2RwS6PedOw&oe=690509A1
+2025-10-27 07:55:35,524 - INFO - 3枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/572131949_17965822148988053_8830117792603855613_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1MTc3MjY4NzgyOTE4MTMzOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTI4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=ZLcbD1Oq-gUQ7kNvwGWtENS&_nc_oc=AdlWn5FU8YKYL1el2AjO7TVLWhbLTl3bF6yrDZskqjP7KTXCpEazpyTkKkOsF5Zaisw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=tTbTRBR84Tpi6GePCkG7-A&oh=00_Afdrjwg9e8xIoEDnQ7roUKW-RTSL67VhByM-kfwTD_IJqQ&oe=69050257
+2025-10-27 07:55:35,525 - INFO - 4枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/571116212_17965822157988053_1166745953608969180_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MTc3MjY4Nzc5NTY3MDEyNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM0Ny5zZHIuQzMifQ%3D%3D&_nc_ohc=FGgASj8Km6QQ7kNvwETvf-A&_nc_oc=AdkQMjvo0jGsa1VZSLeCAtlK4V-Vc13LCihIH2DfhaCUREjxFJ5LuwG6iKyFgvTIlw4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=tTbTRBR84Tpi6GePCkG7-A&oh=00_Afe7ifEkz39R1QWNPKLAo0iPWriFuxbfcERpDw85WlozVg&oe=6904ED35
+2025-10-27 07:55:35,525 - INFO - [caption/by_username] 開始
+2025-10-27 07:55:35,638 - INFO - [caption/by_username] 説明文確定（先頭100）: '10/26(日)本日も19:00より営業しております⭐️⭐️
+
+🎃👻10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+期間中に仮装をして来店して'
+2025-10-27 07:55:35,639 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251027_075421
+2025-10-27 07:55:35,640 - INFO - 画像URLを取得しました
+2025-10-27 07:55:35,644 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MTc3MjY4Nzk4ODYxNzYwNQ==, dt=2025-10-26T09:30:08.000Z
+2025-10-27 07:55:35,645 - INFO - このレコードは存在します
+2025-10-27 07:55:35,645 - INFO - 画像URLを取得しました
+2025-10-27 07:55:35,646 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MTc3MjY4Nzk4ODYxNTI3OQ==, dt=2025-10-26T09:30:08.000Z
+2025-10-27 07:55:35,646 - INFO - このレコードは存在します
+2025-10-27 07:55:35,646 - INFO - 画像URLを取得しました
+2025-10-27 07:55:35,647 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MTc3MjY4NzgyOTE4MTMzOQ==, dt=2025-10-26T09:30:08.000Z
+2025-10-27 07:55:35,647 - INFO - このレコードは存在します
+2025-10-27 07:55:35,647 - INFO - 画像URLを取得しました
+2025-10-27 07:55:35,648 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MTc3MjY4Nzc5NTY3MDEyNw==, dt=2025-10-26T09:30:08.000Z
+2025-10-27 07:55:35,648 - INFO - このレコードは存在します
+2025-10-27 07:55:35,649 - INFO - カルーセル集計: 想定4 / 収集4 / 新規DL0 / 既存スキップ4 / 失敗0
+2025-10-27 07:55:35,649 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-27 07:55:35,649 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-27 10:57:27,854 - INFO - 処理開始 PROCESSID:20251027_105724
+2025-10-27 10:57:27,854 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-27 10:57:27,854 - INFO - 処理を開始します
+2025-10-27 10:57:27,917 - INFO - 選択されたプロファイル: Profile 10
+2025-10-27 10:57:27,917 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-27 10:57:33,298 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-27 10:57:46,118 - INFO - 最新投稿を読み込みます
+2025-10-27 10:57:51,414 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-27 10:57:55,227 - INFO - ピン留めだが3日以上前(5日) → スキップ
+2025-10-27 10:57:55,227 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/p/DHLOlDqhxt7/?hl=ja → 日付確認
+2025-10-27 10:57:57,870 - INFO - ピン留めだが3日以上前(77日) → スキップ
+2025-10-27 10:57:57,870 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/C6ve5Qmh_ow/?hl=ja → 日付確認
+2025-10-27 10:58:02,579 - INFO - ピン留めだが3日以上前(416日) → スキップ
+2025-10-27 10:58:02,579 - INFO - 選定: 非ピン留め https://www.instagram.com/arcana_amusement_bar/p/DQTsWxxEpv_/?hl=ja
+2025-10-27 10:58:07,042 - INFO - 最新投稿ページにアクセスしました
+2025-10-27 10:58:10,875 - INFO - 最新投稿ページにアクセスしました
+2025-10-27 10:58:11,042 - INFO - datetime属性の抽出を開始します
+2025-10-27 10:58:11,569 - INFO - 抽出されたdatetime: 2025-10-27T09:30:08.000Z
+2025-10-27 10:58:11,569 - INFO - arcana_amusement_bar の投稿日時: 2025-10-27T09:30:08.000Z
+2025-10-27 10:58:11,666 - INFO - date:2025-10-27 18:30:08+09:00
+2025-10-27 10:58:11,666 - INFO - post_date:20251027
+2025-10-27 10:58:12,017 - INFO - カルーセル推定: 3枚
+2025-10-27 10:58:12,072 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/570319081_17965906979988053_4092029553961349477_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc1MjMyNTA4MDIzMjkwNTg0NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTE3OS5zZHIuQzMifQ%3D%3D&_nc_ohc=y959AdFVfJUQ7kNvwFkhVJp&_nc_oc=Adk-DJeM8rE1SiJiNALZxa_Od11RQmCCCVBmlS8yjajYy3kgnSQ4JoXXy7nMVrCQfSw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=CKY72IShUBIcTdzp_PWQJg&oh=00_Affp-8jSb3XcTP84Y9fbv-5FoF6fEK0AUe_HD8LbfEzKNw&oe=69050C44
+2025-10-27 10:58:12,103 - INFO - 検出(UL): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/572951486_17965906988988053_7341153216479720580_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1MjMyNTA3OTk1NjEwMjEzNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=W0f2F96zzGUQ7kNvwF1oi0K&_nc_oc=Adn9NwuxSWfJ5O1uES5GHhIPbJlb2M7tu1PUJqRFw_PDSg03y6NT_XBuWInf2iFI_C4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=CKY72IShUBIcTdzp_PWQJg&oh=00_AfcMKfc6-7iCjEBJSW2_dqcg_DFo6Hxes2qEHS6zezqe-w&oe=6905078B
+2025-10-27 10:58:53,892 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/572134604_17965906997988053_8972620457831737100_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MjMyNTA4MDA4MTkzMTMwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=yXJkoLJ4j0sQ7kNvwGSSgSc&_nc_oc=AdmDYln2CuEaGWxGP4CcZix_yei7txL5N7Em5hIlH000qrYsqHQxZziTgPJza8eDy8c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=CKY72IShUBIcTdzp_PWQJg&oh=00_AfcmOfwSeZK0nBSHDOsWzkwpXYfYCGdDRk3MXqNhOvTNfQ&oe=690506C8
+2025-10-27 10:58:53,904 - INFO - 1枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/570319081_17965906979988053_4092029553961349477_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc1MjMyNTA4MDIzMjkwNTg0NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTE3OS5zZHIuQzMifQ%3D%3D&_nc_ohc=y959AdFVfJUQ7kNvwFkhVJp&_nc_oc=Adk-DJeM8rE1SiJiNALZxa_Od11RQmCCCVBmlS8yjajYy3kgnSQ4JoXXy7nMVrCQfSw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=CKY72IShUBIcTdzp_PWQJg&oh=00_Affp-8jSb3XcTP84Y9fbv-5FoF6fEK0AUe_HD8LbfEzKNw&oe=69050C44
+2025-10-27 10:58:53,904 - INFO - 2枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/572951486_17965906988988053_7341153216479720580_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1MjMyNTA3OTk1NjEwMjEzNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=W0f2F96zzGUQ7kNvwF1oi0K&_nc_oc=Adn9NwuxSWfJ5O1uES5GHhIPbJlb2M7tu1PUJqRFw_PDSg03y6NT_XBuWInf2iFI_C4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=CKY72IShUBIcTdzp_PWQJg&oh=00_AfcMKfc6-7iCjEBJSW2_dqcg_DFo6Hxes2qEHS6zezqe-w&oe=6905078B
+2025-10-27 10:58:53,904 - INFO - 3枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/572134604_17965906997988053_8972620457831737100_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MjMyNTA4MDA4MTkzMTMwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=yXJkoLJ4j0sQ7kNvwGSSgSc&_nc_oc=AdmDYln2CuEaGWxGP4CcZix_yei7txL5N7Em5hIlH000qrYsqHQxZziTgPJza8eDy8c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=CKY72IShUBIcTdzp_PWQJg&oh=00_AfcmOfwSeZK0nBSHDOsWzkwpXYfYCGdDRk3MXqNhOvTNfQ&oe=690506C8
+2025-10-27 10:58:53,904 - INFO - [caption/by_username] 開始
+2025-10-27 10:58:53,990 - INFO - [caption/by_username] 説明文確定（先頭100）: '本日より開催‼️10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+期間中に仮装をして来店してくださったお客様は、、、
+
+🍭「入場料無料」🍭
+
+と'
+2025-10-27 10:58:53,991 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251027_105724
+2025-10-27 10:58:53,991 - INFO - 画像URLを取得しました
+2025-10-27 10:58:54,032 - INFO - INSERT(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA4MDIzMjkwNTg0NA==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 10:58:54,032 - INFO - メディアを取得します
+2025-10-27 10:58:56,033 - INFO - ダウンロードを開始します: media\arcana_amusement_bar\arcana_amusement_bar_20251027105856.jpg
+2025-10-27 10:58:57,631 - INFO - ダウンロード完了: media\arcana_amusement_bar\arcana_amusement_bar_20251027105856.jpg
+2025-10-27 10:58:57,712 - INFO - 元の画像サイズ: 1179x1179
+2025-10-27 10:58:57,712 - INFO - サイズ変更は不要です
+2025-10-27 10:58:57,714 - INFO - 画像URLを取得しました
+2025-10-27 10:58:57,763 - INFO - INSERT(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA3OTk1NjEwMjEzNw==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 10:58:57,764 - INFO - メディアを取得します
+2025-10-27 10:58:59,764 - INFO - ダウンロードを開始します: media\arcana_amusement_bar\arcana_amusement_bar_20251027105859.jpg
+2025-10-27 10:59:01,316 - INFO - ダウンロード完了: media\arcana_amusement_bar\arcana_amusement_bar_20251027105859.jpg
+2025-10-27 10:59:01,352 - INFO - 元の画像サイズ: 1024x1024
+2025-10-27 10:59:01,352 - INFO - サイズ変更は不要です
+2025-10-27 10:59:01,354 - INFO - 画像URLを取得しました
+2025-10-27 10:59:01,388 - INFO - INSERT(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA4MDA4MTkzMTMwMw==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 10:59:01,388 - INFO - メディアを取得します
+2025-10-27 10:59:03,400 - INFO - ダウンロードを開始します: media\arcana_amusement_bar\arcana_amusement_bar_20251027105903.jpg
+2025-10-27 10:59:04,962 - INFO - ダウンロード完了: media\arcana_amusement_bar\arcana_amusement_bar_20251027105903.jpg
+2025-10-27 10:59:05,006 - INFO - 元の画像サイズ: 1080x1080
+2025-10-27 10:59:05,006 - INFO - サイズ変更は不要です
+2025-10-27 10:59:05,006 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL3 / 既存スキップ0 / 失敗0
+2025-10-27 10:59:05,008 - INFO - 説明文:本日より開催‼️10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+期間中に仮装をして来店してくださったお客様は、、、
+
+🍭「入場料無料」🍭
+
+となります‼️‼️‼️
+そしてプロによる風船アートで店内を飾っております🎃🎈✨
+限定イベント沢山のご来店お待ちしております！！
+
+勝負、笑い、お酒が交差する大人のアミューズメントバー！！
+本日もARCANAでパーっと楽しみましょう！！👍
+
+🎯仕事帰りにふらっと寄れる、立川の遊べるバー発見🎤🎲
+ダーツもカラオケもボードゲームも完備で、みんなでワイワイ飲めるお店です🍻
+初めてでも大歓迎！
+友達とでも、おひとりでも、気づいたらみんなで乾杯してるかも🥂
+
+DMでの予約も受付中💌
+
+－－－－－－－－－－－－－－－－－－－
+
+夏季限定！🌻ガリガリ君ウォッカ始めました！✨
+
+10杯 5000円
+20杯 8000円です！
+
+ぜひ暑い夏はガリガリ君ウォッカで乗り切ろう！！！☀️😆
+
+待ってまーーす！
+
+－－－－－－－－－－－－－－
+
+カラオケ、ダーツ、ボードゲーム、ジャグラー
+様々なアミューズメントが盛りだくさん！
+
+アルカナでは団体様のご予約も受付中です！♡
+
+貸切予約も大歓迎！☺️💓✨
+
+人数やお値段などの詳細はぜひスタッフまでお気軽にお問い合わせください！
+
+ぜひたくさんのご来場お待ちしております！！！
+
+－－－－－－－－－－－－－－－－－－－－
+
+立川で
+飲むとこ探してませんか？🍺
+
+楽しいスタッフとたくさんのアミューズメント
+たくさんお酒も🥃あります✨
+
+ぜひ！初めての方もお待ちしてます！
+
+【学割飲み放題プラン】
+
+学生限定
+お得な学割飲み放題プラン
+平日19時〜24時まで
+￥3500 ！！！
+※学生証提示
+※グラス交換制
+※30分前ラストオーダー
+
+お席に限りがございます、入ったモン勝ち！
+
+立川で一番熱い場所！🔥
+飲んで歌ってダーツして盛りあがろう！！！✨
+
+今夜飲むとこ探してない？？
+
+立川で飲むなら立川ARCANA！
+
+終電を逃しても大丈夫！
+
+立川アルカナではダーツ、ボードゲーム、カラオケ、ジャグラー等色々なアミューズメントを取り揃えております✨
+
+楽しいスタッフ
+美味しいお酒
+盛り上がれるアミューズメント
+
+楽しいがいっぱいのアルカナ立川です！✨
+
+立川アルカナ朝まで営業中！
+お待ちしております！✨
+
+ご新規さんもお気軽にお越しくださいね☺️💕
+
+【アミューズメントバー立川ARCANA】
+
+ダーツ🎯やカラオケ🎤ボードゲームもたくさんあります！
+
+朝まで飲みたい方！
+終電逃しちゃったーという方！
+ダーツ🎯をして盛り上がりたいという方！
+アミューズメント盛りだくさん！
+
+ダーツ！🎯カラオケ！🎤ジャグラー、
+ボードゲームなど時間無制限で遊び放題♪
+
+10分間無料で占いもしてもらえます🔮(延長10分1000円)
+(※占い師が在中の時に限りますご希望でしたら事前にお問い合わせください)
+
+行ってみたい！気になる！と思った方はぜひ
+いいね♡保存⭐︎してね！
+
+システム:入場料　
+男性¥1,800 女性¥1,500
+(ドリンク1杯付)
+※時間無制限
+
+営業時間:19:00〜翌6:00(定休日なし)
+住所:立川市錦町2-1-10 エリア立川1F
+
+系列店のフォローもよろしくお願いします！
+
+【立川紳士協会】
+@tga20211025 
+【プライベートサウナsauna KUVETA】
+@saunakuveta
+【俺の生きる道】
+@oremichi_tachikawa 
+
+#arcana
+#立川バー
+#立川飲み
+#立川夜遊び
+#立川飲み会
+#立川二次会
+#立川三次会
+#立川駅近バー
+#立川で飲もう
+#立川友達作り
+#立川飲み友募集
+#立川社会人飲み
+#立川パーティー
+#立川飲み歩き
+#立川はしご酒
+#立川おしゃれバー
+#遊べるバー
+#ダーツバー
+#カラオケバー
+#ボードゲームバー
+#お酒好きな人と繋がりたい
+#飲み友募集
+#友達作りたい
+#初めまして歓迎
+#立川の夜
+#飲み好き集まれ
+#みんなで乾杯
+#ワイワイ飲み
+#立川遊び場
+#立川イベント
+2025-10-27 10:59:07,381 - INFO - 処理終了
+================================================================================
+2025-10-27 10:59:13,347 - INFO - 処理開始: Mode=post, Username=arcana_amusement_bar, GBP=MSSWCMFH508882
+2025-10-27 10:59:13,347 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU1NXQ01GSDUwODg4MiJd.
+2025-10-27 10:59:38,078 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\arcana_amusement_bar\arcana_amusement_bar_20251027105856.jpg
+2025-10-27 10:59:41,175 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\arcana_amusement_bar\arcana_amusement_bar_20251027105859.jpg
+2025-10-27 10:59:44,246 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\arcana_amusement_bar\arcana_amusement_bar_20251027105903.jpg
+2025-10-27 10:59:47,304 - INFO - Waiting for description field...
+2025-10-27 10:59:47,330 - INFO - Setting description via JS (no send_keys)...
+2025-10-27 10:59:48,495 - INFO - Looking for button section...
+2025-10-27 10:59:52,975 - INFO - Trying to select CALL option...
+2025-10-27 10:59:53,453 - INFO - CALL option successfully selected
+2025-10-27 10:59:55,454 - INFO - Clicking submit button...
+2025-10-27 11:00:04,209 - INFO - 処理完了
+================================================================================
+2025-10-27 14:02:06,250 - INFO - 処理開始 PROCESSID:20251027_140202
+2025-10-27 14:02:06,251 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-27 14:02:06,251 - INFO - 処理を開始します
+2025-10-27 14:02:06,308 - INFO - 選択されたプロファイル: Profile 12
+2025-10-27 14:02:06,308 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-27 14:02:10,868 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-27 14:02:24,613 - INFO - 最新投稿を読み込みます
+2025-10-27 14:02:29,962 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-27 14:02:34,361 - INFO - ピン留めだが3日以上前(5日) → スキップ
+2025-10-27 14:02:34,361 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/p/DHLOlDqhxt7/?hl=ja → 日付確認
+2025-10-27 14:02:36,520 - INFO - ピン留めだが3日以上前(77日) → スキップ
+2025-10-27 14:02:36,520 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/C6ve5Qmh_ow/?hl=ja → 日付確認
+2025-10-27 14:02:41,387 - INFO - ピン留めだが3日以上前(416日) → スキップ
+2025-10-27 14:02:41,387 - INFO - 選定: 非ピン留め https://www.instagram.com/arcana_amusement_bar/p/DQTsWxxEpv_/?hl=ja
+2025-10-27 14:02:45,758 - INFO - 最新投稿ページにアクセスしました
+2025-10-27 14:02:50,340 - INFO - 最新投稿ページにアクセスしました
+2025-10-27 14:02:50,570 - INFO - datetime属性の抽出を開始します
+2025-10-27 14:02:50,752 - INFO - 抽出されたdatetime: 2025-10-27T09:30:08.000Z
+2025-10-27 14:02:50,752 - INFO - arcana_amusement_bar の投稿日時: 2025-10-27T09:30:08.000Z
+2025-10-27 14:02:50,765 - INFO - date:2025-10-27 18:30:08+09:00
+2025-10-27 14:02:50,765 - INFO - post_date:20251027
+2025-10-27 14:02:51,142 - INFO - カルーセル推定: 3枚
+2025-10-27 14:02:51,417 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/570319081_17965906979988053_4092029553961349477_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc1MjMyNTA4MDIzMjkwNTg0NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTE3OS5zZHIuQzMifQ%3D%3D&_nc_ohc=y959AdFVfJUQ7kNvwFkhVJp&_nc_oc=Adk-DJeM8rE1SiJiNALZxa_Od11RQmCCCVBmlS8yjajYy3kgnSQ4JoXXy7nMVrCQfSw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=7o7LqS0LeN7HHya8gr1Ddg&oh=00_Affvr3Zt1ok4UO6t7vH3hXxbtmDIbOCXxBGV9Ap3QHU6Vw&oe=69054484
+2025-10-27 14:02:51,464 - INFO - 検出(UL): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/572951486_17965906988988053_7341153216479720580_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1MjMyNTA3OTk1NjEwMjEzNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=W0f2F96zzGUQ7kNvwF1oi0K&_nc_oc=Adn9NwuxSWfJ5O1uES5GHhIPbJlb2M7tu1PUJqRFw_PDSg03y6NT_XBuWInf2iFI_C4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=7o7LqS0LeN7HHya8gr1Ddg&oh=00_Afdtl4N3XeF00s3d8LnQSFEtX9E52FURnAlyJc6shRZV3A&oe=69053FCB
+2025-10-27 14:03:13,113 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/572134604_17965906997988053_8972620457831737100_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MjMyNTA4MDA4MTkzMTMwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=yXJkoLJ4j0sQ7kNvwGSSgSc&_nc_oc=AdmDYln2CuEaGWxGP4CcZix_yei7txL5N7Em5hIlH000qrYsqHQxZziTgPJza8eDy8c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=7o7LqS0LeN7HHya8gr1Ddg&oh=00_AfdKqmapQqEFsahuoYgaNVSGLH21YxaHynRth6_YepHAmA&oe=69053F08
+2025-10-27 14:03:13,130 - INFO - 1枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/570319081_17965906979988053_4092029553961349477_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc1MjMyNTA4MDIzMjkwNTg0NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTE3OS5zZHIuQzMifQ%3D%3D&_nc_ohc=y959AdFVfJUQ7kNvwFkhVJp&_nc_oc=Adk-DJeM8rE1SiJiNALZxa_Od11RQmCCCVBmlS8yjajYy3kgnSQ4JoXXy7nMVrCQfSw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=7o7LqS0LeN7HHya8gr1Ddg&oh=00_Affvr3Zt1ok4UO6t7vH3hXxbtmDIbOCXxBGV9Ap3QHU6Vw&oe=69054484
+2025-10-27 14:03:13,131 - INFO - 2枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/572951486_17965906988988053_7341153216479720580_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1MjMyNTA3OTk1NjEwMjEzNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=W0f2F96zzGUQ7kNvwF1oi0K&_nc_oc=Adn9NwuxSWfJ5O1uES5GHhIPbJlb2M7tu1PUJqRFw_PDSg03y6NT_XBuWInf2iFI_C4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=7o7LqS0LeN7HHya8gr1Ddg&oh=00_Afdtl4N3XeF00s3d8LnQSFEtX9E52FURnAlyJc6shRZV3A&oe=69053FCB
+2025-10-27 14:03:13,131 - INFO - 3枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/572134604_17965906997988053_8972620457831737100_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MjMyNTA4MDA4MTkzMTMwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=yXJkoLJ4j0sQ7kNvwGSSgSc&_nc_oc=AdmDYln2CuEaGWxGP4CcZix_yei7txL5N7Em5hIlH000qrYsqHQxZziTgPJza8eDy8c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=7o7LqS0LeN7HHya8gr1Ddg&oh=00_AfdKqmapQqEFsahuoYgaNVSGLH21YxaHynRth6_YepHAmA&oe=69053F08
+2025-10-27 14:03:13,131 - INFO - [caption/by_username] 開始
+2025-10-27 14:03:13,231 - INFO - [caption/by_username] 説明文確定（先頭100）: '本日より開催‼️10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+期間中に仮装をして来店してくださったお客様は、、、
+
+🍭「入場料無料」🍭
+
+と'
+2025-10-27 14:03:13,233 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251027_140202
+2025-10-27 14:03:13,233 - INFO - 画像URLを取得しました
+2025-10-27 14:03:13,235 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA4MDIzMjkwNTg0NA==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 14:03:13,235 - INFO - このレコードは存在します
+2025-10-27 14:03:13,235 - INFO - 画像URLを取得しました
+2025-10-27 14:03:13,236 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA3OTk1NjEwMjEzNw==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 14:03:13,237 - INFO - このレコードは存在します
+2025-10-27 14:03:13,237 - INFO - 画像URLを取得しました
+2025-10-27 14:03:13,238 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA4MDA4MTkzMTMwMw==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 14:03:13,238 - INFO - このレコードは存在します
+2025-10-27 14:03:13,238 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL0 / 既存スキップ3 / 失敗0
+2025-10-27 14:03:13,238 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-27 14:03:13,238 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-27 17:03:25,903 - INFO - 処理開始 PROCESSID:20251027_170322
+2025-10-27 17:03:25,903 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-27 17:03:25,903 - INFO - 処理を開始します
+2025-10-27 17:03:25,963 - INFO - 選択されたプロファイル: Profile 9
+2025-10-27 17:03:25,964 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-27 17:03:31,412 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-27 17:03:44,706 - INFO - 最新投稿を読み込みます
+2025-10-27 17:03:50,087 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-27 17:03:53,930 - INFO - ピン留めだが3日以上前(5日) → スキップ
+2025-10-27 17:03:53,931 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/p/DHLOlDqhxt7/?hl=ja → 日付確認
+2025-10-27 17:03:56,748 - INFO - ピン留めだが3日以上前(77日) → スキップ
+2025-10-27 17:03:56,748 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/C6ve5Qmh_ow/?hl=ja → 日付確認
+2025-10-27 17:04:00,297 - INFO - ピン留めだが3日以上前(416日) → スキップ
+2025-10-27 17:04:00,298 - INFO - 選定: 非ピン留め https://www.instagram.com/arcana_amusement_bar/p/DQTsWxxEpv_/?hl=ja
+2025-10-27 17:04:04,736 - INFO - 最新投稿ページにアクセスしました
+2025-10-27 17:04:10,155 - INFO - 最新投稿ページにアクセスしました
+2025-10-27 17:04:10,260 - INFO - datetime属性の抽出を開始します
+2025-10-27 17:04:10,330 - INFO - 抽出されたdatetime: 2025-10-27T09:30:08.000Z
+2025-10-27 17:04:10,330 - INFO - arcana_amusement_bar の投稿日時: 2025-10-27T09:30:08.000Z
+2025-10-27 17:04:10,339 - INFO - date:2025-10-27 18:30:08+09:00
+2025-10-27 17:04:10,339 - INFO - post_date:20251027
+2025-10-27 17:04:10,463 - INFO - カルーセル推定: 3枚
+2025-10-27 17:04:10,649 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/570319081_17965906979988053_4092029553961349477_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc1MjMyNTA4MDIzMjkwNTg0NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTE3OS5zZHIuQzMifQ%3D%3D&_nc_ohc=y959AdFVfJUQ7kNvwFkhVJp&_nc_oc=Adk-DJeM8rE1SiJiNALZxa_Od11RQmCCCVBmlS8yjajYy3kgnSQ4JoXXy7nMVrCQfSw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=C2dSZcaUVUMxPC03THf31w&oh=00_Afeaxe9Ne-ASXbC3_dUzRCRi4jfmi3zfT4xbAT48venpJw&oe=69057CC4
+2025-10-27 17:04:10,664 - INFO - 検出(UL): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/572951486_17965906988988053_7341153216479720580_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1MjMyNTA3OTk1NjEwMjEzNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=W0f2F96zzGUQ7kNvwF1oi0K&_nc_oc=Adn9NwuxSWfJ5O1uES5GHhIPbJlb2M7tu1PUJqRFw_PDSg03y6NT_XBuWInf2iFI_C4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=C2dSZcaUVUMxPC03THf31w&oh=00_AfeM8uPcmoTpuruFngsWbF1bbk_u_hNuinD4ALxPIyz2GQ&oe=6905780B
+2025-10-27 17:04:52,749 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/572134604_17965906997988053_8972620457831737100_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MjMyNTA4MDA4MTkzMTMwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=yXJkoLJ4j0sQ7kNvwGSSgSc&_nc_oc=AdmDYln2CuEaGWxGP4CcZix_yei7txL5N7Em5hIlH000qrYsqHQxZziTgPJza8eDy8c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=C2dSZcaUVUMxPC03THf31w&oh=00_AffFmGliyk753KXg3N8d-qNJoU5qHA0OEKpQNVgCpeKyOw&oe=69057748
+2025-10-27 17:04:52,764 - INFO - 1枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/570319081_17965906979988053_4092029553961349477_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc1MjMyNTA4MDIzMjkwNTg0NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTE3OS5zZHIuQzMifQ%3D%3D&_nc_ohc=y959AdFVfJUQ7kNvwFkhVJp&_nc_oc=Adk-DJeM8rE1SiJiNALZxa_Od11RQmCCCVBmlS8yjajYy3kgnSQ4JoXXy7nMVrCQfSw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=C2dSZcaUVUMxPC03THf31w&oh=00_Afeaxe9Ne-ASXbC3_dUzRCRi4jfmi3zfT4xbAT48venpJw&oe=69057CC4
+2025-10-27 17:04:52,764 - INFO - 2枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/572951486_17965906988988053_7341153216479720580_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1MjMyNTA3OTk1NjEwMjEzNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=W0f2F96zzGUQ7kNvwF1oi0K&_nc_oc=Adn9NwuxSWfJ5O1uES5GHhIPbJlb2M7tu1PUJqRFw_PDSg03y6NT_XBuWInf2iFI_C4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=C2dSZcaUVUMxPC03THf31w&oh=00_AfeM8uPcmoTpuruFngsWbF1bbk_u_hNuinD4ALxPIyz2GQ&oe=6905780B
+2025-10-27 17:04:52,764 - INFO - 3枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/572134604_17965906997988053_8972620457831737100_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MjMyNTA4MDA4MTkzMTMwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=yXJkoLJ4j0sQ7kNvwGSSgSc&_nc_oc=AdmDYln2CuEaGWxGP4CcZix_yei7txL5N7Em5hIlH000qrYsqHQxZziTgPJza8eDy8c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=C2dSZcaUVUMxPC03THf31w&oh=00_AffFmGliyk753KXg3N8d-qNJoU5qHA0OEKpQNVgCpeKyOw&oe=69057748
+2025-10-27 17:04:52,764 - INFO - [caption/by_username] 開始
+2025-10-27 17:04:52,848 - INFO - [caption/by_username] 説明文確定（先頭100）: '本日より開催‼️10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+期間中に仮装をして来店してくださったお客様は、、、
+
+🍭「入場料無料」🍭
+
+と'
+2025-10-27 17:04:52,851 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251027_170322
+2025-10-27 17:04:52,852 - INFO - 画像URLを取得しました
+2025-10-27 17:04:52,853 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA4MDIzMjkwNTg0NA==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 17:04:52,853 - INFO - このレコードは存在します
+2025-10-27 17:04:52,853 - INFO - 画像URLを取得しました
+2025-10-27 17:04:52,854 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA3OTk1NjEwMjEzNw==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 17:04:52,854 - INFO - このレコードは存在します
+2025-10-27 17:04:52,854 - INFO - 画像URLを取得しました
+2025-10-27 17:04:52,855 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA4MDA4MTkzMTMwMw==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 17:04:52,855 - INFO - このレコードは存在します
+2025-10-27 17:04:52,855 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL0 / 既存スキップ3 / 失敗0
+2025-10-27 17:04:52,856 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-27 17:04:52,856 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-27 20:03:21,841 - INFO - 処理開始 PROCESSID:20251027_200318
+2025-10-27 20:03:21,841 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-27 20:03:21,841 - INFO - 処理を開始します
+2025-10-27 20:03:21,904 - INFO - 選択されたプロファイル: Profile 12
+2025-10-27 20:03:21,904 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-27 20:03:27,395 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-27 20:03:39,545 - INFO - 最新投稿を読み込みます
+2025-10-27 20:03:44,841 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-27 20:03:49,209 - INFO - ピン留めだが3日以上前(5日) → スキップ
+2025-10-27 20:03:49,209 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/p/DHLOlDqhxt7/?hl=ja → 日付確認
+2025-10-27 20:03:51,997 - INFO - ピン留めだが3日以上前(77日) → スキップ
+2025-10-27 20:03:51,997 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/C6ve5Qmh_ow/?hl=ja → 日付確認
+2025-10-27 20:03:56,331 - INFO - ピン留めだが3日以上前(416日) → スキップ
+2025-10-27 20:03:56,332 - INFO - 選定: 非ピン留め https://www.instagram.com/arcana_amusement_bar/p/DQTsWxxEpv_/?hl=ja
+2025-10-27 20:04:01,204 - INFO - 最新投稿ページにアクセスしました
+2025-10-27 20:04:05,042 - INFO - 最新投稿ページにアクセスしました
+2025-10-27 20:04:05,188 - INFO - datetime属性の抽出を開始します
+2025-10-27 20:04:05,341 - INFO - 抽出されたdatetime: 2025-10-27T09:30:08.000Z
+2025-10-27 20:04:05,341 - INFO - arcana_amusement_bar の投稿日時: 2025-10-27T09:30:08.000Z
+2025-10-27 20:04:05,348 - INFO - date:2025-10-27 18:30:08+09:00
+2025-10-27 20:04:05,348 - INFO - post_date:20251027
+2025-10-27 20:04:05,600 - INFO - カルーセル推定: 3枚
+2025-10-27 20:04:05,862 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/570319081_17965906979988053_4092029553961349477_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc1MjMyNTA4MDIzMjkwNTg0NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTE3OS5zZHIuQzMifQ%3D%3D&_nc_ohc=y959AdFVfJUQ7kNvwFkhVJp&_nc_oc=Adk-DJeM8rE1SiJiNALZxa_Od11RQmCCCVBmlS8yjajYy3kgnSQ4JoXXy7nMVrCQfSw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=5WT23tP-JFB0s4JHV5hvgw&oh=00_AffGPhddVo4135KmNuSScVRoWFfIqnEnhRBAPzwtz67HAA&oe=6905B504
+2025-10-27 20:04:05,953 - INFO - 検出(UL): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/572951486_17965906988988053_7341153216479720580_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1MjMyNTA3OTk1NjEwMjEzNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=W0f2F96zzGUQ7kNvwF1oi0K&_nc_oc=Adn9NwuxSWfJ5O1uES5GHhIPbJlb2M7tu1PUJqRFw_PDSg03y6NT_XBuWInf2iFI_C4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=5WT23tP-JFB0s4JHV5hvgw&oh=00_Afc6sb9_XnakLnRNUArZVuM6HKpU6a9tvJpU60IYigqZyw&oe=6905B04B
+2025-10-27 20:04:29,396 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/572134604_17965906997988053_8972620457831737100_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MjMyNTA4MDA4MTkzMTMwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=k6xYagnb3dEQ7kNvwHpWiT5&_nc_oc=AdmDK7rSxiygNmE4MPmvyku1qO8c_4PHfySvx5DH_6vfQ7NkirWfEYsSJ6Iu3aT646A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=5WT23tP-JFB0s4JHV5hvgw&oh=00_AfeHkfyzoTTr22Km6vaqE3F4-ZEz_cnejpCmM_w-UV06iA&oe=6905AF88
+2025-10-27 20:04:29,409 - INFO - 1枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/570319081_17965906979988053_4092029553961349477_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc1MjMyNTA4MDIzMjkwNTg0NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTE3OS5zZHIuQzMifQ%3D%3D&_nc_ohc=y959AdFVfJUQ7kNvwFkhVJp&_nc_oc=Adk-DJeM8rE1SiJiNALZxa_Od11RQmCCCVBmlS8yjajYy3kgnSQ4JoXXy7nMVrCQfSw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=5WT23tP-JFB0s4JHV5hvgw&oh=00_AffGPhddVo4135KmNuSScVRoWFfIqnEnhRBAPzwtz67HAA&oe=6905B504
+2025-10-27 20:04:29,409 - INFO - 2枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/572951486_17965906988988053_7341153216479720580_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1MjMyNTA3OTk1NjEwMjEzNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=W0f2F96zzGUQ7kNvwF1oi0K&_nc_oc=Adn9NwuxSWfJ5O1uES5GHhIPbJlb2M7tu1PUJqRFw_PDSg03y6NT_XBuWInf2iFI_C4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=5WT23tP-JFB0s4JHV5hvgw&oh=00_Afc6sb9_XnakLnRNUArZVuM6HKpU6a9tvJpU60IYigqZyw&oe=6905B04B
+2025-10-27 20:04:29,409 - INFO - 3枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/572134604_17965906997988053_8972620457831737100_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MjMyNTA4MDA4MTkzMTMwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=k6xYagnb3dEQ7kNvwHpWiT5&_nc_oc=AdmDK7rSxiygNmE4MPmvyku1qO8c_4PHfySvx5DH_6vfQ7NkirWfEYsSJ6Iu3aT646A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=5WT23tP-JFB0s4JHV5hvgw&oh=00_AfeHkfyzoTTr22Km6vaqE3F4-ZEz_cnejpCmM_w-UV06iA&oe=6905AF88
+2025-10-27 20:04:29,409 - INFO - [caption/by_username] 開始
+2025-10-27 20:04:29,501 - INFO - [caption/by_username] 説明文確定（先頭100）: '本日より開催‼️10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+期間中に仮装をして来店してくださったお客様は、、、
+
+🍭「入場料無料」🍭
+
+と'
+2025-10-27 20:04:29,504 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251027_200318
+2025-10-27 20:04:29,504 - INFO - 画像URLを取得しました
+2025-10-27 20:04:29,505 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA4MDIzMjkwNTg0NA==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 20:04:29,506 - INFO - このレコードは存在します
+2025-10-27 20:04:29,506 - INFO - 画像URLを取得しました
+2025-10-27 20:04:29,507 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA3OTk1NjEwMjEzNw==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 20:04:29,508 - INFO - このレコードは存在します
+2025-10-27 20:04:29,508 - INFO - 画像URLを取得しました
+2025-10-27 20:04:29,509 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA4MDA4MTkzMTMwMw==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 20:04:29,509 - INFO - このレコードは存在します
+2025-10-27 20:04:29,509 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL0 / 既存スキップ3 / 失敗0
+2025-10-27 20:04:29,509 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-27 20:04:29,509 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-27 23:03:00,550 - INFO - 処理開始 PROCESSID:20251027_230257
+2025-10-27 23:03:00,550 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-27 23:03:00,550 - INFO - 処理を開始します
+2025-10-27 23:03:00,614 - INFO - 選択されたプロファイル: Profile 13
+2025-10-27 23:03:00,614 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-27 23:03:06,533 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-27 23:03:19,149 - INFO - 最新投稿を読み込みます
+2025-10-27 23:03:24,477 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-27 23:03:30,024 - INFO - ピン留めだが3日以上前(5日) → スキップ
+2025-10-27 23:03:30,024 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/p/DHLOlDqhxt7/?hl=ja → 日付確認
+2025-10-27 23:03:33,038 - INFO - ピン留めだが3日以上前(77日) → スキップ
+2025-10-27 23:03:33,038 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/C6ve5Qmh_ow/?hl=ja → 日付確認
+2025-10-27 23:03:38,395 - INFO - ピン留めだが3日以上前(416日) → スキップ
+2025-10-27 23:03:38,395 - INFO - 選定: 非ピン留め https://www.instagram.com/arcana_amusement_bar/p/DQTsWxxEpv_/?hl=ja
+2025-10-27 23:03:43,152 - INFO - 最新投稿ページにアクセスしました
+2025-10-27 23:03:47,069 - INFO - 最新投稿ページにアクセスしました
+2025-10-27 23:03:47,306 - INFO - datetime属性の抽出を開始します
+2025-10-27 23:03:47,590 - INFO - 抽出されたdatetime: 2025-10-27T09:30:08.000Z
+2025-10-27 23:03:47,590 - INFO - arcana_amusement_bar の投稿日時: 2025-10-27T09:30:08.000Z
+2025-10-27 23:03:47,683 - INFO - date:2025-10-27 18:30:08+09:00
+2025-10-27 23:03:47,683 - INFO - post_date:20251027
+2025-10-27 23:03:47,807 - INFO - カルーセル推定: 3枚
+2025-10-27 23:03:47,834 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/570319081_17965906979988053_4092029553961349477_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc1MjMyNTA4MDIzMjkwNTg0NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTE3OS5zZHIuQzMifQ%3D%3D&_nc_ohc=y959AdFVfJUQ7kNvwFkhVJp&_nc_oc=Adk-DJeM8rE1SiJiNALZxa_Od11RQmCCCVBmlS8yjajYy3kgnSQ4JoXXy7nMVrCQfSw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=GiOtYlU3g_07sjjrbKuf9g&oh=00_Afenn1G9MMiohUJMbsl8YEEsa0lfRP4cJU6qOLrhigMd8g&oe=6905B504
+2025-10-27 23:03:47,848 - INFO - 検出(UL): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/572951486_17965906988988053_7341153216479720580_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1MjMyNTA3OTk1NjEwMjEzNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=W0f2F96zzGUQ7kNvwF1oi0K&_nc_oc=Adn9NwuxSWfJ5O1uES5GHhIPbJlb2M7tu1PUJqRFw_PDSg03y6NT_XBuWInf2iFI_C4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=GiOtYlU3g_07sjjrbKuf9g&oh=00_AffIjuspYxuSuo1lxyZKggQvJrZcxiEIHgX4Q-q58d_jUg&oe=6905E88B
+2025-10-27 23:04:30,136 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/572134604_17965906997988053_8972620457831737100_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MjMyNTA4MDA4MTkzMTMwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=k6xYagnb3dEQ7kNvwHpWiT5&_nc_oc=AdmDK7rSxiygNmE4MPmvyku1qO8c_4PHfySvx5DH_6vfQ7NkirWfEYsSJ6Iu3aT646A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=GiOtYlU3g_07sjjrbKuf9g&oh=00_Afcjt5nX_9MpbbVutOExS4uYcheaB788jym7Sr_zKloJKg&oe=6905E7C8
+2025-10-27 23:04:30,166 - INFO - 1枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/570319081_17965906979988053_4092029553961349477_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc1MjMyNTA4MDIzMjkwNTg0NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjExNzl4MTE3OS5zZHIuQzMifQ%3D%3D&_nc_ohc=y959AdFVfJUQ7kNvwFkhVJp&_nc_oc=Adk-DJeM8rE1SiJiNALZxa_Od11RQmCCCVBmlS8yjajYy3kgnSQ4JoXXy7nMVrCQfSw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=GiOtYlU3g_07sjjrbKuf9g&oh=00_Afenn1G9MMiohUJMbsl8YEEsa0lfRP4cJU6qOLrhigMd8g&oe=6905B504
+2025-10-27 23:04:30,166 - INFO - 2枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/572951486_17965906988988053_7341153216479720580_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc1MjMyNTA3OTk1NjEwMjEzNw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=W0f2F96zzGUQ7kNvwF1oi0K&_nc_oc=Adn9NwuxSWfJ5O1uES5GHhIPbJlb2M7tu1PUJqRFw_PDSg03y6NT_XBuWInf2iFI_C4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=GiOtYlU3g_07sjjrbKuf9g&oh=00_AffIjuspYxuSuo1lxyZKggQvJrZcxiEIHgX4Q-q58d_jUg&oe=6905E88B
+2025-10-27 23:04:30,166 - INFO - 3枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/572134604_17965906997988053_8972620457831737100_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MjMyNTA4MDA4MTkzMTMwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=k6xYagnb3dEQ7kNvwHpWiT5&_nc_oc=AdmDK7rSxiygNmE4MPmvyku1qO8c_4PHfySvx5DH_6vfQ7NkirWfEYsSJ6Iu3aT646A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=GiOtYlU3g_07sjjrbKuf9g&oh=00_Afcjt5nX_9MpbbVutOExS4uYcheaB788jym7Sr_zKloJKg&oe=6905E7C8
+2025-10-27 23:04:30,166 - INFO - [caption/by_username] 開始
+2025-10-27 23:04:30,262 - INFO - [caption/by_username] 説明文確定（先頭100）: '本日より開催‼️10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+期間中に仮装をして来店してくださったお客様は、、、
+
+🍭「入場料無料」🍭
+
+と'
+2025-10-27 23:04:30,264 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251027_230257
+2025-10-27 23:04:30,264 - INFO - 画像URLを取得しました
+2025-10-27 23:04:30,269 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA4MDIzMjkwNTg0NA==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 23:04:30,269 - INFO - このレコードは存在します
+2025-10-27 23:04:30,269 - INFO - 画像URLを取得しました
+2025-10-27 23:04:30,270 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA3OTk1NjEwMjEzNw==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 23:04:30,270 - INFO - このレコードは存在します
+2025-10-27 23:04:30,270 - INFO - 画像URLを取得しました
+2025-10-27 23:04:30,272 - INFO - DUP(with-key): user=arcana_amusement_bar, key=Mzc1MjMyNTA4MDA4MTkzMTMwMw==, dt=2025-10-27T09:30:08.000Z
+2025-10-27 23:04:30,272 - INFO - このレコードは存在します
+2025-10-27 23:04:30,272 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL0 / 既存スキップ3 / 失敗0
+2025-10-27 23:04:30,272 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-27 23:04:30,272 - INFO - 全件レコードが存在します

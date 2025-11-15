@@ -1,0 +1,89 @@
+================================================================================
+2025-10-26 03:30:58,192 - INFO - 処理開始 PROCESSID:20251026_033054
+2025-10-26 03:30:58,193 - INFO - 対象ユーザー: harebare0819
+2025-10-26 03:30:58,193 - INFO - 処理を開始します
+2025-10-26 03:30:58,286 - INFO - 選択されたプロファイル: Profile 10
+2025-10-26 03:30:58,286 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-26 03:31:03,954 - INFO - harebare0819 のプロフィールページにアクセスします
+2025-10-26 03:31:26,450 - INFO - プロフィール写真のクリックに成功しました
+2025-10-26 03:31:27,616 - INFO - harebare0819: 動画を検出しました
+2025-10-26 03:31:27,616 - INFO - datetime属性の抽出を開始します
+2025-10-26 03:31:28,191 - INFO - 抽出されたdatetime: 2025-10-25T09:24:39.000Z
+2025-10-26 03:31:28,191 - INFO - harebare0819 の投稿日時: 2025-10-25T09:24:39.000Z
+2025-10-26 03:31:30,022 - INFO - 生成URL:https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m86/AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=E2dRiGkPgMgQ7kNvwHJ79cs&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTIwMzQ0MTA3NDg2MDUyOCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=MV8tr5cyykRTtf3Le0dJnw&_nc_zt=28&oh=00_AfcEE-Od2geu2j28nyRHKmskDcN-cVgxOHWqmkdvN18x3g&oe=68FF77E8&bytestart=0&byteend=301472
+2025-10-26 03:31:30,023 - INFO - 動画URLを取得しました
+2025-10-26 03:31:30,029 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=harebare0819, key=AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po, dt=2025-10-25T09:24:39.000Z, url=https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m86/AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=E2dRiGkPgMgQ7kNvwHJ79cs&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTIwMzQ0MTA3NDg2MDUyOCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=MV8tr5cyykRTtf3Le0dJnw&_nc_zt=28&oh=00_AfcEE-Od2geu2j28nyRHKmskDcN-cVgxOHWqmkdvN18x3g&oe=68FF77E8&bytestart=0&byteend=301472, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('harebare0819', 'AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po', 'https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m86/AQMZb5EROnWKdyztNEiVotxolicP4qkkADj_IRXjSw3x63D_y4_M0ItTym2kai6peFUkEiCc9UcbCBLsbpn7KndbZXohJUodtK9H3Po.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=E2dRiGkPgMgQ7kNvwHJ79cs&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTIwMzQ0MTA3NDg2MDUyOCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=MV8tr5cyykRTtf3Le0dJnw&_nc_zt=28&oh=00_AfcEE-Od2geu2j28nyRHKmskDcN-cVgxOHWqmkdvN18x3g&oe=68FF77E8&bytestart=0&byteend=301472', '2025-10-25T09:24:39.000Z')
+================================================================================
+2025-10-26 10:00:38,510 - INFO - 処理開始 PROCESSID:20251026_100035
+2025-10-26 10:00:38,510 - INFO - 対象ユーザー: harebare0819
+2025-10-26 10:00:38,512 - INFO - 処理を開始します
+2025-10-26 10:00:38,579 - INFO - 選択されたプロファイル: Profile 13
+2025-10-26 10:00:38,580 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-26 10:00:45,218 - INFO - harebare0819 のプロフィールページにアクセスします
+2025-10-26 10:01:07,901 - INFO - プロフィール写真のクリックに成功しました
+2025-10-26 10:01:11,675 - INFO - 動画の取得に失敗しました
+2025-10-26 10:01:11,679 - INFO - datetime属性の抽出を開始します
+2025-10-26 10:01:22,069 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x121fe43+66515]
+	GetHandleVerifier [0x0x121fe84+66580]
+	(No symbol) [0x0x100dc48]
+	(No symbol) [0x0x1058704]
+	(No symbol) [0x0x1058aab]
+	(No symbol) [0x0x109f482]
+	(No symbol) [0x0x107b214]
+	(No symbol) [0x0x109cba7]
+	(No symbol) [0x0x107afc6]
+	(No symbol) [0x0x104c2ca]
+	(No symbol) [0x0x104d154]
+	GetHandleVerifier [0x0x1477353+2521315]
+	GetHandleVerifier [0x0x14722d3+2500707]
+	GetHandleVerifier [0x0x1247c94+229924]
+	GetHandleVerifier [0x0x12381f8+165768]
+	GetHandleVerifier [0x0x123ecad+193085]
+	GetHandleVerifier [0x0x1228158+100072]
+	GetHandleVerifier [0x0x12282f0+100480]
+	GetHandleVerifier [0x0x12125aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-26 10:01:32,463 - INFO - 画像の取得に失敗しました
+2025-10-26 10:01:34,846 - INFO - 処理終了
+================================================================================
+2025-10-26 16:11:54,249 - INFO - 処理開始 PROCESSID:20251026_161150
+2025-10-26 16:11:54,249 - INFO - 対象ユーザー: harebare0819
+2025-10-26 16:11:54,249 - INFO - 処理を開始します
+2025-10-26 16:11:54,309 - INFO - 選択されたプロファイル: Profile 9
+2025-10-26 16:11:54,309 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-26 16:11:58,770 - INFO - harebare0819 のプロフィールページにアクセスします
+2025-10-26 16:12:21,468 - INFO - プロフィール写真のクリックに成功しました
+2025-10-26 16:12:24,959 - INFO - 動画の取得に失敗しました
+2025-10-26 16:12:24,961 - INFO - datetime属性の抽出を開始します
+2025-10-26 16:12:35,473 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x121fe43+66515]
+	GetHandleVerifier [0x0x121fe84+66580]
+	(No symbol) [0x0x100dc48]
+	(No symbol) [0x0x1058704]
+	(No symbol) [0x0x1058aab]
+	(No symbol) [0x0x109f482]
+	(No symbol) [0x0x107b214]
+	(No symbol) [0x0x109cba7]
+	(No symbol) [0x0x107afc6]
+	(No symbol) [0x0x104c2ca]
+	(No symbol) [0x0x104d154]
+	GetHandleVerifier [0x0x1477353+2521315]
+	GetHandleVerifier [0x0x14722d3+2500707]
+	GetHandleVerifier [0x0x1247c94+229924]
+	GetHandleVerifier [0x0x12381f8+165768]
+	GetHandleVerifier [0x0x123ecad+193085]
+	GetHandleVerifier [0x0x1228158+100072]
+	GetHandleVerifier [0x0x12282f0+100480]
+	GetHandleVerifier [0x0x12125aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-26 16:12:45,738 - INFO - 画像の取得に失敗しました
+2025-10-26 16:12:48,134 - INFO - 処理終了

@@ -1,0 +1,158 @@
+================================================================================
+2025-10-14 05:01:00,223 - INFO - 処理開始 PROCESSID:20251014_050053
+2025-10-14 05:01:00,225 - INFO - 対象ユーザー: wagaya4_21_6
+2025-10-14 05:01:00,225 - INFO - 処理を開始します
+2025-10-14 05:01:00,369 - INFO - 選択されたプロファイル: Profile 13
+2025-10-14 05:01:00,369 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-14 05:01:16,367 - INFO - wagaya4_21_6 のプロフィールページにアクセスします
+2025-10-14 05:01:36,168 - INFO - 最新投稿を読み込みます
+2025-10-14 05:01:41,696 - INFO - 選定: 非ピン留め https://www.instagram.com/wagaya4_21_6/p/DPxWDXuE5vT/?hl=ja
+2025-10-14 05:01:45,635 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 05:01:50,175 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 05:01:50,302 - INFO - datetime属性の抽出を開始します
+2025-10-14 05:01:50,364 - INFO - 抽出されたdatetime: 2025-10-14T01:21:07.000Z
+2025-10-14 05:01:50,365 - INFO - wagaya4_21_6 の投稿日時: 2025-10-14T01:21:07.000Z
+2025-10-14 05:01:50,391 - INFO - date:2025-10-14 10:21:07+09:00
+2025-10-14 05:01:50,391 - INFO - post_date:20251014
+2025-10-14 05:01:50,472 - INFO - カルーセル推定: 1枚
+2025-10-14 05:01:50,560 - INFO - 検出(SINGLE): https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/562446783_17865892230470364_7465229853787098736_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0Mjg2OTc1Mzk3MjM2NjI5MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY2MHgzNzAuc2RyLkMzIn0%3D&_nc_ohc=EvvbrFBXDWIQ7kNvwEciiXW&_nc_oc=AdnH3ueK-5PBm2hAQTa9IYEBty-YcB-_e30wXV89t-YkScv0mCMbvwtp-PxRjLIlHW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=NWm6v81JvUllaWgTujI3yg&oh=00_AfdytnayzKHhfpf0NGJ1by532VthQMRSssEZdq-d18cloQ&oe=68F39A73
+2025-10-14 05:01:50,561 - INFO - 1枚目: https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/562446783_17865892230470364_7465229853787098736_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0Mjg2OTc1Mzk3MjM2NjI5MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY2MHgzNzAuc2RyLkMzIn0%3D&_nc_ohc=EvvbrFBXDWIQ7kNvwEciiXW&_nc_oc=AdnH3ueK-5PBm2hAQTa9IYEBty-YcB-_e30wXV89t-YkScv0mCMbvwtp-PxRjLIlHW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=NWm6v81JvUllaWgTujI3yg&oh=00_AfdytnayzKHhfpf0NGJ1by532VthQMRSssEZdq-d18cloQ&oe=68F39A73
+2025-10-14 05:01:50,561 - INFO - [caption/by_username] 開始
+2025-10-14 05:01:50,738 - INFO - [caption/by_username] 説明文確定（先頭100）: '錦糸町で本格韓国料理を味わうなら韓国料理我が家へようこそ。まるで韓国の家庭にお邪魔したかのような温かい雰囲気の中で、心も体も満たされる本場の味をお楽しみいただけます。
+
+当店自慢のキムチチゲは、発酵の'
+2025-10-14 05:01:50,740 - INFO - [caption/by_username] 説明文を保存: media\wagaya4_21_6\description\20251014_050053
+2025-10-14 05:01:50,741 - INFO - 画像URLを取得しました
+2025-10-14 05:01:50,794 - INFO - INSERT(with-key): user=wagaya4_21_6, key=Mzc0Mjg2OTc1Mzk3MjM2NjI5MQ==, dt=2025-10-14T01:21:07.000Z
+2025-10-14 05:01:50,794 - INFO - メディアを取得します
+2025-10-14 05:01:52,796 - INFO - ダウンロードを開始します: media\wagaya4_21_6\wagaya4_21_6_20251014050152.jpg
+2025-10-14 05:01:53,135 - INFO - ダウンロード完了: media\wagaya4_21_6\wagaya4_21_6_20251014050152.jpg
+2025-10-14 05:01:53,195 - INFO - 元の画像サイズ: 660x370
+2025-10-14 05:01:53,195 - INFO - サイズ変更は不要です
+2025-10-14 05:01:53,196 - INFO - 説明文:錦糸町で本格韓国料理を味わうなら韓国料理我が家へようこそ。まるで韓国の家庭にお邪魔したかのような温かい雰囲気の中で、心も体も満たされる本場の味をお楽しみいただけます。
+
+当店自慢のキムチチゲは、発酵の深い旨味と程よい辛さが絶妙なバランスで、一口食べれば韓国の家庭の味が口いっぱいに広がります。サムギョプサルは厚切りの豚バラ肉をじっくりと焼き上げ、特製のタレとサンチュで包んでお召し上がりください。チーズタッカルビも大人気で、とろけるチーズと甘辛いタレが絡んだ鶏肉は一度食べたら忘れられない美味しさです。
+
+ランチタイムには石焼ビビンバやユッケジャンスープなど、ボリューム満点のご飯ものもご用意しております。夜は居酒屋として、韓国焼酎やマッコリと一緒に各種チヂミやナムル、ホルモン焼きなどをお楽しみいただけます。
+
+錦糸町駅からアクセス良好な立地で、お一人様からグループまで幅広くご利用いただけるアットホームな空間です。本場韓国の家庭料理を心ゆくまでご堪能ください。
+
+-----------韓国料理 我が家(わがや) 錦糸町-----------
+
+営業時間
+
+ランチ
+OPEN 11:30 CLOSE 15:00
+
+ディナー
+OPEN 17:00 CLOSE 23:00
+
+食べログ⤵
+https://tabelog.com/tokyo/A1312/A131201/13028169/
+
+Instagram⤵
+https://www.instagram.com/wagaya4_21_6/
+
+〒130-0022
+東京都墨田区江東橋４丁目２１−６ 錦糸町ハイタウン 1F
+最寄り駅:錦糸町駅
+定休日:なし
+⁡
+--------------------------------
+#韓国料理我が家錦糸町 #錦糸町ランチ #錦糸町居酒屋 #錦糸町韓国料理 #錦糸町ご飯 #錦糸町ディナー #錦糸町飲み屋 #錦糸町夜ご飯 #錦糸町昼飲み #錦糸町駅ランチ #錦糸町駅 #錦糸町飲食店 #錦糸町レストラン #錦糸町焼肉 #錦糸町サムギョプサル #錦糸町錦糸町居酒屋おすすめ #錦糸町デート #錦糸町宴会 #錦糸町駅ディナー #錦糸町女子会 #錦糸町 #錦糸町一人飲み #錦糸町居酒屋 #韓国料理好きな人と繋がりたい #韓国料理 #錦糸町飲み会 #錦糸町グルメ #錦糸町駅グルメ #錦糸町飲み #錦糸町駅ご飯
+2025-10-14 05:01:57,075 - INFO - 処理終了
+================================================================================
+2025-10-14 05:02:03,275 - INFO - 処理開始: Mode=post, Username=wagaya4_21_6, GBP=11861244852215407014
+2025-10-14 05:02:03,275 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMTg2MTI0NDg1MjIxNTQwNzAxNCJd.
+2025-10-14 05:02:28,587 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\wagaya4_21_6\wagaya4_21_6_20251014050152.jpg
+2025-10-14 05:02:31,696 - INFO - Waiting for description field...
+2025-10-14 05:02:31,731 - INFO - Setting description via JS (no send_keys)...
+2025-10-14 05:02:32,898 - INFO - Looking for button section...
+2025-10-14 05:02:37,559 - INFO - Trying to select CALL option...
+2025-10-14 05:02:38,051 - INFO - CALL option successfully selected
+2025-10-14 05:02:40,053 - INFO - Clicking submit button...
+2025-10-14 05:02:51,618 - INFO - 処理完了
+================================================================================
+2025-10-14 10:28:27,088 - INFO - 処理開始 PROCESSID:20251014_102819
+2025-10-14 10:28:27,088 - INFO - 対象ユーザー: wagaya4_21_6
+2025-10-14 10:28:27,088 - INFO - 処理を開始します
+2025-10-14 10:28:27,205 - INFO - 選択されたプロファイル: Profile 12
+2025-10-14 10:28:27,205 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-14 10:28:33,744 - INFO - wagaya4_21_6 のプロフィールページにアクセスします
+2025-10-14 10:28:45,877 - INFO - 最新投稿を読み込みます
+2025-10-14 10:28:51,427 - INFO - 選定: 非ピン留め https://www.instagram.com/wagaya4_21_6/p/DPxWDXuE5vT/?hl=ja
+2025-10-14 10:28:56,239 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 10:29:00,700 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 10:29:00,793 - INFO - datetime属性の抽出を開始します
+2025-10-14 10:29:00,828 - INFO - 抽出されたdatetime: 2025-10-14T01:21:07.000Z
+2025-10-14 10:29:00,828 - INFO - wagaya4_21_6 の投稿日時: 2025-10-14T01:21:07.000Z
+2025-10-14 10:29:00,836 - INFO - date:2025-10-14 10:21:07+09:00
+2025-10-14 10:29:00,836 - INFO - post_date:20251014
+2025-10-14 10:29:00,897 - INFO - カルーセル推定: 1枚
+2025-10-14 10:29:00,939 - INFO - 検出(SINGLE): https://scontent-hkg4-1.cdninstagram.com/v/t51.82787-15/562446783_17865892230470364_7465229853787098736_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0Mjg2OTc1Mzk3MjM2NjI5MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY2MHgzNzAuc2RyLkMyIn0%3D&_nc_ohc=EvvbrFBXDWIQ7kNvwEciiXW&_nc_oc=AdnH3ueK-5PBm2hAQTa9IYEBty-YcB-_e30wXV89t-YkScv0mCMbvwtp-PxRjLIlHW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_gid=91bAZj6cG1OBKYWaJtI1tA&oh=00_AfcP3S-oL_1bq-wWor2WXTNO0LzF4Bpj8Ld8Ce4_0Qx7KQ&oe=68F40AF3
+2025-10-14 10:29:00,939 - INFO - 1枚目: https://scontent-hkg4-1.cdninstagram.com/v/t51.82787-15/562446783_17865892230470364_7465229853787098736_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0Mjg2OTc1Mzk3MjM2NjI5MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY2MHgzNzAuc2RyLkMyIn0%3D&_nc_ohc=EvvbrFBXDWIQ7kNvwEciiXW&_nc_oc=AdnH3ueK-5PBm2hAQTa9IYEBty-YcB-_e30wXV89t-YkScv0mCMbvwtp-PxRjLIlHW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_gid=91bAZj6cG1OBKYWaJtI1tA&oh=00_AfcP3S-oL_1bq-wWor2WXTNO0LzF4Bpj8Ld8Ce4_0Qx7KQ&oe=68F40AF3
+2025-10-14 10:29:00,939 - INFO - [caption/by_username] 開始
+2025-10-14 10:29:01,492 - INFO - [caption/by_username] 説明文確定（先頭100）: '錦糸町で本格韓国料理を味わうなら韓国料理我が家へようこそ。まるで韓国の家庭にお邪魔したかのような温かい雰囲気の中で、心も体も満たされる本場の味をお楽しみいただけます。
+
+当店自慢のキムチチゲは、発酵の'
+2025-10-14 10:29:01,494 - INFO - [caption/by_username] 説明文を保存: media\wagaya4_21_6\description\20251014_102819
+2025-10-14 10:29:01,494 - INFO - 画像URLを取得しました
+2025-10-14 10:29:01,496 - INFO - DUP(with-key): user=wagaya4_21_6, key=Mzc0Mjg2OTc1Mzk3MjM2NjI5MQ==, dt=2025-10-14T01:21:07.000Z
+2025-10-14 10:29:01,496 - INFO - このレコードは存在します
+2025-10-14 10:29:01,496 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-14 16:21:15,486 - INFO - 処理開始 PROCESSID:20251014_162112
+2025-10-14 16:21:15,486 - INFO - 対象ユーザー: wagaya4_21_6
+2025-10-14 16:21:15,486 - INFO - 処理を開始します
+2025-10-14 16:21:15,546 - INFO - 選択されたプロファイル: Profile 10
+2025-10-14 16:21:15,546 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-14 16:21:20,289 - INFO - wagaya4_21_6 のプロフィールページにアクセスします
+2025-10-14 16:21:31,951 - INFO - 最新投稿を読み込みます
+2025-10-14 16:21:37,513 - INFO - 選定: 非ピン留め https://www.instagram.com/wagaya4_21_6/p/DPxWDXuE5vT/?hl=ja
+2025-10-14 16:21:40,734 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 16:21:43,359 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 16:21:43,575 - INFO - datetime属性の抽出を開始します
+2025-10-14 16:21:43,646 - INFO - 抽出されたdatetime: 2025-10-14T01:21:07.000Z
+2025-10-14 16:21:43,647 - INFO - wagaya4_21_6 の投稿日時: 2025-10-14T01:21:07.000Z
+2025-10-14 16:21:43,656 - INFO - date:2025-10-14 10:21:07+09:00
+2025-10-14 16:21:43,656 - INFO - post_date:20251014
+2025-10-14 16:21:43,768 - INFO - カルーセル推定: 1枚
+2025-10-14 16:21:43,820 - INFO - 検出(SINGLE): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/562446783_17865892230470364_7465229853787098736_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0Mjg2OTc1Mzk3MjM2NjI5MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY2MHgzNzAuc2RyLkMzIn0%3D&_nc_ohc=EvvbrFBXDWIQ7kNvwEciiXW&_nc_oc=AdnH3ueK-5PBm2hAQTa9IYEBty-YcB-_e30wXV89t-YkScv0mCMbvwtp-PxRjLIlHW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=QgJEURaWPa74efUIc-05eQ&oh=00_Affnx5AXqqpILGU4erXiPB57pxwWmDtsZvTH0MsDNJDMvg&oe=68F44333
+2025-10-14 16:21:43,820 - INFO - 1枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/562446783_17865892230470364_7465229853787098736_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0Mjg2OTc1Mzk3MjM2NjI5MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY2MHgzNzAuc2RyLkMzIn0%3D&_nc_ohc=EvvbrFBXDWIQ7kNvwEciiXW&_nc_oc=AdnH3ueK-5PBm2hAQTa9IYEBty-YcB-_e30wXV89t-YkScv0mCMbvwtp-PxRjLIlHW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=QgJEURaWPa74efUIc-05eQ&oh=00_Affnx5AXqqpILGU4erXiPB57pxwWmDtsZvTH0MsDNJDMvg&oe=68F44333
+2025-10-14 16:21:43,820 - INFO - [caption/by_username] 開始
+2025-10-14 16:21:43,917 - INFO - [caption/by_username] 説明文確定（先頭100）: '錦糸町で本格韓国料理を味わうなら韓国料理我が家へようこそ。まるで韓国の家庭にお邪魔したかのような温かい雰囲気の中で、心も体も満たされる本場の味をお楽しみいただけます。
+
+当店自慢のキムチチゲは、発酵の'
+2025-10-14 16:21:43,919 - INFO - [caption/by_username] 説明文を保存: media\wagaya4_21_6\description\20251014_162112
+2025-10-14 16:21:43,921 - INFO - 画像URLを取得しました
+2025-10-14 16:21:43,927 - INFO - DUP(with-key): user=wagaya4_21_6, key=Mzc0Mjg2OTc1Mzk3MjM2NjI5MQ==, dt=2025-10-14T01:21:07.000Z
+2025-10-14 16:21:43,927 - INFO - このレコードは存在します
+2025-10-14 16:21:43,927 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-14 20:12:30,336 - INFO - 処理開始 PROCESSID:20251014_201227
+2025-10-14 20:12:30,336 - INFO - 対象ユーザー: wagaya4_21_6
+2025-10-14 20:12:30,336 - INFO - 処理を開始します
+2025-10-14 20:12:30,397 - INFO - 選択されたプロファイル: Profile 10
+2025-10-14 20:12:30,399 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-14 20:12:35,046 - INFO - wagaya4_21_6 のプロフィールページにアクセスします
+2025-10-14 20:12:46,805 - INFO - 最新投稿を読み込みます
+2025-10-14 20:12:52,314 - INFO - 選定: 非ピン留め https://www.instagram.com/wagaya4_21_6/p/DPxWDXuE5vT/?hl=ja
+2025-10-14 20:12:57,680 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 20:13:02,481 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 20:13:02,504 - INFO - datetime属性の抽出を開始します
+2025-10-14 20:13:02,543 - INFO - 抽出されたdatetime: 2025-10-14T01:21:07.000Z
+2025-10-14 20:13:02,543 - INFO - wagaya4_21_6 の投稿日時: 2025-10-14T01:21:07.000Z
+2025-10-14 20:13:02,551 - INFO - date:2025-10-14 10:21:07+09:00
+2025-10-14 20:13:02,552 - INFO - post_date:20251014
+2025-10-14 20:13:02,594 - INFO - カルーセル推定: 1枚
+2025-10-14 20:13:02,696 - INFO - 検出(SINGLE): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/562446783_17865892230470364_7465229853787098736_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0Mjg2OTc1Mzk3MjM2NjI5MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY2MHgzNzAuc2RyLkMzIn0%3D&_nc_ohc=EvvbrFBXDWIQ7kNvwEciiXW&_nc_oc=AdnH3ueK-5PBm2hAQTa9IYEBty-YcB-_e30wXV89t-YkScv0mCMbvwtp-PxRjLIlHW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=tcDrTOWOvyceGOOxe8iZTg&oh=00_Affc0KuxubfPFKc2vLgzwN0Y9p0CfxUXyMSq1c1R6rN_mg&oe=68F47B73
+2025-10-14 20:13:02,696 - INFO - 1枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/562446783_17865892230470364_7465229853787098736_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzc0Mjg2OTc1Mzk3MjM2NjI5MQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY2MHgzNzAuc2RyLkMzIn0%3D&_nc_ohc=EvvbrFBXDWIQ7kNvwEciiXW&_nc_oc=AdnH3ueK-5PBm2hAQTa9IYEBty-YcB-_e30wXV89t-YkScv0mCMbvwtp-PxRjLIlHW0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=tcDrTOWOvyceGOOxe8iZTg&oh=00_Affc0KuxubfPFKc2vLgzwN0Y9p0CfxUXyMSq1c1R6rN_mg&oe=68F47B73
+2025-10-14 20:13:02,697 - INFO - [caption/by_username] 開始
+2025-10-14 20:13:02,809 - INFO - [caption/by_username] 説明文確定（先頭100）: '錦糸町で本格韓国料理を味わうなら韓国料理我が家へようこそ。まるで韓国の家庭にお邪魔したかのような温かい雰囲気の中で、心も体も満たされる本場の味をお楽しみいただけます。
+
+当店自慢のキムチチゲは、発酵の'
+2025-10-14 20:13:02,811 - INFO - [caption/by_username] 説明文を保存: media\wagaya4_21_6\description\20251014_201227
+2025-10-14 20:13:02,811 - INFO - 画像URLを取得しました
+2025-10-14 20:13:02,813 - INFO - DUP(with-key): user=wagaya4_21_6, key=Mzc0Mjg2OTc1Mzk3MjM2NjI5MQ==, dt=2025-10-14T01:21:07.000Z
+2025-10-14 20:13:02,813 - INFO - このレコードは存在します
+2025-10-14 20:13:02,814 - INFO - 全件レコードが存在します

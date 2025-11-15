@@ -1,0 +1,202 @@
+================================================================================
+2025-10-01 02:29:06,301 - INFO - 処理開始 PROCESSID:20251001_022902
+2025-10-01 02:29:06,301 - INFO - 対象ユーザー: popular_zenkunen
+2025-10-01 02:29:06,303 - INFO - 処理を開始します
+2025-10-01 02:29:06,363 - INFO - 選択されたプロファイル: Profile 9
+2025-10-01 02:29:06,363 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-01 02:29:12,436 - INFO - popular_zenkunen のプロフィールページにアクセスします
+2025-10-01 02:29:25,337 - INFO - 最新投稿を読み込みます
+2025-10-01 02:29:30,696 - INFO - 候補はピン留め: https://www.instagram.com/popular_zenkunen/p/DPP_OGGEcXO/?hl=ja → 日付確認
+2025-10-01 02:29:33,491 - INFO - ピン留めだが3日以内 → 採用
+2025-10-01 02:29:38,103 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 02:29:41,844 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 02:29:42,001 - INFO - datetime属性の抽出を開始します
+2025-10-01 02:29:42,105 - INFO - 抽出されたdatetime: 2025-10-01T02:26:40.000Z
+2025-10-01 02:29:42,105 - INFO - popular_zenkunen の投稿日時: 2025-10-01T02:26:40.000Z
+2025-10-01 02:29:42,118 - INFO - date:2025-10-01 11:26:40+09:00
+2025-10-01 02:29:42,118 - INFO - post_date:20251001
+2025-10-01 02:29:42,167 - INFO - カルーセル推定: 1枚
+2025-10-01 02:29:42,287 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/557414902_18423400972106400_3492855970849484643_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4MTkyMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFjC4OY7Xqa9WLQxmHur72W5_kVZdDLsGbuyafI5P9R6AgWG8Dmjl136Ni11jTheqU&_nc_ohc=ua_R_slsvssQ7kNvwHCylWg&_nc_gid=OqhXvV8T6ApD7502XiPUnQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzQ4MDY2MTY2MDU4MzM3NA%3D%3D.3-ccb7-5&oh=00_Afb0AjHSnldpLAVLAL-K4zDk0WN67vRYykUzuSLT9hqN4w&oe=68E25065&_nc_sid=10d13b
+2025-10-01 02:29:42,287 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/557414902_18423400972106400_3492855970849484643_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4MTkyMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QFjC4OY7Xqa9WLQxmHur72W5_kVZdDLsGbuyafI5P9R6AgWG8Dmjl136Ni11jTheqU&_nc_ohc=ua_R_slsvssQ7kNvwHCylWg&_nc_gid=OqhXvV8T6ApD7502XiPUnQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzQ4MDY2MTY2MDU4MzM3NA%3D%3D.3-ccb7-5&oh=00_Afb0AjHSnldpLAVLAL-K4zDk0WN67vRYykUzuSLT9hqN4w&oe=68E25065&_nc_sid=10d13b
+2025-10-01 02:29:42,287 - INFO - [caption/by_username] 開始
+2025-10-01 02:29:43,000 - INFO - [caption/by_username] 説明文確定（先頭100）: '10月の定休日は、
+10月6日、13日、19日午後、20日、21日、27日、28日になります。
+よろしくお願いします🙇
+
+Cut ‪✂︎ ¥4,800 
+men's cut✂︎¥3800
+Cut＆Co'
+2025-10-01 02:29:43,002 - INFO - [caption/by_username] 説明文を保存: media\popular_zenkunen\description\20251001_022902
+2025-10-01 02:29:43,002 - INFO - 画像URLを取得しました
+2025-10-01 02:29:43,060 - INFO - INSERT(with-key): user=popular_zenkunen, key=MzczMzQ4MDY2MTY2MDU4MzM3NA==, dt=2025-10-01T02:26:40.000Z
+2025-10-01 02:29:43,061 - INFO - メディアを取得します
+2025-10-01 02:29:45,062 - INFO - ダウンロードを開始します: media\popular_zenkunen\popular_zenkunen_20251001022945.jpg
+2025-10-01 02:29:46,724 - INFO - ダウンロード完了: media\popular_zenkunen\popular_zenkunen_20251001022945.jpg
+2025-10-01 02:29:46,820 - INFO - 元の画像サイズ: 1440x1920
+2025-10-01 02:29:46,820 - INFO - サイズ変更は不要です
+2025-10-01 02:29:46,822 - INFO - 説明文:10月の定休日は、
+10月6日、13日、19日午後、20日、21日、27日、28日になります。
+よろしくお願いします🙇
+
+Cut ‪✂︎ ¥4,800 
+men's cut✂︎¥3800
+Cut＆Color ‪✂︎‬ ¥8200~
+Cut＆Perm ‪✂︎‬ ¥8500~
+ShavingEste ‪✂︎‬ ¥5,800～…etc.
+※店舗により料金が異なります。
+.
+岩手県盛岡市前九年2-12-6
+☏019-647-4828
+.
+各店舗のInstagramからご予約可能です！
+
+#ヘアスタイル#hairstyle#Instahair#hairstagram
+#メンズカット#ツイストパーマ #スパイラルパーマ#波巻きパーマ
+#ヘアカラー#イルミナカラー#ダブルカラー#フェード#髪質改善 #ストレート
+#グラデーションカラー#バレイヤージュ#インナーカラー #縮毛矯正
+#ヘアモデル#ポプラルみたけ店#ポプラル前九年
+#盛岡エステサロン#盛岡メンズカット#前九年#美容院
+2025-10-01 02:29:49,255 - INFO - 処理終了
+================================================================================
+2025-10-01 02:29:55,340 - INFO - 処理開始: Mode=post, Username=popular_zenkunen, GBP=S484
+2025-10-01 02:29:55,340 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJTNDg0Il0.
+2025-10-01 02:30:18,874 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\popular_zenkunen\popular_zenkunen_20251001022945.jpg
+2025-10-01 02:30:22,027 - INFO - Waiting for description field...
+2025-10-01 02:30:22,072 - INFO - Setting description via JS (no send_keys)...
+2025-10-01 02:30:23,235 - INFO - Looking for button section...
+2025-10-01 02:30:27,787 - INFO - Trying to select CALL option...
+2025-10-01 02:30:28,025 - INFO - CALL option successfully selected
+2025-10-01 02:30:30,026 - INFO - Clicking submit button...
+2025-10-01 02:30:38,718 - INFO - 処理完了
+================================================================================
+2025-10-01 06:44:29,823 - INFO - 処理開始 PROCESSID:20251001_064426
+2025-10-01 06:44:29,823 - INFO - 対象ユーザー: popular_zenkunen
+2025-10-01 06:44:29,823 - INFO - 処理を開始します
+2025-10-01 06:44:29,884 - INFO - 選択されたプロファイル: Profile 12
+2025-10-01 06:44:29,884 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-01 06:44:34,595 - INFO - popular_zenkunen のプロフィールページにアクセスします
+2025-10-01 06:44:48,402 - INFO - 最新投稿を読み込みます
+2025-10-01 06:44:54,083 - INFO - 候補はピン留め: https://www.instagram.com/popular_zenkunen/p/DPP_OGGEcXO/?hl=ja → 日付確認
+2025-10-01 06:44:58,987 - INFO - ピン留めだが3日以内 → 採用
+2025-10-01 06:45:03,626 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 06:45:08,133 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 06:45:08,580 - INFO - datetime属性の抽出を開始します
+2025-10-01 06:45:09,851 - INFO - 抽出されたdatetime: 2025-10-01T02:26:40.000Z
+2025-10-01 06:45:09,851 - INFO - popular_zenkunen の投稿日時: 2025-10-01T02:26:40.000Z
+2025-10-01 06:45:17,850 - INFO - date:2025-10-01 11:26:40+09:00
+2025-10-01 06:45:17,850 - INFO - post_date:20251001
+2025-10-01 06:45:18,088 - INFO - カルーセル推定: 1枚
+2025-10-01 06:45:18,316 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/557414902_18423400972106400_3492855970849484643_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4MTkyMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QHFBLQl4bYE8RGSN-pg50GK3A3fWRP6OHM7eaX7iXCNE-zFn_ATZ7lNeuPYKfvYC6g&_nc_ohc=ua_R_slsvssQ7kNvwHCylWg&_nc_gid=0cgG0dZFixvuQqFN3Xbf_g&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzQ4MDY2MTY2MDU4MzM3NA%3D%3D.3-ccb7-5&oh=00_Afb2TA99gb-uBJK3FuDuKUjFHhEY8Bzn4HUQpdzu42rYlg&oe=68E288A5&_nc_sid=10d13b
+2025-10-01 06:45:18,316 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/557414902_18423400972106400_3492855970849484643_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4MTkyMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QHFBLQl4bYE8RGSN-pg50GK3A3fWRP6OHM7eaX7iXCNE-zFn_ATZ7lNeuPYKfvYC6g&_nc_ohc=ua_R_slsvssQ7kNvwHCylWg&_nc_gid=0cgG0dZFixvuQqFN3Xbf_g&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzQ4MDY2MTY2MDU4MzM3NA%3D%3D.3-ccb7-5&oh=00_Afb2TA99gb-uBJK3FuDuKUjFHhEY8Bzn4HUQpdzu42rYlg&oe=68E288A5&_nc_sid=10d13b
+2025-10-01 06:45:18,316 - INFO - [caption/by_username] 開始
+2025-10-01 06:45:18,786 - INFO - [caption/by_username] 説明文確定（先頭100）: '10月の定休日は、
+10月6日、13日、19日午後、20日、21日、27日、28日になります。
+よろしくお願いします🙇
+
+Cut ‪✂︎ ¥4,800 
+men's cut✂︎¥3800
+Cut＆Co'
+2025-10-01 06:45:18,795 - INFO - [caption/by_username] 説明文を保存: media\popular_zenkunen\description\20251001_064426
+2025-10-01 06:45:18,795 - INFO - 画像URLを取得しました
+2025-10-01 06:45:18,807 - INFO - DUP(with-key): user=popular_zenkunen, key=MzczMzQ4MDY2MTY2MDU4MzM3NA==, dt=2025-10-01T02:26:40.000Z
+2025-10-01 06:45:18,808 - INFO - このレコードは存在します
+2025-10-01 06:45:18,808 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-01 11:07:34,136 - INFO - 処理開始 PROCESSID:20251001_110730
+2025-10-01 11:07:34,136 - INFO - 対象ユーザー: popular_zenkunen
+2025-10-01 11:07:34,136 - INFO - 処理を開始します
+2025-10-01 11:07:34,195 - INFO - 選択されたプロファイル: Profile 10
+2025-10-01 11:07:34,195 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-01 11:07:39,663 - INFO - popular_zenkunen のプロフィールページにアクセスします
+2025-10-01 11:07:51,987 - INFO - 最新投稿を読み込みます
+2025-10-01 11:07:57,283 - INFO - 候補はピン留め: https://www.instagram.com/popular_zenkunen/p/DPP_OGGEcXO/?hl=ja → 日付確認
+2025-10-01 11:08:01,870 - INFO - ピン留めだが3日以内 → 採用
+2025-10-01 11:08:06,746 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 11:08:12,835 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 11:08:19,643 - INFO - datetime属性の抽出を開始します
+2025-10-01 11:08:19,801 - INFO - 抽出されたdatetime: 2025-10-01T02:26:40.000Z
+2025-10-01 11:08:19,801 - INFO - popular_zenkunen の投稿日時: 2025-10-01T02:26:40.000Z
+2025-10-01 11:08:19,879 - INFO - date:2025-10-01 11:26:40+09:00
+2025-10-01 11:08:19,879 - INFO - post_date:20251001
+2025-10-01 11:08:20,268 - INFO - カルーセル推定: 1枚
+2025-10-01 11:08:20,547 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/557414902_18423400972106400_3492855970849484643_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4MTkyMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QEHHeVq_EbsDltePQKsqzLPrFsF7svdpC3au2cEhAuQCAuY4PUSPlxJ45qJ89io0-I&_nc_ohc=ua_R_slsvssQ7kNvwHCylWg&_nc_gid=yT5ziJy_bNLWTTYlEpU5Ng&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzQ4MDY2MTY2MDU4MzM3NA%3D%3D.3-ccb7-5&oh=00_AfYZ4bEaWpWm-hVw-w0Jat5U30ATMbuzk2ZOvp2RcZcz-Q&oe=68E2F925&_nc_sid=10d13b
+2025-10-01 11:08:20,547 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/557414902_18423400972106400_3492855970849484643_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4MTkyMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QEHHeVq_EbsDltePQKsqzLPrFsF7svdpC3au2cEhAuQCAuY4PUSPlxJ45qJ89io0-I&_nc_ohc=ua_R_slsvssQ7kNvwHCylWg&_nc_gid=yT5ziJy_bNLWTTYlEpU5Ng&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzQ4MDY2MTY2MDU4MzM3NA%3D%3D.3-ccb7-5&oh=00_AfYZ4bEaWpWm-hVw-w0Jat5U30ATMbuzk2ZOvp2RcZcz-Q&oe=68E2F925&_nc_sid=10d13b
+2025-10-01 11:08:20,547 - INFO - [caption/by_username] 開始
+2025-10-01 11:08:20,960 - INFO - [caption/by_username] 説明文確定（先頭100）: '10月の定休日は、
+10月6日、13日、19日午後、20日、21日、27日、28日になります。
+よろしくお願いします🙇
+
+Cut ‪✂︎ ¥4,800 
+men's cut✂︎¥3800
+Cut＆Co'
+2025-10-01 11:08:20,968 - INFO - [caption/by_username] 説明文を保存: media\popular_zenkunen\description\20251001_110730
+2025-10-01 11:08:20,968 - INFO - 画像URLを取得しました
+2025-10-01 11:08:20,977 - INFO - DUP(with-key): user=popular_zenkunen, key=MzczMzQ4MDY2MTY2MDU4MzM3NA==, dt=2025-10-01T02:26:40.000Z
+2025-10-01 11:08:20,977 - INFO - このレコードは存在します
+2025-10-01 11:08:20,978 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-01 17:04:16,241 - INFO - 処理開始 PROCESSID:20251001_170412
+2025-10-01 17:04:16,241 - INFO - 対象ユーザー: popular_zenkunen
+2025-10-01 17:04:16,241 - INFO - 処理を開始します
+2025-10-01 17:04:16,296 - INFO - 選択されたプロファイル: Profile 12
+2025-10-01 17:04:16,296 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-01 17:04:20,999 - INFO - popular_zenkunen のプロフィールページにアクセスします
+2025-10-01 17:04:33,321 - INFO - 最新投稿を読み込みます
+2025-10-01 17:04:38,713 - INFO - 候補はピン留め: https://www.instagram.com/popular_zenkunen/p/DPP_OGGEcXO/?hl=ja → 日付確認
+2025-10-01 17:04:41,695 - INFO - ピン留めだが3日以内 → 採用
+2025-10-01 17:04:47,325 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 17:04:52,057 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 17:04:52,087 - INFO - datetime属性の抽出を開始します
+2025-10-01 17:04:52,117 - INFO - 抽出されたdatetime: 2025-10-01T02:26:40.000Z
+2025-10-01 17:04:52,117 - INFO - popular_zenkunen の投稿日時: 2025-10-01T02:26:40.000Z
+2025-10-01 17:04:52,127 - INFO - date:2025-10-01 11:26:40+09:00
+2025-10-01 17:04:52,127 - INFO - post_date:20251001
+2025-10-01 17:04:52,172 - INFO - カルーセル推定: 1枚
+2025-10-01 17:04:52,214 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/557414902_18423400972106400_3492855970849484643_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4MTkyMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QGWzQCHH1HXRidgmhP0zRNpDQgBPiJkCUW30uwG4SxE3A0la1Q-xcJx-igjnQKPJ-8&_nc_ohc=ua_R_slsvssQ7kNvwHCylWg&_nc_gid=TFjN66MvPm48bOyBqxmL-w&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzQ4MDY2MTY2MDU4MzM3NA%3D%3D.3-ccb7-5&oh=00_AfZNFrSUh4SAiI9iu5c7vEaalBhcKOsghEIwcGRLcZ1v9A&oe=68E33165&_nc_sid=10d13b
+2025-10-01 17:04:52,214 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/557414902_18423400972106400_3492855970849484643_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4MTkyMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QGWzQCHH1HXRidgmhP0zRNpDQgBPiJkCUW30uwG4SxE3A0la1Q-xcJx-igjnQKPJ-8&_nc_ohc=ua_R_slsvssQ7kNvwHCylWg&_nc_gid=TFjN66MvPm48bOyBqxmL-w&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzQ4MDY2MTY2MDU4MzM3NA%3D%3D.3-ccb7-5&oh=00_AfZNFrSUh4SAiI9iu5c7vEaalBhcKOsghEIwcGRLcZ1v9A&oe=68E33165&_nc_sid=10d13b
+2025-10-01 17:04:52,214 - INFO - [caption/by_username] 開始
+2025-10-01 17:04:52,311 - INFO - [caption/by_username] 説明文確定（先頭100）: '10月の定休日は、
+10月6日、13日、19日午後、20日、21日、27日、28日になります。
+よろしくお願いします🙇
+
+Cut ‪✂︎ ¥4,800 
+men's cut✂︎¥3800
+Cut＆Co'
+2025-10-01 17:04:52,313 - INFO - [caption/by_username] 説明文を保存: media\popular_zenkunen\description\20251001_170412
+2025-10-01 17:04:52,313 - INFO - 画像URLを取得しました
+2025-10-01 17:04:52,316 - INFO - DUP(with-key): user=popular_zenkunen, key=MzczMzQ4MDY2MTY2MDU4MzM3NA==, dt=2025-10-01T02:26:40.000Z
+2025-10-01 17:04:52,316 - INFO - このレコードは存在します
+2025-10-01 17:04:52,316 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-01 20:57:30,131 - INFO - 処理開始 PROCESSID:20251001_205726
+2025-10-01 20:57:30,131 - INFO - 対象ユーザー: popular_zenkunen
+2025-10-01 20:57:30,131 - INFO - 処理を開始します
+2025-10-01 20:57:30,190 - INFO - 選択されたプロファイル: Profile 13
+2025-10-01 20:57:30,190 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-01 20:57:34,994 - INFO - popular_zenkunen のプロフィールページにアクセスします
+2025-10-01 20:57:47,161 - INFO - 最新投稿を読み込みます
+2025-10-01 20:57:52,708 - INFO - 候補はピン留め: https://www.instagram.com/popular_zenkunen/p/DPP_OGGEcXO/?hl=ja → 日付確認
+2025-10-01 20:57:55,684 - INFO - ピン留めだが3日以内 → 採用
+2025-10-01 20:58:01,117 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 20:58:04,630 - INFO - 最新投稿ページにアクセスしました
+2025-10-01 20:58:05,434 - INFO - datetime属性の抽出を開始します
+2025-10-01 20:58:05,489 - INFO - 抽出されたdatetime: 2025-10-01T02:26:40.000Z
+2025-10-01 20:58:05,489 - INFO - popular_zenkunen の投稿日時: 2025-10-01T02:26:40.000Z
+2025-10-01 20:58:05,520 - INFO - date:2025-10-01 11:26:40+09:00
+2025-10-01 20:58:05,520 - INFO - post_date:20251001
+2025-10-01 20:58:05,632 - INFO - カルーセル推定: 1枚
+2025-10-01 20:58:05,736 - INFO - 検出(SINGLE): https://scontent-atl3-1.cdninstagram.com/v/t51.2885-15/557414902_18423400972106400_3492855970849484643_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4MTkyMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QG_pTzjLyf4bFi5_ECXKDAgWAsqDjEpYbefrVkB8J6YxdIyyBR3pNZzw7b1UeL9meI&_nc_ohc=ua_R_slsvssQ7kNvwHCylWg&_nc_gid=RAZF4GjqIbHgbWmtWETqpg&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzQ4MDY2MTY2MDU4MzM3NA%3D%3D.3-ccb7-5&oh=00_AfaC_MK_i4vZBc36_3V8HYDfyh_Qg3wSe1a4VZ28VVOBWw&oe=68E369A5&_nc_sid=10d13b
+2025-10-01 20:58:05,737 - INFO - 1枚目: https://scontent-atl3-1.cdninstagram.com/v/t51.2885-15/557414902_18423400972106400_3492855970849484643_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4MTkyMC5zZHIuZjgyNzg3LmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QG_pTzjLyf4bFi5_ECXKDAgWAsqDjEpYbefrVkB8J6YxdIyyBR3pNZzw7b1UeL9meI&_nc_ohc=ua_R_slsvssQ7kNvwHCylWg&_nc_gid=RAZF4GjqIbHgbWmtWETqpg&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzczMzQ4MDY2MTY2MDU4MzM3NA%3D%3D.3-ccb7-5&oh=00_AfaC_MK_i4vZBc36_3V8HYDfyh_Qg3wSe1a4VZ28VVOBWw&oe=68E369A5&_nc_sid=10d13b
+2025-10-01 20:58:05,737 - INFO - [caption/by_username] 開始
+2025-10-01 20:58:05,988 - INFO - [caption/by_username] 説明文確定（先頭100）: '10月の定休日は、
+10月6日、13日、19日午後、20日、21日、27日、28日になります。
+よろしくお願いします🙇
+
+Cut ‪✂︎ ¥4,800 
+men's cut✂︎¥3800
+Cut＆Co'
+2025-10-01 20:58:05,990 - INFO - [caption/by_username] 説明文を保存: media\popular_zenkunen\description\20251001_205726
+2025-10-01 20:58:05,990 - INFO - 画像URLを取得しました
+2025-10-01 20:58:05,993 - INFO - DUP(with-key): user=popular_zenkunen, key=MzczMzQ4MDY2MTY2MDU4MzM3NA==, dt=2025-10-01T02:26:40.000Z
+2025-10-01 20:58:05,993 - INFO - このレコードは存在します
+2025-10-01 20:58:05,993 - INFO - 全件レコードが存在します

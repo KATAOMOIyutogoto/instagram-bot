@@ -1,0 +1,320 @@
+================================================================================
+2025-11-08 01:25:58,614 - INFO - 処理開始 PROCESSID:20251108_012555
+2025-11-08 01:25:58,614 - INFO - 対象ユーザー: lapishsakurada
+2025-11-08 01:25:58,616 - INFO - 処理を開始します
+2025-11-08 01:25:58,682 - INFO - 選択されたプロファイル: Profile 9
+2025-11-08 01:25:58,684 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-08 01:26:03,376 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-08 01:26:14,374 - INFO - 最新投稿を読み込みます
+2025-11-08 01:26:19,653 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQxpu3HgUNn/?hl=ja
+2025-11-08 01:26:23,177 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 01:26:27,172 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 01:26:27,267 - INFO - datetime属性の抽出を開始します
+2025-11-08 01:26:27,394 - INFO - 抽出されたdatetime: 2025-11-08T00:44:28.000Z
+2025-11-08 01:26:27,395 - INFO - lapishsakurada の投稿日時: 2025-11-08T00:44:28.000Z
+2025-11-08 01:26:27,407 - INFO - date:2025-11-08 09:44:28+09:00
+2025-11-08 01:26:27,408 - INFO - post_date:20251108
+2025-11-08 01:26:27,461 - INFO - カルーセル推定: 1枚
+2025-11-08 01:26:27,490 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/575976715_18385629577176972_567552081344233966_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDk3MDcwNDAxNTY3MjE2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=FXob33EDeJ4Q7kNvwFl23jx&_nc_oc=AdltBPxYzYIOydrWTkiz8CtvMc8jdRdlx3UI7GlrK_-cFR_cW0rxbde3BMC76Gx8Xzs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ep0CIrhJI8D_NOD6aa04TA&oh=00_Afh4d_c9XNagVbu_zdHDKupNXwUF7WwAbkskifVPc2XZ1g&oe=69146B7F
+2025-11-08 01:26:27,492 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/575976715_18385629577176972_567552081344233966_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDk3MDcwNDAxNTY3MjE2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=FXob33EDeJ4Q7kNvwFl23jx&_nc_oc=AdltBPxYzYIOydrWTkiz8CtvMc8jdRdlx3UI7GlrK_-cFR_cW0rxbde3BMC76Gx8Xzs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Ep0CIrhJI8D_NOD6aa04TA&oh=00_Afh4d_c9XNagVbu_zdHDKupNXwUF7WwAbkskifVPc2XZ1g&oe=69146B7F
+2025-11-08 01:26:27,492 - INFO - [caption/by_username] 開始
+2025-11-08 01:26:27,722 - INFO - [caption/by_username] 説明文確定（先頭100）: '皆様こんにちは！
+いつもご来店いただき誠にありがとうございます！
+Lapishアシスタントの河合です！
+本日ご紹介させていただくのは、Milbon（ミルボン）の
+『EXTENDED カーボネイテッドシ'
+2025-11-08 01:26:27,724 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251108_012555
+2025-11-08 01:26:27,724 - INFO - 画像URLを取得しました
+2025-11-08 01:26:27,757 - INFO - INSERT(with-key): user=lapishsakurada, key=Mzc2MDk3MDcwNDAxNTY3MjE2Nw==, dt=2025-11-08T00:44:28.000Z
+2025-11-08 01:26:27,757 - INFO - メディアを取得します
+2025-11-08 01:26:29,759 - INFO - ダウンロードを開始します: media\lapishsakurada\lapishsakurada_20251108012629.jpg
+2025-11-08 01:26:30,594 - INFO - ダウンロード完了: media\lapishsakurada\lapishsakurada_20251108012629.jpg
+2025-11-08 01:26:30,660 - INFO - 元の画像サイズ: 1024x1024
+2025-11-08 01:26:30,660 - INFO - サイズ変更は不要です
+2025-11-08 01:26:30,662 - INFO - 説明文:皆様こんにちは！
+いつもご来店いただき誠にありがとうございます！
+Lapishアシスタントの河合です！
+本日ご紹介させていただくのは、Milbon（ミルボン）の
+『EXTENDED カーボネイテッドシャンプー 4.9』でございます！
+
+こちらは、炭酸※の力で地肌の汚れや余分な皮脂をスッキリとオフしてくれるシャンプー。
+頭皮環境を整えたい方や、カラー後のケアにもぴったりなんです！
+
+髪の土台である頭皮を健やかに保つことで、美しい髪の成長をサポートしてくれます
+サロン帰りのような爽快感を、ぜひご自宅でもご体感くださいませ！
+
+【営業時間】
+平日/土曜日9:30～18:30、日曜日9:30～17:30
+定休日	毎週火曜日 
+
+　
+住所
+山形県山形市桜田東3-8-4 
+
+#Lapish #ラピッシュ #山形駅 #美容室 #美容院 #美容師 #髪型 #ヘアカット #カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #ヘアサロン #ヘッドスパ #山形市美容院 #山形市美容室 #山形市ヘアサロン #山形美容院 #山形美容室 #山形ヘアサロン #山形市カット #山形市髪質改善 #山形市メンズカット #山形市女性人気美容室 #蔵王美容室 #蔵王美容院 #桜田美容室 #桜田美容院
+
+アシスタント  河合
+2025-11-08 01:26:33,128 - INFO - 処理終了
+================================================================================
+2025-11-08 01:26:39,141 - INFO - 処理開始: Mode=post, Username=lapishsakurada, GBP=lapishsakurada
+2025-11-08 01:26:39,141 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJsYXBpc2hzYWt1cmFkYSJd.
+2025-11-08 01:27:01,394 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lapishsakurada\lapishsakurada_20251108012629.jpg
+2025-11-08 01:27:04,653 - INFO - Waiting for description field...
+2025-11-08 01:27:04,683 - INFO - Setting description via JS (no send_keys)...
+2025-11-08 01:27:05,767 - INFO - Looking for button section...
+2025-11-08 01:27:10,246 - INFO - Trying to select CALL option...
+2025-11-08 01:27:10,499 - INFO - CALL option successfully selected
+2025-11-08 01:27:12,501 - INFO - Clicking submit button...
+2025-11-08 01:27:21,279 - INFO - 処理完了
+================================================================================
+2025-11-08 04:27:33,946 - INFO - 処理開始 PROCESSID:20251108_042730
+2025-11-08 04:27:33,946 - INFO - 対象ユーザー: lapishsakurada
+2025-11-08 04:27:33,946 - INFO - 処理を開始します
+2025-11-08 04:27:34,021 - INFO - 選択されたプロファイル: Profile 12
+2025-11-08 04:27:34,021 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-08 04:27:38,551 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-08 04:27:51,146 - INFO - 最新投稿を読み込みます
+2025-11-08 04:27:56,493 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQxpu3HgUNn/?hl=ja
+2025-11-08 04:27:59,827 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 04:28:03,380 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 04:28:03,453 - INFO - datetime属性の抽出を開始します
+2025-11-08 04:28:03,488 - INFO - 抽出されたdatetime: 2025-11-08T00:44:28.000Z
+2025-11-08 04:28:03,488 - INFO - lapishsakurada の投稿日時: 2025-11-08T00:44:28.000Z
+2025-11-08 04:28:03,498 - INFO - date:2025-11-08 09:44:28+09:00
+2025-11-08 04:28:03,498 - INFO - post_date:20251108
+2025-11-08 04:28:03,589 - INFO - カルーセル推定: 1枚
+2025-11-08 04:28:03,658 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/575976715_18385629577176972_567552081344233966_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDk3MDcwNDAxNTY3MjE2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=FXob33EDeJ4Q7kNvwFl23jx&_nc_oc=AdltBPxYzYIOydrWTkiz8CtvMc8jdRdlx3UI7GlrK_-cFR_cW0rxbde3BMC76Gx8Xzs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=RmQ52urlttbqWwxPPeIdMA&oh=00_AfjLVQaHcNYLcJa3HTU-gVfAs_H-AugvUmeBlr2wdvTrQg&oe=6914A3BF
+2025-11-08 04:28:03,658 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/575976715_18385629577176972_567552081344233966_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDk3MDcwNDAxNTY3MjE2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=FXob33EDeJ4Q7kNvwFl23jx&_nc_oc=AdltBPxYzYIOydrWTkiz8CtvMc8jdRdlx3UI7GlrK_-cFR_cW0rxbde3BMC76Gx8Xzs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=RmQ52urlttbqWwxPPeIdMA&oh=00_AfjLVQaHcNYLcJa3HTU-gVfAs_H-AugvUmeBlr2wdvTrQg&oe=6914A3BF
+2025-11-08 04:28:03,658 - INFO - [caption/by_username] 開始
+2025-11-08 04:28:03,769 - INFO - [caption/by_username] 説明文確定（先頭100）: '皆様こんにちは！
+いつもご来店いただき誠にありがとうございます！
+Lapishアシスタントの河合です！
+本日ご紹介させていただくのは、Milbon（ミルボン）の
+『EXTENDED カーボネイテッドシ'
+2025-11-08 04:28:03,771 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251108_042730
+2025-11-08 04:28:03,771 - INFO - 画像URLを取得しました
+2025-11-08 04:28:03,777 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc2MDk3MDcwNDAxNTY3MjE2Nw==, dt=2025-11-08T00:44:28.000Z
+2025-11-08 04:28:03,777 - INFO - このレコードは存在します
+2025-11-08 04:28:03,777 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 07:28:45,647 - INFO - 処理開始 PROCESSID:20251108_072842
+2025-11-08 07:28:45,647 - INFO - 対象ユーザー: lapishsakurada
+2025-11-08 07:28:45,647 - INFO - 処理を開始します
+2025-11-08 07:28:45,714 - INFO - 選択されたプロファイル: Profile 12
+2025-11-08 07:28:45,714 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-08 07:28:50,175 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-08 07:29:02,287 - INFO - 最新投稿を読み込みます
+2025-11-08 07:29:07,936 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQxpu3HgUNn/?hl=ja
+2025-11-08 07:29:11,664 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 07:29:14,581 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 07:29:14,686 - INFO - datetime属性の抽出を開始します
+2025-11-08 07:29:14,714 - INFO - 抽出されたdatetime: 2025-11-08T00:44:28.000Z
+2025-11-08 07:29:14,715 - INFO - lapishsakurada の投稿日時: 2025-11-08T00:44:28.000Z
+2025-11-08 07:29:14,725 - INFO - date:2025-11-08 09:44:28+09:00
+2025-11-08 07:29:14,725 - INFO - post_date:20251108
+2025-11-08 07:29:14,774 - INFO - カルーセル推定: 1枚
+2025-11-08 07:29:14,935 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/575976715_18385629577176972_567552081344233966_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDk3MDcwNDAxNTY3MjE2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=FXob33EDeJ4Q7kNvwFl23jx&_nc_oc=AdltBPxYzYIOydrWTkiz8CtvMc8jdRdlx3UI7GlrK_-cFR_cW0rxbde3BMC76Gx8Xzs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=cI0B0HMqNrVY-d1oQZ92Tg&oh=00_Afgu7oRM6J1g0hROd7Wbop7OZShT3ElqvfoY2twTP89NSw&oe=6914DBFF
+2025-11-08 07:29:14,935 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/575976715_18385629577176972_567552081344233966_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDk3MDcwNDAxNTY3MjE2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=FXob33EDeJ4Q7kNvwFl23jx&_nc_oc=AdltBPxYzYIOydrWTkiz8CtvMc8jdRdlx3UI7GlrK_-cFR_cW0rxbde3BMC76Gx8Xzs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=cI0B0HMqNrVY-d1oQZ92Tg&oh=00_Afgu7oRM6J1g0hROd7Wbop7OZShT3ElqvfoY2twTP89NSw&oe=6914DBFF
+2025-11-08 07:29:14,936 - INFO - [caption/by_username] 開始
+2025-11-08 07:29:15,138 - INFO - [caption/by_username] 説明文確定（先頭100）: '皆様こんにちは！
+いつもご来店いただき誠にありがとうございます！
+Lapishアシスタントの河合です！
+本日ご紹介させていただくのは、Milbon（ミルボン）の
+『EXTENDED カーボネイテッドシ'
+2025-11-08 07:29:15,140 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251108_072842
+2025-11-08 07:29:15,140 - INFO - 画像URLを取得しました
+2025-11-08 07:29:15,144 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc2MDk3MDcwNDAxNTY3MjE2Nw==, dt=2025-11-08T00:44:28.000Z
+2025-11-08 07:29:15,144 - INFO - このレコードは存在します
+2025-11-08 07:29:15,144 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 10:32:35,247 - INFO - 処理開始 PROCESSID:20251108_103231
+2025-11-08 10:32:35,247 - INFO - 対象ユーザー: lapishsakurada
+2025-11-08 10:32:35,247 - INFO - 処理を開始します
+2025-11-08 10:32:35,306 - INFO - 選択されたプロファイル: Profile 9
+2025-11-08 10:32:35,306 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-08 10:32:39,735 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-08 10:32:51,297 - INFO - 最新投稿を読み込みます
+2025-11-08 10:32:56,575 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQxpu3HgUNn/?hl=ja
+2025-11-08 10:33:00,308 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 10:33:03,725 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 10:33:03,865 - INFO - datetime属性の抽出を開始します
+2025-11-08 10:33:03,908 - INFO - 抽出されたdatetime: 2025-11-08T00:44:28.000Z
+2025-11-08 10:33:03,908 - INFO - lapishsakurada の投稿日時: 2025-11-08T00:44:28.000Z
+2025-11-08 10:33:03,915 - INFO - date:2025-11-08 09:44:28+09:00
+2025-11-08 10:33:03,915 - INFO - post_date:20251108
+2025-11-08 10:33:03,992 - INFO - カルーセル推定: 1枚
+2025-11-08 10:33:04,063 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/575976715_18385629577176972_567552081344233966_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDk3MDcwNDAxNTY3MjE2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=FXob33EDeJ4Q7kNvwFl23jx&_nc_oc=AdltBPxYzYIOydrWTkiz8CtvMc8jdRdlx3UI7GlrK_-cFR_cW0rxbde3BMC76Gx8Xzs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=zbNEAtBYGq8sYctFfPRlDw&oh=00_AfhX8XI6T8ENMcPGjdphl6x1u-sdxyq5wX8wi7pFDkCkWw&oe=6914DBFF
+2025-11-08 10:33:04,063 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/575976715_18385629577176972_567552081344233966_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc2MDk3MDcwNDAxNTY3MjE2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwMjR4MTAyNC5zZHIuQzMifQ%3D%3D&_nc_ohc=FXob33EDeJ4Q7kNvwFl23jx&_nc_oc=AdltBPxYzYIOydrWTkiz8CtvMc8jdRdlx3UI7GlrK_-cFR_cW0rxbde3BMC76Gx8Xzs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=zbNEAtBYGq8sYctFfPRlDw&oh=00_AfhX8XI6T8ENMcPGjdphl6x1u-sdxyq5wX8wi7pFDkCkWw&oe=6914DBFF
+2025-11-08 10:33:04,064 - INFO - [caption/by_username] 開始
+2025-11-08 10:33:04,196 - INFO - [caption/by_username] 説明文確定（先頭100）: '皆様こんにちは！
+いつもご来店いただき誠にありがとうございます！
+Lapishアシスタントの河合です！
+本日ご紹介させていただくのは、Milbon（ミルボン）の
+『EXTENDED カーボネイテッドシ'
+2025-11-08 10:33:04,198 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251108_103231
+2025-11-08 10:33:04,198 - INFO - 画像URLを取得しました
+2025-11-08 10:33:04,201 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc2MDk3MDcwNDAxNTY3MjE2Nw==, dt=2025-11-08T00:44:28.000Z
+2025-11-08 10:33:04,201 - INFO - このレコードは存在します
+2025-11-08 10:33:04,201 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 13:31:08,244 - INFO - 処理開始 PROCESSID:20251108_133104
+2025-11-08 13:31:08,244 - INFO - 対象ユーザー: lapishsakurada
+2025-11-08 13:31:08,244 - INFO - 処理を開始します
+2025-11-08 13:31:08,308 - INFO - 選択されたプロファイル: Profile 13
+2025-11-08 13:31:08,308 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-08 13:31:12,658 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-08 13:31:24,654 - INFO - 最新投稿を読み込みます
+2025-11-08 13:31:30,011 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQyx3_6gWdW/?hl=ja
+2025-11-08 13:31:33,853 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 13:31:37,795 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 13:31:37,883 - INFO - datetime属性の抽出を開始します
+2025-11-08 13:31:37,928 - INFO - 抽出されたdatetime: 2025-11-08T11:14:52.000Z
+2025-11-08 13:31:37,928 - INFO - lapishsakurada の投稿日時: 2025-11-08T11:14:52.000Z
+2025-11-08 13:31:37,937 - INFO - date:2025-11-08 20:14:52+09:00
+2025-11-08 13:31:37,937 - INFO - post_date:20251108
+2025-11-08 13:31:38,023 - INFO - カルーセル推定: 1枚
+2025-11-08 13:31:38,081 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/580545854_18385790695176972_2210208441994813863_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MTI4Nzk5MTI4NTM0NDA4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=dtM2T_HaZ9AQ7kNvwESjsFX&_nc_oc=Adn7pwSkggZareZRMUfgX8JkL6ejEfW9C4q8gSg4d9eeI-FfoHdZJZ_ueZX1Y-YsyLY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=8f6EWd9OIX4KlwjTYkty8A&oh=00_AfhJLPRW_GMMZfA1yHH9jgULI2tedZN_rwObqMNnqRQzZw&oe=6915347F
+2025-11-08 13:31:38,082 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/580545854_18385790695176972_2210208441994813863_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MTI4Nzk5MTI4NTM0NDA4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=dtM2T_HaZ9AQ7kNvwESjsFX&_nc_oc=Adn7pwSkggZareZRMUfgX8JkL6ejEfW9C4q8gSg4d9eeI-FfoHdZJZ_ueZX1Y-YsyLY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=8f6EWd9OIX4KlwjTYkty8A&oh=00_AfhJLPRW_GMMZfA1yHH9jgULI2tedZN_rwObqMNnqRQzZw&oe=6915347F
+2025-11-08 13:31:38,082 - INFO - [caption/by_username] 開始
+2025-11-08 13:31:38,265 - INFO - [caption/by_username] 説明文確定（先頭100）: '透明感抜群のアッシュカラー
+落ち着いたカラーが好きな方にオススメです！
+投稿　arai
+========== Lapish 桜田店 ==========
+
+【営業時間】
+平日/土曜日9:30～18:3'
+2025-11-08 13:31:38,267 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251108_133104
+2025-11-08 13:31:38,267 - INFO - 画像URLを取得しました
+2025-11-08 13:31:38,292 - INFO - INSERT(with-key): user=lapishsakurada, key=Mzc2MTI4Nzk5MTI4NTM0NDA4Ng==, dt=2025-11-08T11:14:52.000Z
+2025-11-08 13:31:38,293 - INFO - メディアを取得します
+2025-11-08 13:31:40,294 - INFO - ダウンロードを開始します: media\lapishsakurada\lapishsakurada_20251108133140.jpg
+2025-11-08 13:31:41,511 - INFO - ダウンロード完了: media\lapishsakurada\lapishsakurada_20251108133140.jpg
+2025-11-08 13:31:41,653 - INFO - 元の画像サイズ: 1440x1920
+2025-11-08 13:31:41,653 - INFO - サイズ変更は不要です
+2025-11-08 13:31:41,657 - INFO - 説明文:透明感抜群のアッシュカラー
+落ち着いたカラーが好きな方にオススメです！
+投稿　arai
+========== Lapish 桜田店 ==========
+
+【営業時間】
+平日/土曜日9:30～18:30、日曜日9:30～17:30
+定休日	毎週火曜日 
+
+◆ご予約はこちら↓
+ホットペッパービューティー
+https://beauty.hotpepper.jp/slnH000210897/
+　
+住所📍
+山形県山形市桜田東3-8-4 
+
+===================================
+
+#Lapish #ラピッシュ #山形駅 #美容室 #美容院 #美容師 #髪型 #ヘアカット #カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #ヘアサロン #ヘッドスパ #山形市美容院 #山形市美容室 #山形市ヘアサロン #山形美容院 #山形美容室 #山形ヘアサロン #山形市カット #山形市髪質改善 #山形市メンズカット #山形市女性人気美容室 #蔵王美容室 #蔵王美容院 #桜田美容室 #桜田美容院
+2025-11-08 13:31:44,314 - INFO - 処理終了
+================================================================================
+2025-11-08 13:31:50,336 - INFO - 処理開始: Mode=post, Username=lapishsakurada, GBP=lapishsakurada
+2025-11-08 13:31:50,336 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJsYXBpc2hzYWt1cmFkYSJd.
+2025-11-08 13:32:12,713 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lapishsakurada\lapishsakurada_20251108133140.jpg
+2025-11-08 13:32:15,938 - INFO - Waiting for description field...
+2025-11-08 13:32:15,962 - INFO - Setting description via JS (no send_keys)...
+2025-11-08 13:32:17,060 - INFO - Looking for button section...
+2025-11-08 13:32:21,585 - INFO - Trying to select CALL option...
+2025-11-08 13:32:21,885 - INFO - CALL option successfully selected
+2025-11-08 13:32:23,886 - INFO - Clicking submit button...
+2025-11-08 13:32:32,672 - INFO - 処理完了
+================================================================================
+2025-11-08 16:28:44,606 - INFO - 処理開始 PROCESSID:20251108_162841
+2025-11-08 16:28:44,606 - INFO - 対象ユーザー: lapishsakurada
+2025-11-08 16:28:44,606 - INFO - 処理を開始します
+2025-11-08 16:28:44,664 - INFO - 選択されたプロファイル: Profile 9
+2025-11-08 16:28:44,664 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-08 16:28:48,940 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-08 16:29:00,749 - INFO - 最新投稿を読み込みます
+2025-11-08 16:29:06,007 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQyx3_6gWdW/?hl=ja
+2025-11-08 16:29:09,637 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 16:29:13,357 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 16:29:13,430 - INFO - datetime属性の抽出を開始します
+2025-11-08 16:29:13,470 - INFO - 抽出されたdatetime: 2025-11-08T11:14:52.000Z
+2025-11-08 16:29:13,471 - INFO - lapishsakurada の投稿日時: 2025-11-08T11:14:52.000Z
+2025-11-08 16:29:13,508 - INFO - date:2025-11-08 20:14:52+09:00
+2025-11-08 16:29:13,508 - INFO - post_date:20251108
+2025-11-08 16:29:13,602 - INFO - カルーセル推定: 1枚
+2025-11-08 16:29:13,647 - INFO - 検出(SINGLE): https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/580545854_18385790695176972_2210208441994813863_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MTI4Nzk5MTI4NTM0NDA4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=dtM2T_HaZ9AQ7kNvwESjsFX&_nc_oc=Adn7pwSkggZareZRMUfgX8JkL6ejEfW9C4q8gSg4d9eeI-FfoHdZJZ_ueZX1Y-YsyLY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=k6Mt6L6crOiQD7CUuDrIrg&oh=00_AfjIQ81Dt7Wag84lxCHR-utxmdkOFEEbH_R8R7zc5gX3aA&oe=6915347F
+2025-11-08 16:29:13,648 - INFO - 1枚目: https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/580545854_18385790695176972_2210208441994813863_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MTI4Nzk5MTI4NTM0NDA4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=dtM2T_HaZ9AQ7kNvwESjsFX&_nc_oc=Adn7pwSkggZareZRMUfgX8JkL6ejEfW9C4q8gSg4d9eeI-FfoHdZJZ_ueZX1Y-YsyLY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=k6Mt6L6crOiQD7CUuDrIrg&oh=00_AfjIQ81Dt7Wag84lxCHR-utxmdkOFEEbH_R8R7zc5gX3aA&oe=6915347F
+2025-11-08 16:29:13,648 - INFO - [caption/by_username] 開始
+2025-11-08 16:29:13,814 - INFO - [caption/by_username] 説明文確定（先頭100）: '透明感抜群のアッシュカラー
+落ち着いたカラーが好きな方にオススメです！
+投稿　arai
+========== Lapish 桜田店 ==========
+
+【営業時間】
+平日/土曜日9:30～18:3'
+2025-11-08 16:29:13,816 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251108_162841
+2025-11-08 16:29:13,816 - INFO - 画像URLを取得しました
+2025-11-08 16:29:13,818 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc2MTI4Nzk5MTI4NTM0NDA4Ng==, dt=2025-11-08T11:14:52.000Z
+2025-11-08 16:29:13,818 - INFO - このレコードは存在します
+2025-11-08 16:29:13,818 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 19:23:24,981 - INFO - 処理開始 PROCESSID:20251108_192321
+2025-11-08 19:23:24,981 - INFO - 対象ユーザー: lapishsakurada
+2025-11-08 19:23:24,981 - INFO - 処理を開始します
+2025-11-08 19:23:25,042 - INFO - 選択されたプロファイル: Profile 12
+2025-11-08 19:23:25,042 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-08 19:23:29,333 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-08 19:23:41,229 - INFO - 最新投稿を読み込みます
+2025-11-08 19:23:46,587 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQyx3_6gWdW/?hl=ja
+2025-11-08 19:23:50,187 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 19:23:54,653 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 19:23:54,722 - INFO - datetime属性の抽出を開始します
+2025-11-08 19:23:54,760 - INFO - 抽出されたdatetime: 2025-11-08T11:14:52.000Z
+2025-11-08 19:23:54,761 - INFO - lapishsakurada の投稿日時: 2025-11-08T11:14:52.000Z
+2025-11-08 19:23:54,772 - INFO - date:2025-11-08 20:14:52+09:00
+2025-11-08 19:23:54,772 - INFO - post_date:20251108
+2025-11-08 19:23:54,972 - INFO - カルーセル推定: 1枚
+2025-11-08 19:23:55,024 - INFO - 検出(SINGLE): https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/580545854_18385790695176972_2210208441994813863_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MTI4Nzk5MTI4NTM0NDA4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=dtM2T_HaZ9AQ7kNvwESjsFX&_nc_oc=Adn7pwSkggZareZRMUfgX8JkL6ejEfW9C4q8gSg4d9eeI-FfoHdZJZ_ueZX1Y-YsyLY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=unXojxstohAqLFIfR-kRmA&oh=00_AfjVDAFoM237JqV7HQzdtwTWQPTke3sQrCMdSEZHgqtstw&oe=69156CBF
+2025-11-08 19:23:55,024 - INFO - 1枚目: https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/580545854_18385790695176972_2210208441994813863_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MTI4Nzk5MTI4NTM0NDA4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=dtM2T_HaZ9AQ7kNvwESjsFX&_nc_oc=Adn7pwSkggZareZRMUfgX8JkL6ejEfW9C4q8gSg4d9eeI-FfoHdZJZ_ueZX1Y-YsyLY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=unXojxstohAqLFIfR-kRmA&oh=00_AfjVDAFoM237JqV7HQzdtwTWQPTke3sQrCMdSEZHgqtstw&oe=69156CBF
+2025-11-08 19:23:55,024 - INFO - [caption/by_username] 開始
+2025-11-08 19:23:55,142 - INFO - [caption/by_username] 説明文確定（先頭100）: '透明感抜群のアッシュカラー
+落ち着いたカラーが好きな方にオススメです！
+投稿　arai
+========== Lapish 桜田店 ==========
+
+【営業時間】
+平日/土曜日9:30～18:3'
+2025-11-08 19:23:55,144 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251108_192321
+2025-11-08 19:23:55,144 - INFO - 画像URLを取得しました
+2025-11-08 19:23:55,147 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc2MTI4Nzk5MTI4NTM0NDA4Ng==, dt=2025-11-08T11:14:52.000Z
+2025-11-08 19:23:55,147 - INFO - このレコードは存在します
+2025-11-08 19:23:55,147 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-08 22:18:29,972 - INFO - 処理開始 PROCESSID:20251108_221826
+2025-11-08 22:18:29,972 - INFO - 対象ユーザー: lapishsakurada
+2025-11-08 22:18:29,972 - INFO - 処理を開始します
+2025-11-08 22:18:30,032 - INFO - 選択されたプロファイル: Profile 10
+2025-11-08 22:18:30,034 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-08 22:18:34,509 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-08 22:18:46,193 - INFO - 最新投稿を読み込みます
+2025-11-08 22:18:51,473 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQyx3_6gWdW/?hl=ja
+2025-11-08 22:18:54,021 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 22:18:58,609 - INFO - 最新投稿ページにアクセスしました
+2025-11-08 22:18:58,664 - INFO - datetime属性の抽出を開始します
+2025-11-08 22:18:58,691 - INFO - 抽出されたdatetime: 2025-11-08T11:14:52.000Z
+2025-11-08 22:18:58,692 - INFO - lapishsakurada の投稿日時: 2025-11-08T11:14:52.000Z
+2025-11-08 22:18:58,699 - INFO - date:2025-11-08 20:14:52+09:00
+2025-11-08 22:18:58,700 - INFO - post_date:20251108
+2025-11-08 22:18:58,749 - INFO - カルーセル推定: 1枚
+2025-11-08 22:18:58,785 - INFO - 検出(SINGLE): https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/580545854_18385790695176972_2210208441994813863_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MTI4Nzk5MTI4NTM0NDA4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=dtM2T_HaZ9AQ7kNvwESjsFX&_nc_oc=Adn7pwSkggZareZRMUfgX8JkL6ejEfW9C4q8gSg4d9eeI-FfoHdZJZ_ueZX1Y-YsyLY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=Tdoy__3Davm5HlNzXETbew&oh=00_AfhnRNsBHJDFRqaVA6djxWuyx9US8IP8djW59gFZAtf2MA&oe=6915A4FF
+2025-11-08 22:18:58,785 - INFO - 1枚目: https://scontent-hkg1-1.cdninstagram.com/v/t51.82787-15/580545854_18385790695176972_2210208441994813863_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzc2MTI4Nzk5MTI4NTM0NDA4Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5oZHIuQzMifQ%3D%3D&_nc_ohc=dtM2T_HaZ9AQ7kNvwESjsFX&_nc_oc=Adn7pwSkggZareZRMUfgX8JkL6ejEfW9C4q8gSg4d9eeI-FfoHdZJZ_ueZX1Y-YsyLY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_gid=Tdoy__3Davm5HlNzXETbew&oh=00_AfhnRNsBHJDFRqaVA6djxWuyx9US8IP8djW59gFZAtf2MA&oe=6915A4FF
+2025-11-08 22:18:58,785 - INFO - [caption/by_username] 開始
+2025-11-08 22:18:58,876 - INFO - [caption/by_username] 説明文確定（先頭100）: '透明感抜群のアッシュカラー
+落ち着いたカラーが好きな方にオススメです！
+投稿　arai
+========== Lapish 桜田店 ==========
+
+【営業時間】
+平日/土曜日9:30～18:3'
+2025-11-08 22:18:58,878 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251108_221826
+2025-11-08 22:18:58,879 - INFO - 画像URLを取得しました
+2025-11-08 22:18:58,881 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc2MTI4Nzk5MTI4NTM0NDA4Ng==, dt=2025-11-08T11:14:52.000Z
+2025-11-08 22:18:58,881 - INFO - このレコードは存在します
+2025-11-08 22:18:58,881 - INFO - 全件レコードが存在します

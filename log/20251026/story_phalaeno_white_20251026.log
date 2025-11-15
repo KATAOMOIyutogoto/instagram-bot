@@ -1,0 +1,99 @@
+================================================================================
+2025-10-26 03:33:49,451 - INFO - 処理開始 PROCESSID:20251026_033343
+2025-10-26 03:33:49,451 - INFO - 対象ユーザー: phalaeno_white
+2025-10-26 03:33:49,453 - INFO - 処理を開始します
+2025-10-26 03:33:49,590 - INFO - 選択されたプロファイル: Profile 10
+2025-10-26 03:33:49,590 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-26 03:34:05,623 - INFO - phalaeno_white のプロフィールページにアクセスします
+2025-10-26 03:34:42,214 - INFO - プロフィール写真のクリックに成功しました
+2025-10-26 03:34:45,868 - INFO - 動画の取得に失敗しました
+2025-10-26 03:34:45,877 - INFO - datetime属性の抽出を開始します
+2025-10-26 03:34:55,886 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x121fe43+66515]
+	GetHandleVerifier [0x0x121fe84+66580]
+	(No symbol) [0x0x100dc48]
+	(No symbol) [0x0x1058704]
+	(No symbol) [0x0x1058aab]
+	(No symbol) [0x0x109f482]
+	(No symbol) [0x0x107b214]
+	(No symbol) [0x0x109cba7]
+	(No symbol) [0x0x107afc6]
+	(No symbol) [0x0x104c2ca]
+	(No symbol) [0x0x104d154]
+	GetHandleVerifier [0x0x1477353+2521315]
+	GetHandleVerifier [0x0x14722d3+2500707]
+	GetHandleVerifier [0x0x1247c94+229924]
+	GetHandleVerifier [0x0x12381f8+165768]
+	GetHandleVerifier [0x0x123ecad+193085]
+	GetHandleVerifier [0x0x1228158+100072]
+	GetHandleVerifier [0x0x12282f0+100480]
+	GetHandleVerifier [0x0x12125aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-26 03:35:06,639 - INFO - 画像の取得に失敗しました
+2025-10-26 03:35:15,249 - INFO - 処理終了
+================================================================================
+2025-10-26 10:03:44,512 - INFO - 処理開始 PROCESSID:20251026_100338
+2025-10-26 10:03:44,512 - INFO - 対象ユーザー: phalaeno_white
+2025-10-26 10:03:44,512 - INFO - 処理を開始します
+2025-10-26 10:03:44,646 - INFO - 選択されたプロファイル: Profile 10
+2025-10-26 10:03:44,646 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-26 10:03:56,223 - INFO - phalaeno_white のプロフィールページにアクセスします
+2025-10-26 10:04:21,392 - INFO - プロフィール写真のクリックに成功しました
+2025-10-26 10:04:22,771 - INFO - phalaeno_white: 動画を検出しました
+2025-10-26 10:04:22,771 - INFO - datetime属性の抽出を開始します
+2025-10-26 10:04:23,017 - INFO - 抽出されたdatetime: 2025-10-26T05:05:16.000Z
+2025-10-26 10:04:23,018 - INFO - phalaeno_white の投稿日時: 2025-10-26T05:05:16.000Z
+2025-10-26 10:04:24,454 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m367/AQMUtKEoKp6ohcwYD1zDiGi5SmHpyASmt1BU7doTWgnonGyPayzewoYdcuVp5dxI6hMggcfdmdj7o4hu3aMkHNQupcU2bEUILCIyIM8.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=YsgqpqWINQoQ7kNvwHs2oWZ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MjAwNTY3NzE4OTkzNzcwMCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=aRZpuLrLXUIZxWoFVLK1FA&_nc_zt=28&oh=00_AfewFqPuD_fMly99BPgVWqcy7Z9E4MbOtClv7ncZI93jCg&oe=6903D6A2&bytestart=0&byteend=204009
+2025-10-26 10:04:24,454 - INFO - 動画URLを取得しました
+2025-10-26 10:04:24,497 - INFO - INSERT(with-key): user=phalaeno_white, key=AQMUtKEoKp6ohcwYD1zDiGi5SmHpyASmt1BU7doTWgnonGyPayzewoYdcuVp5dxI6hMggcfdmdj7o4hu3aMkHNQupcU2bEUILCIyIM8, dt=2025-10-26T05:05:16.000Z
+2025-10-26 10:04:26,646 - INFO - ダウンロードを開始します: media\phalaeno_white\phalaeno_white_20251026100426.mp4
+2025-10-26 10:04:28,364 - INFO - ダウンロード完了: media\phalaeno_white\phalaeno_white_20251026100426.mp4
+2025-10-26 10:04:35,835 - INFO - 処理終了
+2025-10-26 10:04:35,838 - INFO - 説明文_AI: None
+2025-10-26 10:04:35,838 - INFO - 説明文_最終: 
+================================================================================
+2025-10-26 10:04:41,856 - INFO - 処理開始: Mode=story, Username=phalaeno_white, GBP=10372927115853808431
+2025-10-26 10:04:41,856 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMDM3MjkyNzExNTg1MzgwODQzMSJd.
+2025-10-26 10:05:29,533 - INFO - 元の動画サイズ: 720x1280
+2025-10-26 10:05:29,534 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-26 10:05:29,534 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\phalaeno_white\phalaeno_white_20251026100426.mp4
+2025-10-26 10:05:40,435 - INFO - 一時ファイルが見つかりません: media\phalaeno_white\description\20251026_100338
+2025-10-26 10:05:40,435 - INFO - Looking for button section...
+2025-10-26 10:05:44,976 - INFO - Trying to select CALL option...
+2025-10-26 10:05:45,240 - INFO - CALL option successfully selected
+2025-10-26 10:05:47,240 - INFO - Clicking submit button...
+2025-10-26 10:06:03,953 - INFO - 処理完了
+================================================================================
+2025-10-26 16:14:54,090 - INFO - 処理開始 PROCESSID:20251026_161447
+2025-10-26 16:14:54,090 - INFO - 対象ユーザー: phalaeno_white
+2025-10-26 16:14:54,090 - INFO - 処理を開始します
+2025-10-26 16:14:54,218 - INFO - 選択されたプロファイル: Profile 10
+2025-10-26 16:14:54,218 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-26 16:15:01,403 - INFO - phalaeno_white のプロフィールページにアクセスします
+2025-10-26 16:15:24,189 - INFO - プロフィール写真のクリックに成功しました
+2025-10-26 16:15:27,700 - INFO - 動画の取得に失敗しました
+2025-10-26 16:15:27,702 - INFO - datetime属性の抽出を開始します
+2025-10-26 16:15:27,819 - INFO - 抽出されたdatetime: 2025-10-26T05:12:49.000Z
+2025-10-26 16:15:27,935 - INFO - 画像URLを取得しました
+2025-10-26 16:15:27,976 - INFO - INSERT(with-key): user=phalaeno_white, key=Mzc1MTY4Mzc3OTA3MDE0MzUxOQ==, dt=2025-10-26T05:12:49.000Z
+2025-10-26 16:15:29,987 - INFO - ダウンロードを開始します: media\phalaeno_white\phalaeno_white_20251026161529.jpg
+2025-10-26 16:15:31,273 - INFO - ダウンロード完了: media\phalaeno_white\phalaeno_white_20251026161529.jpg
+2025-10-26 16:15:31,391 - INFO - 元の画像サイズ: 480x853
+2025-10-26 16:15:31,391 - INFO - サイズ変更は不要です
+2025-10-26 16:15:36,889 - INFO - 処理終了
+2025-10-26 16:15:36,892 - INFO - 説明文_AI: None
+2025-10-26 16:15:36,893 - INFO - 説明文_最終: 
+================================================================================
+2025-10-26 16:15:42,902 - INFO - 処理開始: Mode=story, Username=phalaeno_white, GBP=10372927115853808431
+2025-10-26 16:15:42,904 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMDM3MjkyNzExNTg1MzgwODQzMSJd.
+2025-10-26 16:16:11,053 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\phalaeno_white\phalaeno_white_20251026161529.jpg
+2025-10-26 16:16:14,155 - INFO - 一時ファイルが見つかりません: media\phalaeno_white\description\20251026_161447
+2025-10-26 16:16:14,155 - INFO - Looking for button section...
+2025-10-26 16:16:19,483 - INFO - Trying to select CALL option...
+2025-10-26 16:16:19,740 - INFO - CALL option successfully selected
+2025-10-26 16:16:21,741 - INFO - Clicking submit button...
+2025-10-26 16:16:35,106 - INFO - 処理完了

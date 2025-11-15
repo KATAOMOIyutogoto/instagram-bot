@@ -1,0 +1,164 @@
+================================================================================
+2025-10-22 01:38:04,969 - INFO - 処理開始 PROCESSID:20251022_013801
+2025-10-22 01:38:04,969 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-22 01:38:04,969 - INFO - 処理を開始します
+2025-10-22 01:38:05,043 - INFO - 選択されたプロファイル: Profile 10
+2025-10-22 01:38:05,043 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-22 01:38:10,061 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-22 01:38:32,551 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 01:38:35,668 - INFO - 動画の取得に失敗しました
+2025-10-22 01:38:35,669 - INFO - datetime属性の抽出を開始します
+2025-10-22 01:38:45,973 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x10ffe43+66515]
+	GetHandleVerifier [0x0x10ffe84+66580]
+	(No symbol) [0x0xeedc48]
+	(No symbol) [0x0xf38704]
+	(No symbol) [0x0xf38aab]
+	(No symbol) [0x0xf7f482]
+	(No symbol) [0x0xf5b214]
+	(No symbol) [0x0xf7cba7]
+	(No symbol) [0x0xf5afc6]
+	(No symbol) [0x0xf2c2ca]
+	(No symbol) [0x0xf2d154]
+	GetHandleVerifier [0x0x1357353+2521315]
+	GetHandleVerifier [0x0x13522d3+2500707]
+	GetHandleVerifier [0x0x1127c94+229924]
+	GetHandleVerifier [0x0x11181f8+165768]
+	GetHandleVerifier [0x0x111ecad+193085]
+	GetHandleVerifier [0x0x1108158+100072]
+	GetHandleVerifier [0x0x11082f0+100480]
+	GetHandleVerifier [0x0x10f25aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-22 01:38:56,250 - INFO - 画像の取得に失敗しました
+2025-10-22 01:38:58,685 - INFO - 処理終了
+================================================================================
+2025-10-22 05:49:04,624 - INFO - 処理開始 PROCESSID:20251022_054901
+2025-10-22 05:49:04,624 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-22 05:49:04,624 - INFO - 処理を開始します
+2025-10-22 05:49:04,679 - INFO - 選択されたプロファイル: Profile 13
+2025-10-22 05:49:04,679 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-22 05:49:09,463 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-22 05:49:31,833 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 05:49:32,878 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-22 05:49:32,878 - INFO - datetime属性の抽出を開始します
+2025-10-22 05:49:33,007 - INFO - 抽出されたdatetime: 2025-10-22T05:41:27.000Z
+2025-10-22 05:49:33,007 - INFO - anartsoho_shun の投稿日時: 2025-10-22T05:41:27.000Z
+2025-10-22 05:49:34,793 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Y8CQ1gzbQk8Q7kNvwF9sRtJ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=L7AZsStHoLJhkTJrJvDrQg&_nc_zt=28&oh=00_AffVkkDdM67XK1h8G8YMxjz0ZSWliqzewDzvzff_HZoxdQ&oe=68FE44C9&bytestart=0&byteend=3025484
+2025-10-22 05:49:34,793 - INFO - 動画URLを取得しました
+2025-10-22 05:49:34,797 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=anartsoho_shun, key=AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw, dt=2025-10-22T05:41:27.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Y8CQ1gzbQk8Q7kNvwF9sRtJ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=L7AZsStHoLJhkTJrJvDrQg&_nc_zt=28&oh=00_AffVkkDdM67XK1h8G8YMxjz0ZSWliqzewDzvzff_HZoxdQ&oe=68FE44C9&bytestart=0&byteend=3025484, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('anartsoho_shun', 'AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Y8CQ1gzbQk8Q7kNvwF9sRtJ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=L7AZsStHoLJhkTJrJvDrQg&_nc_zt=28&oh=00_AffVkkDdM67XK1h8G8YMxjz0ZSWliqzewDzvzff_HZoxdQ&oe=68FE44C9&bytestart=0&byteend=3025484', '2025-10-22T05:41:27.000Z')
+================================================================================
+2025-10-22 08:44:16,704 - INFO - 処理開始 PROCESSID:20251022_084413
+2025-10-22 08:44:16,704 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-22 08:44:16,704 - INFO - 処理を開始します
+2025-10-22 08:44:16,763 - INFO - 選択されたプロファイル: Profile 12
+2025-10-22 08:44:16,763 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-22 08:44:21,559 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-22 08:44:44,184 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 08:44:44,839 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-22 08:44:44,839 - INFO - datetime属性の抽出を開始します
+2025-10-22 08:44:45,340 - INFO - 抽出されたdatetime: 2025-10-22T05:41:27.000Z
+2025-10-22 08:44:45,340 - INFO - anartsoho_shun の投稿日時: 2025-10-22T05:41:27.000Z
+2025-10-22 08:44:47,163 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Y8CQ1gzbQk8Q7kNvwF9sRtJ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=7g6Y37pzGKiekzFppFvtsQ&_nc_zt=28&oh=00_AfdjWEkOOPeHi2tRdCbWXKZtboKC5hyurEK3Zduw5kv_Wg&oe=68FE7D09&bytestart=0&byteend=3025484
+2025-10-22 08:44:47,163 - INFO - 動画URLを取得しました
+2025-10-22 08:44:47,169 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=anartsoho_shun, key=AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw, dt=2025-10-22T05:41:27.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Y8CQ1gzbQk8Q7kNvwF9sRtJ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=7g6Y37pzGKiekzFppFvtsQ&_nc_zt=28&oh=00_AfdjWEkOOPeHi2tRdCbWXKZtboKC5hyurEK3Zduw5kv_Wg&oe=68FE7D09&bytestart=0&byteend=3025484, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('anartsoho_shun', 'AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Y8CQ1gzbQk8Q7kNvwF9sRtJ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=7g6Y37pzGKiekzFppFvtsQ&_nc_zt=28&oh=00_AfdjWEkOOPeHi2tRdCbWXKZtboKC5hyurEK3Zduw5kv_Wg&oe=68FE7D09&bytestart=0&byteend=3025484', '2025-10-22T05:41:27.000Z')
+================================================================================
+2025-10-22 12:52:47,428 - INFO - 処理開始 PROCESSID:20251022_125244
+2025-10-22 12:52:47,428 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-22 12:52:47,428 - INFO - 処理を開始します
+2025-10-22 12:52:47,489 - INFO - 選択されたプロファイル: Profile 13
+2025-10-22 12:52:47,489 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-22 12:52:52,012 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-22 12:53:14,224 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 12:53:14,906 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-22 12:53:14,906 - INFO - datetime属性の抽出を開始します
+2025-10-22 12:53:14,973 - INFO - 抽出されたdatetime: 2025-10-22T05:41:27.000Z
+2025-10-22 12:53:14,973 - INFO - anartsoho_shun の投稿日時: 2025-10-22T05:41:27.000Z
+2025-10-22 12:53:16,191 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Y8CQ1gzbQk8Q7kNvwF9sRtJ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QSMLZMIRmcD0jgDiB8gUvQ&_nc_zt=28&oh=00_AffmxRomcqN9o2LpD7zhGDhBa6ZCaY-i4I5WoJotyRMozw&oe=68FEB549&bytestart=0&byteend=3025484
+2025-10-22 12:53:16,192 - INFO - 動画URLを取得しました
+2025-10-22 12:53:16,197 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=anartsoho_shun, key=AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw, dt=2025-10-22T05:41:27.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Y8CQ1gzbQk8Q7kNvwF9sRtJ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QSMLZMIRmcD0jgDiB8gUvQ&_nc_zt=28&oh=00_AffmxRomcqN9o2LpD7zhGDhBa6ZCaY-i4I5WoJotyRMozw&oe=68FEB549&bytestart=0&byteend=3025484, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('anartsoho_shun', 'AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Y8CQ1gzbQk8Q7kNvwF9sRtJ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=QSMLZMIRmcD0jgDiB8gUvQ&_nc_zt=28&oh=00_AffmxRomcqN9o2LpD7zhGDhBa6ZCaY-i4I5WoJotyRMozw&oe=68FEB549&bytestart=0&byteend=3025484', '2025-10-22T05:41:27.000Z')
+================================================================================
+2025-10-22 16:57:04,713 - INFO - 処理開始 PROCESSID:20251022_165701
+2025-10-22 16:57:04,713 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-22 16:57:04,713 - INFO - 処理を開始します
+2025-10-22 16:57:04,775 - INFO - 選択されたプロファイル: Profile 12
+2025-10-22 16:57:04,775 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-22 16:57:09,416 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-22 16:57:31,274 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 16:57:32,296 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-22 16:57:32,296 - INFO - datetime属性の抽出を開始します
+2025-10-22 16:57:32,428 - INFO - 抽出されたdatetime: 2025-10-22T05:41:27.000Z
+2025-10-22 16:57:32,428 - INFO - anartsoho_shun の投稿日時: 2025-10-22T05:41:27.000Z
+2025-10-22 16:57:33,890 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Y8CQ1gzbQk8Q7kNvwF9sRtJ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=2f-rw_kilRAg3eJOgCsqMg&_nc_zt=28&oh=00_AfclYIHv2NszkP3OE9TU0F9wex5dodRBXiE0OGXEvmqU1Q&oe=68FEED89&bytestart=0&byteend=3025484
+2025-10-22 16:57:33,891 - INFO - 動画URLを取得しました
+2025-10-22 16:57:34,027 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=anartsoho_shun, key=AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw, dt=2025-10-22T05:41:27.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Y8CQ1gzbQk8Q7kNvwF9sRtJ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=2f-rw_kilRAg3eJOgCsqMg&_nc_zt=28&oh=00_AfclYIHv2NszkP3OE9TU0F9wex5dodRBXiE0OGXEvmqU1Q&oe=68FEED89&bytestart=0&byteend=3025484, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('anartsoho_shun', 'AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQOYw9s8VWo0g0e3vgQhdl7odqOxkUuyH5I1IbFVLFl_DRwWf-mOUsBmXPzTOw-sEOlNYLjpBlaYffQgdElFeMt-GNE1UQDw-MFmO2eHcbPKkw.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Y8CQ1gzbQk8Q7kNvwF9sRtJ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4NjkzNTQxNjI5MjAxMjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=2f-rw_kilRAg3eJOgCsqMg&_nc_zt=28&oh=00_AfclYIHv2NszkP3OE9TU0F9wex5dodRBXiE0OGXEvmqU1Q&oe=68FEED89&bytestart=0&byteend=3025484', '2025-10-22T05:41:27.000Z')
+================================================================================
+2025-10-22 20:53:58,126 - INFO - 処理開始 PROCESSID:20251022_205354
+2025-10-22 20:53:58,126 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-22 20:53:58,126 - INFO - 処理を開始します
+2025-10-22 20:53:58,185 - INFO - 選択されたプロファイル: Profile 9
+2025-10-22 20:53:58,185 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-22 20:54:02,889 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-22 20:54:24,678 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 20:54:25,355 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-22 20:54:25,355 - INFO - datetime属性の抽出を開始します
+2025-10-22 20:54:25,381 - INFO - 抽出されたdatetime: 2025-10-22T05:41:27.000Z
+2025-10-22 20:54:25,381 - INFO - anartsoho_shun の投稿日時: 2025-10-22T05:41:27.000Z
+2025-10-22 20:54:26,671 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMavQpj5qoPKKcicEU5ON9DGBQeEYt2DeRX3TL56xR2WQf3QT98HI_Aaww3ELQUJKfvXtuCqGiQZAO4XxinkIP597jT8kLbhAmxdJSwJxWd2g.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=RhUlu8WcPtsQ7kNvwFmMvpw&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMzYwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMjU5MjA0NDY2MjM1ODA4LCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6NjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=yOWBMPVOEuBfnIx9JDLHkw&_nc_zt=28&oh=00_AffOHZ8WT9EbrRW15ji3_GXAJtzAF09tlQxxJjf0I5A8Ag&oe=68FF26C6&bytestart=0&byteend=629584
+2025-10-22 20:54:26,813 - INFO - 動画URLを取得しました
+2025-10-22 20:54:26,927 - INFO - INSERT(with-key): user=anartsoho_shun, key=AQMavQpj5qoPKKcicEU5ON9DGBQeEYt2DeRX3TL56xR2WQf3QT98HI_Aaww3ELQUJKfvXtuCqGiQZAO4XxinkIP597jT8kLbhAmxdJSwJxWd2g, dt=2025-10-22T05:41:27.000Z
+2025-10-22 20:54:28,929 - INFO - ダウンロードを開始します: media\anartsoho_shun\anartsoho_shun_20251022205428.mp4
+2025-10-22 20:54:31,179 - INFO - ダウンロード完了: media\anartsoho_shun\anartsoho_shun_20251022205428.mp4
+2025-10-22 20:54:36,321 - INFO - 処理終了
+2025-10-22 20:54:36,323 - INFO - 説明文_AI: None
+2025-10-22 20:54:36,323 - INFO - 説明文_最終: 
+================================================================================
+2025-10-22 20:54:42,243 - INFO - 処理開始: Mode=story, Username=anartsoho_shun, GBP=5450809710664299854
+2025-10-22 20:54:42,245 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICI1NDUwODA5NzEwNjY0Mjk5ODU0Il0.
+2025-10-22 20:55:06,559 - INFO - 元の動画サイズ: 360x640
+2025-10-22 20:55:06,559 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-22 20:55:06,559 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\anartsoho_shun\anartsoho_shun_20251022205428.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\anartsoho_shun\anartsoho_shun_20251022205428_resized.mp4
+2025-10-22 20:55:15,841 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\anartsoho_shun\anartsoho_shun_20251022205428_resized.mp4
+2025-10-22 20:55:15,843 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\anartsoho_shun\anartsoho_shun_20251022205428.mp4
+2025-10-22 20:55:15,843 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\anartsoho_shun\anartsoho_shun_20251022205428_resized.mp4
+2025-10-22 20:55:26,194 - INFO - 一時ファイルが見つかりません: media\anartsoho_shun\description\20251022_205354
+2025-10-22 20:55:26,194 - INFO - Looking for button section...
+2025-10-22 20:55:31,003 - INFO - Trying to select CALL option...
+2025-10-22 20:55:31,221 - INFO - CALL option successfully selected
+2025-10-22 20:55:33,222 - INFO - Clicking submit button...
+2025-10-22 20:55:41,864 - INFO - 処理完了
+================================================================================
+2025-10-22 23:37:49,670 - INFO - 処理開始 PROCESSID:20251022_233746
+2025-10-22 23:37:49,670 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-22 23:37:49,670 - INFO - 処理を開始します
+2025-10-22 23:37:49,731 - INFO - 選択されたプロファイル: Profile 13
+2025-10-22 23:37:49,731 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-22 23:37:54,353 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-22 23:38:16,196 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 23:38:16,737 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-22 23:38:16,737 - INFO - datetime属性の抽出を開始します
+2025-10-22 23:38:17,125 - INFO - 抽出されたdatetime: 2025-10-22T05:41:27.000Z
+2025-10-22 23:38:17,126 - INFO - anartsoho_shun の投稿日時: 2025-10-22T05:41:27.000Z
+2025-10-22 23:38:18,574 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQPSQhJgMy92jMu7m2dLO4yLjvKkQ7Jcb0b0S6l8L5fQb9lx-Xao_8e8GnnfFm30nChdkNeiXZYv5JDeLZFEMLuJibHvCJLhcld6lkEBZF_W8Q.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=3y8EW_PZ7MoQ7kNvwGWG6Ho&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTI1OTIwNDQ2NjIzNTgwOCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjYwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OaMukNSMD1XYweukDbI_Rw&_nc_zt=28&oh=00_AffBF-4-M22e0pnw-hzdhu8qDe_GXn7B7znmhYJk30SPJg&oe=68FF4CCC&bytestart=0&byteend=1572618
+2025-10-22 23:38:18,574 - INFO - 動画URLを取得しました
+2025-10-22 23:38:18,732 - INFO - INSERT(with-key): user=anartsoho_shun, key=AQPSQhJgMy92jMu7m2dLO4yLjvKkQ7Jcb0b0S6l8L5fQb9lx-Xao_8e8GnnfFm30nChdkNeiXZYv5JDeLZFEMLuJibHvCJLhcld6lkEBZF_W8Q, dt=2025-10-22T05:41:27.000Z
+2025-10-22 23:38:20,737 - INFO - ダウンロードを開始します: media\anartsoho_shun\anartsoho_shun_20251022233820.mp4
+2025-10-22 23:38:23,261 - INFO - ダウンロード完了: media\anartsoho_shun\anartsoho_shun_20251022233820.mp4
+2025-10-22 23:38:26,962 - INFO - 処理終了
+2025-10-22 23:38:26,970 - INFO - 説明文_AI: None
+2025-10-22 23:38:26,970 - INFO - 説明文_最終: 
+================================================================================
+2025-10-22 23:38:33,048 - INFO - 処理開始: Mode=story, Username=anartsoho_shun, GBP=5450809710664299854
+2025-10-22 23:38:33,048 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICI1NDUwODA5NzEwNjY0Mjk5ODU0Il0.
+2025-10-22 23:38:56,951 - INFO - 元の動画サイズ: 1080x1920
+2025-10-22 23:38:56,951 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-22 23:38:56,951 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\anartsoho_shun\anartsoho_shun_20251022233820.mp4
+2025-10-22 23:39:07,018 - INFO - 一時ファイルが見つかりません: media\anartsoho_shun\description\20251022_233746
+2025-10-22 23:39:07,018 - INFO - Looking for button section...
+2025-10-22 23:39:11,529 - INFO - Trying to select CALL option...
+2025-10-22 23:39:11,799 - INFO - CALL option successfully selected
+2025-10-22 23:39:13,799 - INFO - Clicking submit button...
+2025-10-22 23:39:22,442 - INFO - 処理完了

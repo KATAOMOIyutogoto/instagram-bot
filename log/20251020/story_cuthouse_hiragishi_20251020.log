@@ -1,0 +1,161 @@
+================================================================================
+2025-10-20 00:00:06,415 - INFO - 処理開始 PROCESSID:20251019_235959
+2025-10-20 00:00:06,415 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-20 00:00:06,415 - INFO - 処理を開始します
+2025-10-20 00:00:06,576 - INFO - 選択されたプロファイル: Profile 12
+2025-10-20 00:00:06,576 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-20 00:00:23,272 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-20 00:00:55,438 - INFO - プロフィール写真のクリックに成功しました
+2025-10-20 00:00:58,707 - INFO - 動画の取得に失敗しました
+2025-10-20 00:00:58,708 - INFO - datetime属性の抽出を開始します
+2025-10-20 00:00:58,779 - INFO - 抽出されたdatetime: 2025-10-19T00:56:26.000Z
+2025-10-20 00:00:58,809 - INFO - 画像URLを取得しました
+2025-10-20 00:00:58,814 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc0NjQ4MTI1NDY1ODM0OTg1MQ==, dt=2025-10-19T00:56:26.000Z
+================================================================================
+2025-10-20 05:51:16,590 - INFO - 処理開始 PROCESSID:20251020_055113
+2025-10-20 05:51:16,590 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-20 05:51:16,590 - INFO - 処理を開始します
+2025-10-20 05:51:16,649 - INFO - 選択されたプロファイル: Profile 13
+2025-10-20 05:51:16,649 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-20 05:51:21,110 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-20 05:51:43,874 - INFO - プロフィール写真のクリックに成功しました
+2025-10-20 05:51:47,245 - INFO - 動画の取得に失敗しました
+2025-10-20 05:51:47,247 - INFO - datetime属性の抽出を開始します
+2025-10-20 05:51:57,355 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdcfe83+66515]
+	GetHandleVerifier [0x0xdcfec4+66580]
+	(No symbol) [0x0xbbdc48]
+	(No symbol) [0x0xc08704]
+	(No symbol) [0x0xc08aab]
+	(No symbol) [0x0xc4f482]
+	(No symbol) [0x0xc2b214]
+	(No symbol) [0x0xc4cba7]
+	(No symbol) [0x0xc2afc6]
+	(No symbol) [0x0xbfc2ca]
+	(No symbol) [0x0xbfd154]
+	GetHandleVerifier [0x0x10273b3+2521347]
+	GetHandleVerifier [0x0x1022333+2500739]
+	GetHandleVerifier [0x0xdf7cd4+229924]
+	GetHandleVerifier [0x0xde8238+165768]
+	GetHandleVerifier [0x0xdeeced+193085]
+	GetHandleVerifier [0x0xdd8198+100072]
+	GetHandleVerifier [0x0xdd8330+100480]
+	GetHandleVerifier [0x0xdc25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-20 05:52:07,665 - INFO - 画像の取得に失敗しました
+2025-10-20 05:52:10,040 - INFO - 処理終了
+================================================================================
+2025-10-20 11:50:26,319 - INFO - 処理開始 PROCESSID:20251020_115022
+2025-10-20 11:50:26,319 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-20 11:50:26,321 - INFO - 処理を開始します
+2025-10-20 11:50:26,387 - INFO - 選択されたプロファイル: Profile 9
+2025-10-20 11:50:26,387 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-20 11:50:31,577 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-20 11:50:53,678 - INFO - プロフィール写真のクリックに成功しました
+2025-10-20 11:50:56,999 - INFO - 動画の取得に失敗しました
+2025-10-20 11:50:56,999 - INFO - datetime属性の抽出を開始します
+2025-10-20 11:51:07,275 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdcfe83+66515]
+	GetHandleVerifier [0x0xdcfec4+66580]
+	(No symbol) [0x0xbbdc48]
+	(No symbol) [0x0xc08704]
+	(No symbol) [0x0xc08aab]
+	(No symbol) [0x0xc4f482]
+	(No symbol) [0x0xc2b214]
+	(No symbol) [0x0xc4cba7]
+	(No symbol) [0x0xc2afc6]
+	(No symbol) [0x0xbfc2ca]
+	(No symbol) [0x0xbfd154]
+	GetHandleVerifier [0x0x10273b3+2521347]
+	GetHandleVerifier [0x0x1022333+2500739]
+	GetHandleVerifier [0x0xdf7cd4+229924]
+	GetHandleVerifier [0x0xde8238+165768]
+	GetHandleVerifier [0x0xdeeced+193085]
+	GetHandleVerifier [0x0xdd8198+100072]
+	GetHandleVerifier [0x0xdd8330+100480]
+	GetHandleVerifier [0x0xdc25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-20 11:51:17,607 - INFO - 画像の取得に失敗しました
+2025-10-20 11:51:19,988 - INFO - 処理終了
+================================================================================
+2025-10-20 17:48:31,005 - INFO - 処理開始 PROCESSID:20251020_174827
+2025-10-20 17:48:31,005 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-20 17:48:31,007 - INFO - 処理を開始します
+2025-10-20 17:48:31,066 - INFO - 選択されたプロファイル: Profile 13
+2025-10-20 17:48:31,068 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-20 17:48:36,008 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-20 17:48:57,975 - INFO - プロフィール写真のクリックに成功しました
+2025-10-20 17:49:01,239 - INFO - 動画の取得に失敗しました
+2025-10-20 17:49:01,240 - INFO - datetime属性の抽出を開始します
+2025-10-20 17:49:11,632 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdcfe83+66515]
+	GetHandleVerifier [0x0xdcfec4+66580]
+	(No symbol) [0x0xbbdc48]
+	(No symbol) [0x0xc08704]
+	(No symbol) [0x0xc08aab]
+	(No symbol) [0x0xc4f482]
+	(No symbol) [0x0xc2b214]
+	(No symbol) [0x0xc4cba7]
+	(No symbol) [0x0xc2afc6]
+	(No symbol) [0x0xbfc2ca]
+	(No symbol) [0x0xbfd154]
+	GetHandleVerifier [0x0x10273b3+2521347]
+	GetHandleVerifier [0x0x1022333+2500739]
+	GetHandleVerifier [0x0xdf7cd4+229924]
+	GetHandleVerifier [0x0xde8238+165768]
+	GetHandleVerifier [0x0xdeeced+193085]
+	GetHandleVerifier [0x0xdd8198+100072]
+	GetHandleVerifier [0x0xdd8330+100480]
+	GetHandleVerifier [0x0xdc25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-20 17:49:21,909 - INFO - 画像の取得に失敗しました
+2025-10-20 17:49:24,278 - INFO - 処理終了
+================================================================================
+2025-10-20 23:29:37,934 - INFO - 処理開始 PROCESSID:20251020_232934
+2025-10-20 23:29:37,934 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-20 23:29:37,934 - INFO - 処理を開始します
+2025-10-20 23:29:37,992 - INFO - 選択されたプロファイル: Profile 9
+2025-10-20 23:29:37,993 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-20 23:29:43,042 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-20 23:30:05,354 - INFO - プロフィール写真のクリックに成功しました
+2025-10-20 23:30:08,683 - INFO - 動画の取得に失敗しました
+2025-10-20 23:30:08,685 - INFO - datetime属性の抽出を開始します
+2025-10-20 23:30:19,187 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdcfe83+66515]
+	GetHandleVerifier [0x0xdcfec4+66580]
+	(No symbol) [0x0xbbdc48]
+	(No symbol) [0x0xc08704]
+	(No symbol) [0x0xc08aab]
+	(No symbol) [0x0xc4f482]
+	(No symbol) [0x0xc2b214]
+	(No symbol) [0x0xc4cba7]
+	(No symbol) [0x0xc2afc6]
+	(No symbol) [0x0xbfc2ca]
+	(No symbol) [0x0xbfd154]
+	GetHandleVerifier [0x0x10273b3+2521347]
+	GetHandleVerifier [0x0x1022333+2500739]
+	GetHandleVerifier [0x0xdf7cd4+229924]
+	GetHandleVerifier [0x0xde8238+165768]
+	GetHandleVerifier [0x0xdeeced+193085]
+	GetHandleVerifier [0x0xdd8198+100072]
+	GetHandleVerifier [0x0xdd8330+100480]
+	GetHandleVerifier [0x0xdc25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-20 23:30:29,467 - INFO - 画像の取得に失敗しました
+2025-10-20 23:30:32,873 - INFO - 処理終了

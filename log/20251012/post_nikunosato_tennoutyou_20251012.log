@@ -1,0 +1,227 @@
+================================================================================
+2025-10-12 01:10:54,252 - INFO - 処理開始 PROCESSID:20251012_011050
+2025-10-12 01:10:54,254 - INFO - 対象ユーザー: nikunosato_tennoutyou
+2025-10-12 01:10:54,254 - INFO - 処理を開始します
+2025-10-12 01:10:54,314 - INFO - 選択されたプロファイル: Profile 13
+2025-10-12 01:10:54,314 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-12 01:10:59,964 - INFO - nikunosato_tennoutyou のプロフィールページにアクセスします
+2025-10-12 01:11:12,319 - INFO - 最新投稿を読み込みます
+2025-10-12 01:11:17,748 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_tennoutyou/reel/DPrup7pj63O/?hl=ja
+2025-10-12 01:11:22,061 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 01:11:26,617 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 01:11:26,967 - INFO - datetime属性の抽出を開始します
+2025-10-12 01:11:27,401 - INFO - 抽出されたdatetime: 2025-10-11T21:00:04.000Z
+2025-10-12 01:11:27,401 - INFO - nikunosato_tennoutyou の投稿日時: 2025-10-11T21:00:04.000Z
+2025-10-12 01:11:27,552 - INFO - date:2025-10-12 06:00:04+09:00
+2025-10-12 01:11:27,552 - INFO - post_date:20251012
+2025-10-12 01:11:27,729 - INFO - 1枚目: blob:https://www.instagram.com/f8c0abb5-e516-48fa-b02d-ceafad5464cc
+2025-10-12 01:11:27,729 - INFO - [caption/by_username] 開始
+2025-10-12 01:11:29,234 - INFO - [caption/by_username] 説明文確定（先頭100）: '🍶✨お知らせ✨🍻
+ついに！当店も ご予約受付スタート しました👏
+
+「行きたいけど席空いてるかな…」と心配せず、
+安心してご来店いただけます😊
+本当にお待たせしてすみません。
+📅ご予約はお電話でお気軽'
+2025-10-12 01:11:29,236 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_tennoutyou\description\20251012_011050
+2025-10-12 01:11:31,543 - INFO - 生成URL:https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=7vxHLhW9ku4Q7kNvwEK00yU&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-7vWIcoujD72eVcKZQG9rA&_nc_zt=28&oh=00_AfeTW3tcRKkoua_pqrm_AKqpc5V-ZYIXls8rrw-_2IA2ug&oe=68F0D4EC&bytestart=0&byteend=1815922
+2025-10-12 01:11:31,559 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_tennoutyou, key=AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg, dt=2025-10-11T21:00:04.000Z, url=https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=7vxHLhW9ku4Q7kNvwEK00yU&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-7vWIcoujD72eVcKZQG9rA&_nc_zt=28&oh=00_AfeTW3tcRKkoua_pqrm_AKqpc5V-ZYIXls8rrw-_2IA2ug&oe=68F0D4EC&bytestart=0&byteend=1815922, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_tennoutyou', 'AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg', 'https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=7vxHLhW9ku4Q7kNvwEK00yU&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-7vWIcoujD72eVcKZQG9rA&_nc_zt=28&oh=00_AfeTW3tcRKkoua_pqrm_AKqpc5V-ZYIXls8rrw-_2IA2ug&oe=68F0D4EC&bytestart=0&byteend=1815922', '2025-10-11T21:00:04.000Z')
+2025-10-12 01:11:31,560 - INFO - このレコードは存在します
+2025-10-12 01:11:31,560 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-12 05:12:12,210 - INFO - 処理開始 PROCESSID:20251012_051208
+2025-10-12 05:12:12,210 - INFO - 対象ユーザー: nikunosato_tennoutyou
+2025-10-12 05:12:12,210 - INFO - 処理を開始します
+2025-10-12 05:12:12,271 - INFO - 選択されたプロファイル: Profile 13
+2025-10-12 05:12:12,271 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-12 05:12:16,939 - INFO - nikunosato_tennoutyou のプロフィールページにアクセスします
+2025-10-12 05:12:29,073 - INFO - 最新投稿を読み込みます
+2025-10-12 05:12:34,748 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_tennoutyou/reel/DPrup7pj63O/?hl=ja
+2025-10-12 05:12:39,622 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 05:12:43,626 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 05:12:44,085 - INFO - datetime属性の抽出を開始します
+2025-10-12 05:12:44,476 - INFO - 抽出されたdatetime: 2025-10-11T21:00:04.000Z
+2025-10-12 05:12:44,476 - INFO - nikunosato_tennoutyou の投稿日時: 2025-10-11T21:00:04.000Z
+2025-10-12 05:12:44,782 - INFO - date:2025-10-12 06:00:04+09:00
+2025-10-12 05:12:44,782 - INFO - post_date:20251012
+2025-10-12 05:12:46,538 - INFO - 1枚目: blob:https://www.instagram.com/afcf272d-1960-4fc8-b6b2-ab7f60dc41ea
+2025-10-12 05:12:46,539 - INFO - [caption/by_username] 開始
+2025-10-12 05:12:46,722 - INFO - [caption/by_username] 説明文確定（先頭100）: '🍶✨お知らせ✨🍻
+ついに！当店も ご予約受付スタート しました👏
+
+「行きたいけど席空いてるかな…」と心配せず、
+安心してご来店いただけます😊
+本当にお待たせしてすみません。
+📅ご予約はお電話でお気軽'
+2025-10-12 05:12:46,723 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_tennoutyou\description\20251012_051208
+2025-10-12 05:12:49,447 - INFO - 生成URL:https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=7vxHLhW9ku4Q7kNvwEK00yU&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=MCvKp_z5JSyGeJN6SSCgNA&_nc_zt=28&oh=00_Afdl1fdZxWAolc-i2rOzCPA9rJEbBWh6vJGZVe72BMDi-A&oe=68F10D2C&bytestart=0&byteend=1815922
+2025-10-12 05:12:49,455 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_tennoutyou, key=AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg, dt=2025-10-11T21:00:04.000Z, url=https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=7vxHLhW9ku4Q7kNvwEK00yU&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=MCvKp_z5JSyGeJN6SSCgNA&_nc_zt=28&oh=00_Afdl1fdZxWAolc-i2rOzCPA9rJEbBWh6vJGZVe72BMDi-A&oe=68F10D2C&bytestart=0&byteend=1815922, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_tennoutyou', 'AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg', 'https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=7vxHLhW9ku4Q7kNvwEK00yU&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=MCvKp_z5JSyGeJN6SSCgNA&_nc_zt=28&oh=00_Afdl1fdZxWAolc-i2rOzCPA9rJEbBWh6vJGZVe72BMDi-A&oe=68F10D2C&bytestart=0&byteend=1815922', '2025-10-11T21:00:04.000Z')
+2025-10-12 05:12:49,455 - INFO - このレコードは存在します
+2025-10-12 05:12:49,455 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-12 09:09:35,153 - INFO - 処理開始 PROCESSID:20251012_090931
+2025-10-12 09:09:35,153 - INFO - 対象ユーザー: nikunosato_tennoutyou
+2025-10-12 09:09:35,153 - INFO - 処理を開始します
+2025-10-12 09:09:35,211 - INFO - 選択されたプロファイル: Profile 13
+2025-10-12 09:09:35,213 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-12 09:09:40,038 - INFO - nikunosato_tennoutyou のプロフィールページにアクセスします
+2025-10-12 09:09:52,223 - INFO - 最新投稿を読み込みます
+2025-10-12 09:09:57,785 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_tennoutyou/reel/DPrup7pj63O/?hl=ja
+2025-10-12 09:10:06,321 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 09:10:10,742 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 09:10:11,105 - INFO - datetime属性の抽出を開始します
+2025-10-12 09:10:11,367 - INFO - 抽出されたdatetime: 2025-10-11T21:00:04.000Z
+2025-10-12 09:10:11,369 - INFO - nikunosato_tennoutyou の投稿日時: 2025-10-11T21:00:04.000Z
+2025-10-12 09:10:11,612 - INFO - date:2025-10-12 06:00:04+09:00
+2025-10-12 09:10:11,613 - INFO - post_date:20251012
+2025-10-12 09:10:12,367 - INFO - 1枚目: blob:https://www.instagram.com/bbb6bbfc-04a6-40cf-aa5f-f3935974a682
+2025-10-12 09:10:12,367 - INFO - [caption/by_username] 開始
+2025-10-12 09:10:12,486 - INFO - [caption/by_username] 説明文確定（先頭100）: '🍶✨お知らせ✨🍻
+ついに！当店も ご予約受付スタート しました👏
+
+「行きたいけど席空いてるかな…」と心配せず、
+安心してご来店いただけます😊
+本当にお待たせしてすみません。
+📅ご予約はお電話でお気軽'
+2025-10-12 09:10:12,488 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_tennoutyou\description\20251012_090931
+2025-10-12 09:10:14,736 - INFO - 生成URL:https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=7vxHLhW9ku4Q7kNvwEK00yU&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=hE_qF4E1PFaSxyLNMQBS7Q&_nc_zt=28&oh=00_Aff2st-3FWFKJkM-6fGAqlFL0mrX4JRKCrF5hOycYYb_Dw&oe=68F1456C&bytestart=0&byteend=1815922
+2025-10-12 09:10:14,738 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=nikunosato_tennoutyou, key=AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg, dt=2025-10-11T21:00:04.000Z, url=https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=7vxHLhW9ku4Q7kNvwEK00yU&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=hE_qF4E1PFaSxyLNMQBS7Q&_nc_zt=28&oh=00_Aff2st-3FWFKJkM-6fGAqlFL0mrX4JRKCrF5hOycYYb_Dw&oe=68F1456C&bytestart=0&byteend=1815922, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('nikunosato_tennoutyou', 'AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg', 'https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQPhFk6XQOPLAwjJEIBMzPcL1Lxjd4D6nvdUwu6aygMxWKq3X03o98b8OXEJ7WiMICFVhQdlq6rjq1K-C9Y_sMdy0zVLfWyr2QsC2y-Cp8yusg.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=7vxHLhW9ku4Q7kNvwEK00yU&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMzQzOTI5Mzc3MzA4MDk4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=hE_qF4E1PFaSxyLNMQBS7Q&_nc_zt=28&oh=00_Aff2st-3FWFKJkM-6fGAqlFL0mrX4JRKCrF5hOycYYb_Dw&oe=68F1456C&bytestart=0&byteend=1815922', '2025-10-11T21:00:04.000Z')
+2025-10-12 09:10:14,739 - INFO - このレコードは存在します
+2025-10-12 09:10:14,739 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-12 13:09:06,220 - INFO - 処理開始 PROCESSID:20251012_130902
+2025-10-12 13:09:06,220 - INFO - 対象ユーザー: nikunosato_tennoutyou
+2025-10-12 13:09:06,220 - INFO - 処理を開始します
+2025-10-12 13:09:06,276 - INFO - 選択されたプロファイル: Profile 12
+2025-10-12 13:09:06,276 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-12 13:09:11,015 - INFO - nikunosato_tennoutyou のプロフィールページにアクセスします
+2025-10-12 13:09:23,420 - INFO - 最新投稿を読み込みます
+2025-10-12 13:09:28,708 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_tennoutyou/reel/DPrup7pj63O/?hl=ja
+2025-10-12 13:09:33,757 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 13:09:37,772 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 13:09:37,808 - INFO - datetime属性の抽出を開始します
+2025-10-12 13:09:37,868 - INFO - 抽出されたdatetime: 2025-10-11T21:00:04.000Z
+2025-10-12 13:09:37,868 - INFO - nikunosato_tennoutyou の投稿日時: 2025-10-11T21:00:04.000Z
+2025-10-12 13:09:37,874 - INFO - date:2025-10-12 06:00:04+09:00
+2025-10-12 13:09:37,874 - INFO - post_date:20251012
+2025-10-12 13:09:37,899 - INFO - 1枚目: blob:https://www.instagram.com/1f85f6bd-4ed4-41bf-be82-3b1f5f48901d
+2025-10-12 13:09:37,899 - INFO - [caption/by_username] 開始
+2025-10-12 13:09:38,002 - INFO - [caption/by_username] 説明文確定（先頭100）: '🍶✨お知らせ✨🍻
+ついに！当店も ご予約受付スタート しました👏
+
+「行きたいけど席空いてるかな…」と心配せず、
+安心してご来店いただけます😊
+本当にお待たせしてすみません。
+📅ご予約はお電話でお気軽'
+2025-10-12 13:09:38,004 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_tennoutyou\description\20251012_130902
+2025-10-12 13:09:41,068 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQPcJ9L-G9QpwqqrIsfPL1ehLddkW10C86a6OtKcK9P5Z8EdOFGizw6BwnPnlLbipQ4CHCDWTkzROcNkpiYQ_Cra6iSojm8FeZopZZS1YCJQdg.mp4?_nc_cat=102&_nc_oc=AdkEM7sCtT7_aXT1zuAEulSrXK6QcWUL7ctylxUKpf0ktArJj0lhdda5Dj8HMSaSL14&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=72wrLDRX5_UQ7kNvwEJQSsG&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMDExMjYzNjA5Njk2NDA1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NCwid2F0Y2hfdGltZV9zIjoyODY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=0NAgS0oQ8U9MSLmDKqBW8A&_nc_zt=28&oh=00_AfcT34cdO8RqIEjzW2WrUezMpoFtuKYjhCVdaDotZ3j9DQ&oe=68F187EA&bytestart=0&byteend=246364
+2025-10-12 13:09:41,073 - INFO - DUP(with-key): user=nikunosato_tennoutyou, key=AQPcJ9L-G9QpwqqrIsfPL1ehLddkW10C86a6OtKcK9P5Z8EdOFGizw6BwnPnlLbipQ4CHCDWTkzROcNkpiYQ_Cra6iSojm8FeZopZZS1YCJQdg, dt=2025-10-11T21:00:04.000Z
+2025-10-12 13:09:41,073 - INFO - このレコードは存在します
+2025-10-12 13:09:41,074 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-12 17:04:30,213 - INFO - 処理開始 PROCESSID:20251012_170426
+2025-10-12 17:04:30,213 - INFO - 対象ユーザー: nikunosato_tennoutyou
+2025-10-12 17:04:30,213 - INFO - 処理を開始します
+2025-10-12 17:04:30,270 - INFO - 選択されたプロファイル: Profile 9
+2025-10-12 17:04:30,270 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-12 17:04:34,906 - INFO - nikunosato_tennoutyou のプロフィールページにアクセスします
+2025-10-12 17:04:47,388 - INFO - 最新投稿を読み込みます
+2025-10-12 17:04:52,750 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_tennoutyou/reel/DPrup7pj63O/?hl=ja
+2025-10-12 17:04:56,320 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 17:05:01,140 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 17:05:01,268 - INFO - datetime属性の抽出を開始します
+2025-10-12 17:05:01,343 - INFO - 抽出されたdatetime: 2025-10-11T21:00:04.000Z
+2025-10-12 17:05:01,343 - INFO - nikunosato_tennoutyou の投稿日時: 2025-10-11T21:00:04.000Z
+2025-10-12 17:05:01,387 - INFO - date:2025-10-12 06:00:04+09:00
+2025-10-12 17:05:01,387 - INFO - post_date:20251012
+2025-10-12 17:05:01,418 - INFO - 1枚目: blob:https://www.instagram.com/78be3b39-2412-47be-925c-0b655a2e4d60
+2025-10-12 17:05:01,418 - INFO - [caption/by_username] 開始
+2025-10-12 17:05:01,618 - INFO - [caption/by_username] 説明文確定（先頭100）: '🍶✨お知らせ✨🍻
+ついに！当店も ご予約受付スタート しました👏
+
+「行きたいけど席空いてるかな…」と心配せず、
+安心してご来店いただけます😊
+本当にお待たせしてすみません。
+📅ご予約はお電話でお気軽'
+2025-10-12 17:05:01,620 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_tennoutyou\description\20251012_170426
+2025-10-12 17:05:04,676 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQOfT2VRC-eYYtwmfGKGXRkK2Qrm7Z8j1Srolx1GkGY5DFUZe5WkXE29zcED_6oczTOLsZMom1oIDNWLU_3rWU5OCAGvDo1EVCFOTR0.mp4?_nc_cat=104&_nc_oc=AdkAOeKekzO1atx_otH-x3AogouEywnioCLZQq6tg9AhSpgQpV60CfhX45Pg5YZBj2c&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=ycO4jl_TCcQQ7kNvwGawViQ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MTEwMjczODE0MTczOTYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=rGZtvflken9KvpzkfwVgew&_nc_zt=28&oh=00_Afe5LHmW765rjMgRN2vmJBnwlrAztwNlRlyF4kIPu-P6Dw&oe=68EDB7E1&bytestart=0&byteend=142981
+2025-10-12 17:05:04,794 - INFO - INSERT(with-key): user=nikunosato_tennoutyou, key=AQOfT2VRC-eYYtwmfGKGXRkK2Qrm7Z8j1Srolx1GkGY5DFUZe5WkXE29zcED_6oczTOLsZMom1oIDNWLU_3rWU5OCAGvDo1EVCFOTR0, dt=2025-10-11T21:00:04.000Z
+2025-10-12 17:05:06,795 - INFO - ダウンロードを開始します: media\nikunosato_tennoutyou\nikunosato_tennoutyou_20251012170506.mp4
+2025-10-12 17:05:07,011 - INFO - ダウンロード完了: media\nikunosato_tennoutyou\nikunosato_tennoutyou_20251012170506.mp4
+2025-10-12 17:05:07,012 - INFO - 説明文:🍶✨お知らせ✨🍻
+ついに！当店も ご予約受付スタート しました👏
+
+「行きたいけど席空いてるかな…」と心配せず、
+安心してご来店いただけます😊
+本当にお待たせしてすみません。
+📅ご予約はお電話でお気軽にどうぞ！
+仲間との飲み会や会社帰りの一杯に、ぜひご利用ください🍺🍢
+団体さんもお待ちしております。
+……………………………………………………
+［営業時間］
+〇月曜日～土曜日〇
+12:00〜22:30
+※ラストオーダー30分前となります！
+
+〇日曜日〇
+12:00〜21:30
+※ラストオーダー30分前となります！
+
+公式ホームページ⤵
+https://nikunosato.jp/
+
+住所📍
+〒240-0003
+神奈川県横浜市保土ケ谷区天王町2丁目45-3
+最寄駅:天王町駅YBP口直結（相鉄線）
+
+肉の佐藤　アルバイト・正社員 募集中 採用情報⤵
+https://das-foods.mitekudasaiyou-a.com/
+
+ご来店お待ちしております。
+……………………………………………………
+#肉の佐藤 #天王町 #居酒屋 #飲み屋 #居酒屋 #天王町飲み #天王町飲み屋 #天王町ディナー #天王町昼飲み #天王町グルメ #天王町焼き鳥 #天王町駅 #天王町駅グルメ #天王町ラーメン #ラーメン #居酒屋おすすめ #ディナー #天王町居酒屋おすすめ #昼飲み #天王町串焼き #天王町ランチ #天王町もつ焼き #天王町串揚げ #天王町宴会 #天王町飲み #天王町おすすめ #天王町ランチ #焼き鳥 #ランチ#PayPay決済#居酒屋予約
+2025-10-12 17:05:09,440 - INFO - 処理終了
+================================================================================
+2025-10-12 17:05:15,525 - INFO - 処理開始: Mode=post, Username=nikunosato_tennoutyou, GBP=08170759229822101404
+2025-10-12 17:05:15,525 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwODE3MDc1OTIyOTgyMjEwMTQwNCJd.
+2025-10-12 17:05:39,963 - INFO - 元の動画サイズ: 720x956
+2025-10-12 17:05:39,965 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-12 17:05:39,965 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\nikunosato_tennoutyou\nikunosato_tennoutyou_20251012170506.mp4
+2025-10-12 17:05:50,041 - INFO - Waiting for description field...
+2025-10-12 17:05:50,093 - INFO - Setting description via JS (no send_keys)...
+2025-10-12 17:05:51,244 - INFO - Looking for button section...
+2025-10-12 17:05:55,916 - INFO - Trying to select CALL option...
+2025-10-12 17:05:56,278 - INFO - CALL option successfully selected
+2025-10-12 17:05:58,279 - INFO - Clicking submit button...
+2025-10-12 17:06:06,924 - INFO - 処理完了
+================================================================================
+2025-10-12 20:57:09,679 - INFO - 処理開始 PROCESSID:20251012_205706
+2025-10-12 20:57:09,679 - INFO - 対象ユーザー: nikunosato_tennoutyou
+2025-10-12 20:57:09,680 - INFO - 処理を開始します
+2025-10-12 20:57:09,733 - INFO - 選択されたプロファイル: Profile 9
+2025-10-12 20:57:09,733 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-12 20:57:14,214 - INFO - nikunosato_tennoutyou のプロフィールページにアクセスします
+2025-10-12 20:57:26,171 - INFO - 最新投稿を読み込みます
+2025-10-12 20:57:31,627 - INFO - 選定: 非ピン留め https://www.instagram.com/nikunosato_tennoutyou/reel/DPrup7pj63O/?hl=ja
+2025-10-12 20:57:35,106 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 20:57:38,775 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 20:57:39,179 - INFO - datetime属性の抽出を開始します
+2025-10-12 20:57:39,411 - INFO - 抽出されたdatetime: 2025-10-11T21:00:04.000Z
+2025-10-12 20:57:39,412 - INFO - nikunosato_tennoutyou の投稿日時: 2025-10-11T21:00:04.000Z
+2025-10-12 20:57:39,431 - INFO - date:2025-10-12 06:00:04+09:00
+2025-10-12 20:57:39,431 - INFO - post_date:20251012
+2025-10-12 20:57:39,483 - INFO - 1枚目: blob:https://www.instagram.com/12bc6610-9cf8-4017-b96d-6c2f08e2bcf6
+2025-10-12 20:57:39,483 - INFO - [caption/by_username] 開始
+2025-10-12 20:57:39,736 - INFO - [caption/by_username] 説明文確定（先頭100）: '🍶✨お知らせ✨🍻
+ついに！当店も ご予約受付スタート しました👏
+
+「行きたいけど席空いてるかな…」と心配せず、
+安心してご来店いただけます😊
+本当にお待たせしてすみません。
+📅ご予約はお電話でお気軽'
+2025-10-12 20:57:39,738 - INFO - [caption/by_username] 説明文を保存: media\nikunosato_tennoutyou\description\20251012_205706
+2025-10-12 20:57:42,853 - INFO - 生成URL:https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m86/AQOfT2VRC-eYYtwmfGKGXRkK2Qrm7Z8j1Srolx1GkGY5DFUZe5WkXE29zcED_6oczTOLsZMom1oIDNWLU_3rWU5OCAGvDo1EVCFOTR0.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=ycO4jl_TCcQQ7kNvwGawViQ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MTEwMjczODE0MTczOTYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=6T3TfVZOD3K4ekgosmVxkg&_nc_zt=28&oh=00_AfcIfAqspKNM84hpI3hWOtEqI1GYCTQ-kWj7mrgXTJSszQ&oe=68EDF021&bytestart=0&byteend=142981
+2025-10-12 20:57:42,856 - INFO - DUP(with-key): user=nikunosato_tennoutyou, key=AQOfT2VRC-eYYtwmfGKGXRkK2Qrm7Z8j1Srolx1GkGY5DFUZe5WkXE29zcED_6oczTOLsZMom1oIDNWLU_3rWU5OCAGvDo1EVCFOTR0, dt=2025-10-11T21:00:04.000Z
+2025-10-12 20:57:42,857 - INFO - このレコードは存在します
+2025-10-12 20:57:42,857 - INFO - 全件レコードが存在します

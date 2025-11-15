@@ -1,0 +1,357 @@
+================================================================================
+2025-11-01 01:05:05,741 - INFO - 処理開始 PROCESSID:20251101_010502
+2025-11-01 01:05:05,741 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-01 01:05:05,741 - INFO - 処理を開始します
+2025-11-01 01:05:05,807 - INFO - 選択されたプロファイル: Profile 9
+2025-11-01 01:05:05,807 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-01 01:05:10,238 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-01 01:05:22,316 - INFO - 最新投稿を読み込みます
+2025-11-01 01:05:27,988 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQfjxtKEr86/?hl=ja
+2025-11-01 01:05:33,208 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 01:05:37,822 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 01:05:37,857 - INFO - datetime属性の抽出を開始します
+2025-11-01 01:05:37,886 - INFO - 抽出されたdatetime: 2025-11-01T00:16:40.000Z
+2025-11-01 01:05:37,886 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-01T00:16:40.000Z
+2025-11-01 01:05:37,896 - INFO - date:2025-11-01 09:16:40+09:00
+2025-11-01 01:05:37,896 - INFO - post_date:20251101
+2025-11-01 01:05:37,943 - INFO - カルーセル推定: 1枚
+2025-11-01 01:05:37,983 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/574860935_18372464380158155_858764471037574874_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc1NTg3Nzk2MTYxOTkxNDU1NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=X6vciA0yqRAQ7kNvwF6dmSE&_nc_oc=Adkcyeau6DCmx0I9P9c092ATvpoGZrhKLBBumB8wki3Hvj7gF-QaHIqGUBGkadV96Ik&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=7EO5w_q6YUxmPAtNksjucA&oh=00_Afc5QohXDBXCDrWFwT_4ctjV7iyVF_0NYYZqZS_oaYW2Qg&oe=690B29B5
+2025-11-01 01:05:37,983 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/574860935_18372464380158155_858764471037574874_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzc1NTg3Nzk2MTYxOTkxNDU1NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=X6vciA0yqRAQ7kNvwF6dmSE&_nc_oc=Adkcyeau6DCmx0I9P9c092ATvpoGZrhKLBBumB8wki3Hvj7gF-QaHIqGUBGkadV96Ik&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=7EO5w_q6YUxmPAtNksjucA&oh=00_Afc5QohXDBXCDrWFwT_4ctjV7iyVF_0NYYZqZS_oaYW2Qg&oe=690B29B5
+2025-11-01 01:05:37,983 - INFO - [caption/by_username] 開始
+2025-11-01 01:05:38,091 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+今日から11月ですね！
+そんな11月最初の週末で貴重な3連休は悪天候予報と残念な感じですね
+
+そして、前にも告知させていただいている通り、明日2日〜4日まで社員研修のためお休みいただきます
+ご迷'
+2025-11-01 01:05:38,093 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251101_010502
+2025-11-01 01:05:38,093 - INFO - 画像URLを取得しました
+2025-11-01 01:05:38,141 - INFO - INSERT(with-key): user=cuthouse_hiragishi, key=Mzc1NTg3Nzk2MTYxOTkxNDU1NA==, dt=2025-11-01T00:16:40.000Z
+2025-11-01 01:05:38,142 - INFO - メディアを取得します
+2025-11-01 01:05:40,142 - INFO - ダウンロードを開始します: media\cuthouse_hiragishi\cuthouse_hiragishi_20251101010540.jpg
+2025-11-01 01:05:41,921 - INFO - ダウンロード完了: media\cuthouse_hiragishi\cuthouse_hiragishi_20251101010540.jpg
+2025-11-01 01:05:42,047 - INFO - 元の画像サイズ: 1080x1080
+2025-11-01 01:05:42,047 - INFO - サイズ変更は不要です
+2025-11-01 01:05:42,049 - INFO - 説明文:💈
+
+今日から11月ですね！
+そんな11月最初の週末で貴重な3連休は悪天候予報と残念な感じですね
+
+そして、前にも告知させていただいている通り、明日2日〜4日まで社員研修のためお休みいただきます
+ご迷惑お掛けしますが、宜しくお願い致します
+連休明け5日(水)より営業スタートです
+
+ちなみに…
+本日、17時半、18時半のみ空きがあります
+どちらも、各1席ずつのカットorメンテなどのメニューのみ後予約可能です
+お早めに御予約下さいませ
+
+———————————
+
+💈#カットハウス #cuthouse 💈
+
+営業時間
+OPEN ┇ 9:00  CLOSE ┇ 19:00
+
+〒062-0932
+北海道札幌市豊平区平岸2条7丁目4-27 山際ビル 2F
+最寄駅 : 平岸駅(すぐ！)
+定休日︰毎週火曜日、第3月曜日
+
+〈ご予約〉
+TEL or Hotpepper
+
+———————————
+
+#メンズカット #フェードカット #フェード #アイロンパーマ #パーマ #ツイスパ #スパイキーパーマ #メンズカラー #ヘアカラー #メンズパーマ #メンズヘア #キッズカット #キッズヘア #眉毛カット #漢の身だしなみ #男なら床屋だろ #バーバースタイル #カットハウス #札幌床屋 #平岸床屋 #札幌バーバー #平岸バーバー #平岸理容室 #札幌理容室 #札幌眉毛 #札幌メンズカット #平岸メンズカット #barber #barberstyle #cuthouse
+2025-11-01 01:05:44,512 - INFO - 処理終了
+================================================================================
+2025-11-01 01:05:50,580 - INFO - 処理開始: Mode=post, Username=cuthouse_hiragishi, GBP=cuthousehiragishi
+2025-11-01 01:05:50,580 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJjdXRob3VzZWhpcmFnaXNoaSJd.
+2025-11-01 01:06:14,275 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\cuthouse_hiragishi\cuthouse_hiragishi_20251101010540.jpg
+2025-11-01 01:06:17,373 - INFO - Waiting for description field...
+2025-11-01 01:06:17,413 - INFO - Setting description via JS (no send_keys)...
+2025-11-01 01:06:18,534 - INFO - Looking for button section...
+2025-11-01 01:06:23,236 - INFO - Trying to select CALL option...
+2025-11-01 01:06:23,487 - INFO - CALL option successfully selected
+2025-11-01 01:06:25,488 - INFO - Clicking submit button...
+2025-11-01 01:06:34,215 - INFO - 処理完了
+================================================================================
+2025-11-01 04:09:38,758 - INFO - 処理開始 PROCESSID:20251101_040935
+2025-11-01 04:09:38,758 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-01 04:09:38,758 - INFO - 処理を開始します
+2025-11-01 04:09:38,829 - INFO - 選択されたプロファイル: Profile 9
+2025-11-01 04:09:38,829 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-01 04:09:43,275 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-01 04:09:56,084 - INFO - 最新投稿を読み込みます
+2025-11-01 04:10:01,386 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQf2v0tEiCe/?hl=ja
+2025-11-01 04:10:04,442 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 04:10:09,044 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 04:10:09,084 - INFO - datetime属性の抽出を開始します
+2025-11-01 04:10:09,105 - INFO - 抽出されたdatetime: 2025-11-01T02:54:14.000Z
+2025-11-01 04:10:09,105 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-01T02:54:14.000Z
+2025-11-01 04:10:09,111 - INFO - date:2025-11-01 11:54:14+09:00
+2025-11-01 04:10:09,111 - INFO - post_date:20251101
+2025-11-01 04:10:09,164 - INFO - カルーセル推定: 1枚
+2025-11-01 04:10:09,202 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572394022_18372475828158155_3359206271418869384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=KOMzOAACABsQ7kNvwFIU5mE&_nc_oc=AdniVomV-prxfOS3G-ohzD43Ou7eXKodhiHKgttI99KuOg0x6GcliOKkrfN0QyS2HN0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=9wATTtuW7PFEIAUOyAUKIg&oh=00_AfcOcig4fkkDrm2qFdY52mGoORlAkYovqMxuXjhlGJPChg&oe=690B5910
+2025-11-01 04:10:09,203 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572394022_18372475828158155_3359206271418869384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=KOMzOAACABsQ7kNvwFIU5mE&_nc_oc=AdniVomV-prxfOS3G-ohzD43Ou7eXKodhiHKgttI99KuOg0x6GcliOKkrfN0QyS2HN0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=9wATTtuW7PFEIAUOyAUKIg&oh=00_AfcOcig4fkkDrm2qFdY52mGoORlAkYovqMxuXjhlGJPChg&oe=690B5910
+2025-11-01 04:10:09,203 - INFO - [caption/by_username] 開始
+2025-11-01 04:10:09,292 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+きたよ新作#brosh
+
+新作3種の中の1つである#brosh × TGP Design
+ポマードとしての役割を超え、思い出や世界観を閉じ込められたデザイン
+今や、CHALLENGERのデザイナ'
+2025-11-01 04:10:09,295 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251101_040935
+2025-11-01 04:10:09,295 - INFO - 画像URLを取得しました
+2025-11-01 04:10:09,335 - INFO - INSERT(with-key): user=cuthouse_hiragishi, key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg==, dt=2025-11-01T02:54:14.000Z
+2025-11-01 04:10:09,335 - INFO - メディアを取得します
+2025-11-01 04:10:11,336 - INFO - ダウンロードを開始します: media\cuthouse_hiragishi\cuthouse_hiragishi_20251101041011.jpg
+2025-11-01 04:10:13,037 - INFO - ダウンロード完了: media\cuthouse_hiragishi\cuthouse_hiragishi_20251101041011.jpg
+2025-11-01 04:10:13,157 - INFO - 元の画像サイズ: 1080x1080
+2025-11-01 04:10:13,157 - INFO - サイズ変更は不要です
+2025-11-01 04:10:13,159 - INFO - 説明文:💈
+
+きたよ新作#brosh
+
+新作3種の中の1つである#brosh × TGP Design
+ポマードとしての役割を超え、思い出や世界観を閉じ込められたデザイン
+今や、CHALLENGERのデザイナーとしても知られるTAGUCHI SATORU氏による１つ
+エンボス加工が生む凹凸や影の特別な質感はキャンバスでは表せない存在感を放ち、使い終えたあとも小物入れとして昔ながらのデザイン缶のように長く愛用したくなるデザイン
+
+オリジナルポマードより強いホールド力
+そしてハードポマードより操作性の良いテクスチャー
+
+香りとしては、レモンとパインがもたらすクリアな爽快感に、ラベンダーとナツメグが繊細なアクセントをプラス
+のちに、トンカビーンズとサンダルウッドの柔らかな甘さが広がり、心地よい温もりを演出してくれます
+そんな中、パチョリ、ベチバー、シダーウッドのウッディな香りが、静かに余韻を残す
+カジュアルでありながら品のある、洗練されたスイートオリエンタルウッディな香りが、貴方をイカた漢へと格上げ！
+
+コラボ物や限定物は、世に出回っても再販がなかったりもする物もあります
+フリマサイトでもそのうちかなり高額になってくるでしょう
+その前に是非、Getして下さい
+
+———————————
+
+💈#カットハウス #cuthouse 💈
+
+営業時間
+OPEN ┇ 9:00  CLOSE ┇ 19:00
+
+〒062-0932
+北海道札幌市豊平区平岸2条7丁目4-27 山際ビル 2F
+最寄駅 : 平岸駅(すぐ！)
+定休日︰毎週火曜日、第3月曜日
+
+〈ご予約〉
+TEL or Hotpepper
+
+———————————
+
+#メンズヘア #ポマード #ブロッシュ #ブロッシュポマード #チャレンジー #無造作ヘア #フェード #フェードスタイル #パートスタイル #ウェーブアップ #スリックバック #濡れパン #漢の身だしなみ #男なら床屋だろ #brosh #broshpomade #fade #barber #barberstyle #barbershop #cuthouse #札幌平岸 #札幌床屋 #札幌理容室 #札幌バーバー #平岸理容室 #平岸床屋 #平岸バーバー #カットハウス #バーバースタイル
+2025-11-01 04:10:16,517 - INFO - 処理終了
+================================================================================
+2025-11-01 04:10:23,785 - INFO - 処理開始: Mode=post, Username=cuthouse_hiragishi, GBP=cuthousehiragishi
+2025-11-01 04:10:23,786 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJjdXRob3VzZWhpcmFnaXNoaSJd.
+2025-11-01 04:10:46,990 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\cuthouse_hiragishi\cuthouse_hiragishi_20251101041011.jpg
+2025-11-01 04:10:50,136 - INFO - Waiting for description field...
+2025-11-01 04:10:50,175 - INFO - Setting description via JS (no send_keys)...
+2025-11-01 04:10:51,297 - INFO - Looking for button section...
+2025-11-01 04:10:55,767 - INFO - Trying to select CALL option...
+2025-11-01 04:10:56,141 - INFO - CALL option successfully selected
+2025-11-01 04:10:58,141 - INFO - Clicking submit button...
+2025-11-01 04:11:06,787 - INFO - 処理完了
+================================================================================
+2025-11-01 07:10:54,122 - INFO - 処理開始 PROCESSID:20251101_071050
+2025-11-01 07:10:54,124 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-01 07:10:54,124 - INFO - 処理を開始します
+2025-11-01 07:10:54,188 - INFO - 選択されたプロファイル: Profile 10
+2025-11-01 07:10:54,188 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-01 07:10:58,867 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-01 07:11:10,629 - INFO - 最新投稿を読み込みます
+2025-11-01 07:11:16,014 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQf2v0tEiCe/?hl=ja
+2025-11-01 07:11:21,696 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 07:11:27,292 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 07:11:27,317 - INFO - datetime属性の抽出を開始します
+2025-11-01 07:11:27,351 - INFO - 抽出されたdatetime: 2025-11-01T02:54:14.000Z
+2025-11-01 07:11:27,351 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-01T02:54:14.000Z
+2025-11-01 07:11:27,372 - INFO - date:2025-11-01 11:54:14+09:00
+2025-11-01 07:11:27,373 - INFO - post_date:20251101
+2025-11-01 07:11:27,495 - INFO - カルーセル推定: 1枚
+2025-11-01 07:11:27,616 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572394022_18372475828158155_3359206271418869384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=KOMzOAACABsQ7kNvwFIU5mE&_nc_oc=AdniVomV-prxfOS3G-ohzD43Ou7eXKodhiHKgttI99KuOg0x6GcliOKkrfN0QyS2HN0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=NZ3vvAtYDj0oKou3tFOzHw&oh=00_AfcbGVAx9vghu-clh4EX7KtqVdsPdUJDkYZBZ9nPzxk7Qg&oe=690B9150
+2025-11-01 07:11:27,638 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572394022_18372475828158155_3359206271418869384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=KOMzOAACABsQ7kNvwFIU5mE&_nc_oc=AdniVomV-prxfOS3G-ohzD43Ou7eXKodhiHKgttI99KuOg0x6GcliOKkrfN0QyS2HN0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=NZ3vvAtYDj0oKou3tFOzHw&oh=00_AfcbGVAx9vghu-clh4EX7KtqVdsPdUJDkYZBZ9nPzxk7Qg&oe=690B9150
+2025-11-01 07:11:27,638 - INFO - [caption/by_username] 開始
+2025-11-01 07:11:27,745 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+きたよ新作#brosh
+
+新作3種の中の1つである#brosh × TGP Design
+ポマードとしての役割を超え、思い出や世界観を閉じ込められたデザイン
+今や、CHALLENGERのデザイナ'
+2025-11-01 07:11:27,747 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251101_071050
+2025-11-01 07:11:27,747 - INFO - 画像URLを取得しました
+2025-11-01 07:11:27,749 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg==, dt=2025-11-01T02:54:14.000Z
+2025-11-01 07:11:27,749 - INFO - このレコードは存在します
+2025-11-01 07:11:27,749 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-01 10:13:04,898 - INFO - 処理開始 PROCESSID:20251101_101301
+2025-11-01 10:13:04,898 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-01 10:13:04,898 - INFO - 処理を開始します
+2025-11-01 10:13:04,960 - INFO - 選択されたプロファイル: Profile 9
+2025-11-01 10:13:04,960 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-01 10:13:09,472 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-01 10:13:21,390 - INFO - 最新投稿を読み込みます
+2025-11-01 10:13:26,770 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQf2v0tEiCe/?hl=ja
+2025-11-01 10:13:32,290 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 10:13:35,574 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 10:13:35,648 - INFO - datetime属性の抽出を開始します
+2025-11-01 10:13:35,682 - INFO - 抽出されたdatetime: 2025-11-01T02:54:14.000Z
+2025-11-01 10:13:35,682 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-01T02:54:14.000Z
+2025-11-01 10:13:35,690 - INFO - date:2025-11-01 11:54:14+09:00
+2025-11-01 10:13:35,690 - INFO - post_date:20251101
+2025-11-01 10:13:35,812 - INFO - カルーセル推定: 1枚
+2025-11-01 10:13:35,875 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572394022_18372475828158155_3359206271418869384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=KOMzOAACABsQ7kNvwFIU5mE&_nc_oc=AdniVomV-prxfOS3G-ohzD43Ou7eXKodhiHKgttI99KuOg0x6GcliOKkrfN0QyS2HN0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=NSvZR9INOkKK64gGKYaGDA&oh=00_AffkizuzWvvjghQtTOw_3qII1ubIzjqHAM-lO4J5otTFAQ&oe=690BC990
+2025-11-01 10:13:35,875 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572394022_18372475828158155_3359206271418869384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=KOMzOAACABsQ7kNvwFIU5mE&_nc_oc=AdniVomV-prxfOS3G-ohzD43Ou7eXKodhiHKgttI99KuOg0x6GcliOKkrfN0QyS2HN0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=NSvZR9INOkKK64gGKYaGDA&oh=00_AffkizuzWvvjghQtTOw_3qII1ubIzjqHAM-lO4J5otTFAQ&oe=690BC990
+2025-11-01 10:13:35,875 - INFO - [caption/by_username] 開始
+2025-11-01 10:13:35,992 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+きたよ新作#brosh
+
+新作3種の中の1つである#brosh × TGP Design
+ポマードとしての役割を超え、思い出や世界観を閉じ込められたデザイン
+今や、CHALLENGERのデザイナ'
+2025-11-01 10:13:35,994 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251101_101301
+2025-11-01 10:13:35,994 - INFO - 画像URLを取得しました
+2025-11-01 10:13:35,996 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg==, dt=2025-11-01T02:54:14.000Z
+2025-11-01 10:13:35,996 - INFO - このレコードは存在します
+2025-11-01 10:13:35,996 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-01 13:15:46,917 - INFO - 処理開始 PROCESSID:20251101_131543
+2025-11-01 13:15:46,917 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-01 13:15:46,917 - INFO - 処理を開始します
+2025-11-01 13:15:46,978 - INFO - 選択されたプロファイル: Profile 12
+2025-11-01 13:15:46,978 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-01 13:15:51,551 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-01 13:16:06,979 - INFO - 最新投稿を読み込みます
+2025-11-01 13:16:12,304 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQf2v0tEiCe/?hl=ja
+2025-11-01 13:16:17,634 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 13:16:22,736 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 13:16:22,772 - INFO - datetime属性の抽出を開始します
+2025-11-01 13:16:22,796 - INFO - 抽出されたdatetime: 2025-11-01T02:54:14.000Z
+2025-11-01 13:16:22,796 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-01T02:54:14.000Z
+2025-11-01 13:16:22,803 - INFO - date:2025-11-01 11:54:14+09:00
+2025-11-01 13:16:22,804 - INFO - post_date:20251101
+2025-11-01 13:16:22,846 - INFO - カルーセル推定: 1枚
+2025-11-01 13:16:22,897 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572394022_18372475828158155_3359206271418869384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=pHn5G603igIQ7kNvwHqdaas&_nc_oc=AdnUNgUeXOAubETqIEpZLU5cI5A6OEdPPfiB6UQ-_kUncvF0FnsDwFPIBpHxzvhyki0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=NO5Q2DFBkSfDH0aTejInRw&oh=00_Aff249dcFnIw_e93jH4dJFWJHx6gZB_GR69EnkYpTDzoWg&oe=690BC990
+2025-11-01 13:16:22,897 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572394022_18372475828158155_3359206271418869384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=pHn5G603igIQ7kNvwHqdaas&_nc_oc=AdnUNgUeXOAubETqIEpZLU5cI5A6OEdPPfiB6UQ-_kUncvF0FnsDwFPIBpHxzvhyki0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=NO5Q2DFBkSfDH0aTejInRw&oh=00_Aff249dcFnIw_e93jH4dJFWJHx6gZB_GR69EnkYpTDzoWg&oe=690BC990
+2025-11-01 13:16:22,897 - INFO - [caption/by_username] 開始
+2025-11-01 13:16:22,984 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+きたよ新作#brosh
+
+新作3種の中の1つである#brosh × TGP Design
+ポマードとしての役割を超え、思い出や世界観を閉じ込められたデザイン
+今や、CHALLENGERのデザイナ'
+2025-11-01 13:16:22,986 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251101_131543
+2025-11-01 13:16:22,986 - INFO - 画像URLを取得しました
+2025-11-01 13:16:22,988 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg==, dt=2025-11-01T02:54:14.000Z
+2025-11-01 13:16:22,988 - INFO - このレコードは存在します
+2025-11-01 13:16:22,988 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-01 16:12:07,030 - INFO - 処理開始 PROCESSID:20251101_161203
+2025-11-01 16:12:07,030 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-01 16:12:07,030 - INFO - 処理を開始します
+2025-11-01 16:12:07,091 - INFO - 選択されたプロファイル: Profile 12
+2025-11-01 16:12:07,091 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-01 16:12:11,453 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-01 16:12:26,439 - INFO - 最新投稿を読み込みます
+2025-11-01 16:12:31,709 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQf2v0tEiCe/?hl=ja
+2025-11-01 16:12:37,345 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 16:12:42,492 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 16:12:42,667 - INFO - datetime属性の抽出を開始します
+2025-11-01 16:12:42,707 - INFO - 抽出されたdatetime: 2025-11-01T02:54:14.000Z
+2025-11-01 16:12:42,707 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-01T02:54:14.000Z
+2025-11-01 16:12:42,714 - INFO - date:2025-11-01 11:54:14+09:00
+2025-11-01 16:12:42,714 - INFO - post_date:20251101
+2025-11-01 16:12:42,774 - INFO - カルーセル推定: 1枚
+2025-11-01 16:12:42,816 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572394022_18372475828158155_3359206271418869384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=pHn5G603igIQ7kNvwHqdaas&_nc_oc=AdnUNgUeXOAubETqIEpZLU5cI5A6OEdPPfiB6UQ-_kUncvF0FnsDwFPIBpHxzvhyki0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=EIwKV6OjQp3eF8DtPnm-ow&oh=00_Afdb0Jbfun7uIofdtauXfqUW4uxvvAp8qfzndUcAq3Wg6g&oe=690C01D0
+2025-11-01 16:12:42,816 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572394022_18372475828158155_3359206271418869384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=pHn5G603igIQ7kNvwHqdaas&_nc_oc=AdnUNgUeXOAubETqIEpZLU5cI5A6OEdPPfiB6UQ-_kUncvF0FnsDwFPIBpHxzvhyki0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=EIwKV6OjQp3eF8DtPnm-ow&oh=00_Afdb0Jbfun7uIofdtauXfqUW4uxvvAp8qfzndUcAq3Wg6g&oe=690C01D0
+2025-11-01 16:12:42,816 - INFO - [caption/by_username] 開始
+2025-11-01 16:12:43,024 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+きたよ新作#brosh
+
+新作3種の中の1つである#brosh × TGP Design
+ポマードとしての役割を超え、思い出や世界観を閉じ込められたデザイン
+今や、CHALLENGERのデザイナ'
+2025-11-01 16:12:43,025 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251101_161203
+2025-11-01 16:12:43,025 - INFO - 画像URLを取得しました
+2025-11-01 16:12:43,027 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg==, dt=2025-11-01T02:54:14.000Z
+2025-11-01 16:12:43,028 - INFO - このレコードは存在します
+2025-11-01 16:12:43,028 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-01 19:06:41,137 - INFO - 処理開始 PROCESSID:20251101_190638
+2025-11-01 19:06:41,137 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-01 19:06:41,137 - INFO - 処理を開始します
+2025-11-01 19:06:41,188 - INFO - 選択されたプロファイル: Profile 12
+2025-11-01 19:06:41,188 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-01 19:06:45,534 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-01 19:06:56,985 - INFO - 最新投稿を読み込みます
+2025-11-01 19:07:02,244 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQf2v0tEiCe/?hl=ja
+2025-11-01 19:07:07,448 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 19:07:12,244 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 19:07:12,275 - INFO - datetime属性の抽出を開始します
+2025-11-01 19:07:12,304 - INFO - 抽出されたdatetime: 2025-11-01T02:54:14.000Z
+2025-11-01 19:07:12,304 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-01T02:54:14.000Z
+2025-11-01 19:07:12,311 - INFO - date:2025-11-01 11:54:14+09:00
+2025-11-01 19:07:12,311 - INFO - post_date:20251101
+2025-11-01 19:07:12,357 - INFO - カルーセル推定: 1枚
+2025-11-01 19:07:12,473 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572394022_18372475828158155_3359206271418869384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=pHn5G603igIQ7kNvwHqdaas&_nc_oc=AdnUNgUeXOAubETqIEpZLU5cI5A6OEdPPfiB6UQ-_kUncvF0FnsDwFPIBpHxzvhyki0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=aghQ2fO-aNAm7U5qVOjizQ&oh=00_AfcWe2LJVP4oTowXiBIpQVTEJP2Ge3Cj2u8bKG6J50tQFQ&oe=690C3A10
+2025-11-01 19:07:12,473 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572394022_18372475828158155_3359206271418869384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=pHn5G603igIQ7kNvwHqdaas&_nc_oc=AdnUNgUeXOAubETqIEpZLU5cI5A6OEdPPfiB6UQ-_kUncvF0FnsDwFPIBpHxzvhyki0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=aghQ2fO-aNAm7U5qVOjizQ&oh=00_AfcWe2LJVP4oTowXiBIpQVTEJP2Ge3Cj2u8bKG6J50tQFQ&oe=690C3A10
+2025-11-01 19:07:12,473 - INFO - [caption/by_username] 開始
+2025-11-01 19:07:12,601 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+きたよ新作#brosh
+
+新作3種の中の1つである#brosh × TGP Design
+ポマードとしての役割を超え、思い出や世界観を閉じ込められたデザイン
+今や、CHALLENGERのデザイナ'
+2025-11-01 19:07:12,603 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251101_190638
+2025-11-01 19:07:12,603 - INFO - 画像URLを取得しました
+2025-11-01 19:07:12,605 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg==, dt=2025-11-01T02:54:14.000Z
+2025-11-01 19:07:12,605 - INFO - このレコードは存在します
+2025-11-01 19:07:12,605 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-01 22:00:21,481 - INFO - 処理開始 PROCESSID:20251101_220018
+2025-11-01 22:00:21,481 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-11-01 22:00:21,481 - INFO - 処理を開始します
+2025-11-01 22:00:21,539 - INFO - 選択されたプロファイル: Profile 13
+2025-11-01 22:00:21,539 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-01 22:00:26,024 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-11-01 22:00:38,015 - INFO - 最新投稿を読み込みます
+2025-11-01 22:00:43,386 - INFO - 選定: 非ピン留め https://www.instagram.com/cuthouse_hiragishi/p/DQf2v0tEiCe/?hl=ja
+2025-11-01 22:00:48,582 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 22:00:52,437 - INFO - 最新投稿ページにアクセスしました
+2025-11-01 22:00:52,558 - INFO - datetime属性の抽出を開始します
+2025-11-01 22:00:53,026 - INFO - 抽出されたdatetime: 2025-11-01T02:54:14.000Z
+2025-11-01 22:00:53,026 - INFO - cuthouse_hiragishi の投稿日時: 2025-11-01T02:54:14.000Z
+2025-11-01 22:00:53,037 - INFO - date:2025-11-01 11:54:14+09:00
+2025-11-01 22:00:53,037 - INFO - post_date:20251101
+2025-11-01 22:00:53,134 - INFO - カルーセル推定: 1枚
+2025-11-01 22:00:53,336 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572394022_18372475828158155_3359206271418869384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=pHn5G603igIQ7kNvwHqdaas&_nc_oc=AdnUNgUeXOAubETqIEpZLU5cI5A6OEdPPfiB6UQ-_kUncvF0FnsDwFPIBpHxzvhyki0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=FSfKfyG_Aj7_qocFQgly6w&oh=00_AfjXYBPBAtMConul9zPnkRmb8RAwiKruIen4JxXXsiSJqg&oe=690C3A10
+2025-11-01 22:00:53,336 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572394022_18372475828158155_3359206271418869384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=pHn5G603igIQ7kNvwHqdaas&_nc_oc=AdnUNgUeXOAubETqIEpZLU5cI5A6OEdPPfiB6UQ-_kUncvF0FnsDwFPIBpHxzvhyki0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=FSfKfyG_Aj7_qocFQgly6w&oh=00_AfjXYBPBAtMConul9zPnkRmb8RAwiKruIen4JxXXsiSJqg&oe=690C3A10
+2025-11-01 22:00:53,336 - INFO - [caption/by_username] 開始
+2025-11-01 22:00:53,443 - INFO - [caption/by_username] 説明文確定（先頭100）: '💈
+
+きたよ新作#brosh
+
+新作3種の中の1つである#brosh × TGP Design
+ポマードとしての役割を超え、思い出や世界観を閉じ込められたデザイン
+今や、CHALLENGERのデザイナ'
+2025-11-01 22:00:53,446 - INFO - [caption/by_username] 説明文を保存: media\cuthouse_hiragishi\description\20251101_220018
+2025-11-01 22:00:53,446 - INFO - 画像URLを取得しました
+2025-11-01 22:00:53,448 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=Mzc1NTk2MTM5NTE2ODAyNjc4Mg==, dt=2025-11-01T02:54:14.000Z
+2025-11-01 22:00:53,448 - INFO - このレコードは存在します
+2025-11-01 22:00:53,448 - INFO - 全件レコードが存在します

@@ -1,0 +1,129 @@
+================================================================================
+2025-10-13 00:52:33,541 - INFO - 処理開始 PROCESSID:20251013_005230
+2025-10-13 00:52:33,543 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-10-13 00:52:33,543 - INFO - 処理を開始します
+2025-10-13 00:52:33,599 - INFO - 選択されたプロファイル: Profile 9
+2025-10-13 00:52:33,601 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-13 00:52:39,373 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-10-13 00:53:01,823 - INFO - プロフィール写真のクリックに成功しました
+2025-10-13 00:53:05,001 - INFO - 動画の取得に失敗しました
+2025-10-13 00:53:05,001 - INFO - datetime属性の抽出を開始します
+2025-10-13 00:53:15,014 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xc7fea3+66515]
+	GetHandleVerifier [0x0xc7fee4+66580]
+	(No symbol) [0x0xa6dc48]
+	(No symbol) [0x0xab8704]
+	(No symbol) [0x0xab8aab]
+	(No symbol) [0x0xaff482]
+	(No symbol) [0x0xadb214]
+	(No symbol) [0x0xafcba7]
+	(No symbol) [0x0xadafc6]
+	(No symbol) [0x0xaac2ca]
+	(No symbol) [0x0xaad154]
+	GetHandleVerifier [0x0xed73d3+2521347]
+	GetHandleVerifier [0x0xed2353+2500739]
+	GetHandleVerifier [0x0xca7cf4+229924]
+	GetHandleVerifier [0x0xc98258+165768]
+	GetHandleVerifier [0x0xc9ed0d+193085]
+	GetHandleVerifier [0x0xc881b8+100072]
+	GetHandleVerifier [0x0xc88350+100480]
+	GetHandleVerifier [0x0xc7260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-13 00:53:25,353 - INFO - 画像の取得に失敗しました
+2025-10-13 00:53:27,786 - INFO - 処理終了
+================================================================================
+2025-10-13 04:54:49,509 - INFO - 処理開始 PROCESSID:20251013_045445
+2025-10-13 04:54:49,509 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-10-13 04:54:49,509 - INFO - 処理を開始します
+2025-10-13 04:54:49,568 - INFO - 選択されたプロファイル: Profile 12
+2025-10-13 04:54:49,568 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-13 04:54:54,457 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-10-13 04:55:17,041 - INFO - プロフィール写真のクリックに成功しました
+2025-10-13 04:55:18,097 - INFO - rikumaru_tennoutyou: 動画を検出しました
+2025-10-13 04:55:18,097 - INFO - datetime属性の抽出を開始します
+2025-10-13 04:55:18,132 - INFO - 抽出されたdatetime: 2025-10-13T04:07:39.000Z
+2025-10-13 04:55:18,132 - INFO - rikumaru_tennoutyou の投稿日時: 2025-10-13T04:07:39.000Z
+2025-10-13 04:55:19,623 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m78/AQNX2bU6KFPpQ1V8P2hYXLP-vfCrHHpYK_R-yqgasZ1f6O7oR3x190ZgG1BcMpF2CHs1Ohpc_6_rJPNKJgesjmT5DHw4I9ojUr6XPPA.mp4?_nc_cat=101&_nc_oc=AdmYwYDFYE7Ax5xrtMMiU9dp9rmx2tys7sjfqIeGs-_Ulps8gNdZhZL7IGttSghooWQ&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=CcHRjGlONikQ7kNvwFzTxv8&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyNDczMzEzNTY1OTY2OTY3OCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=8Tej5bS33-tLBZnMLE2HvQ&_nc_zt=28&oh=00_Aff-FTsITmoxpJ3Q3AYQTEukbWVpGjK69cXsM2ADHlWUgw&oe=68EE52B2&bytestart=0&byteend=1738165
+2025-10-13 04:55:19,623 - INFO - 動画URLを取得しました
+2025-10-13 04:55:19,666 - INFO - INSERT(with-key): user=rikumaru_tennoutyou, key=AQNX2bU6KFPpQ1V8P2hYXLP-vfCrHHpYK_R-yqgasZ1f6O7oR3x190ZgG1BcMpF2CHs1Ohpc_6_rJPNKJgesjmT5DHw4I9ojUr6XPPA, dt=2025-10-13T04:07:39.000Z
+2025-10-13 04:55:22,228 - INFO - ダウンロードを開始します: media\rikumaru_tennoutyou\rikumaru_tennoutyou_20251013045521.mp4
+2025-10-13 04:55:22,918 - INFO - ダウンロード完了: media\rikumaru_tennoutyou\rikumaru_tennoutyou_20251013045521.mp4
+2025-10-13 04:55:27,256 - INFO - 処理終了
+2025-10-13 04:55:27,258 - INFO - 説明文_AI: None
+2025-10-13 04:55:27,258 - INFO - 説明文_最終: 
+================================================================================
+2025-10-13 04:55:33,766 - INFO - 処理開始: Mode=story, Username=rikumaru_tennoutyou, GBP=13128231858886333706
+2025-10-13 04:55:33,766 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMzEyODIzMTg1ODg4NjMzMzcwNiJd.
+2025-10-13 04:55:57,641 - INFO - 元の動画サイズ: 720x1280
+2025-10-13 04:55:57,641 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-13 04:55:57,641 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\rikumaru_tennoutyou\rikumaru_tennoutyou_20251013045521.mp4
+2025-10-13 04:56:07,698 - INFO - 一時ファイルが見つかりません: media\rikumaru_tennoutyou\description\20251013_045445
+2025-10-13 04:56:07,698 - INFO - Looking for button section...
+2025-10-13 04:56:12,261 - INFO - Trying to select CALL option...
+2025-10-13 04:56:12,535 - INFO - CALL option successfully selected
+2025-10-13 04:56:14,536 - INFO - Clicking submit button...
+2025-10-13 04:56:24,237 - INFO - 処理完了
+================================================================================
+2025-10-13 08:52:11,089 - INFO - 処理開始 PROCESSID:20251013_085207
+2025-10-13 08:52:11,089 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-10-13 08:52:11,089 - INFO - 処理を開始します
+2025-10-13 08:52:11,149 - INFO - 選択されたプロファイル: Profile 13
+2025-10-13 08:52:11,149 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-13 08:52:15,746 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-10-13 08:52:38,127 - INFO - プロフィール写真のクリックに成功しました
+2025-10-13 08:52:38,760 - INFO - rikumaru_tennoutyou: 動画を検出しました
+2025-10-13 08:52:38,760 - INFO - datetime属性の抽出を開始します
+2025-10-13 08:52:38,902 - INFO - 抽出されたdatetime: 2025-10-13T04:07:39.000Z
+2025-10-13 08:52:38,902 - INFO - rikumaru_tennoutyou の投稿日時: 2025-10-13T04:07:39.000Z
+2025-10-13 08:52:40,449 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m78/AQNX2bU6KFPpQ1V8P2hYXLP-vfCrHHpYK_R-yqgasZ1f6O7oR3x190ZgG1BcMpF2CHs1Ohpc_6_rJPNKJgesjmT5DHw4I9ojUr6XPPA.mp4?_nc_cat=101&_nc_oc=AdmYwYDFYE7Ax5xrtMMiU9dp9rmx2tys7sjfqIeGs-_Ulps8gNdZhZL7IGttSghooWQ&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=CcHRjGlONikQ7kNvwFzTxv8&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyNDczMzEzNTY1OTY2OTY3OCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=7ddXx5O9n79N6pN9mmj5lg&_nc_zt=28&oh=00_Afcr9JK19z-swfnGLXeG_ZL6G5ynvzAT5w68PTnzM8WG8Q&oe=68EE8AF2&bytestart=0&byteend=1738165
+2025-10-13 08:52:40,450 - INFO - 動画URLを取得しました
+2025-10-13 08:52:40,452 - INFO - DUP(with-key): user=rikumaru_tennoutyou, key=AQNX2bU6KFPpQ1V8P2hYXLP-vfCrHHpYK_R-yqgasZ1f6O7oR3x190ZgG1BcMpF2CHs1Ohpc_6_rJPNKJgesjmT5DHw4I9ojUr6XPPA, dt=2025-10-13T04:07:39.000Z
+================================================================================
+2025-10-13 12:52:51,650 - INFO - 処理開始 PROCESSID:20251013_125248
+2025-10-13 12:52:51,650 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-10-13 12:52:51,650 - INFO - 処理を開始します
+2025-10-13 12:52:51,709 - INFO - 選択されたプロファイル: Profile 9
+2025-10-13 12:52:51,710 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-13 12:52:56,404 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-10-13 12:53:18,331 - INFO - プロフィール写真のクリックに成功しました
+2025-10-13 12:53:19,588 - INFO - rikumaru_tennoutyou: 動画を検出しました
+2025-10-13 12:53:19,588 - INFO - datetime属性の抽出を開始します
+2025-10-13 12:53:19,774 - INFO - 抽出されたdatetime: 2025-10-13T04:07:39.000Z
+2025-10-13 12:53:19,774 - INFO - rikumaru_tennoutyou の投稿日時: 2025-10-13T04:07:39.000Z
+2025-10-13 12:53:21,206 - INFO - 生成URL:https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m78/AQNX2bU6KFPpQ1V8P2hYXLP-vfCrHHpYK_R-yqgasZ1f6O7oR3x190ZgG1BcMpF2CHs1Ohpc_6_rJPNKJgesjmT5DHw4I9ojUr6XPPA.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=CcHRjGlONikQ7kNvwFzTxv8&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyNDczMzEzNTY1OTY2OTY3OCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjE0LCJ3YXRjaF90aW1lX3MiOjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=azvEGp-O40B9xWoysCVrUw&_nc_zt=28&oh=00_AfdssNlug_NgN2gFEjdPABwHvYumySs7FWbaHrGlBpjkiQ&oe=68EEC332&bytestart=0&byteend=1738165
+2025-10-13 12:53:21,206 - INFO - 動画URLを取得しました
+2025-10-13 12:53:21,231 - INFO - DUP(with-key): user=rikumaru_tennoutyou, key=AQNX2bU6KFPpQ1V8P2hYXLP-vfCrHHpYK_R-yqgasZ1f6O7oR3x190ZgG1BcMpF2CHs1Ohpc_6_rJPNKJgesjmT5DHw4I9ojUr6XPPA, dt=2025-10-13T04:07:39.000Z
+================================================================================
+2025-10-13 17:15:57,256 - INFO - 処理開始 PROCESSID:20251013_171553
+2025-10-13 17:15:57,256 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-10-13 17:15:57,256 - INFO - 処理を開始します
+2025-10-13 17:15:57,315 - INFO - 選択されたプロファイル: Profile 13
+2025-10-13 17:15:57,315 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-13 17:16:01,806 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-10-13 17:16:24,569 - INFO - プロフィール写真のクリックに成功しました
+2025-10-13 17:16:25,552 - INFO - rikumaru_tennoutyou: 動画を検出しました
+2025-10-13 17:16:25,553 - INFO - datetime属性の抽出を開始します
+2025-10-13 17:16:25,720 - INFO - 抽出されたdatetime: 2025-10-13T04:07:39.000Z
+2025-10-13 17:16:25,721 - INFO - rikumaru_tennoutyou の投稿日時: 2025-10-13T04:07:39.000Z
+2025-10-13 17:16:27,163 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m78/AQNX2bU6KFPpQ1V8P2hYXLP-vfCrHHpYK_R-yqgasZ1f6O7oR3x190ZgG1BcMpF2CHs1Ohpc_6_rJPNKJgesjmT5DHw4I9ojUr6XPPA.mp4?_nc_cat=101&_nc_oc=AdmYwYDFYE7Ax5xrtMMiU9dp9rmx2tys7sjfqIeGs-_Ulps8gNdZhZL7IGttSghooWQ&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=CcHRjGlONikQ7kNvwFzTxv8&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyNDczMzEzNTY1OTY2OTY3OCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=7uZ199BAnemyWMXWKef-sg&_nc_zt=28&oh=00_AffI6dyul-F-LN6Qbb1EaLvXh_YBqPxqbGqmLXaBmOw91A&oe=68EEFB72&bytestart=0&byteend=1738165
+2025-10-13 17:16:27,163 - INFO - 動画URLを取得しました
+2025-10-13 17:16:27,166 - INFO - DUP(with-key): user=rikumaru_tennoutyou, key=AQNX2bU6KFPpQ1V8P2hYXLP-vfCrHHpYK_R-yqgasZ1f6O7oR3x190ZgG1BcMpF2CHs1Ohpc_6_rJPNKJgesjmT5DHw4I9ojUr6XPPA, dt=2025-10-13T04:07:39.000Z
+================================================================================
+2025-10-13 21:51:08,943 - INFO - 処理開始 PROCESSID:20251013_215101
+2025-10-13 21:51:08,943 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-10-13 21:51:08,944 - INFO - 処理を開始します
+2025-10-13 21:51:09,058 - INFO - 選択されたプロファイル: Profile 9
+2025-10-13 21:51:09,058 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-13 21:51:22,074 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-10-13 21:51:49,100 - INFO - プロフィール写真のクリックに成功しました
+2025-10-13 21:51:50,846 - INFO - rikumaru_tennoutyou: 動画を検出しました
+2025-10-13 21:51:50,847 - INFO - datetime属性の抽出を開始します
+2025-10-13 21:51:50,932 - INFO - 抽出されたdatetime: 2025-10-13T04:07:39.000Z
+2025-10-13 21:51:50,932 - INFO - rikumaru_tennoutyou の投稿日時: 2025-10-13T04:07:39.000Z
+2025-10-13 21:51:52,188 - INFO - 生成URL:https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m78/AQNX2bU6KFPpQ1V8P2hYXLP-vfCrHHpYK_R-yqgasZ1f6O7oR3x190ZgG1BcMpF2CHs1Ohpc_6_rJPNKJgesjmT5DHw4I9ojUr6XPPA.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=CcHRjGlONikQ7kNvwFzTxv8&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyNDczMzEzNTY1OTY2OTY3OCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Zomhz_SVGfz-H9S1BiiuHQ&_nc_zt=28&oh=00_AfcZj7fQuFCCQAjXGNQBOZekAZPOqHf0Dmf9vcTnaychzw&oe=68EF6BF2&bytestart=0&byteend=1738165
+2025-10-13 21:51:52,188 - INFO - 動画URLを取得しました
+2025-10-13 21:51:52,369 - INFO - DUP(with-key): user=rikumaru_tennoutyou, key=AQNX2bU6KFPpQ1V8P2hYXLP-vfCrHHpYK_R-yqgasZ1f6O7oR3x190ZgG1BcMpF2CHs1Ohpc_6_rJPNKJgesjmT5DHw4I9ojUr6XPPA, dt=2025-10-13T04:07:39.000Z

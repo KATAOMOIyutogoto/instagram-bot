@@ -1,0 +1,149 @@
+================================================================================
+2025-10-23 00:13:57,974 - INFO - 処理開始 PROCESSID:20251023_001354
+2025-10-23 00:13:57,976 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-23 00:13:57,976 - INFO - 処理を開始します
+2025-10-23 00:13:58,042 - INFO - 選択されたプロファイル: Profile 9
+2025-10-23 00:13:58,042 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-23 00:14:02,626 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-23 00:14:24,766 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 00:14:27,856 - INFO - 動画の取得に失敗しました
+2025-10-23 00:14:27,856 - INFO - datetime属性の抽出を開始します
+2025-10-23 00:14:38,162 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa6fe43+66515]
+	GetHandleVerifier [0x0xa6fe84+66580]
+	(No symbol) [0x0x85dc48]
+	(No symbol) [0x0x8a8704]
+	(No symbol) [0x0x8a8aab]
+	(No symbol) [0x0x8ef482]
+	(No symbol) [0x0x8cb214]
+	(No symbol) [0x0x8ecba7]
+	(No symbol) [0x0x8cafc6]
+	(No symbol) [0x0x89c2ca]
+	(No symbol) [0x0x89d154]
+	GetHandleVerifier [0x0xcc7353+2521315]
+	GetHandleVerifier [0x0xcc22d3+2500707]
+	GetHandleVerifier [0x0xa97c94+229924]
+	GetHandleVerifier [0x0xa881f8+165768]
+	GetHandleVerifier [0x0xa8ecad+193085]
+	GetHandleVerifier [0x0xa78158+100072]
+	GetHandleVerifier [0x0xa782f0+100480]
+	GetHandleVerifier [0x0xa625aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-23 00:14:48,476 - INFO - 画像の取得に失敗しました
+2025-10-23 00:14:50,990 - INFO - 処理終了
+================================================================================
+2025-10-23 04:24:37,544 - INFO - 処理開始 PROCESSID:20251023_042434
+2025-10-23 04:24:37,544 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-23 04:24:37,544 - INFO - 処理を開始します
+2025-10-23 04:24:37,613 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 04:24:37,613 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 04:24:42,512 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-23 04:25:04,276 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 04:25:05,052 - INFO - cuthouse_hiragishi: 動画を検出しました
+2025-10-23 04:25:05,052 - INFO - datetime属性の抽出を開始します
+2025-10-23 04:25:05,187 - INFO - 抽出されたdatetime: 2025-10-23T02:16:38.000Z
+2025-10-23 04:25:05,187 - INFO - cuthouse_hiragishi の投稿日時: 2025-10-23T02:16:38.000Z
+2025-10-23 04:25:06,455 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQN6bdHOOfo7Myy5Pyc_sTxCwdbBNt91bNApNXf3HmL896OLNRc7tY-fWyfJoL5bX_vJ_QVQ9QrTcezvMN4rbkuhqGBEsXXGiDp-D2U.mp4?_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=5HjI41bbxVIQ7kNvwFHeQjQ&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E4MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjozMzIwMjEzOTI4MTMwODM1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=HUPksiZR9ImoCf2KmdS4wA&_nc_zt=28&oh=00_AffY8dQ1_FFCuhEZEUticXOaEfOsrfVOy4QFl830mj6QUQ&oe=68FF8B23&bytestart=0&byteend=1361683
+2025-10-23 04:25:06,456 - INFO - 動画URLを取得しました
+2025-10-23 04:25:06,670 - INFO - INSERT(with-key): user=cuthouse_hiragishi, key=AQN6bdHOOfo7Myy5Pyc_sTxCwdbBNt91bNApNXf3HmL896OLNRc7tY-fWyfJoL5bX_vJ_QVQ9QrTcezvMN4rbkuhqGBEsXXGiDp-D2U, dt=2025-10-23T02:16:38.000Z
+2025-10-23 04:25:08,675 - INFO - ダウンロードを開始します: media\cuthouse_hiragishi\cuthouse_hiragishi_20251023042508.mp4
+2025-10-23 04:25:11,066 - INFO - ダウンロード完了: media\cuthouse_hiragishi\cuthouse_hiragishi_20251023042508.mp4
+2025-10-23 04:25:16,225 - INFO - 処理終了
+2025-10-23 04:25:16,227 - INFO - 説明文_AI: None
+2025-10-23 04:25:16,227 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 04:25:22,396 - INFO - 処理開始: Mode=story, Username=cuthouse_hiragishi, GBP=cuthousehiragishi
+2025-10-23 04:25:22,396 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJjdXRob3VzZWhpcmFnaXNoaSJd.
+2025-10-23 04:25:46,112 - INFO - 元の動画サイズ: 720x1280
+2025-10-23 04:25:46,114 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-23 04:25:46,114 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\cuthouse_hiragishi\cuthouse_hiragishi_20251023042508.mp4
+2025-10-23 04:25:56,177 - INFO - 一時ファイルが見つかりません: media\cuthouse_hiragishi\description\20251023_042434
+2025-10-23 04:25:56,177 - INFO - Looking for button section...
+2025-10-23 04:26:00,691 - INFO - Trying to select CALL option...
+2025-10-23 04:26:00,905 - INFO - CALL option successfully selected
+2025-10-23 04:26:02,905 - INFO - Clicking submit button...
+2025-10-23 04:26:11,583 - INFO - 処理完了
+================================================================================
+2025-10-23 08:33:47,422 - INFO - 処理開始 PROCESSID:20251023_083344
+2025-10-23 08:33:47,422 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-23 08:33:47,422 - INFO - 処理を開始します
+2025-10-23 08:33:47,496 - INFO - 選択されたプロファイル: Profile 10
+2025-10-23 08:33:47,496 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-23 08:33:52,222 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-23 08:34:14,216 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 08:34:15,238 - INFO - cuthouse_hiragishi: 動画を検出しました
+2025-10-23 08:34:15,238 - INFO - datetime属性の抽出を開始します
+2025-10-23 08:34:15,348 - INFO - 抽出されたdatetime: 2025-10-23T02:16:38.000Z
+2025-10-23 08:34:15,348 - INFO - cuthouse_hiragishi の投稿日時: 2025-10-23T02:16:38.000Z
+2025-10-23 08:34:16,537 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMqemw9GGmbgvp_ijRqVNb4H4M2NfBMufExLsR5_td1bnfGhoZDJEEFFsgmLHqwNEwBRDQa79OnAkqk4UgSr_gXPLDJu_KG1fC7EcQ.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=WtP5yI_xiYUQ7kNvwG4DUMr&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6ODEwMzc0MzE1MjkxNDcxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=SngvYtnEZukqcn8EEuGmZg&_nc_zt=28&oh=00_AfcqkVJDI2kVrJCy43cAhYZ5X6IumRlV8WOgfNdzRk2vDg&oe=68FBD4E5&bytestart=0&byteend=489982
+2025-10-23 08:34:16,538 - INFO - 動画URLを取得しました
+2025-10-23 08:34:16,675 - INFO - INSERT(with-key): user=cuthouse_hiragishi, key=AQMqemw9GGmbgvp_ijRqVNb4H4M2NfBMufExLsR5_td1bnfGhoZDJEEFFsgmLHqwNEwBRDQa79OnAkqk4UgSr_gXPLDJu_KG1fC7EcQ, dt=2025-10-23T02:16:38.000Z
+2025-10-23 08:34:18,911 - INFO - ダウンロードを開始します: media\cuthouse_hiragishi\cuthouse_hiragishi_20251023083418.mp4
+2025-10-23 08:34:20,953 - INFO - ダウンロード完了: media\cuthouse_hiragishi\cuthouse_hiragishi_20251023083418.mp4
+2025-10-23 08:34:25,933 - INFO - 処理終了
+2025-10-23 08:34:25,935 - INFO - 説明文_AI: None
+2025-10-23 08:34:25,935 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 08:34:32,097 - INFO - 処理開始: Mode=story, Username=cuthouse_hiragishi, GBP=cuthousehiragishi
+2025-10-23 08:34:32,097 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJjdXRob3VzZWhpcmFnaXNoaSJd.
+2025-10-23 08:34:56,386 - INFO - 元の動画サイズ: 360x640
+2025-10-23 08:34:56,386 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-23 08:34:56,386 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\cuthouse_hiragishi\cuthouse_hiragishi_20251023083418.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\cuthouse_hiragishi\cuthouse_hiragishi_20251023083418_resized.mp4
+2025-10-23 08:35:00,905 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\cuthouse_hiragishi\cuthouse_hiragishi_20251023083418_resized.mp4
+2025-10-23 08:35:00,905 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\cuthouse_hiragishi\cuthouse_hiragishi_20251023083418.mp4
+2025-10-23 08:35:00,905 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\cuthouse_hiragishi\cuthouse_hiragishi_20251023083418_resized.mp4
+2025-10-23 08:35:10,982 - INFO - 一時ファイルが見つかりません: media\cuthouse_hiragishi\description\20251023_083344
+2025-10-23 08:35:10,983 - INFO - Looking for button section...
+2025-10-23 08:35:15,506 - INFO - Trying to select CALL option...
+2025-10-23 08:35:15,747 - INFO - CALL option successfully selected
+2025-10-23 08:35:17,747 - INFO - Clicking submit button...
+2025-10-23 08:35:26,433 - INFO - 処理完了
+================================================================================
+2025-10-23 12:48:26,211 - INFO - 処理開始 PROCESSID:20251023_124822
+2025-10-23 12:48:26,211 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-23 12:48:26,211 - INFO - 処理を開始します
+2025-10-23 12:48:26,270 - INFO - 選択されたプロファイル: Profile 9
+2025-10-23 12:48:26,270 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-23 12:48:30,951 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-23 12:48:53,127 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 12:48:53,810 - INFO - cuthouse_hiragishi: 動画を検出しました
+2025-10-23 12:48:53,810 - INFO - datetime属性の抽出を開始します
+2025-10-23 12:48:54,139 - INFO - 抽出されたdatetime: 2025-10-23T02:16:38.000Z
+2025-10-23 12:48:54,139 - INFO - cuthouse_hiragishi の投稿日時: 2025-10-23T02:16:38.000Z
+2025-10-23 12:48:55,427 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMqemw9GGmbgvp_ijRqVNb4H4M2NfBMufExLsR5_td1bnfGhoZDJEEFFsgmLHqwNEwBRDQa79OnAkqk4UgSr_gXPLDJu_KG1fC7EcQ.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=WtP5yI_xiYUQ7kNvwG4DUMr&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MTAzNzQzMTUyOTE0NzEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=dB-cdU5d9QqK5GpbGWe9-A&_nc_zt=28&oh=00_AfcwITTMFtjO4XgVcpy7nqxbCRPLHDwgb__7RBk2VcVddA&oe=68FC0D25&bytestart=0&byteend=489982
+2025-10-23 12:48:55,427 - INFO - 動画URLを取得しました
+2025-10-23 12:48:55,429 - INFO - DUP(with-key): user=cuthouse_hiragishi, key=AQMqemw9GGmbgvp_ijRqVNb4H4M2NfBMufExLsR5_td1bnfGhoZDJEEFFsgmLHqwNEwBRDQa79OnAkqk4UgSr_gXPLDJu_KG1fC7EcQ, dt=2025-10-23T02:16:38.000Z
+================================================================================
+2025-10-23 18:08:57,129 - INFO - 処理開始 PROCESSID:20251023_180853
+2025-10-23 18:08:57,129 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-23 18:08:57,129 - INFO - 処理を開始します
+2025-10-23 18:08:57,187 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 18:08:57,187 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 18:09:01,748 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-23 18:09:24,346 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 18:09:25,055 - INFO - cuthouse_hiragishi: 動画を検出しました
+2025-10-23 18:09:25,056 - INFO - datetime属性の抽出を開始します
+2025-10-23 18:09:25,189 - INFO - 抽出されたdatetime: 2025-10-23T02:16:38.000Z
+2025-10-23 18:09:25,189 - INFO - cuthouse_hiragishi の投稿日時: 2025-10-23T02:16:38.000Z
+2025-10-23 18:09:26,509 - INFO - 生成URL:https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m367/AQOvvhnFLu-VAHhSwysFjbIOLdf0al2hotDhH4dK6pGyHnCIwOrgNBX-0KK0IuUkORGbynflibRm7oocEjyrUIfxBPy88zMdw7v2E3t1s7ONfw.mp4?_nc_cat=109&_nc_sid=9ca052&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=cSaZOqGbYwAQ7kNvwEr2vQB&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo3ODE3MDY3MDQ2ODM4MTUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=L0Mr28hl8JM0ipAAnOG67Q&_nc_zt=28&oh=00_Afe1lM6ZCNjsiTu6L_Xp_cUCG3_eHpx24FwS7LO7xYuzZw&oe=6900324F&bytestart=0&byteend=848098
+2025-10-23 18:09:26,510 - INFO - 動画URLを取得しました
+2025-10-23 18:09:26,577 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=cuthouse_hiragishi, key=AQOvvhnFLu-VAHhSwysFjbIOLdf0al2hotDhH4dK6pGyHnCIwOrgNBX-0KK0IuUkORGbynflibRm7oocEjyrUIfxBPy88zMdw7v2E3t1s7ONfw, dt=2025-10-23T02:16:38.000Z, url=https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m367/AQOvvhnFLu-VAHhSwysFjbIOLdf0al2hotDhH4dK6pGyHnCIwOrgNBX-0KK0IuUkORGbynflibRm7oocEjyrUIfxBPy88zMdw7v2E3t1s7ONfw.mp4?_nc_cat=109&_nc_sid=9ca052&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=cSaZOqGbYwAQ7kNvwEr2vQB&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo3ODE3MDY3MDQ2ODM4MTUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=L0Mr28hl8JM0ipAAnOG67Q&_nc_zt=28&oh=00_Afe1lM6ZCNjsiTu6L_Xp_cUCG3_eHpx24FwS7LO7xYuzZw&oe=6900324F&bytestart=0&byteend=848098, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('cuthouse_hiragishi', 'AQOvvhnFLu-VAHhSwysFjbIOLdf0al2hotDhH4dK6pGyHnCIwOrgNBX-0KK0IuUkORGbynflibRm7oocEjyrUIfxBPy88zMdw7v2E3t1s7ONfw', 'https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m367/AQOvvhnFLu-VAHhSwysFjbIOLdf0al2hotDhH4dK6pGyHnCIwOrgNBX-0KK0IuUkORGbynflibRm7oocEjyrUIfxBPy88zMdw7v2E3t1s7ONfw.mp4?_nc_cat=109&_nc_sid=9ca052&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=cSaZOqGbYwAQ7kNvwEr2vQB&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo3ODE3MDY3MDQ2ODM4MTUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=L0Mr28hl8JM0ipAAnOG67Q&_nc_zt=28&oh=00_Afe1lM6ZCNjsiTu6L_Xp_cUCG3_eHpx24FwS7LO7xYuzZw&oe=6900324F&bytestart=0&byteend=848098', '2025-10-23T02:16:38.000Z')
+================================================================================
+2025-10-23 22:08:19,787 - INFO - 処理開始 PROCESSID:20251023_220816
+2025-10-23 22:08:19,789 - INFO - 対象ユーザー: cuthouse_hiragishi
+2025-10-23 22:08:19,789 - INFO - 処理を開始します
+2025-10-23 22:08:19,851 - INFO - 選択されたプロファイル: Profile 13
+2025-10-23 22:08:19,851 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-23 22:08:24,601 - INFO - cuthouse_hiragishi のプロフィールページにアクセスします
+2025-10-23 22:08:46,843 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 22:08:47,578 - INFO - cuthouse_hiragishi: 動画を検出しました
+2025-10-23 22:08:47,578 - INFO - datetime属性の抽出を開始します
+2025-10-23 22:08:47,944 - INFO - 抽出されたdatetime: 2025-10-23T02:16:38.000Z
+2025-10-23 22:08:47,944 - INFO - cuthouse_hiragishi の投稿日時: 2025-10-23T02:16:38.000Z
+2025-10-23 22:08:49,142 - INFO - 生成URL:https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMu93UQpM-ktnEcnDPMLMk6RUKwWh-wiBh5Pi6kps4ddJhuHel3eHELxRqkny-8u3yp0sDqlGo8aJPQeJRU53w-v5YvXXgRl5r9gfw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=aAtJDVpa1c4Q7kNvwFsaxcC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MTAzNzQzMTUyOTE0NzEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=e--vLfXqSr1mc1D_EmQN8A&_nc_zt=28&oh=00_Affgd42aGreEQuYmSh_zut_dC6yKgduF0VWnH9YzdPgoTQ&oe=68FC789B&bytestart=0&byteend=2350626
+2025-10-23 22:08:49,142 - INFO - 動画URLを取得しました
+2025-10-23 22:08:49,148 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=cuthouse_hiragishi, key=AQMu93UQpM-ktnEcnDPMLMk6RUKwWh-wiBh5Pi6kps4ddJhuHel3eHELxRqkny-8u3yp0sDqlGo8aJPQeJRU53w-v5YvXXgRl5r9gfw, dt=2025-10-23T02:16:38.000Z, url=https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMu93UQpM-ktnEcnDPMLMk6RUKwWh-wiBh5Pi6kps4ddJhuHel3eHELxRqkny-8u3yp0sDqlGo8aJPQeJRU53w-v5YvXXgRl5r9gfw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=aAtJDVpa1c4Q7kNvwFsaxcC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MTAzNzQzMTUyOTE0NzEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=e--vLfXqSr1mc1D_EmQN8A&_nc_zt=28&oh=00_Affgd42aGreEQuYmSh_zut_dC6yKgduF0VWnH9YzdPgoTQ&oe=68FC789B&bytestart=0&byteend=2350626, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('cuthouse_hiragishi', 'AQMu93UQpM-ktnEcnDPMLMk6RUKwWh-wiBh5Pi6kps4ddJhuHel3eHELxRqkny-8u3yp0sDqlGo8aJPQeJRU53w-v5YvXXgRl5r9gfw', 'https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMu93UQpM-ktnEcnDPMLMk6RUKwWh-wiBh5Pi6kps4ddJhuHel3eHELxRqkny-8u3yp0sDqlGo8aJPQeJRU53w-v5YvXXgRl5r9gfw.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=aAtJDVpa1c4Q7kNvwFsaxcC&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MTAzNzQzMTUyOTE0NzEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=e--vLfXqSr1mc1D_EmQN8A&_nc_zt=28&oh=00_Affgd42aGreEQuYmSh_zut_dC6yKgduF0VWnH9YzdPgoTQ&oe=68FC789B&bytestart=0&byteend=2350626', '2025-10-23T02:16:38.000Z')

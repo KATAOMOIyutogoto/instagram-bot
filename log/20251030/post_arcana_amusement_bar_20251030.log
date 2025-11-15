@@ -1,0 +1,266 @@
+================================================================================
+2025-10-30 02:25:13,965 - INFO - 処理開始 PROCESSID:20251030_022510
+2025-10-30 02:25:13,965 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-30 02:25:13,966 - INFO - 処理を開始します
+2025-10-30 02:25:14,026 - INFO - 選択されたプロファイル: Profile 9
+2025-10-30 02:25:14,026 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-30 02:25:18,864 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-30 02:25:31,030 - INFO - 最新投稿を読み込みます
+2025-10-30 02:25:36,396 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-30 02:25:39,857 - INFO - ピン留めだが3日以上前(7日) → スキップ
+2025-10-30 02:25:39,857 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/p/DHLOlDqhxt7/?hl=ja → 日付確認
+2025-10-30 02:25:42,397 - INFO - ピン留めだが3日以上前(80日) → スキップ
+2025-10-30 02:25:42,397 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/C6ve5Qmh_ow/?hl=ja → 日付確認
+2025-10-30 02:25:47,527 - INFO - ピン留めだが3日以上前(418日) → スキップ
+2025-10-30 02:25:47,527 - INFO - 選定: 非ピン留め https://www.instagram.com/arcana_amusement_bar/p/DQY17VfEllV/?hl=ja
+2025-10-30 02:25:51,268 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 02:25:57,852 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 02:25:57,874 - INFO - datetime属性の抽出を開始します
+2025-10-30 02:25:57,907 - INFO - 抽出されたdatetime: 2025-10-29T09:30:05.000Z
+2025-10-30 02:25:57,908 - INFO - arcana_amusement_bar の投稿日時: 2025-10-29T09:30:05.000Z
+2025-10-30 02:25:57,922 - INFO - date:2025-10-29 18:30:05+09:00
+2025-10-30 02:25:57,922 - INFO - post_date:20251029
+2025-10-30 02:25:57,963 - INFO - 1枚目: blob:https://www.instagram.com/28607310-d4f2-4251-8820-fd4a98bbc07d
+2025-10-30 02:25:57,963 - INFO - [caption/by_username] 開始
+2025-10-30 02:25:58,096 - INFO - [caption/by_username] 説明文確定（先頭100）: 'イベント3日目‼️10月限定イベント！！👻🎃
+
+今日は動画にて店内の様子を一部公開‼️
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+期間中に仮装をして来店してくださっ'
+2025-10-30 02:25:58,098 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251030_022510
+2025-10-30 02:25:59,767 - INFO - 生成URL:https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m82/AQNlXrjBdyZ464QYMwJYcFduA-J8wQv8v90uCYynxB2Qn16oEDzhp7XlDCL4azZSVETdwdVhLVvNwrotBiYs016H1fTUsbC8-lkLrT8.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=w7iv_-DyI8kQ7kNvwFB6ggI&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjMzNTAzNjY2OTk4OTAwLCJhc3NldF9hZ2VfZGF5cyI6NTM4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=wTTRBgBIgrm_z_8WKwitKg&_nc_zt=28&oh=00_AfdCUUAVmHUQ4qt6FqNjumfNCSHK8cuBpglc92LPH3SM_Q&oe=6904AE6F&bytestart=0&byteend=4269486
+2025-10-30 02:25:59,772 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=arcana_amusement_bar, key=AQNlXrjBdyZ464QYMwJYcFduA-J8wQv8v90uCYynxB2Qn16oEDzhp7XlDCL4azZSVETdwdVhLVvNwrotBiYs016H1fTUsbC8-lkLrT8, dt=2025-10-29T09:30:05.000Z, url=https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m82/AQNlXrjBdyZ464QYMwJYcFduA-J8wQv8v90uCYynxB2Qn16oEDzhp7XlDCL4azZSVETdwdVhLVvNwrotBiYs016H1fTUsbC8-lkLrT8.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=w7iv_-DyI8kQ7kNvwFB6ggI&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjMzNTAzNjY2OTk4OTAwLCJhc3NldF9hZ2VfZGF5cyI6NTM4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=wTTRBgBIgrm_z_8WKwitKg&_nc_zt=28&oh=00_AfdCUUAVmHUQ4qt6FqNjumfNCSHK8cuBpglc92LPH3SM_Q&oe=6904AE6F&bytestart=0&byteend=4269486, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('arcana_amusement_bar', 'AQNlXrjBdyZ464QYMwJYcFduA-J8wQv8v90uCYynxB2Qn16oEDzhp7XlDCL4azZSVETdwdVhLVvNwrotBiYs016H1fTUsbC8-lkLrT8', 'https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m82/AQNlXrjBdyZ464QYMwJYcFduA-J8wQv8v90uCYynxB2Qn16oEDzhp7XlDCL4azZSVETdwdVhLVvNwrotBiYs016H1fTUsbC8-lkLrT8.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=w7iv_-DyI8kQ7kNvwFB6ggI&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjMzNTAzNjY2OTk4OTAwLCJhc3NldF9hZ2VfZGF5cyI6NTM4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=wTTRBgBIgrm_z_8WKwitKg&_nc_zt=28&oh=00_AfdCUUAVmHUQ4qt6FqNjumfNCSHK8cuBpglc92LPH3SM_Q&oe=6904AE6F&bytestart=0&byteend=4269486', '2025-10-29T09:30:05.000Z')
+2025-10-30 02:25:59,772 - INFO - このレコードは存在します
+2025-10-30 02:25:59,772 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-30 05:05:45,213 - INFO - 処理開始 PROCESSID:20251030_050541
+2025-10-30 05:05:45,213 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-30 05:05:45,213 - INFO - 処理を開始します
+2025-10-30 05:05:45,272 - INFO - 選択されたプロファイル: Profile 10
+2025-10-30 05:05:45,272 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-30 05:05:50,302 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-30 05:06:02,109 - INFO - 最新投稿を読み込みます
+2025-10-30 05:06:07,680 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-30 05:06:11,324 - INFO - ピン留めだが3日以内 → 採用
+2025-10-30 05:06:15,863 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 05:06:21,208 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 05:06:21,237 - INFO - datetime属性の抽出を開始します
+2025-10-30 05:06:21,280 - INFO - 抽出されたdatetime: 2025-10-30T03:45:17.000Z
+2025-10-30 05:06:21,280 - INFO - arcana_amusement_bar の投稿日時: 2025-10-30T03:45:17.000Z
+2025-10-30 05:06:21,297 - INFO - date:2025-10-30 12:45:17+09:00
+2025-10-30 05:06:21,297 - INFO - post_date:20251030
+2025-10-30 05:06:21,500 - INFO - 1枚目: blob:https://www.instagram.com/55e948d9-78c8-435d-ae4e-81b04f4dd579
+2025-10-30 05:06:21,501 - INFO - [caption/by_username] 開始
+2025-10-30 05:06:21,616 - INFO - [caption/by_username] 説明文確定（先頭100）: '🎃👻10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+
+期間中に仮装をして来店してくださったお客様は、、、
+
+「入場料無料」
+
+となります‼️‼'
+2025-10-30 05:06:21,619 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251030_050541
+2025-10-30 05:06:23,264 - INFO - 生成URL:https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=0z7g6DwTyPSrHREgCh8UVg&_nc_zt=28&oh=00_AfeZjOSdTjL1V0K5TOXXmH1C_xeL7ojew3TT3WpRhW6bLw&oe=6904EBF5&bytestart=0&byteend=2607959
+2025-10-30 05:06:23,267 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=arcana_amusement_bar, key=AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU, dt=2025-10-30T03:45:17.000Z, url=https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=0z7g6DwTyPSrHREgCh8UVg&_nc_zt=28&oh=00_AfeZjOSdTjL1V0K5TOXXmH1C_xeL7ojew3TT3WpRhW6bLw&oe=6904EBF5&bytestart=0&byteend=2607959, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('arcana_amusement_bar', 'AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU', 'https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=0z7g6DwTyPSrHREgCh8UVg&_nc_zt=28&oh=00_AfeZjOSdTjL1V0K5TOXXmH1C_xeL7ojew3TT3WpRhW6bLw&oe=6904EBF5&bytestart=0&byteend=2607959', '2025-10-30T03:45:17.000Z')
+2025-10-30 05:06:23,267 - INFO - このレコードは存在します
+2025-10-30 05:06:23,267 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-30 08:08:57,323 - INFO - 処理開始 PROCESSID:20251030_080853
+2025-10-30 08:08:57,323 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-30 08:08:57,323 - INFO - 処理を開始します
+2025-10-30 08:08:57,384 - INFO - 選択されたプロファイル: Profile 9
+2025-10-30 08:08:57,386 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-30 08:09:02,018 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-30 08:09:13,839 - INFO - 最新投稿を読み込みます
+2025-10-30 08:09:19,430 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-30 08:09:23,148 - INFO - ピン留めだが3日以内 → 採用
+2025-10-30 08:09:26,659 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 08:09:30,227 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 08:09:30,808 - INFO - datetime属性の抽出を開始します
+2025-10-30 08:09:31,012 - INFO - 抽出されたdatetime: 2025-10-30T03:45:17.000Z
+2025-10-30 08:09:31,012 - INFO - arcana_amusement_bar の投稿日時: 2025-10-30T03:45:17.000Z
+2025-10-30 08:09:31,039 - INFO - date:2025-10-30 12:45:17+09:00
+2025-10-30 08:09:31,040 - INFO - post_date:20251030
+2025-10-30 08:09:31,083 - INFO - 1枚目: blob:https://www.instagram.com/27c234bf-13d4-4977-ab7a-693347df4cac
+2025-10-30 08:09:31,083 - INFO - [caption/by_username] 開始
+2025-10-30 08:09:31,519 - INFO - [caption/by_username] 説明文確定（先頭100）: '🎃👻10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+
+期間中に仮装をして来店してくださったお客様は、、、
+
+「入場料無料」
+
+となります‼️‼'
+2025-10-30 08:09:31,524 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251030_080853
+2025-10-30 08:09:33,223 - INFO - 生成URL:https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=yAiDTwSbsG-K0mb_l51IzQ&_nc_zt=28&oh=00_AfeQw-CHu1Rq8QlzTr-EuCFCmLgfVtZF4F8yv_VDY1kqwQ&oe=6904EBF5&bytestart=0&byteend=2607959
+2025-10-30 08:09:33,225 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=arcana_amusement_bar, key=AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU, dt=2025-10-30T03:45:17.000Z, url=https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=yAiDTwSbsG-K0mb_l51IzQ&_nc_zt=28&oh=00_AfeQw-CHu1Rq8QlzTr-EuCFCmLgfVtZF4F8yv_VDY1kqwQ&oe=6904EBF5&bytestart=0&byteend=2607959, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('arcana_amusement_bar', 'AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU', 'https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=yAiDTwSbsG-K0mb_l51IzQ&_nc_zt=28&oh=00_AfeQw-CHu1Rq8QlzTr-EuCFCmLgfVtZF4F8yv_VDY1kqwQ&oe=6904EBF5&bytestart=0&byteend=2607959', '2025-10-30T03:45:17.000Z')
+2025-10-30 08:09:33,226 - INFO - このレコードは存在します
+2025-10-30 08:09:33,226 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-30 11:08:00,702 - INFO - 処理開始 PROCESSID:20251030_110757
+2025-10-30 11:08:00,702 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-30 11:08:00,702 - INFO - 処理を開始します
+2025-10-30 11:08:00,767 - INFO - 選択されたプロファイル: Profile 12
+2025-10-30 11:08:00,769 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-30 11:08:05,329 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-30 11:08:17,844 - INFO - 最新投稿を読み込みます
+2025-10-30 11:08:23,238 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-30 11:08:26,782 - INFO - ピン留めだが3日以内 → 採用
+2025-10-30 11:08:30,899 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 11:08:36,804 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 11:08:36,846 - INFO - datetime属性の抽出を開始します
+2025-10-30 11:08:36,872 - INFO - 抽出されたdatetime: 2025-10-30T03:45:17.000Z
+2025-10-30 11:08:36,873 - INFO - arcana_amusement_bar の投稿日時: 2025-10-30T03:45:17.000Z
+2025-10-30 11:08:36,887 - INFO - date:2025-10-30 12:45:17+09:00
+2025-10-30 11:08:36,887 - INFO - post_date:20251030
+2025-10-30 11:08:36,920 - INFO - 1枚目: blob:https://www.instagram.com/293c3df6-a40a-4215-958f-3868cb1ba9f5
+2025-10-30 11:08:36,921 - INFO - [caption/by_username] 開始
+2025-10-30 11:08:37,033 - INFO - [caption/by_username] 説明文確定（先頭100）: '🎃👻10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+
+期間中に仮装をして来店してくださったお客様は、、、
+
+「入場料無料」
+
+となります‼️‼'
+2025-10-30 11:08:37,035 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251030_110757
+2025-10-30 11:08:38,563 - INFO - 生成URL:https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=mQsbYdJ_lgR_6NRHNLQ9Xw&_nc_zt=28&oh=00_AfcXyBxYR3OAKEkUDjZMJZnwTjfFeS86wKlI7cEoYWugOA&oe=69052435&bytestart=0&byteend=2607959
+2025-10-30 11:08:38,566 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=arcana_amusement_bar, key=AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU, dt=2025-10-30T03:45:17.000Z, url=https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=mQsbYdJ_lgR_6NRHNLQ9Xw&_nc_zt=28&oh=00_AfcXyBxYR3OAKEkUDjZMJZnwTjfFeS86wKlI7cEoYWugOA&oe=69052435&bytestart=0&byteend=2607959, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('arcana_amusement_bar', 'AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU', 'https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=mQsbYdJ_lgR_6NRHNLQ9Xw&_nc_zt=28&oh=00_AfcXyBxYR3OAKEkUDjZMJZnwTjfFeS86wKlI7cEoYWugOA&oe=69052435&bytestart=0&byteend=2607959', '2025-10-30T03:45:17.000Z')
+2025-10-30 11:08:38,566 - INFO - このレコードは存在します
+2025-10-30 11:08:38,566 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-30 14:03:06,038 - INFO - 処理開始 PROCESSID:20251030_140302
+2025-10-30 14:03:06,038 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-30 14:03:06,038 - INFO - 処理を開始します
+2025-10-30 14:03:06,104 - INFO - 選択されたプロファイル: Profile 13
+2025-10-30 14:03:06,106 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-30 14:03:10,582 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-30 14:03:22,132 - INFO - 最新投稿を読み込みます
+2025-10-30 14:03:27,413 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-30 14:03:31,185 - INFO - ピン留めだが3日以内 → 採用
+2025-10-30 14:03:34,663 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 14:03:40,247 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 14:03:40,320 - INFO - datetime属性の抽出を開始します
+2025-10-30 14:03:40,391 - INFO - 抽出されたdatetime: 2025-10-30T03:45:17.000Z
+2025-10-30 14:03:40,391 - INFO - arcana_amusement_bar の投稿日時: 2025-10-30T03:45:17.000Z
+2025-10-30 14:03:40,401 - INFO - date:2025-10-30 12:45:17+09:00
+2025-10-30 14:03:40,401 - INFO - post_date:20251030
+2025-10-30 14:03:40,449 - INFO - 1枚目: blob:https://www.instagram.com/78493419-4f0b-490c-9ddb-5279bd9da320
+2025-10-30 14:03:40,450 - INFO - [caption/by_username] 開始
+2025-10-30 14:03:40,599 - INFO - [caption/by_username] 説明文確定（先頭100）: '🎃👻10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+
+期間中に仮装をして来店してくださったお客様は、、、
+
+「入場料無料」
+
+となります‼️‼'
+2025-10-30 14:03:40,601 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251030_140302
+2025-10-30 14:03:42,226 - INFO - 生成URL:https://scontent-sin11-1.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Mj93ZuRJHd3Ent7PoB3yoA&_nc_zt=28&oh=00_AfdZk47LWk5g0Hzcy2-w-IUapSw-G-3fBqeHYC-3zfdREQ&oe=69055C75&bytestart=0&byteend=2607959
+2025-10-30 14:03:42,228 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=arcana_amusement_bar, key=AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU, dt=2025-10-30T03:45:17.000Z, url=https://scontent-sin11-1.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Mj93ZuRJHd3Ent7PoB3yoA&_nc_zt=28&oh=00_AfdZk47LWk5g0Hzcy2-w-IUapSw-G-3fBqeHYC-3zfdREQ&oe=69055C75&bytestart=0&byteend=2607959, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('arcana_amusement_bar', 'AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU', 'https://scontent-sin11-1.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Mj93ZuRJHd3Ent7PoB3yoA&_nc_zt=28&oh=00_AfdZk47LWk5g0Hzcy2-w-IUapSw-G-3fBqeHYC-3zfdREQ&oe=69055C75&bytestart=0&byteend=2607959', '2025-10-30T03:45:17.000Z')
+2025-10-30 14:03:42,228 - INFO - このレコードは存在します
+2025-10-30 14:03:42,228 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-30 16:54:22,931 - INFO - 処理開始 PROCESSID:20251030_165419
+2025-10-30 16:54:22,931 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-30 16:54:22,931 - INFO - 処理を開始します
+2025-10-30 16:54:22,989 - INFO - 選択されたプロファイル: Profile 13
+2025-10-30 16:54:22,989 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-30 16:54:27,413 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-30 16:54:38,836 - INFO - 最新投稿を読み込みます
+2025-10-30 16:54:44,100 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-30 16:54:47,739 - INFO - ピン留めだが3日以内 → 採用
+2025-10-30 16:54:53,036 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 16:54:58,367 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 16:54:58,527 - INFO - datetime属性の抽出を開始します
+2025-10-30 16:54:58,569 - INFO - 抽出されたdatetime: 2025-10-30T03:45:17.000Z
+2025-10-30 16:54:58,569 - INFO - arcana_amusement_bar の投稿日時: 2025-10-30T03:45:17.000Z
+2025-10-30 16:54:58,577 - INFO - date:2025-10-30 12:45:17+09:00
+2025-10-30 16:54:58,577 - INFO - post_date:20251030
+2025-10-30 16:54:58,619 - INFO - 1枚目: blob:https://www.instagram.com/05a98d19-8235-4729-8503-6561b98d8cc6
+2025-10-30 16:54:58,619 - INFO - [caption/by_username] 開始
+2025-10-30 16:54:58,761 - INFO - [caption/by_username] 説明文確定（先頭100）: '🎃👻10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+
+期間中に仮装をして来店してくださったお客様は、、、
+
+「入場料無料」
+
+となります‼️‼'
+2025-10-30 16:54:58,762 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251030_165419
+2025-10-30 16:55:00,349 - INFO - 生成URL:https://scontent-sin11-1.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=sgUyGywWEYarylbIFF6fHA&_nc_zt=28&oh=00_AffpjX_5i0gF5lLfbrSygDcyJJTbTXz-Z7QoGp4SB-iv7A&oe=69055C75&bytestart=0&byteend=2607959
+2025-10-30 16:55:00,352 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=arcana_amusement_bar, key=AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU, dt=2025-10-30T03:45:17.000Z, url=https://scontent-sin11-1.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=sgUyGywWEYarylbIFF6fHA&_nc_zt=28&oh=00_AffpjX_5i0gF5lLfbrSygDcyJJTbTXz-Z7QoGp4SB-iv7A&oe=69055C75&bytestart=0&byteend=2607959, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('arcana_amusement_bar', 'AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU', 'https://scontent-sin11-1.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=sgUyGywWEYarylbIFF6fHA&_nc_zt=28&oh=00_AffpjX_5i0gF5lLfbrSygDcyJJTbTXz-Z7QoGp4SB-iv7A&oe=69055C75&bytestart=0&byteend=2607959', '2025-10-30T03:45:17.000Z')
+2025-10-30 16:55:00,354 - INFO - このレコードは存在します
+2025-10-30 16:55:00,354 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-30 19:46:16,051 - INFO - 処理開始 PROCESSID:20251030_194612
+2025-10-30 19:46:16,051 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-30 19:46:16,051 - INFO - 処理を開始します
+2025-10-30 19:46:16,108 - INFO - 選択されたプロファイル: Profile 13
+2025-10-30 19:46:16,108 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-30 19:46:20,448 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-30 19:46:33,009 - INFO - 最新投稿を読み込みます
+2025-10-30 19:46:38,307 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-30 19:46:40,894 - INFO - ピン留めだが3日以内 → 採用
+2025-10-30 19:46:44,689 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 19:46:49,167 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 19:46:49,280 - INFO - datetime属性の抽出を開始します
+2025-10-30 19:46:49,592 - INFO - 抽出されたdatetime: 2025-10-30T03:45:17.000Z
+2025-10-30 19:46:49,592 - INFO - arcana_amusement_bar の投稿日時: 2025-10-30T03:45:17.000Z
+2025-10-30 19:46:49,606 - INFO - date:2025-10-30 12:45:17+09:00
+2025-10-30 19:46:49,606 - INFO - post_date:20251030
+2025-10-30 19:46:49,645 - INFO - 1枚目: blob:https://www.instagram.com/e133f5f2-b0df-42ee-b7d5-1bd9fd5a1121
+2025-10-30 19:46:49,645 - INFO - [caption/by_username] 開始
+2025-10-30 19:46:49,856 - INFO - [caption/by_username] 説明文確定（先頭100）: '🎃👻10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+
+期間中に仮装をして来店してくださったお客様は、、、
+
+「入場料無料」
+
+となります‼️‼'
+2025-10-30 19:46:49,858 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251030_194612
+2025-10-30 19:46:51,288 - INFO - 生成URL:https://scontent-sin11-1.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=C6IKoBqlz6xWkyVc93h15g&_nc_zt=28&oh=00_AfcV2tZ3R7KgYKhLuQBZ64jkn-k30mnxT_LQmJz3ONiQ6Q&oe=690594B5&bytestart=0&byteend=2607959
+2025-10-30 19:46:51,290 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=arcana_amusement_bar, key=AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU, dt=2025-10-30T03:45:17.000Z, url=https://scontent-sin11-1.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=C6IKoBqlz6xWkyVc93h15g&_nc_zt=28&oh=00_AfcV2tZ3R7KgYKhLuQBZ64jkn-k30mnxT_LQmJz3ONiQ6Q&oe=690594B5&bytestart=0&byteend=2607959, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('arcana_amusement_bar', 'AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU', 'https://scontent-sin11-1.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=C6IKoBqlz6xWkyVc93h15g&_nc_zt=28&oh=00_AfcV2tZ3R7KgYKhLuQBZ64jkn-k30mnxT_LQmJz3ONiQ6Q&oe=690594B5&bytestart=0&byteend=2607959', '2025-10-30T03:45:17.000Z')
+2025-10-30 19:46:51,290 - INFO - このレコードは存在します
+2025-10-30 19:46:51,291 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-30 22:35:47,266 - INFO - 処理開始 PROCESSID:20251030_223544
+2025-10-30 22:35:47,266 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-30 22:35:47,266 - INFO - 処理を開始します
+2025-10-30 22:35:47,327 - INFO - 選択されたプロファイル: Profile 10
+2025-10-30 22:35:47,327 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-30 22:35:51,830 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-30 22:36:04,510 - INFO - 最新投稿を読み込みます
+2025-10-30 22:36:09,773 - INFO - 候補はピン留め: https://www.instagram.com/arcana_amusement_bar/reel/DQG1EI3kjwx/?hl=ja → 日付確認
+2025-10-30 22:36:13,836 - INFO - ピン留めだが3日以内 → 採用
+2025-10-30 22:36:19,075 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 22:36:24,149 - INFO - 最新投稿ページにアクセスしました
+2025-10-30 22:36:24,182 - INFO - datetime属性の抽出を開始します
+2025-10-30 22:36:24,211 - INFO - 抽出されたdatetime: 2025-10-30T03:45:17.000Z
+2025-10-30 22:36:24,211 - INFO - arcana_amusement_bar の投稿日時: 2025-10-30T03:45:17.000Z
+2025-10-30 22:36:24,218 - INFO - date:2025-10-30 12:45:17+09:00
+2025-10-30 22:36:24,218 - INFO - post_date:20251030
+2025-10-30 22:36:24,258 - INFO - 1枚目: blob:https://www.instagram.com/6a22f622-c0dd-4131-98de-8ef43b1a1d5e
+2025-10-30 22:36:24,258 - INFO - [caption/by_username] 開始
+2025-10-30 22:36:24,381 - INFO - [caption/by_username] 説明文確定（先頭100）: '🎃👻10月限定イベント！！👻🎃
+
+10月27日〜31日、ARCANAにてハロウィンイベント開催します！！✨✨
+
+期間中に仮装をして来店してくださったお客様は、、、
+
+「入場料無料」
+
+となります‼️‼'
+2025-10-30 22:36:24,383 - INFO - [caption/by_username] 説明文を保存: media\arcana_amusement_bar\description\20251030_223544
+2025-10-30 22:36:25,844 - INFO - 生成URL:https://scontent-sin11-1.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ZtzKR9tI9oLayewNe52qgw&_nc_zt=28&oh=00_Afc81CpPPvaaqpRSCIBPc7bVaNTAhoVRbqKW5da69TL_Wg&oe=6905CCF5&bytestart=0&byteend=2607959
+2025-10-30 22:36:25,846 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=arcana_amusement_bar, key=AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU, dt=2025-10-30T03:45:17.000Z, url=https://scontent-sin11-1.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ZtzKR9tI9oLayewNe52qgw&_nc_zt=28&oh=00_Afc81CpPPvaaqpRSCIBPc7bVaNTAhoVRbqKW5da69TL_Wg&oe=6905CCF5&bytestart=0&byteend=2607959, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('arcana_amusement_bar', 'AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU', 'https://scontent-sin11-1.cdninstagram.com/o1/v/t2/f2/m86/AQPPknssKR67z1Ei2xmfznjVc9OBgIiE-SCZmWkNlTXrwI7vx2SEZBo6ahpFykFO8DtZPNlEFXSumPAnFcktcOFrkgSw7WJVJstdnhU.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_ohc=wS-LvOZgu4UQ7kNvwEKjum1&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MzQ5MTY4Mjg5MzIwMDEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ZtzKR9tI9oLayewNe52qgw&_nc_zt=28&oh=00_Afc81CpPPvaaqpRSCIBPc7bVaNTAhoVRbqKW5da69TL_Wg&oe=6905CCF5&bytestart=0&byteend=2607959', '2025-10-30T03:45:17.000Z')
+2025-10-30 22:36:25,846 - INFO - このレコードは存在します
+2025-10-30 22:36:25,846 - INFO - 全件レコードが存在します

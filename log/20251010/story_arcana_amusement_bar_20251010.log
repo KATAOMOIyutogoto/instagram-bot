@@ -1,0 +1,188 @@
+================================================================================
+2025-10-10 01:37:18,951 - INFO - 処理開始 PROCESSID:20251010_013715
+2025-10-10 01:37:18,951 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-10 01:37:18,951 - INFO - 処理を開始します
+2025-10-10 01:37:19,006 - INFO - 選択されたプロファイル: Profile 13
+2025-10-10 01:37:19,008 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-10 01:37:24,566 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-10 01:37:46,873 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 01:37:47,877 - INFO - arcana_amusement_bar: 動画を検出しました
+2025-10-10 01:37:47,877 - INFO - datetime属性の抽出を開始します
+2025-10-10 01:37:48,467 - INFO - 抽出されたdatetime: 2025-10-09T03:51:40.000Z
+2025-10-10 01:37:48,467 - INFO - arcana_amusement_bar の投稿日時: 2025-10-09T03:51:40.000Z
+2025-10-10 01:37:49,903 - INFO - 生成URL:https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m82/AQNlXrjBdyZ464QYMwJYcFduA-J8wQv8v90uCYynxB2Qn16oEDzhp7XlDCL4azZSVETdwdVhLVvNwrotBiYs016H1fTUsbC8-lkLrT8.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=xelRj2frwgAQ7kNvwFE8SJ0&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjMzNTAzNjY2OTk4OTAwLCJhc3NldF9hZ2VfZGF5cyI6NTE4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=CwpmCRRzDfZZPWYS2mmFsg&_nc_zt=28&oh=00_AfevnT-RIFzjU8TrPYnNpYQObzNn8TN44RmjQRYP7D62dA&oe=68EA506F&bytestart=0&byteend=1111903
+2025-10-10 01:37:49,903 - INFO - 動画URLを取得しました
+2025-10-10 01:37:49,979 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=arcana_amusement_bar, key=AQNlXrjBdyZ464QYMwJYcFduA-J8wQv8v90uCYynxB2Qn16oEDzhp7XlDCL4azZSVETdwdVhLVvNwrotBiYs016H1fTUsbC8-lkLrT8, dt=2025-10-09T03:51:40.000Z, url=https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m82/AQNlXrjBdyZ464QYMwJYcFduA-J8wQv8v90uCYynxB2Qn16oEDzhp7XlDCL4azZSVETdwdVhLVvNwrotBiYs016H1fTUsbC8-lkLrT8.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=xelRj2frwgAQ7kNvwFE8SJ0&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjMzNTAzNjY2OTk4OTAwLCJhc3NldF9hZ2VfZGF5cyI6NTE4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=CwpmCRRzDfZZPWYS2mmFsg&_nc_zt=28&oh=00_AfevnT-RIFzjU8TrPYnNpYQObzNn8TN44RmjQRYP7D62dA&oe=68EA506F&bytestart=0&byteend=1111903, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('arcana_amusement_bar', 'AQNlXrjBdyZ464QYMwJYcFduA-J8wQv8v90uCYynxB2Qn16oEDzhp7XlDCL4azZSVETdwdVhLVvNwrotBiYs016H1fTUsbC8-lkLrT8', 'https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m82/AQNlXrjBdyZ464QYMwJYcFduA-J8wQv8v90uCYynxB2Qn16oEDzhp7XlDCL4azZSVETdwdVhLVvNwrotBiYs016H1fTUsbC8-lkLrT8.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=xelRj2frwgAQ7kNvwFE8SJ0&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMjMzNTAzNjY2OTk4OTAwLCJhc3NldF9hZ2VfZGF5cyI6NTE4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=CwpmCRRzDfZZPWYS2mmFsg&_nc_zt=28&oh=00_AfevnT-RIFzjU8TrPYnNpYQObzNn8TN44RmjQRYP7D62dA&oe=68EA506F&bytestart=0&byteend=1111903', '2025-10-09T03:51:40.000Z')
+================================================================================
+2025-10-10 05:35:41,029 - INFO - 処理開始 PROCESSID:20251010_053537
+2025-10-10 05:35:41,029 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-10 05:35:41,029 - INFO - 処理を開始します
+2025-10-10 05:35:41,085 - INFO - 選択されたプロファイル: Profile 12
+2025-10-10 05:35:41,086 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-10 05:35:45,688 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-10 05:36:08,145 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 05:36:11,248 - INFO - 動画の取得に失敗しました
+2025-10-10 05:36:11,249 - INFO - datetime属性の抽出を開始します
+2025-10-10 05:36:21,505 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x42fea3+66515]
+	GetHandleVerifier [0x0x42fee4+66580]
+	(No symbol) [0x0x21dc48]
+	(No symbol) [0x0x268704]
+	(No symbol) [0x0x268aab]
+	(No symbol) [0x0x2af482]
+	(No symbol) [0x0x28b214]
+	(No symbol) [0x0x2acba7]
+	(No symbol) [0x0x28afc6]
+	(No symbol) [0x0x25c2ca]
+	(No symbol) [0x0x25d154]
+	GetHandleVerifier [0x0x6873d3+2521347]
+	GetHandleVerifier [0x0x682353+2500739]
+	GetHandleVerifier [0x0x457cf4+229924]
+	GetHandleVerifier [0x0x448258+165768]
+	GetHandleVerifier [0x0x44ed0d+193085]
+	GetHandleVerifier [0x0x4381b8+100072]
+	GetHandleVerifier [0x0x438350+100480]
+	GetHandleVerifier [0x0x42260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-10 05:36:31,884 - INFO - 画像の取得に失敗しました
+2025-10-10 05:36:34,333 - INFO - 処理終了
+================================================================================
+2025-10-10 09:35:56,581 - INFO - 処理開始 PROCESSID:20251010_093553
+2025-10-10 09:35:56,582 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-10 09:35:56,582 - INFO - 処理を開始します
+2025-10-10 09:35:56,639 - INFO - 選択されたプロファイル: Profile 10
+2025-10-10 09:35:56,639 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-10 09:36:01,588 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-10 09:36:23,967 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 09:36:27,078 - INFO - 動画の取得に失敗しました
+2025-10-10 09:36:27,079 - INFO - datetime属性の抽出を開始します
+2025-10-10 09:36:37,573 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x42fea3+66515]
+	GetHandleVerifier [0x0x42fee4+66580]
+	(No symbol) [0x0x21dc48]
+	(No symbol) [0x0x268704]
+	(No symbol) [0x0x268aab]
+	(No symbol) [0x0x2af482]
+	(No symbol) [0x0x28b214]
+	(No symbol) [0x0x2acba7]
+	(No symbol) [0x0x28afc6]
+	(No symbol) [0x0x25c2ca]
+	(No symbol) [0x0x25d154]
+	GetHandleVerifier [0x0x6873d3+2521347]
+	GetHandleVerifier [0x0x682353+2500739]
+	GetHandleVerifier [0x0x457cf4+229924]
+	GetHandleVerifier [0x0x448258+165768]
+	GetHandleVerifier [0x0x44ed0d+193085]
+	GetHandleVerifier [0x0x4381b8+100072]
+	GetHandleVerifier [0x0x438350+100480]
+	GetHandleVerifier [0x0x42260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-10 09:36:47,937 - INFO - 画像の取得に失敗しました
+2025-10-10 09:36:50,369 - INFO - 処理終了
+================================================================================
+2025-10-10 13:32:43,428 - INFO - 処理開始 PROCESSID:20251010_133239
+2025-10-10 13:32:43,428 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-10 13:32:43,428 - INFO - 処理を開始します
+2025-10-10 13:32:43,483 - INFO - 選択されたプロファイル: Profile 13
+2025-10-10 13:32:43,483 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-10 13:32:48,180 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-10 13:33:10,063 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 13:33:13,228 - INFO - 動画の取得に失敗しました
+2025-10-10 13:33:13,229 - INFO - datetime属性の抽出を開始します
+2025-10-10 13:33:23,708 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x42fea3+66515]
+	GetHandleVerifier [0x0x42fee4+66580]
+	(No symbol) [0x0x21dc48]
+	(No symbol) [0x0x268704]
+	(No symbol) [0x0x268aab]
+	(No symbol) [0x0x2af482]
+	(No symbol) [0x0x28b214]
+	(No symbol) [0x0x2acba7]
+	(No symbol) [0x0x28afc6]
+	(No symbol) [0x0x25c2ca]
+	(No symbol) [0x0x25d154]
+	GetHandleVerifier [0x0x6873d3+2521347]
+	GetHandleVerifier [0x0x682353+2500739]
+	GetHandleVerifier [0x0x457cf4+229924]
+	GetHandleVerifier [0x0x448258+165768]
+	GetHandleVerifier [0x0x44ed0d+193085]
+	GetHandleVerifier [0x0x4381b8+100072]
+	GetHandleVerifier [0x0x438350+100480]
+	GetHandleVerifier [0x0x42260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-10 13:33:34,020 - INFO - 画像の取得に失敗しました
+2025-10-10 13:33:36,425 - INFO - 処理終了
+================================================================================
+2025-10-10 17:26:03,951 - INFO - 処理開始 PROCESSID:20251010_172600
+2025-10-10 17:26:03,951 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-10 17:26:03,951 - INFO - 処理を開始します
+2025-10-10 17:26:04,009 - INFO - 選択されたプロファイル: Profile 9
+2025-10-10 17:26:04,009 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-10 17:26:08,551 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-10 17:26:30,962 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 17:26:31,827 - INFO - arcana_amusement_bar: 動画を検出しました
+2025-10-10 17:26:31,828 - INFO - datetime属性の抽出を開始します
+2025-10-10 17:26:31,958 - INFO - 抽出されたdatetime: 2025-10-10T14:27:46.000Z
+2025-10-10 17:26:31,959 - INFO - arcana_amusement_bar の投稿日時: 2025-10-10T14:27:46.000Z
+2025-10-10 17:26:33,477 - INFO - 生成URL:https://scontent-hkg1-2.cdninstagram.com/o1/v/t2/f2/m367/AQOaqn5BYiH5v6MzDIPZbuhJlon0ZSav0RlwuUvvDopH_OunVHA8ZM4h3gJKR20bod2A92IryLmJ5PhfIoWnh-yAXKbqz44hP0S_fcAPGv5tVA.mp4?_nc_cat=102&_nc_sid=9ca052&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_ohc=MU-Ng47oiZIQ7kNvwGrjyj6&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MjEwOTA0MjI1OTkzMzg3NywidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=E_n2d3AI4gn48JBfa8GPBQ&_nc_zt=28&oh=00_AfeFvMhO2WQiVbuSsjyceVi3_U9FmtJ9Nk08F6vaCAvMgw&oe=68EF2922&bytestart=0&byteend=285772
+2025-10-10 17:26:33,477 - INFO - 動画URLを取得しました
+2025-10-10 17:26:33,528 - INFO - INSERT(with-key): user=arcana_amusement_bar, key=AQOaqn5BYiH5v6MzDIPZbuhJlon0ZSav0RlwuUvvDopH_OunVHA8ZM4h3gJKR20bod2A92IryLmJ5PhfIoWnh-yAXKbqz44hP0S_fcAPGv5tVA, dt=2025-10-10T14:27:46.000Z
+2025-10-10 17:26:35,777 - INFO - ダウンロードを開始します: media\arcana_amusement_bar\arcana_amusement_bar_20251010172635.mp4
+2025-10-10 17:26:36,244 - INFO - ダウンロード完了: media\arcana_amusement_bar\arcana_amusement_bar_20251010172635.mp4
+2025-10-10 17:26:39,919 - INFO - 処理終了
+2025-10-10 17:26:39,921 - INFO - 説明文_AI: None
+2025-10-10 17:26:39,921 - INFO - 説明文_最終: 
+================================================================================
+2025-10-10 17:26:46,016 - INFO - 処理開始: Mode=story, Username=arcana_amusement_bar, GBP=MSSWCMFH508882
+2025-10-10 17:26:46,018 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU1NXQ01GSDUwODg4MiJd.
+2025-10-10 17:27:09,730 - INFO - 元の動画サイズ: 1080x1920
+2025-10-10 17:27:09,730 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-10 17:27:09,730 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\arcana_amusement_bar\arcana_amusement_bar_20251010172635.mp4
+2025-10-10 17:27:19,789 - INFO - 一時ファイルが見つかりません: media\arcana_amusement_bar\description\20251010_172600
+2025-10-10 17:27:19,789 - INFO - Looking for button section...
+2025-10-10 17:27:24,332 - INFO - Trying to select CALL option...
+2025-10-10 17:27:24,570 - INFO - CALL option successfully selected
+2025-10-10 17:27:26,571 - INFO - Clicking submit button...
+2025-10-10 17:27:35,215 - INFO - 処理完了
+================================================================================
+2025-10-10 21:15:50,335 - INFO - 処理開始 PROCESSID:20251010_211546
+2025-10-10 21:15:50,335 - INFO - 対象ユーザー: arcana_amusement_bar
+2025-10-10 21:15:50,335 - INFO - 処理を開始します
+2025-10-10 21:15:50,400 - INFO - 選択されたプロファイル: Profile 9
+2025-10-10 21:15:50,400 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-10 21:15:55,096 - INFO - arcana_amusement_bar のプロフィールページにアクセスします
+2025-10-10 21:16:17,556 - INFO - プロフィール写真のクリックに成功しました
+2025-10-10 21:16:20,588 - INFO - 動画の取得に失敗しました
+2025-10-10 21:16:20,589 - INFO - datetime属性の抽出を開始します
+2025-10-10 21:16:20,667 - INFO - 抽出されたdatetime: 2025-10-10T14:41:10.000Z
+2025-10-10 21:16:20,694 - INFO - 画像URLを取得しました
+2025-10-10 21:16:20,737 - INFO - INSERT(with-key): user=arcana_amusement_bar, key=Mzc0MDM3MzM2ODU0Njk2NTQzNg==, dt=2025-10-10T14:41:10.000Z
+2025-10-10 21:16:22,739 - INFO - ダウンロードを開始します: media\arcana_amusement_bar\arcana_amusement_bar_20251010211622.jpg
+2025-10-10 21:16:23,061 - INFO - ダウンロード完了: media\arcana_amusement_bar\arcana_amusement_bar_20251010211622.jpg
+2025-10-10 21:16:23,189 - INFO - 元の画像サイズ: 480x853
+2025-10-10 21:16:23,190 - INFO - サイズ変更は不要です
+2025-10-10 21:16:25,838 - INFO - 処理終了
+2025-10-10 21:16:25,838 - INFO - 説明文_AI: None
+2025-10-10 21:16:25,838 - INFO - 説明文_最終: 
+================================================================================
+2025-10-10 21:16:31,889 - INFO - 処理開始: Mode=story, Username=arcana_amusement_bar, GBP=MSSWCMFH508882
+2025-10-10 21:16:31,889 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU1NXQ01GSDUwODg4MiJd.
+2025-10-10 21:16:57,000 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\arcana_amusement_bar\arcana_amusement_bar_20251010211622.jpg
+2025-10-10 21:17:00,153 - INFO - 一時ファイルが見つかりません: media\arcana_amusement_bar\description\20251010_211546
+2025-10-10 21:17:00,154 - INFO - Looking for button section...
+2025-10-10 21:17:04,721 - INFO - Trying to select CALL option...
+2025-10-10 21:17:04,932 - INFO - CALL option successfully selected
+2025-10-10 21:17:06,933 - INFO - Clicking submit button...
+2025-10-10 21:17:16,620 - INFO - 処理完了

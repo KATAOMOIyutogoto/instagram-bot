@@ -1,0 +1,131 @@
+================================================================================
+2025-10-12 00:04:23,982 - INFO - 処理開始 PROCESSID:20251012_000420
+2025-10-12 00:04:23,982 - INFO - 対象ユーザー: popular_este
+2025-10-12 00:04:23,984 - INFO - 処理を開始します
+2025-10-12 00:04:24,047 - INFO - 選択されたプロファイル: Profile 13
+2025-10-12 00:04:24,047 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-12 00:04:29,498 - INFO - popular_este のプロフィールページにアクセスします
+2025-10-12 00:04:51,531 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 00:04:54,853 - INFO - 動画の取得に失敗しました
+2025-10-12 00:04:54,854 - INFO - datetime属性の抽出を開始します
+2025-10-12 00:04:54,957 - INFO - 抽出されたdatetime: 2025-10-11T23:04:24.000Z
+2025-10-12 00:04:54,987 - INFO - 画像URLを取得しました
+2025-10-12 00:04:55,037 - INFO - INSERT(with-key): user=popular_este, key=Mzc0MTM1MTQzNzAwNDkyNzYyNw==, dt=2025-10-11T23:04:24.000Z
+2025-10-12 00:04:57,040 - INFO - ダウンロードを開始します: media\popular_este\popular_este_20251012000457.jpg
+2025-10-12 00:04:57,306 - INFO - ダウンロード完了: media\popular_este\popular_este_20251012000457.jpg
+2025-10-12 00:04:57,435 - INFO - 元の画像サイズ: 320x569
+2025-10-12 00:04:59,922 - INFO - 処理終了
+2025-10-12 00:04:59,924 - INFO - 説明文_AI: None
+2025-10-12 00:04:59,924 - INFO - 説明文_最終: 
+================================================================================
+2025-10-12 00:05:06,053 - INFO - 処理開始: Mode=story, Username=popular_este, GBP=populareste
+2025-10-12 00:05:06,053 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJwb3B1bGFyZXN0ZSJd.
+2025-10-12 00:05:31,952 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\popular_este\popular_este_20251012000457.jpg
+2025-10-12 00:05:35,044 - INFO - 一時ファイルが見つかりません: media\popular_este\description\20251012_000420
+2025-10-12 00:05:35,044 - INFO - Looking for button section...
+2025-10-12 00:05:39,626 - INFO - Trying to select CALL option...
+2025-10-12 00:05:40,106 - INFO - CALL option successfully selected
+2025-10-12 00:05:42,106 - INFO - Clicking submit button...
+2025-10-12 00:05:50,783 - INFO - 処理完了
+================================================================================
+2025-10-12 04:06:47,166 - INFO - 処理開始 PROCESSID:20251012_040643
+2025-10-12 04:06:47,166 - INFO - 対象ユーザー: popular_este
+2025-10-12 04:06:47,166 - INFO - 処理を開始します
+2025-10-12 04:06:47,222 - INFO - 選択されたプロファイル: Profile 12
+2025-10-12 04:06:47,222 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-12 04:06:51,896 - INFO - popular_este のプロフィールページにアクセスします
+2025-10-12 04:07:14,362 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 04:07:17,489 - INFO - 動画の取得に失敗しました
+2025-10-12 04:07:17,490 - INFO - datetime属性の抽出を開始します
+2025-10-12 04:07:17,567 - INFO - 抽出されたdatetime: 2025-10-11T23:04:24.000Z
+2025-10-12 04:07:17,594 - INFO - 画像URLを取得しました
+2025-10-12 04:07:17,601 - INFO - DUP(with-key): user=popular_este, key=Mzc0MTM1MTQzNzAwNDkyNzYyNw==, dt=2025-10-11T23:04:24.000Z
+================================================================================
+2025-10-12 08:04:34,283 - INFO - 処理開始 PROCESSID:20251012_080430
+2025-10-12 08:04:34,283 - INFO - 対象ユーザー: popular_este
+2025-10-12 08:04:34,283 - INFO - 処理を開始します
+2025-10-12 08:04:34,345 - INFO - 選択されたプロファイル: Profile 9
+2025-10-12 08:04:34,345 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-12 08:04:39,332 - INFO - popular_este のプロフィールページにアクセスします
+2025-10-12 08:05:01,763 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 08:05:05,022 - INFO - 動画の取得に失敗しました
+2025-10-12 08:05:05,023 - INFO - datetime属性の抽出を開始します
+2025-10-12 08:05:05,102 - INFO - 抽出されたdatetime: 2025-10-11T23:04:24.000Z
+2025-10-12 08:05:05,129 - INFO - 画像URLを取得しました
+2025-10-12 08:05:05,133 - INFO - DUP(with-key): user=popular_este, key=Mzc0MTM1MTQzNzAwNDkyNzYyNw==, dt=2025-10-11T23:04:24.000Z
+================================================================================
+2025-10-12 12:04:42,759 - INFO - 処理開始 PROCESSID:20251012_120439
+2025-10-12 12:04:42,761 - INFO - 対象ユーザー: popular_este
+2025-10-12 12:04:42,761 - INFO - 処理を開始します
+2025-10-12 12:04:42,827 - INFO - 選択されたプロファイル: Profile 13
+2025-10-12 12:04:42,827 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-12 12:04:47,691 - INFO - popular_este のプロフィールページにアクセスします
+2025-10-12 12:05:10,479 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 12:05:13,860 - INFO - 動画の取得に失敗しました
+2025-10-12 12:05:13,861 - INFO - datetime属性の抽出を開始します
+2025-10-12 12:05:14,017 - INFO - 抽出されたdatetime: 2025-10-11T23:04:24.000Z
+2025-10-12 12:05:14,045 - INFO - 画像URLを取得しました
+2025-10-12 12:05:14,047 - INFO - DUP(with-key): user=popular_este, key=Mzc0MTM1MTQzNzAwNDkyNzYyNw==, dt=2025-10-11T23:04:24.000Z
+================================================================================
+2025-10-12 16:00:16,628 - INFO - 処理開始 PROCESSID:20251012_160013
+2025-10-12 16:00:16,628 - INFO - 対象ユーザー: popular_este
+2025-10-12 16:00:16,628 - INFO - 処理を開始します
+2025-10-12 16:00:16,686 - INFO - 選択されたプロファイル: Profile 13
+2025-10-12 16:00:16,686 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-12 16:00:21,485 - INFO - popular_este のプロフィールページにアクセスします
+2025-10-12 16:00:44,308 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 16:00:47,628 - INFO - 動画の取得に失敗しました
+2025-10-12 16:00:47,628 - INFO - datetime属性の抽出を開始します
+2025-10-12 16:00:47,707 - INFO - 抽出されたdatetime: 2025-10-11T23:04:24.000Z
+2025-10-12 16:00:47,733 - INFO - 画像URLを取得しました
+2025-10-12 16:00:47,737 - INFO - DUP(with-key): user=popular_este, key=Mzc0MTM1MTQzNzAwNDkyNzYyNw==, dt=2025-10-11T23:04:24.000Z
+================================================================================
+2025-10-12 19:54:38,348 - INFO - 処理開始 PROCESSID:20251012_195435
+2025-10-12 19:54:38,348 - INFO - 対象ユーザー: popular_este
+2025-10-12 19:54:38,350 - INFO - 処理を開始します
+2025-10-12 19:54:38,399 - INFO - 選択されたプロファイル: Profile 12
+2025-10-12 19:54:38,399 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-12 19:54:42,986 - INFO - popular_este のプロフィールページにアクセスします
+2025-10-12 19:55:05,166 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 19:55:08,384 - INFO - 動画の取得に失敗しました
+2025-10-12 19:55:08,385 - INFO - datetime属性の抽出を開始します
+2025-10-12 19:55:08,465 - INFO - 抽出されたdatetime: 2025-10-11T23:04:24.000Z
+2025-10-12 19:55:08,491 - INFO - 画像URLを取得しました
+2025-10-12 19:55:08,495 - INFO - DUP(with-key): user=popular_este, key=Mzc0MTM1MTQzNzAwNDkyNzYyNw==, dt=2025-10-11T23:04:24.000Z
+================================================================================
+2025-10-12 23:44:25,712 - INFO - 処理開始 PROCESSID:20251012_234422
+2025-10-12 23:44:25,712 - INFO - 対象ユーザー: popular_este
+2025-10-12 23:44:25,712 - INFO - 処理を開始します
+2025-10-12 23:44:25,767 - INFO - 選択されたプロファイル: Profile 10
+2025-10-12 23:44:25,767 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-12 23:44:30,470 - INFO - popular_este のプロフィールページにアクセスします
+2025-10-12 23:44:53,019 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 23:44:56,155 - INFO - 動画の取得に失敗しました
+2025-10-12 23:44:56,155 - INFO - datetime属性の抽出を開始します
+2025-10-12 23:45:06,483 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x65fea3+66515]
+	GetHandleVerifier [0x0x65fee4+66580]
+	(No symbol) [0x0x44dc48]
+	(No symbol) [0x0x498704]
+	(No symbol) [0x0x498aab]
+	(No symbol) [0x0x4df482]
+	(No symbol) [0x0x4bb214]
+	(No symbol) [0x0x4dcba7]
+	(No symbol) [0x0x4bafc6]
+	(No symbol) [0x0x48c2ca]
+	(No symbol) [0x0x48d154]
+	GetHandleVerifier [0x0x8b73d3+2521347]
+	GetHandleVerifier [0x0x8b2353+2500739]
+	GetHandleVerifier [0x0x687cf4+229924]
+	GetHandleVerifier [0x0x678258+165768]
+	GetHandleVerifier [0x0x67ed0d+193085]
+	GetHandleVerifier [0x0x6681b8+100072]
+	GetHandleVerifier [0x0x668350+100480]
+	GetHandleVerifier [0x0x65260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-12 23:45:16,830 - INFO - 画像の取得に失敗しました
+2025-10-12 23:45:19,265 - INFO - 処理終了

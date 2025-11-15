@@ -1,0 +1,68 @@
+================================================================================
+2025-10-14 02:02:18,130 - INFO - 処理開始 PROCESSID:20251014_020211
+2025-10-14 02:02:18,130 - INFO - 対象ユーザー: fupao_sotetsu
+2025-10-14 02:02:18,130 - INFO - 処理を開始します
+2025-10-14 02:02:18,267 - INFO - 選択されたプロファイル: Profile 10
+2025-10-14 02:02:18,267 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-14 02:02:30,934 - INFO - fupao_sotetsu のプロフィールページにアクセスします
+2025-10-14 02:02:54,110 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 02:02:57,231 - INFO - 動画の取得に失敗しました
+2025-10-14 02:02:57,231 - INFO - datetime属性の抽出を開始します
+2025-10-14 02:03:07,670 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdefea3+66515]
+	GetHandleVerifier [0x0xdefee4+66580]
+	(No symbol) [0x0xbddc48]
+	(No symbol) [0x0xc28704]
+	(No symbol) [0x0xc28aab]
+	(No symbol) [0x0xc6f482]
+	(No symbol) [0x0xc4b214]
+	(No symbol) [0x0xc6cba7]
+	(No symbol) [0x0xc4afc6]
+	(No symbol) [0x0xc1c2ca]
+	(No symbol) [0x0xc1d154]
+	GetHandleVerifier [0x0x10473d3+2521347]
+	GetHandleVerifier [0x0x1042353+2500739]
+	GetHandleVerifier [0x0xe17cf4+229924]
+	GetHandleVerifier [0x0xe08258+165768]
+	GetHandleVerifier [0x0xe0ed0d+193085]
+	GetHandleVerifier [0x0xdf81b8+100072]
+	GetHandleVerifier [0x0xdf8350+100480]
+	GetHandleVerifier [0x0xde260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-14 02:03:17,952 - INFO - 画像の取得に失敗しました
+2025-10-14 02:03:20,397 - INFO - 処理終了
+================================================================================
+2025-10-14 07:29:19,667 - INFO - 処理開始 PROCESSID:20251014_072912
+2025-10-14 07:29:19,667 - INFO - 対象ユーザー: fupao_sotetsu
+2025-10-14 07:29:19,667 - INFO - 処理を開始します
+2025-10-14 07:29:19,796 - INFO - 選択されたプロファイル: Profile 10
+2025-10-14 07:29:19,803 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-14 07:29:32,413 - ERROR - Chromeドライバーの設定でエラーが発生しました: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+	GetHandleVerifier [0x0xdefea3+66515]
+	GetHandleVerifier [0x0xdefee4+66580]
+	(No symbol) [0x0xbddc48]
+	(No symbol) [0x0xc13436]
+	(No symbol) [0x0xc0ea2a]
+	(No symbol) [0x0xc56ffc]
+	(No symbol) [0x0xc568fa]
+	(No symbol) [0x0xc4afc6]
+	(No symbol) [0x0xc1c2ca]
+	(No symbol) [0x0xc1d154]
+	GetHandleVerifier [0x0x10473d3+2521347]
+	GetHandleVerifier [0x0x1042353+2500739]
+	GetHandleVerifier [0x0xe17cf4+229924]
+	GetHandleVerifier [0x0xe08258+165768]
+	GetHandleVerifier [0x0xe0ed0d+193085]
+	GetHandleVerifier [0x0xdf81b8+100072]
+	GetHandleVerifier [0x0xdf8350+100480]
+	GetHandleVerifier [0x0xde260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-14 07:29:32,413 - ERROR - 注意: Chromeを完全に終了してから実行してください

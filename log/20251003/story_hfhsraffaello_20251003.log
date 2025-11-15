@@ -1,0 +1,154 @@
+================================================================================
+2025-10-03 01:55:53,780 - INFO - 処理開始 PROCESSID:20251003_015550
+2025-10-03 01:55:53,780 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-03 01:55:53,780 - INFO - 処理を開始します
+2025-10-03 01:55:53,843 - INFO - 選択されたプロファイル: Profile 9
+2025-10-03 01:55:53,845 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-03 01:56:00,209 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-03 01:56:22,784 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 01:56:25,797 - INFO - 動画の取得に失敗しました
+2025-10-03 01:56:25,798 - INFO - datetime属性の抽出を開始します
+2025-10-03 01:56:25,927 - INFO - 抽出されたdatetime: 2025-10-02T08:35:45.000Z
+2025-10-03 01:56:25,972 - INFO - 画像URLを取得しました
+2025-10-03 01:56:26,033 - INFO - INSERT(with-key): user=hfhsraffaello, key=MzczNDM5MTI1MzcwNzY5MzMyMQ==, dt=2025-10-02T08:35:45.000Z
+2025-10-03 01:56:28,338 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251003015628.jpg
+2025-10-03 01:56:28,729 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251003015628.jpg
+2025-10-03 01:56:28,901 - INFO - 元の画像サイズ: 480x853
+2025-10-03 01:56:28,901 - INFO - サイズ変更は不要です
+2025-10-03 01:56:32,422 - INFO - 処理終了
+2025-10-03 01:56:32,424 - INFO - 説明文_AI: None
+2025-10-03 01:56:32,424 - INFO - 説明文_最終: 
+================================================================================
+2025-10-03 01:56:38,633 - INFO - 処理開始: Mode=story, Username=hfhsraffaello, GBP=03056610151687686385
+2025-10-03 01:56:38,633 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwMzA1NjYxMDE1MTY4NzY4NjM4NSJd.
+2025-10-03 01:57:03,202 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251003015628.jpg
+2025-10-03 01:57:06,339 - INFO - 一時ファイルが見つかりません: media\hfhsraffaello\description\20251003_015550
+2025-10-03 01:57:06,339 - INFO - Looking for button section...
+2025-10-03 01:57:10,917 - INFO - Trying to select CALL option...
+2025-10-03 01:57:11,143 - INFO - CALL option successfully selected
+2025-10-03 01:57:13,144 - INFO - Clicking submit button...
+2025-10-03 01:57:22,286 - INFO - 処理完了
+================================================================================
+2025-10-03 07:00:27,852 - INFO - 処理開始 PROCESSID:20251003_070020
+2025-10-03 07:00:27,852 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-03 07:00:27,852 - INFO - 処理を開始します
+2025-10-03 07:00:27,970 - INFO - 選択されたプロファイル: Profile 13
+2025-10-03 07:00:27,970 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-03 07:00:39,493 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-03 07:01:26,929 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 07:01:30,070 - INFO - 動画の取得に失敗しました
+2025-10-03 07:01:30,091 - INFO - datetime属性の抽出を開始します
+2025-10-03 07:01:31,711 - INFO - 抽出されたdatetime: 2025-10-02T08:35:45.000Z
+2025-10-03 07:01:33,247 - INFO - 画像URLを取得しました
+2025-10-03 07:01:33,256 - INFO - DUP(with-key): user=hfhsraffaello, key=MzczNDM5MTI1MzcwNzY5MzMyMQ==, dt=2025-10-02T08:35:45.000Z
+================================================================================
+2025-10-03 11:49:15,863 - INFO - 処理開始 PROCESSID:20251003_114909
+2025-10-03 11:49:15,863 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-03 11:49:15,863 - INFO - 処理を開始します
+2025-10-03 11:49:15,976 - INFO - 選択されたプロファイル: Profile 9
+2025-10-03 11:49:15,976 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-03 11:49:27,511 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-03 11:49:58,825 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 11:50:02,303 - INFO - 動画の取得に失敗しました
+2025-10-03 11:50:02,314 - INFO - datetime属性の抽出を開始します
+2025-10-03 11:50:12,451 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x104c333+65459]
+	GetHandleVerifier [0x0x104c374+65524]
+	(No symbol) [0x0xe6d973]
+	(No symbol) [0x0xeb76e7]
+	(No symbol) [0x0xeb7a8b]
+	(No symbol) [0x0xefdea2]
+	(No symbol) [0x0xed9e44]
+	(No symbol) [0x0xefb606]
+	(No symbol) [0x0xed9bf6]
+	(No symbol) [0x0xeab38e]
+	(No symbol) [0x0xeac274]
+	GetHandleVerifier [0x0x12ceda3+2697763]
+	GetHandleVerifier [0x0x12c9ec7+2677575]
+	GetHandleVerifier [0x0x1074194+228884]
+	GetHandleVerifier [0x0x10649f8+165496]
+	GetHandleVerifier [0x0x106b18d+192013]
+	GetHandleVerifier [0x0x10547d8+99416]
+	GetHandleVerifier [0x0x1054972+99826]
+	GetHandleVerifier [0x0x103ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-03 11:50:22,821 - INFO - 画像の取得に失敗しました
+2025-10-03 11:50:28,782 - INFO - 処理終了
+================================================================================
+2025-10-03 16:24:16,258 - INFO - 処理開始 PROCESSID:20251003_162409
+2025-10-03 16:24:16,258 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-03 16:24:16,258 - INFO - 処理を開始します
+2025-10-03 16:24:16,373 - INFO - 選択されたプロファイル: Profile 12
+2025-10-03 16:24:16,373 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-03 16:24:23,002 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-03 16:24:45,328 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 16:24:48,548 - INFO - 動画の取得に失敗しました
+2025-10-03 16:24:48,548 - INFO - datetime属性の抽出を開始します
+2025-10-03 16:24:58,673 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x104c333+65459]
+	GetHandleVerifier [0x0x104c374+65524]
+	(No symbol) [0x0xe6d973]
+	(No symbol) [0x0xeb76e7]
+	(No symbol) [0x0xeb7a8b]
+	(No symbol) [0x0xefdea2]
+	(No symbol) [0x0xed9e44]
+	(No symbol) [0x0xefb606]
+	(No symbol) [0x0xed9bf6]
+	(No symbol) [0x0xeab38e]
+	(No symbol) [0x0xeac274]
+	GetHandleVerifier [0x0x12ceda3+2697763]
+	GetHandleVerifier [0x0x12c9ec7+2677575]
+	GetHandleVerifier [0x0x1074194+228884]
+	GetHandleVerifier [0x0x10649f8+165496]
+	GetHandleVerifier [0x0x106b18d+192013]
+	GetHandleVerifier [0x0x10547d8+99416]
+	GetHandleVerifier [0x0x1054972+99826]
+	GetHandleVerifier [0x0x103ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-03 16:25:09,012 - INFO - 画像の取得に失敗しました
+2025-10-03 16:25:12,408 - INFO - 処理終了
+================================================================================
+2025-10-03 21:03:03,326 - INFO - 処理開始 PROCESSID:20251003_210259
+2025-10-03 21:03:03,326 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-03 21:03:03,326 - INFO - 処理を開始します
+2025-10-03 21:03:03,383 - INFO - 選択されたプロファイル: Profile 12
+2025-10-03 21:03:03,383 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-03 21:03:07,935 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-03 21:03:30,727 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 21:03:33,918 - INFO - 動画の取得に失敗しました
+2025-10-03 21:03:33,919 - INFO - datetime属性の抽出を開始します
+2025-10-03 21:03:44,063 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x104c333+65459]
+	GetHandleVerifier [0x0x104c374+65524]
+	(No symbol) [0x0xe6d973]
+	(No symbol) [0x0xeb76e7]
+	(No symbol) [0x0xeb7a8b]
+	(No symbol) [0x0xefdea2]
+	(No symbol) [0x0xed9e44]
+	(No symbol) [0x0xefb606]
+	(No symbol) [0x0xed9bf6]
+	(No symbol) [0x0xeab38e]
+	(No symbol) [0x0xeac274]
+	GetHandleVerifier [0x0x12ceda3+2697763]
+	GetHandleVerifier [0x0x12c9ec7+2677575]
+	GetHandleVerifier [0x0x1074194+228884]
+	GetHandleVerifier [0x0x10649f8+165496]
+	GetHandleVerifier [0x0x106b18d+192013]
+	GetHandleVerifier [0x0x10547d8+99416]
+	GetHandleVerifier [0x0x1054972+99826]
+	GetHandleVerifier [0x0x103ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-03 21:03:54,361 - INFO - 画像の取得に失敗しました
+2025-10-03 21:03:56,789 - INFO - 処理終了

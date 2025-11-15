@@ -1,0 +1,154 @@
+================================================================================
+2025-10-05 01:29:32,221 - INFO - 処理開始 PROCESSID:20251005_012928
+2025-10-05 01:29:32,221 - INFO - 対象ユーザー: harebare0819
+2025-10-05 01:29:32,221 - INFO - 処理を開始します
+2025-10-05 01:29:32,279 - INFO - 選択されたプロファイル: Profile 10
+2025-10-05 01:29:32,279 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-05 01:29:37,960 - INFO - harebare0819 のプロフィールページにアクセスします
+2025-10-05 01:30:00,195 - INFO - プロフィール写真のクリックに成功しました
+2025-10-05 01:30:03,789 - INFO - 動画の取得に失敗しました
+2025-10-05 01:30:03,790 - INFO - datetime属性の抽出を開始します
+2025-10-05 01:30:03,883 - INFO - 抽出されたdatetime: 2025-10-04T08:47:03.000Z
+2025-10-05 01:30:04,002 - INFO - 画像URLを取得しました
+2025-10-05 01:30:04,051 - INFO - INSERT(with-key): user=harebare0819, key=MzczNTg0NjQ3MTY0MTEzODc3Ng==, dt=2025-10-04T08:47:03.000Z
+2025-10-05 01:30:06,381 - INFO - ダウンロードを開始します: media\harebare0819\harebare0819_20251005013006.jpg
+2025-10-05 01:30:06,820 - INFO - ダウンロード完了: media\harebare0819\harebare0819_20251005013006.jpg
+2025-10-05 01:30:07,365 - INFO - 元の画像サイズ: 480x853
+2025-10-05 01:30:07,365 - INFO - サイズ変更は不要です
+2025-10-05 01:30:12,455 - INFO - 処理終了
+2025-10-05 01:30:12,457 - INFO - 説明文_AI: None
+2025-10-05 01:30:12,457 - INFO - 説明文_最終: 
+================================================================================
+2025-10-05 01:30:18,656 - INFO - 処理開始: Mode=story, Username=harebare0819, GBP=02832951489499358954
+2025-10-05 01:30:18,656 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwMjgzMjk1MTQ4OTQ5OTM1ODk1NCJd.
+2025-10-05 01:30:42,367 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\harebare0819\harebare0819_20251005013006.jpg
+2025-10-05 01:30:45,468 - INFO - 一時ファイルが見つかりません: media\harebare0819\description\20251005_012928
+2025-10-05 01:30:45,468 - INFO - Looking for button section...
+2025-10-05 01:30:50,039 - INFO - Trying to select CALL option...
+2025-10-05 01:30:50,283 - INFO - CALL option successfully selected
+2025-10-05 01:30:52,283 - INFO - Clicking submit button...
+2025-10-05 01:31:01,928 - INFO - 処理完了
+================================================================================
+2025-10-05 06:41:43,202 - INFO - 処理開始 PROCESSID:20251005_064139
+2025-10-05 06:41:43,202 - INFO - 対象ユーザー: harebare0819
+2025-10-05 06:41:43,202 - INFO - 処理を開始します
+2025-10-05 06:41:43,260 - INFO - 選択されたプロファイル: Profile 13
+2025-10-05 06:41:43,260 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-05 06:41:48,088 - INFO - harebare0819 のプロフィールページにアクセスします
+2025-10-05 06:42:10,584 - INFO - プロフィール写真のクリックに成功しました
+2025-10-05 06:42:13,915 - INFO - 動画の取得に失敗しました
+2025-10-05 06:42:13,916 - INFO - datetime属性の抽出を開始します
+2025-10-05 06:42:14,001 - INFO - 抽出されたdatetime: 2025-10-04T08:47:03.000Z
+2025-10-05 06:42:14,027 - INFO - 画像URLを取得しました
+2025-10-05 06:42:14,031 - INFO - DUP(with-key): user=harebare0819, key=MzczNTg0NjQ3MTY0MTEzODc3Ng==, dt=2025-10-04T08:47:03.000Z
+================================================================================
+2025-10-05 11:48:01,057 - INFO - 処理開始 PROCESSID:20251005_114757
+2025-10-05 11:48:01,057 - INFO - 対象ユーザー: harebare0819
+2025-10-05 11:48:01,057 - INFO - 処理を開始します
+2025-10-05 11:48:01,114 - INFO - 選択されたプロファイル: Profile 10
+2025-10-05 11:48:01,114 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-05 11:48:05,828 - INFO - harebare0819 のプロフィールページにアクセスします
+2025-10-05 11:48:28,448 - INFO - プロフィール写真のクリックに成功しました
+2025-10-05 11:48:31,685 - INFO - 動画の取得に失敗しました
+2025-10-05 11:48:31,686 - INFO - datetime属性の抽出を開始します
+2025-10-05 11:48:42,108 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa4c333+65459]
+	GetHandleVerifier [0x0xa4c374+65524]
+	(No symbol) [0x0x86d973]
+	(No symbol) [0x0x8b76e7]
+	(No symbol) [0x0x8b7a8b]
+	(No symbol) [0x0x8fdea2]
+	(No symbol) [0x0x8d9e44]
+	(No symbol) [0x0x8fb606]
+	(No symbol) [0x0x8d9bf6]
+	(No symbol) [0x0x8ab38e]
+	(No symbol) [0x0x8ac274]
+	GetHandleVerifier [0x0xcceda3+2697763]
+	GetHandleVerifier [0x0xcc9ec7+2677575]
+	GetHandleVerifier [0x0xa74194+228884]
+	GetHandleVerifier [0x0xa649f8+165496]
+	GetHandleVerifier [0x0xa6b18d+192013]
+	GetHandleVerifier [0x0xa547d8+99416]
+	GetHandleVerifier [0x0xa54972+99826]
+	GetHandleVerifier [0x0xa3ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-05 11:48:52,408 - INFO - 画像の取得に失敗しました
+2025-10-05 11:48:54,831 - INFO - 処理終了
+================================================================================
+2025-10-05 16:35:00,735 - INFO - 処理開始 PROCESSID:20251005_163457
+2025-10-05 16:35:00,735 - INFO - 対象ユーザー: harebare0819
+2025-10-05 16:35:00,735 - INFO - 処理を開始します
+2025-10-05 16:35:00,789 - INFO - 選択されたプロファイル: Profile 9
+2025-10-05 16:35:00,789 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-05 16:35:05,337 - INFO - harebare0819 のプロフィールページにアクセスします
+2025-10-05 16:35:28,589 - INFO - プロフィール写真のクリックに成功しました
+2025-10-05 16:35:31,754 - INFO - 動画の取得に失敗しました
+2025-10-05 16:35:31,756 - INFO - datetime属性の抽出を開始します
+2025-10-05 16:35:41,847 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa4c333+65459]
+	GetHandleVerifier [0x0xa4c374+65524]
+	(No symbol) [0x0x86d973]
+	(No symbol) [0x0x8b76e7]
+	(No symbol) [0x0x8b7a8b]
+	(No symbol) [0x0x8fdea2]
+	(No symbol) [0x0x8d9e44]
+	(No symbol) [0x0x8fb606]
+	(No symbol) [0x0x8d9bf6]
+	(No symbol) [0x0x8ab38e]
+	(No symbol) [0x0x8ac274]
+	GetHandleVerifier [0x0xcceda3+2697763]
+	GetHandleVerifier [0x0xcc9ec7+2677575]
+	GetHandleVerifier [0x0xa74194+228884]
+	GetHandleVerifier [0x0xa649f8+165496]
+	GetHandleVerifier [0x0xa6b18d+192013]
+	GetHandleVerifier [0x0xa547d8+99416]
+	GetHandleVerifier [0x0xa54972+99826]
+	GetHandleVerifier [0x0xa3ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-05 16:35:52,183 - INFO - 画像の取得に失敗しました
+2025-10-05 16:35:55,654 - INFO - 処理終了
+================================================================================
+2025-10-05 21:13:29,654 - INFO - 処理開始 PROCESSID:20251005_211326
+2025-10-05 21:13:29,654 - INFO - 対象ユーザー: harebare0819
+2025-10-05 21:13:29,654 - INFO - 処理を開始します
+2025-10-05 21:13:29,709 - INFO - 選択されたプロファイル: Profile 12
+2025-10-05 21:13:29,709 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-05 21:13:34,383 - INFO - harebare0819 のプロフィールページにアクセスします
+2025-10-05 21:13:56,502 - INFO - プロフィール写真のクリックに成功しました
+2025-10-05 21:13:59,658 - INFO - 動画の取得に失敗しました
+2025-10-05 21:13:59,660 - INFO - datetime属性の抽出を開始します
+2025-10-05 21:14:10,033 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa4c333+65459]
+	GetHandleVerifier [0x0xa4c374+65524]
+	(No symbol) [0x0x86d973]
+	(No symbol) [0x0x8b76e7]
+	(No symbol) [0x0x8b7a8b]
+	(No symbol) [0x0x8fdea2]
+	(No symbol) [0x0x8d9e44]
+	(No symbol) [0x0x8fb606]
+	(No symbol) [0x0x8d9bf6]
+	(No symbol) [0x0x8ab38e]
+	(No symbol) [0x0x8ac274]
+	GetHandleVerifier [0x0xcceda3+2697763]
+	GetHandleVerifier [0x0xcc9ec7+2677575]
+	GetHandleVerifier [0x0xa74194+228884]
+	GetHandleVerifier [0x0xa649f8+165496]
+	GetHandleVerifier [0x0xa6b18d+192013]
+	GetHandleVerifier [0x0xa547d8+99416]
+	GetHandleVerifier [0x0xa54972+99826]
+	GetHandleVerifier [0x0xa3ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-05 21:14:20,311 - INFO - 画像の取得に失敗しました
+2025-10-05 21:14:22,739 - INFO - 処理終了

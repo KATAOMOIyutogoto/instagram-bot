@@ -1,0 +1,163 @@
+================================================================================
+2025-10-23 03:48:39,160 - INFO - 処理開始 PROCESSID:20251023_034835
+2025-10-23 03:48:39,160 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-23 03:48:39,160 - INFO - 処理を開始します
+2025-10-23 03:48:39,218 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 03:48:39,218 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 03:48:43,845 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-23 03:49:05,879 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 03:49:06,878 - INFO - anartsoho_shun: 動画を検出しました
+2025-10-23 03:49:06,878 - INFO - datetime属性の抽出を開始します
+2025-10-23 03:49:06,925 - INFO - 抽出されたdatetime: 2025-10-22T05:41:27.000Z
+2025-10-23 03:49:06,925 - INFO - anartsoho_shun の投稿日時: 2025-10-22T05:41:27.000Z
+2025-10-23 03:49:08,497 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQPSQhJgMy92jMu7m2dLO4yLjvKkQ7Jcb0b0S6l8L5fQb9lx-Xao_8e8GnnfFm30nChdkNeiXZYv5JDeLZFEMLuJibHvCJLhcld6lkEBZF_W8Q.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=3y8EW_PZ7MoQ7kNvwGWG6Ho&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjEyNTkyMDQ0NjYyMzU4MDgsInZpX3VzZWNhc2VfaWQiOjEwMTAwLCJkdXJhdGlvbl9zIjo2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=AclEby6vKJf6BIF540Uswg&_nc_zt=28&oh=00_AfcxylkdkUQOxiB6628rmuqYad1UBJB8YBK29IWmM6DJTA&oe=68FF850C&bytestart=0&byteend=1572618
+2025-10-23 03:49:08,497 - INFO - 動画URLを取得しました
+2025-10-23 03:49:08,583 - INFO - DUP(with-key): user=anartsoho_shun, key=AQPSQhJgMy92jMu7m2dLO4yLjvKkQ7Jcb0b0S6l8L5fQb9lx-Xao_8e8GnnfFm30nChdkNeiXZYv5JDeLZFEMLuJibHvCJLhcld6lkEBZF_W8Q, dt=2025-10-22T05:41:27.000Z
+================================================================================
+2025-10-23 07:59:40,333 - INFO - 処理開始 PROCESSID:20251023_075936
+2025-10-23 07:59:40,333 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-23 07:59:40,333 - INFO - 処理を開始します
+2025-10-23 07:59:40,392 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 07:59:40,392 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 07:59:45,192 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-23 08:00:07,201 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 08:00:10,338 - INFO - 動画の取得に失敗しました
+2025-10-23 08:00:10,339 - INFO - datetime属性の抽出を開始します
+2025-10-23 08:00:20,737 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa6fe43+66515]
+	GetHandleVerifier [0x0xa6fe84+66580]
+	(No symbol) [0x0x85dc48]
+	(No symbol) [0x0x8a8704]
+	(No symbol) [0x0x8a8aab]
+	(No symbol) [0x0x8ef482]
+	(No symbol) [0x0x8cb214]
+	(No symbol) [0x0x8ecba7]
+	(No symbol) [0x0x8cafc6]
+	(No symbol) [0x0x89c2ca]
+	(No symbol) [0x0x89d154]
+	GetHandleVerifier [0x0xcc7353+2521315]
+	GetHandleVerifier [0x0xcc22d3+2500707]
+	GetHandleVerifier [0x0xa97c94+229924]
+	GetHandleVerifier [0x0xa881f8+165768]
+	GetHandleVerifier [0x0xa8ecad+193085]
+	GetHandleVerifier [0x0xa78158+100072]
+	GetHandleVerifier [0x0xa782f0+100480]
+	GetHandleVerifier [0x0xa625aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-23 08:00:31,031 - INFO - 画像の取得に失敗しました
+2025-10-23 08:00:33,461 - INFO - 処理終了
+================================================================================
+2025-10-23 12:15:12,633 - INFO - 処理開始 PROCESSID:20251023_121509
+2025-10-23 12:15:12,633 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-23 12:15:12,633 - INFO - 処理を開始します
+2025-10-23 12:15:12,698 - INFO - 選択されたプロファイル: Profile 10
+2025-10-23 12:15:12,698 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-23 12:15:17,530 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-23 12:15:40,305 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 12:15:43,413 - INFO - 動画の取得に失敗しました
+2025-10-23 12:15:43,414 - INFO - datetime属性の抽出を開始します
+2025-10-23 12:15:53,507 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa6fe43+66515]
+	GetHandleVerifier [0x0xa6fe84+66580]
+	(No symbol) [0x0x85dc48]
+	(No symbol) [0x0x8a8704]
+	(No symbol) [0x0x8a8aab]
+	(No symbol) [0x0x8ef482]
+	(No symbol) [0x0x8cb214]
+	(No symbol) [0x0x8ecba7]
+	(No symbol) [0x0x8cafc6]
+	(No symbol) [0x0x89c2ca]
+	(No symbol) [0x0x89d154]
+	GetHandleVerifier [0x0xcc7353+2521315]
+	GetHandleVerifier [0x0xcc22d3+2500707]
+	GetHandleVerifier [0x0xa97c94+229924]
+	GetHandleVerifier [0x0xa881f8+165768]
+	GetHandleVerifier [0x0xa8ecad+193085]
+	GetHandleVerifier [0x0xa78158+100072]
+	GetHandleVerifier [0x0xa782f0+100480]
+	GetHandleVerifier [0x0xa625aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-23 12:16:03,865 - INFO - 画像の取得に失敗しました
+2025-10-23 12:16:06,323 - INFO - 処理終了
+================================================================================
+2025-10-23 17:36:56,884 - INFO - 処理開始 PROCESSID:20251023_173653
+2025-10-23 17:36:56,884 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-23 17:36:56,884 - INFO - 処理を開始します
+2025-10-23 17:36:56,959 - INFO - 選択されたプロファイル: Profile 9
+2025-10-23 17:36:56,959 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-23 17:37:01,336 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-23 17:37:23,759 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 17:37:26,863 - INFO - 動画の取得に失敗しました
+2025-10-23 17:37:26,864 - INFO - datetime属性の抽出を開始します
+2025-10-23 17:37:37,201 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa6fe43+66515]
+	GetHandleVerifier [0x0xa6fe84+66580]
+	(No symbol) [0x0x85dc48]
+	(No symbol) [0x0x8a8704]
+	(No symbol) [0x0x8a8aab]
+	(No symbol) [0x0x8ef482]
+	(No symbol) [0x0x8cb214]
+	(No symbol) [0x0x8ecba7]
+	(No symbol) [0x0x8cafc6]
+	(No symbol) [0x0x89c2ca]
+	(No symbol) [0x0x89d154]
+	GetHandleVerifier [0x0xcc7353+2521315]
+	GetHandleVerifier [0x0xcc22d3+2500707]
+	GetHandleVerifier [0x0xa97c94+229924]
+	GetHandleVerifier [0x0xa881f8+165768]
+	GetHandleVerifier [0x0xa8ecad+193085]
+	GetHandleVerifier [0x0xa78158+100072]
+	GetHandleVerifier [0x0xa782f0+100480]
+	GetHandleVerifier [0x0xa625aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-23 17:37:47,477 - INFO - 画像の取得に失敗しました
+2025-10-23 17:37:49,875 - INFO - 処理終了
+================================================================================
+2025-10-23 21:35:24,650 - INFO - 処理開始 PROCESSID:20251023_213521
+2025-10-23 21:35:24,650 - INFO - 対象ユーザー: anartsoho_shun
+2025-10-23 21:35:24,650 - INFO - 処理を開始します
+2025-10-23 21:35:24,712 - INFO - 選択されたプロファイル: Profile 10
+2025-10-23 21:35:24,712 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-23 21:35:29,429 - INFO - anartsoho_shun のプロフィールページにアクセスします
+2025-10-23 21:35:51,757 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 21:35:54,852 - INFO - 動画の取得に失敗しました
+2025-10-23 21:35:54,853 - INFO - datetime属性の抽出を開始します
+2025-10-23 21:36:04,930 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa6fe43+66515]
+	GetHandleVerifier [0x0xa6fe84+66580]
+	(No symbol) [0x0x85dc48]
+	(No symbol) [0x0x8a8704]
+	(No symbol) [0x0x8a8aab]
+	(No symbol) [0x0x8ef482]
+	(No symbol) [0x0x8cb214]
+	(No symbol) [0x0x8ecba7]
+	(No symbol) [0x0x8cafc6]
+	(No symbol) [0x0x89c2ca]
+	(No symbol) [0x0x89d154]
+	GetHandleVerifier [0x0xcc7353+2521315]
+	GetHandleVerifier [0x0xcc22d3+2500707]
+	GetHandleVerifier [0x0xa97c94+229924]
+	GetHandleVerifier [0x0xa881f8+165768]
+	GetHandleVerifier [0x0xa8ecad+193085]
+	GetHandleVerifier [0x0xa78158+100072]
+	GetHandleVerifier [0x0xa782f0+100480]
+	GetHandleVerifier [0x0xa625aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-23 21:36:15,200 - INFO - 画像の取得に失敗しました
+2025-10-23 21:36:17,597 - INFO - 処理終了

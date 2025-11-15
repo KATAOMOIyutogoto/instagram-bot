@@ -1,0 +1,62 @@
+================================================================================
+2025-10-21 03:27:07,733 - INFO - 処理開始 PROCESSID:20251021_032701
+2025-10-21 03:27:07,733 - INFO - 対象ユーザー: horumoncenter_otani_shouten
+2025-10-21 03:27:07,733 - INFO - 処理を開始します
+2025-10-21 03:27:07,887 - INFO - 選択されたプロファイル: Profile 9
+2025-10-21 03:27:07,887 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-21 03:27:19,994 - INFO - horumoncenter_otani_shouten のプロフィールページにアクセスします
+2025-10-21 03:27:47,721 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 03:27:50,857 - INFO - 動画の取得に失敗しました
+2025-10-21 03:27:50,859 - INFO - datetime属性の抽出を開始します
+2025-10-21 03:27:50,948 - INFO - 抽出されたdatetime: 2025-10-20T07:25:16.000Z
+2025-10-21 03:27:51,017 - INFO - 画像URLを取得しました
+2025-10-21 03:27:51,020 - INFO - DUP(with-key): user=horumoncenter_otani_shouten, key=Mzc0NzQwMTc0MDU4MjA1ODMwNg==, dt=2025-10-20T07:25:16.000Z
+================================================================================
+2025-10-21 08:29:24,593 - INFO - 処理開始 PROCESSID:20251021_082921
+2025-10-21 08:29:24,594 - INFO - 対象ユーザー: horumoncenter_otani_shouten
+2025-10-21 08:29:24,594 - INFO - 処理を開始します
+2025-10-21 08:29:24,655 - INFO - 選択されたプロファイル: Profile 13
+2025-10-21 08:29:24,655 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-21 08:29:29,691 - INFO - horumoncenter_otani_shouten のプロフィールページにアクセスします
+2025-10-21 08:29:52,266 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 08:29:55,405 - INFO - 動画の取得に失敗しました
+2025-10-21 08:29:55,406 - INFO - datetime属性の抽出を開始します
+2025-10-21 08:29:55,504 - INFO - 抽出されたdatetime: 2025-10-21T07:51:48.000Z
+2025-10-21 08:29:55,555 - INFO - 画像URLを取得しました
+2025-10-21 08:29:55,596 - INFO - INSERT(with-key): user=horumoncenter_otani_shouten, key=Mzc0ODEzOTg2NzYzMDEyMzcyNA==, dt=2025-10-21T07:51:48.000Z
+2025-10-21 08:29:57,813 - INFO - ダウンロードを開始します: media\horumoncenter_otani_shouten\horumoncenter_otani_shouten_20251021082957.jpg
+2025-10-21 08:29:59,030 - INFO - ダウンロード完了: media\horumoncenter_otani_shouten\horumoncenter_otani_shouten_20251021082957.jpg
+2025-10-21 08:29:59,149 - INFO - 元の画像サイズ: 480x853
+2025-10-21 08:29:59,149 - INFO - サイズ変更は不要です
+2025-10-21 08:30:04,395 - INFO - 処理終了
+2025-10-21 08:30:04,398 - INFO - 説明文_AI: None
+2025-10-21 08:30:04,398 - INFO - 説明文_最終: 
+================================================================================
+2025-10-21 08:30:10,422 - INFO - 処理開始: Mode=story, Username=horumoncenter_otani_shouten, GBP=06953997897083521604
+2025-10-21 08:30:10,422 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwNjk1Mzk5Nzg5NzA4MzUyMTYwNCJd.
+2025-10-21 08:30:38,262 - ERROR - Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9dfe83+66515]
+	GetHandleVerifier [0x0x9dfec4+66580]
+	(No symbol) [0x0x7cdc48]
+	(No symbol) [0x0x818704]
+	(No symbol) [0x0x818aab]
+	(No symbol) [0x0x85f482]
+	(No symbol) [0x0x83b214]
+	(No symbol) [0x0x85cba7]
+	(No symbol) [0x0x83afc6]
+	(No symbol) [0x0x80c2ca]
+	(No symbol) [0x0x80d154]
+	GetHandleVerifier [0x0xc373b3+2521347]
+	GetHandleVerifier [0x0xc32333+2500739]
+	GetHandleVerifier [0x0xa07cd4+229924]
+	GetHandleVerifier [0x0x9f8238+165768]
+	GetHandleVerifier [0x0x9feced+193085]
+	GetHandleVerifier [0x0x9e8198+100072]
+	GetHandleVerifier [0x0x9e8330+100480]
+	GetHandleVerifier [0x0x9d25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-21 08:30:42,719 - ERROR - 投稿画面オープン失敗

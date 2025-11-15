@@ -1,0 +1,113 @@
+================================================================================
+2025-10-03 01:07:44,932 - INFO - 処理開始 PROCESSID:20251003_010741
+2025-10-03 01:07:44,934 - INFO - 対象ユーザー: hair__mind
+2025-10-03 01:07:44,934 - INFO - 処理を開始します
+2025-10-03 01:07:44,991 - INFO - 選択されたプロファイル: Profile 10
+2025-10-03 01:07:44,991 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-03 01:07:51,093 - INFO - hair__mind のプロフィールページにアクセスします
+2025-10-03 01:08:15,950 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 01:08:20,050 - INFO - 動画の取得に失敗しました
+2025-10-03 01:08:20,089 - INFO - datetime属性の抽出を開始します
+2025-10-03 01:08:21,754 - INFO - 抽出されたdatetime: 2025-10-02T13:44:15.000Z
+2025-10-03 01:08:22,608 - INFO - 画像の取得に失敗しました
+2025-10-03 01:08:29,540 - INFO - 処理終了
+================================================================================
+2025-10-03 06:16:06,486 - INFO - 処理開始 PROCESSID:20251003_061602
+2025-10-03 06:16:06,486 - INFO - 対象ユーザー: hair__mind
+2025-10-03 06:16:06,488 - INFO - 処理を開始します
+2025-10-03 06:16:06,550 - INFO - 選択されたプロファイル: Profile 12
+2025-10-03 06:16:06,551 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-03 06:16:11,669 - INFO - hair__mind のプロフィールページにアクセスします
+2025-10-03 06:16:33,906 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 06:16:37,239 - INFO - 動画の取得に失敗しました
+2025-10-03 06:16:37,239 - INFO - datetime属性の抽出を開始します
+2025-10-03 06:16:37,323 - INFO - 抽出されたdatetime: 2025-10-02T13:44:15.000Z
+2025-10-03 06:16:37,375 - INFO - 画像URLを取得しました
+2025-10-03 06:16:37,380 - INFO - DUP(with-key): user=hair__mind, key=MzczNDU0NjUxNTExNDI3MjU3NQ==, dt=2025-10-02T13:44:15.000Z
+================================================================================
+2025-10-03 11:02:15,257 - INFO - 処理開始 PROCESSID:20251003_110209
+2025-10-03 11:02:15,257 - INFO - 対象ユーザー: hair__mind
+2025-10-03 11:02:15,257 - INFO - 処理を開始します
+2025-10-03 11:02:15,378 - INFO - 選択されたプロファイル: Profile 10
+2025-10-03 11:02:15,378 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-03 11:02:23,024 - INFO - hair__mind のプロフィールページにアクセスします
+2025-10-03 11:02:46,644 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 11:02:49,916 - INFO - 動画の取得に失敗しました
+2025-10-03 11:02:49,917 - INFO - datetime属性の抽出を開始します
+2025-10-03 11:02:49,997 - INFO - 抽出されたdatetime: 2025-10-02T13:44:15.000Z
+2025-10-03 11:02:50,031 - INFO - 画像URLを取得しました
+2025-10-03 11:02:50,033 - INFO - DUP(with-key): user=hair__mind, key=MzczNDU0NjUxNTExNDI3MjU3NQ==, dt=2025-10-02T13:44:15.000Z
+================================================================================
+2025-10-03 15:37:40,779 - INFO - 処理開始 PROCESSID:20251003_153734
+2025-10-03 15:37:40,779 - INFO - 対象ユーザー: hair__mind
+2025-10-03 15:37:40,779 - INFO - 処理を開始します
+2025-10-03 15:37:40,911 - INFO - 選択されたプロファイル: Profile 9
+2025-10-03 15:37:40,911 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-03 15:37:53,645 - INFO - hair__mind のプロフィールページにアクセスします
+2025-10-03 15:38:21,537 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 15:38:24,992 - INFO - 動画の取得に失敗しました
+2025-10-03 15:38:24,993 - INFO - datetime属性の抽出を開始します
+2025-10-03 15:38:35,389 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x104c333+65459]
+	GetHandleVerifier [0x0x104c374+65524]
+	(No symbol) [0x0xe6d973]
+	(No symbol) [0x0xeb76e7]
+	(No symbol) [0x0xeb7a8b]
+	(No symbol) [0x0xefdea2]
+	(No symbol) [0x0xed9e44]
+	(No symbol) [0x0xefb606]
+	(No symbol) [0x0xed9bf6]
+	(No symbol) [0x0xeab38e]
+	(No symbol) [0x0xeac274]
+	GetHandleVerifier [0x0x12ceda3+2697763]
+	GetHandleVerifier [0x0x12c9ec7+2677575]
+	GetHandleVerifier [0x0x1074194+228884]
+	GetHandleVerifier [0x0x10649f8+165496]
+	GetHandleVerifier [0x0x106b18d+192013]
+	GetHandleVerifier [0x0x10547d8+99416]
+	GetHandleVerifier [0x0x1054972+99826]
+	GetHandleVerifier [0x0x103ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-03 15:38:45,717 - INFO - 画像の取得に失敗しました
+2025-10-03 15:38:48,092 - INFO - 処理終了
+================================================================================
+2025-10-03 20:16:39,641 - INFO - 処理開始 PROCESSID:20251003_201636
+2025-10-03 20:16:39,642 - INFO - 対象ユーザー: hair__mind
+2025-10-03 20:16:39,642 - INFO - 処理を開始します
+2025-10-03 20:16:39,701 - INFO - 選択されたプロファイル: Profile 10
+2025-10-03 20:16:39,701 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-03 20:16:44,700 - INFO - hair__mind のプロフィールページにアクセスします
+2025-10-03 20:17:07,207 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 20:17:10,343 - INFO - 動画の取得に失敗しました
+2025-10-03 20:17:10,343 - INFO - datetime属性の抽出を開始します
+2025-10-03 20:17:20,388 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x104c333+65459]
+	GetHandleVerifier [0x0x104c374+65524]
+	(No symbol) [0x0xe6d973]
+	(No symbol) [0x0xeb76e7]
+	(No symbol) [0x0xeb7a8b]
+	(No symbol) [0x0xefdea2]
+	(No symbol) [0x0xed9e44]
+	(No symbol) [0x0xefb606]
+	(No symbol) [0x0xed9bf6]
+	(No symbol) [0x0xeab38e]
+	(No symbol) [0x0xeac274]
+	GetHandleVerifier [0x0x12ceda3+2697763]
+	GetHandleVerifier [0x0x12c9ec7+2677575]
+	GetHandleVerifier [0x0x1074194+228884]
+	GetHandleVerifier [0x0x10649f8+165496]
+	GetHandleVerifier [0x0x106b18d+192013]
+	GetHandleVerifier [0x0x10547d8+99416]
+	GetHandleVerifier [0x0x1054972+99826]
+	GetHandleVerifier [0x0x103ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-03 20:17:30,738 - INFO - 画像の取得に失敗しました
+2025-10-03 20:17:33,207 - INFO - 処理終了

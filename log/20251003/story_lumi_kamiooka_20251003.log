@@ -1,0 +1,114 @@
+================================================================================
+2025-10-03 00:41:14,617 - INFO - 処理開始 PROCESSID:20251003_004111
+2025-10-03 00:41:14,617 - INFO - 対象ユーザー: lumi_kamiooka
+2025-10-03 00:41:14,617 - INFO - 処理を開始します
+2025-10-03 00:41:14,676 - INFO - 選択されたプロファイル: Profile 9
+2025-10-03 00:41:14,676 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-03 00:41:20,477 - INFO - lumi_kamiooka のプロフィールページにアクセスします
+2025-10-03 00:41:42,612 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 00:41:45,787 - INFO - 動画の取得に失敗しました
+2025-10-03 00:41:45,787 - INFO - datetime属性の抽出を開始します
+2025-10-03 00:41:56,222 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x104c333+65459]
+	GetHandleVerifier [0x0x104c374+65524]
+	(No symbol) [0x0xe6d973]
+	(No symbol) [0x0xeb76e7]
+	(No symbol) [0x0xeb7a8b]
+	(No symbol) [0x0xefdea2]
+	(No symbol) [0x0xed9e44]
+	(No symbol) [0x0xefb606]
+	(No symbol) [0x0xed9bf6]
+	(No symbol) [0x0xeab38e]
+	(No symbol) [0x0xeac274]
+	GetHandleVerifier [0x0x12ceda3+2697763]
+	GetHandleVerifier [0x0x12c9ec7+2677575]
+	GetHandleVerifier [0x0x1074194+228884]
+	GetHandleVerifier [0x0x10649f8+165496]
+	GetHandleVerifier [0x0x106b18d+192013]
+	GetHandleVerifier [0x0x10547d8+99416]
+	GetHandleVerifier [0x0x1054972+99826]
+	GetHandleVerifier [0x0x103ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-03 00:42:06,515 - INFO - 画像の取得に失敗しました
+2025-10-03 00:42:08,949 - INFO - 処理終了
+================================================================================
+2025-10-03 05:45:28,994 - INFO - 処理開始 PROCESSID:20251003_054525
+2025-10-03 05:45:28,994 - INFO - 対象ユーザー: lumi_kamiooka
+2025-10-03 05:45:28,994 - INFO - 処理を開始します
+2025-10-03 05:45:29,048 - INFO - 選択されたプロファイル: Profile 10
+2025-10-03 05:45:29,048 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-03 05:45:34,448 - INFO - lumi_kamiooka のプロフィールページにアクセスします
+2025-10-03 05:45:56,756 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 05:45:57,842 - INFO - lumi_kamiooka: 動画を検出しました
+2025-10-03 05:45:57,842 - INFO - datetime属性の抽出を開始します
+2025-10-03 05:45:58,413 - INFO - 抽出されたdatetime: 2025-10-03T01:11:53.000Z
+2025-10-03 05:45:58,413 - INFO - lumi_kamiooka の投稿日時: 2025-10-03T01:11:53.000Z
+2025-10-03 05:45:59,648 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQNP7e7YNUNlDMXgQjnBfApH4D1jrIWG_R6Kbeb6Ef3XmVQO2YZtJbcUKwkwgrQRJ6yN8KXF8Tff8gzhey6xfVQZ_eY7rQP7PBmApOUXLb0-8Q.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=U1AN299B93IQ7kNvwEHbRzt&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTAyOTM1MDkzOTIxMDg1NSwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=5j5CXJlz5hi1ZOQg_NAbkA&_nc_zt=28&oh=00_Afdw8ViIm8pSVpZAVcwEX2CYZgMBDCCrcZb7D5OcrFH5og&oe=68E5392E&bytestart=0&byteend=358954
+2025-10-03 05:45:59,648 - INFO - 動画URLを取得しました
+2025-10-03 05:45:59,906 - INFO - INSERT(with-key): user=lumi_kamiooka, key=AQNP7e7YNUNlDMXgQjnBfApH4D1jrIWG_R6Kbeb6Ef3XmVQO2YZtJbcUKwkwgrQRJ6yN8KXF8Tff8gzhey6xfVQZ_eY7rQP7PBmApOUXLb0-8Q, dt=2025-10-03T01:11:53.000Z
+2025-10-03 05:46:02,052 - INFO - ダウンロードを開始します: media\lumi_kamiooka\lumi_kamiooka_20251003054601.mp4
+2025-10-03 05:46:02,474 - INFO - ダウンロード完了: media\lumi_kamiooka\lumi_kamiooka_20251003054601.mp4
+2025-10-03 05:46:05,223 - INFO - 処理終了
+2025-10-03 05:46:05,225 - INFO - 説明文_AI: None
+2025-10-03 05:46:05,225 - INFO - 説明文_最終: 
+================================================================================
+2025-10-03 05:46:11,481 - INFO - 処理開始: Mode=story, Username=lumi_kamiooka, GBP=12318248629162589537
+2025-10-03 05:46:11,481 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMjMxODI0ODYyOTE2MjU4OTUzNyJd.
+2025-10-03 05:46:54,727 - INFO - 元の動画サイズ: 720x1280
+2025-10-03 05:46:54,727 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-03 05:46:54,727 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi_kamiooka\lumi_kamiooka_20251003054601.mp4
+2025-10-03 05:47:04,843 - INFO - 一時ファイルが見つかりません: media\lumi_kamiooka\description\20251003_054525
+2025-10-03 05:47:04,843 - INFO - Looking for button section...
+2025-10-03 05:47:09,423 - INFO - Trying to select CALL option...
+2025-10-03 05:47:09,646 - INFO - CALL option successfully selected
+2025-10-03 05:47:11,647 - INFO - Clicking submit button...
+2025-10-03 05:47:23,744 - INFO - 処理完了
+================================================================================
+2025-10-03 10:31:26,416 - INFO - 処理開始 PROCESSID:20251003_103122
+2025-10-03 10:31:26,416 - INFO - 対象ユーザー: lumi_kamiooka
+2025-10-03 10:31:26,416 - INFO - 処理を開始します
+2025-10-03 10:31:26,476 - INFO - 選択されたプロファイル: Profile 9
+2025-10-03 10:31:26,476 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-03 10:31:31,997 - INFO - lumi_kamiooka のプロフィールページにアクセスします
+2025-10-03 10:31:54,078 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 10:31:54,845 - INFO - lumi_kamiooka: 動画を検出しました
+2025-10-03 10:31:54,845 - INFO - datetime属性の抽出を開始します
+2025-10-03 10:31:54,896 - INFO - 抽出されたdatetime: 2025-10-03T01:11:53.000Z
+2025-10-03 10:31:54,896 - INFO - lumi_kamiooka の投稿日時: 2025-10-03T01:11:53.000Z
+2025-10-03 10:31:56,264 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQNP7e7YNUNlDMXgQjnBfApH4D1jrIWG_R6Kbeb6Ef3XmVQO2YZtJbcUKwkwgrQRJ6yN8KXF8Tff8gzhey6xfVQZ_eY7rQP7PBmApOUXLb0-8Q.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=U1AN299B93IQ7kNvwEHbRzt&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMDI5MzUwOTM5MjEwODU1LCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=adSU4Yrpksf1a4wQYFGIiw&_nc_zt=28&oh=00_AfcuDHEgwU4kHXsr-DKuxhqS-qZdo_CtdL6jEZ6pAXqLNA&oe=68E5716E&bytestart=0&byteend=358954
+2025-10-03 10:31:56,264 - INFO - 動画URLを取得しました
+2025-10-03 10:31:56,268 - INFO - DUP(with-key): user=lumi_kamiooka, key=AQNP7e7YNUNlDMXgQjnBfApH4D1jrIWG_R6Kbeb6Ef3XmVQO2YZtJbcUKwkwgrQRJ6yN8KXF8Tff8gzhey6xfVQZ_eY7rQP7PBmApOUXLb0-8Q, dt=2025-10-03T01:11:53.000Z
+================================================================================
+2025-10-03 15:11:28,630 - INFO - 処理開始 PROCESSID:20251003_151125
+2025-10-03 15:11:28,630 - INFO - 対象ユーザー: lumi_kamiooka
+2025-10-03 15:11:28,630 - INFO - 処理を開始します
+2025-10-03 15:11:28,680 - INFO - 選択されたプロファイル: Profile 10
+2025-10-03 15:11:28,682 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-03 15:11:33,668 - INFO - lumi_kamiooka のプロフィールページにアクセスします
+2025-10-03 15:11:56,449 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 15:11:57,773 - INFO - lumi_kamiooka: 動画を検出しました
+2025-10-03 15:11:57,773 - INFO - datetime属性の抽出を開始します
+2025-10-03 15:11:58,083 - INFO - 抽出されたdatetime: 2025-10-03T01:11:53.000Z
+2025-10-03 15:11:58,083 - INFO - lumi_kamiooka の投稿日時: 2025-10-03T01:11:53.000Z
+2025-10-03 15:11:59,438 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQNP7e7YNUNlDMXgQjnBfApH4D1jrIWG_R6Kbeb6Ef3XmVQO2YZtJbcUKwkwgrQRJ6yN8KXF8Tff8gzhey6xfVQZ_eY7rQP7PBmApOUXLb0-8Q.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=U1AN299B93IQ7kNvwEHbRzt&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX3ZwOS1iYXNpYy1nZW4yXzcyMHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTAyOTM1MDkzOTIxMDg1NSwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=29fuOk-z3jO6oHbpPdE8Lw&_nc_zt=28&oh=00_Afdd2WSwFC68FPQ-VcfFTqh3BRyfYf8faZlOcL5Y0fr-zA&oe=68E5A9AE&bytestart=0&byteend=358954
+2025-10-03 15:11:59,438 - INFO - 動画URLを取得しました
+2025-10-03 15:11:59,443 - INFO - DUP(with-key): user=lumi_kamiooka, key=AQNP7e7YNUNlDMXgQjnBfApH4D1jrIWG_R6Kbeb6Ef3XmVQO2YZtJbcUKwkwgrQRJ6yN8KXF8Tff8gzhey6xfVQZ_eY7rQP7PBmApOUXLb0-8Q, dt=2025-10-03T01:11:53.000Z
+================================================================================
+2025-10-03 19:47:22,611 - INFO - 処理開始 PROCESSID:20251003_194719
+2025-10-03 19:47:22,611 - INFO - 対象ユーザー: lumi_kamiooka
+2025-10-03 19:47:22,611 - INFO - 処理を開始します
+2025-10-03 19:47:22,671 - INFO - 選択されたプロファイル: Profile 12
+2025-10-03 19:47:22,673 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-03 19:47:27,702 - INFO - lumi_kamiooka のプロフィールページにアクセスします
+2025-10-03 19:47:50,176 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 19:47:51,369 - INFO - lumi_kamiooka: 動画を検出しました
+2025-10-03 19:47:51,369 - INFO - datetime属性の抽出を開始します
+2025-10-03 19:47:51,599 - INFO - 抽出されたdatetime: 2025-10-03T01:11:53.000Z
+2025-10-03 19:47:51,599 - INFO - lumi_kamiooka の投稿日時: 2025-10-03T01:11:53.000Z
+2025-10-03 19:47:52,933 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m367/AQNP7e7YNUNlDMXgQjnBfApH4D1jrIWG_R6Kbeb6Ef3XmVQO2YZtJbcUKwkwgrQRJ6yN8KXF8Tff8gzhey6xfVQZ_eY7rQP7PBmApOUXLb0-8Q.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=U1AN299B93IQ7kNvwEHbRzt&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMDI5MzUwOTM5MjEwODU1LCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=VF6Xwx2jomkrd55ESkTvwg&_nc_zt=28&oh=00_Afd-WiqDfBNG_97QClASYknIzgLZt4iUs5yfQHFgIuLqhQ&oe=68E5E1EE&bytestart=0&byteend=358954
+2025-10-03 19:47:52,933 - INFO - 動画URLを取得しました
+2025-10-03 19:47:52,935 - INFO - DUP(with-key): user=lumi_kamiooka, key=AQNP7e7YNUNlDMXgQjnBfApH4D1jrIWG_R6Kbeb6Ef3XmVQO2YZtJbcUKwkwgrQRJ6yN8KXF8Tff8gzhey6xfVQZ_eY7rQP7PBmApOUXLb0-8Q, dt=2025-10-03T01:11:53.000Z

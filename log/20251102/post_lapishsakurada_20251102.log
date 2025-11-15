@@ -1,0 +1,273 @@
+================================================================================
+2025-11-02 01:10:01,362 - INFO - 処理開始 PROCESSID:20251102_010957
+2025-11-02 01:10:01,362 - INFO - 対象ユーザー: lapishsakurada
+2025-11-02 01:10:01,364 - INFO - 処理を開始します
+2025-11-02 01:10:01,428 - INFO - 選択されたプロファイル: Profile 13
+2025-11-02 01:10:01,428 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-02 01:10:06,388 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-02 01:10:17,872 - INFO - 最新投稿を読み込みます
+2025-11-02 01:10:23,162 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQiNXbRgaGq/?hl=ja
+2025-11-02 01:10:26,336 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 01:10:31,190 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 01:10:31,227 - INFO - datetime属性の抽出を開始します
+2025-11-02 01:10:31,253 - INFO - 抽出されたdatetime: 2025-11-02T00:47:59.000Z
+2025-11-02 01:10:31,253 - INFO - lapishsakurada の投稿日時: 2025-11-02T00:47:59.000Z
+2025-11-02 01:10:31,262 - INFO - date:2025-11-02 09:47:59+09:00
+2025-11-02 01:10:31,262 - INFO - post_date:20251102
+2025-11-02 01:10:31,356 - INFO - カルーセル推定: 1枚
+2025-11-02 01:10:31,424 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=ly9aXvoBT-YQ7kNvwGjoA1s&_nc_oc=AdkDUKPP_UI6AmAY-GycVw-CPTCHk6Ml2I9G2MqKV27w4wzhQ_BT4LHSbrhBQEUyqMw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=FQ1A4pkAP69C1VUARVxl1g&oh=00_Afhd-8hcepJXspxwIpyxhA_wuHBqQA2OY_W78klVMq-8GQ&oe=690C7542
+2025-11-02 01:10:31,424 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=ly9aXvoBT-YQ7kNvwGjoA1s&_nc_oc=AdkDUKPP_UI6AmAY-GycVw-CPTCHk6Ml2I9G2MqKV27w4wzhQ_BT4LHSbrhBQEUyqMw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=FQ1A4pkAP69C1VUARVxl1g&oh=00_Afhd-8hcepJXspxwIpyxhA_wuHBqQA2OY_W78klVMq-8GQ&oe=690C7542
+2025-11-02 01:10:31,424 - INFO - [caption/by_username] 開始
+2025-11-02 01:10:31,510 - INFO - [caption/by_username] 説明文確定（先頭100）: '皆様おはようございます！
+11月もLapishをよろしくお願い致します！
+
+今回ご紹介させていただくのはミルボンさんの「エルジューダ エクストラリペア ミルキーセラム」です。
+ この商品はドライヤーで'
+2025-11-02 01:10:31,512 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251102_010957
+2025-11-02 01:10:31,512 - INFO - 画像URLを取得しました
+2025-11-02 01:10:31,552 - INFO - INSERT(with-key): user=lapishsakurada, key=Mzc1NjYyMzgyMzYxNzc2MTcwNg==, dt=2025-11-02T00:47:59.000Z
+2025-11-02 01:10:31,552 - INFO - メディアを取得します
+2025-11-02 01:10:33,553 - INFO - ダウンロードを開始します: media\lapishsakurada\lapishsakurada_20251102011033.jpg
+2025-11-02 01:10:35,068 - INFO - ダウンロード完了: media\lapishsakurada\lapishsakurada_20251102011033.jpg
+2025-11-02 01:10:35,145 - INFO - 元の画像サイズ: 1440x960
+2025-11-02 01:10:35,145 - INFO - サイズ変更は不要です
+2025-11-02 01:10:35,146 - INFO - 説明文:皆様おはようございます！
+11月もLapishをよろしくお願い致します！
+
+今回ご紹介させていただくのはミルボンさんの「エルジューダ エクストラリペア ミルキーセラム」です。
+ この商品はドライヤーで乾かすだけでパサつきを抑え、毛先がゴワついて広がる髪にしっとりとしたまとまりを与える商品なのでとてもオススメです✨
+当店にご来店いただくと、さらに詳しくご説明させていただきますので、これからもよろしくお願い致します🙇‍♂️🙇🏻‍♀️
+
+【営業時間】
+平日/土曜日9:30～18:30、日曜日9:30～17:30
+定休日	毎週火曜日 
+
+　
+住所
+山形県山形市桜田東3-8-4 
+
+#Lapish #ラピッシュ #山形駅 #美容室 #美容院 #美容師 #髪型 #ヘアカット #カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #ヘアサロン #ヘッドスパ #山形市美容院 #山形市美容室 #山形市ヘアサロン #山形美容院 #山形美容室 #山形ヘアサロン #山形市カット #山形市髪質改善 #山形市メンズカット #山形市女性人気美容室 #蔵王美容室 #蔵王美容院 #桜田美容室 #桜田美容院
+
+アシスタント  河合
+2025-11-02 01:10:37,913 - INFO - 処理終了
+================================================================================
+2025-11-02 01:10:43,979 - INFO - 処理開始: Mode=post, Username=lapishsakurada, GBP=lapishsakurada
+2025-11-02 01:10:43,979 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJsYXBpc2hzYWt1cmFkYSJd.
+2025-11-02 01:11:07,543 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lapishsakurada\lapishsakurada_20251102011033.jpg
+2025-11-02 01:11:10,673 - INFO - Waiting for description field...
+2025-11-02 01:11:10,706 - INFO - Setting description via JS (no send_keys)...
+2025-11-02 01:11:11,805 - INFO - Looking for button section...
+2025-11-02 01:11:16,481 - INFO - Trying to select CALL option...
+2025-11-02 01:11:16,764 - INFO - CALL option successfully selected
+2025-11-02 01:11:18,764 - INFO - Clicking submit button...
+2025-11-02 01:11:27,421 - INFO - 処理完了
+================================================================================
+2025-11-02 04:10:04,729 - INFO - 処理開始 PROCESSID:20251102_041001
+2025-11-02 04:10:04,729 - INFO - 対象ユーザー: lapishsakurada
+2025-11-02 04:10:04,729 - INFO - 処理を開始します
+2025-11-02 04:10:04,788 - INFO - 選択されたプロファイル: Profile 9
+2025-11-02 04:10:04,788 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-02 04:10:09,527 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-02 04:10:21,591 - INFO - 最新投稿を読み込みます
+2025-11-02 04:10:27,241 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQiNXbRgaGq/?hl=ja
+2025-11-02 04:10:32,550 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 04:10:36,178 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 04:10:36,261 - INFO - datetime属性の抽出を開始します
+2025-11-02 04:10:36,306 - INFO - 抽出されたdatetime: 2025-11-02T00:47:59.000Z
+2025-11-02 04:10:36,306 - INFO - lapishsakurada の投稿日時: 2025-11-02T00:47:59.000Z
+2025-11-02 04:10:36,315 - INFO - date:2025-11-02 09:47:59+09:00
+2025-11-02 04:10:36,315 - INFO - post_date:20251102
+2025-11-02 04:10:36,409 - INFO - カルーセル推定: 1枚
+2025-11-02 04:10:36,731 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=ly9aXvoBT-YQ7kNvwGjoA1s&_nc_oc=AdkDUKPP_UI6AmAY-GycVw-CPTCHk6Ml2I9G2MqKV27w4wzhQ_BT4LHSbrhBQEUyqMw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=CMSBiTTxSkXfneZUuF1LGg&oh=00_AfjNm36lfexbUu7efCLoBpOTeeDXzLM8Wo_amQySZ7XmJQ&oe=690CAD82
+2025-11-02 04:10:36,732 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=ly9aXvoBT-YQ7kNvwGjoA1s&_nc_oc=AdkDUKPP_UI6AmAY-GycVw-CPTCHk6Ml2I9G2MqKV27w4wzhQ_BT4LHSbrhBQEUyqMw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=CMSBiTTxSkXfneZUuF1LGg&oh=00_AfjNm36lfexbUu7efCLoBpOTeeDXzLM8Wo_amQySZ7XmJQ&oe=690CAD82
+2025-11-02 04:10:36,732 - INFO - [caption/by_username] 開始
+2025-11-02 04:10:36,837 - INFO - [caption/by_username] 説明文確定（先頭100）: '皆様おはようございます！
+11月もLapishをよろしくお願い致します！
+
+今回ご紹介させていただくのはミルボンさんの「エルジューダ エクストラリペア ミルキーセラム」です。
+ この商品はドライヤーで'
+2025-11-02 04:10:36,839 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251102_041001
+2025-11-02 04:10:36,839 - INFO - 画像URLを取得しました
+2025-11-02 04:10:36,843 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc1NjYyMzgyMzYxNzc2MTcwNg==, dt=2025-11-02T00:47:59.000Z
+2025-11-02 04:10:36,843 - INFO - このレコードは存在します
+2025-11-02 04:10:36,843 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-02 07:10:30,086 - INFO - 処理開始 PROCESSID:20251102_071026
+2025-11-02 07:10:30,086 - INFO - 対象ユーザー: lapishsakurada
+2025-11-02 07:10:30,088 - INFO - 処理を開始します
+2025-11-02 07:10:30,148 - INFO - 選択されたプロファイル: Profile 12
+2025-11-02 07:10:30,148 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-02 07:10:34,935 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-02 07:10:46,744 - INFO - 最新投稿を読み込みます
+2025-11-02 07:10:52,429 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQiNXbRgaGq/?hl=ja
+2025-11-02 07:10:58,278 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 07:11:02,619 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 07:11:02,659 - INFO - datetime属性の抽出を開始します
+2025-11-02 07:11:03,307 - INFO - 抽出されたdatetime: 2025-11-02T00:47:59.000Z
+2025-11-02 07:11:03,307 - INFO - lapishsakurada の投稿日時: 2025-11-02T00:47:59.000Z
+2025-11-02 07:11:03,327 - INFO - date:2025-11-02 09:47:59+09:00
+2025-11-02 07:11:03,327 - INFO - post_date:20251102
+2025-11-02 07:11:03,402 - INFO - カルーセル推定: 1枚
+2025-11-02 07:11:03,455 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=ly9aXvoBT-YQ7kNvwGjoA1s&_nc_oc=AdkDUKPP_UI6AmAY-GycVw-CPTCHk6Ml2I9G2MqKV27w4wzhQ_BT4LHSbrhBQEUyqMw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=u1A6HwzdSeQiWHZq3G1rPA&oh=00_AfgqwSr6VbuFMHMgB5WgZuxrMoN8zdQJzQQLeOfp_aLOdA&oe=690CE5C2
+2025-11-02 07:11:03,455 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=ly9aXvoBT-YQ7kNvwGjoA1s&_nc_oc=AdkDUKPP_UI6AmAY-GycVw-CPTCHk6Ml2I9G2MqKV27w4wzhQ_BT4LHSbrhBQEUyqMw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=u1A6HwzdSeQiWHZq3G1rPA&oh=00_AfgqwSr6VbuFMHMgB5WgZuxrMoN8zdQJzQQLeOfp_aLOdA&oe=690CE5C2
+2025-11-02 07:11:03,455 - INFO - [caption/by_username] 開始
+2025-11-02 07:11:03,674 - INFO - [caption/by_username] 説明文確定（先頭100）: '皆様おはようございます！
+11月もLapishをよろしくお願い致します！
+
+今回ご紹介させていただくのはミルボンさんの「エルジューダ エクストラリペア ミルキーセラム」です。
+ この商品はドライヤーで'
+2025-11-02 07:11:03,676 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251102_071026
+2025-11-02 07:11:03,676 - INFO - 画像URLを取得しました
+2025-11-02 07:11:03,678 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc1NjYyMzgyMzYxNzc2MTcwNg==, dt=2025-11-02T00:47:59.000Z
+2025-11-02 07:11:03,678 - INFO - このレコードは存在します
+2025-11-02 07:11:03,678 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-02 10:13:04,407 - INFO - 処理開始 PROCESSID:20251102_101300
+2025-11-02 10:13:04,409 - INFO - 対象ユーザー: lapishsakurada
+2025-11-02 10:13:04,409 - INFO - 処理を開始します
+2025-11-02 10:13:04,485 - INFO - 選択されたプロファイル: Profile 12
+2025-11-02 10:13:04,485 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-02 10:13:08,954 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-02 10:13:20,686 - INFO - 最新投稿を読み込みます
+2025-11-02 10:13:25,930 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQiNXbRgaGq/?hl=ja
+2025-11-02 10:13:29,020 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 10:13:32,433 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 10:13:32,578 - INFO - datetime属性の抽出を開始します
+2025-11-02 10:13:32,620 - INFO - 抽出されたdatetime: 2025-11-02T00:47:59.000Z
+2025-11-02 10:13:32,620 - INFO - lapishsakurada の投稿日時: 2025-11-02T00:47:59.000Z
+2025-11-02 10:13:32,695 - INFO - date:2025-11-02 09:47:59+09:00
+2025-11-02 10:13:32,695 - INFO - post_date:20251102
+2025-11-02 10:13:32,762 - INFO - カルーセル推定: 1枚
+2025-11-02 10:13:32,841 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=3VXYV4Y3RsMQ7kNvwEdtF4n&_nc_oc=Adkri3Fon9OioHejmvcDcsYbVI8PBNrTJ7uFG96izBfoqEDiylf7sYTJV0ikcd7_8gg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=LEeaB7Cyy5CKKoicUOnvWw&oh=00_AfhCf_lLVeXj8bwXg2fppclAGwTc_IX6AZPV0uPbuKHeHg&oe=690CE5C2
+2025-11-02 10:13:32,841 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=3VXYV4Y3RsMQ7kNvwEdtF4n&_nc_oc=Adkri3Fon9OioHejmvcDcsYbVI8PBNrTJ7uFG96izBfoqEDiylf7sYTJV0ikcd7_8gg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=LEeaB7Cyy5CKKoicUOnvWw&oh=00_AfhCf_lLVeXj8bwXg2fppclAGwTc_IX6AZPV0uPbuKHeHg&oe=690CE5C2
+2025-11-02 10:13:32,841 - INFO - [caption/by_username] 開始
+2025-11-02 10:13:32,946 - INFO - [caption/by_username] 説明文確定（先頭100）: '皆様おはようございます！
+11月もLapishをよろしくお願い致します！
+
+今回ご紹介させていただくのはミルボンさんの「エルジューダ エクストラリペア ミルキーセラム」です。
+ この商品はドライヤーで'
+2025-11-02 10:13:32,948 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251102_101300
+2025-11-02 10:13:32,948 - INFO - 画像URLを取得しました
+2025-11-02 10:13:32,952 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc1NjYyMzgyMzYxNzc2MTcwNg==, dt=2025-11-02T00:47:59.000Z
+2025-11-02 10:13:32,952 - INFO - このレコードは存在します
+2025-11-02 10:13:32,952 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-02 13:12:34,182 - INFO - 処理開始 PROCESSID:20251102_131230
+2025-11-02 13:12:34,182 - INFO - 対象ユーザー: lapishsakurada
+2025-11-02 13:12:34,182 - INFO - 処理を開始します
+2025-11-02 13:12:34,242 - INFO - 選択されたプロファイル: Profile 10
+2025-11-02 13:12:34,242 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-02 13:12:38,669 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-02 13:12:50,634 - INFO - 最新投稿を読み込みます
+2025-11-02 13:12:55,976 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQiNXbRgaGq/?hl=ja
+2025-11-02 13:13:00,406 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 13:13:03,709 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 13:13:03,782 - INFO - datetime属性の抽出を開始します
+2025-11-02 13:13:03,810 - INFO - 抽出されたdatetime: 2025-11-02T00:47:59.000Z
+2025-11-02 13:13:03,810 - INFO - lapishsakurada の投稿日時: 2025-11-02T00:47:59.000Z
+2025-11-02 13:13:03,818 - INFO - date:2025-11-02 09:47:59+09:00
+2025-11-02 13:13:03,818 - INFO - post_date:20251102
+2025-11-02 13:13:03,871 - INFO - カルーセル推定: 1枚
+2025-11-02 13:13:03,910 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=3VXYV4Y3RsMQ7kNvwEdtF4n&_nc_oc=Adkri3Fon9OioHejmvcDcsYbVI8PBNrTJ7uFG96izBfoqEDiylf7sYTJV0ikcd7_8gg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7FX5R9KYGLs3aQW_QWd00A&oh=00_AfiwG0er6fNLk__u-EtrP0roOZkTtv0fKDIkVqKWTcM6qA&oe=690D1E02
+2025-11-02 13:13:03,910 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=3VXYV4Y3RsMQ7kNvwEdtF4n&_nc_oc=Adkri3Fon9OioHejmvcDcsYbVI8PBNrTJ7uFG96izBfoqEDiylf7sYTJV0ikcd7_8gg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7FX5R9KYGLs3aQW_QWd00A&oh=00_AfiwG0er6fNLk__u-EtrP0roOZkTtv0fKDIkVqKWTcM6qA&oe=690D1E02
+2025-11-02 13:13:03,910 - INFO - [caption/by_username] 開始
+2025-11-02 13:13:04,048 - INFO - [caption/by_username] 説明文確定（先頭100）: '皆様おはようございます！
+11月もLapishをよろしくお願い致します！
+
+今回ご紹介させていただくのはミルボンさんの「エルジューダ エクストラリペア ミルキーセラム」です。
+ この商品はドライヤーで'
+2025-11-02 13:13:04,050 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251102_131230
+2025-11-02 13:13:04,050 - INFO - 画像URLを取得しました
+2025-11-02 13:13:04,052 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc1NjYyMzgyMzYxNzc2MTcwNg==, dt=2025-11-02T00:47:59.000Z
+2025-11-02 13:13:04,052 - INFO - このレコードは存在します
+2025-11-02 13:13:04,053 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-02 16:14:57,059 - INFO - 処理開始 PROCESSID:20251102_161453
+2025-11-02 16:14:57,059 - INFO - 対象ユーザー: lapishsakurada
+2025-11-02 16:14:57,059 - INFO - 処理を開始します
+2025-11-02 16:14:57,127 - INFO - 選択されたプロファイル: Profile 9
+2025-11-02 16:14:57,127 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-02 16:15:01,402 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-02 16:15:13,418 - INFO - 最新投稿を読み込みます
+2025-11-02 16:15:18,909 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQiNXbRgaGq/?hl=ja
+2025-11-02 16:15:23,547 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 16:15:27,805 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 16:15:27,893 - INFO - datetime属性の抽出を開始します
+2025-11-02 16:15:27,921 - INFO - 抽出されたdatetime: 2025-11-02T00:47:59.000Z
+2025-11-02 16:15:27,921 - INFO - lapishsakurada の投稿日時: 2025-11-02T00:47:59.000Z
+2025-11-02 16:15:27,929 - INFO - date:2025-11-02 09:47:59+09:00
+2025-11-02 16:15:27,930 - INFO - post_date:20251102
+2025-11-02 16:15:27,978 - INFO - カルーセル推定: 1枚
+2025-11-02 16:15:28,010 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=3VXYV4Y3RsMQ7kNvwEdtF4n&_nc_oc=Adkri3Fon9OioHejmvcDcsYbVI8PBNrTJ7uFG96izBfoqEDiylf7sYTJV0ikcd7_8gg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZoOslYJO5YJvAX2prL242g&oh=00_AfiRKIwb37B9T1rIpdMjIt5W7AIbVBjeeTv5hnsOaKPIDQ&oe=690D5642
+2025-11-02 16:15:28,010 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=3VXYV4Y3RsMQ7kNvwEdtF4n&_nc_oc=Adkri3Fon9OioHejmvcDcsYbVI8PBNrTJ7uFG96izBfoqEDiylf7sYTJV0ikcd7_8gg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZoOslYJO5YJvAX2prL242g&oh=00_AfiRKIwb37B9T1rIpdMjIt5W7AIbVBjeeTv5hnsOaKPIDQ&oe=690D5642
+2025-11-02 16:15:28,012 - INFO - [caption/by_username] 開始
+2025-11-02 16:15:28,217 - INFO - [caption/by_username] 説明文確定（先頭100）: '皆様おはようございます！
+11月もLapishをよろしくお願い致します！
+
+今回ご紹介させていただくのはミルボンさんの「エルジューダ エクストラリペア ミルキーセラム」です。
+ この商品はドライヤーで'
+2025-11-02 16:15:28,220 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251102_161453
+2025-11-02 16:15:28,220 - INFO - 画像URLを取得しました
+2025-11-02 16:15:28,222 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc1NjYyMzgyMzYxNzc2MTcwNg==, dt=2025-11-02T00:47:59.000Z
+2025-11-02 16:15:28,222 - INFO - このレコードは存在します
+2025-11-02 16:15:28,222 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-02 19:10:17,777 - INFO - 処理開始 PROCESSID:20251102_191014
+2025-11-02 19:10:17,777 - INFO - 対象ユーザー: lapishsakurada
+2025-11-02 19:10:17,779 - INFO - 処理を開始します
+2025-11-02 19:10:17,839 - INFO - 選択されたプロファイル: Profile 13
+2025-11-02 19:10:17,839 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-02 19:10:22,316 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-02 19:10:34,572 - INFO - 最新投稿を読み込みます
+2025-11-02 19:10:40,140 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQiNXbRgaGq/?hl=ja
+2025-11-02 19:10:44,815 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 19:10:49,155 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 19:10:49,206 - INFO - datetime属性の抽出を開始します
+2025-11-02 19:10:49,233 - INFO - 抽出されたdatetime: 2025-11-02T00:47:59.000Z
+2025-11-02 19:10:49,233 - INFO - lapishsakurada の投稿日時: 2025-11-02T00:47:59.000Z
+2025-11-02 19:10:49,242 - INFO - date:2025-11-02 09:47:59+09:00
+2025-11-02 19:10:49,242 - INFO - post_date:20251102
+2025-11-02 19:10:49,298 - INFO - カルーセル推定: 1枚
+2025-11-02 19:10:49,338 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=3VXYV4Y3RsMQ7kNvwEdtF4n&_nc_oc=Adkri3Fon9OioHejmvcDcsYbVI8PBNrTJ7uFG96izBfoqEDiylf7sYTJV0ikcd7_8gg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=iTqTTAAMJS_3wG515Axobw&oh=00_Afh7B0WbZdFbafaKjTah0dj-faA8hDnw9wszR_JQGHInxg&oe=690D8E82
+2025-11-02 19:10:49,338 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=3VXYV4Y3RsMQ7kNvwEdtF4n&_nc_oc=Adkri3Fon9OioHejmvcDcsYbVI8PBNrTJ7uFG96izBfoqEDiylf7sYTJV0ikcd7_8gg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=iTqTTAAMJS_3wG515Axobw&oh=00_Afh7B0WbZdFbafaKjTah0dj-faA8hDnw9wszR_JQGHInxg&oe=690D8E82
+2025-11-02 19:10:49,338 - INFO - [caption/by_username] 開始
+2025-11-02 19:10:49,437 - INFO - [caption/by_username] 説明文確定（先頭100）: '皆様おはようございます！
+11月もLapishをよろしくお願い致します！
+
+今回ご紹介させていただくのはミルボンさんの「エルジューダ エクストラリペア ミルキーセラム」です。
+ この商品はドライヤーで'
+2025-11-02 19:10:49,439 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251102_191014
+2025-11-02 19:10:49,439 - INFO - 画像URLを取得しました
+2025-11-02 19:10:49,441 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc1NjYyMzgyMzYxNzc2MTcwNg==, dt=2025-11-02T00:47:59.000Z
+2025-11-02 19:10:49,441 - INFO - このレコードは存在します
+2025-11-02 19:10:49,441 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-02 22:06:50,047 - INFO - 処理開始 PROCESSID:20251102_220646
+2025-11-02 22:06:50,047 - INFO - 対象ユーザー: lapishsakurada
+2025-11-02 22:06:50,047 - INFO - 処理を開始します
+2025-11-02 22:06:50,108 - INFO - 選択されたプロファイル: Profile 9
+2025-11-02 22:06:50,108 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-02 22:06:54,557 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-02 22:07:06,536 - INFO - 最新投稿を読み込みます
+2025-11-02 22:07:11,931 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQiNXbRgaGq/?hl=ja
+2025-11-02 22:07:16,003 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 22:07:20,306 - INFO - 最新投稿ページにアクセスしました
+2025-11-02 22:07:20,360 - INFO - datetime属性の抽出を開始します
+2025-11-02 22:07:20,380 - INFO - 抽出されたdatetime: 2025-11-02T00:47:59.000Z
+2025-11-02 22:07:20,380 - INFO - lapishsakurada の投稿日時: 2025-11-02T00:47:59.000Z
+2025-11-02 22:07:20,402 - INFO - date:2025-11-02 09:47:59+09:00
+2025-11-02 22:07:20,402 - INFO - post_date:20251102
+2025-11-02 22:07:20,449 - INFO - カルーセル推定: 1枚
+2025-11-02 22:07:20,481 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=3VXYV4Y3RsMQ7kNvwEdtF4n&_nc_oc=Adkri3Fon9OioHejmvcDcsYbVI8PBNrTJ7uFG96izBfoqEDiylf7sYTJV0ikcd7_8gg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=MF8m0xp4ruZaDmLKlRqonQ&oh=00_AfiogDo63xeT9E2r1caVQUQG_ahsNW5wwD5d7OToapTviA&oe=690D8E82
+2025-11-02 22:07:20,481 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/572727256_18384576256176972_8428411477334350051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzc1NjYyMzgyMzYxNzc2MTcwNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4OTYwLnNkci5DMyJ9&_nc_ohc=3VXYV4Y3RsMQ7kNvwEdtF4n&_nc_oc=Adkri3Fon9OioHejmvcDcsYbVI8PBNrTJ7uFG96izBfoqEDiylf7sYTJV0ikcd7_8gg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=MF8m0xp4ruZaDmLKlRqonQ&oh=00_AfiogDo63xeT9E2r1caVQUQG_ahsNW5wwD5d7OToapTviA&oe=690D8E82
+2025-11-02 22:07:20,481 - INFO - [caption/by_username] 開始
+2025-11-02 22:07:20,572 - INFO - [caption/by_username] 説明文確定（先頭100）: '皆様おはようございます！
+11月もLapishをよろしくお願い致します！
+
+今回ご紹介させていただくのはミルボンさんの「エルジューダ エクストラリペア ミルキーセラム」です。
+ この商品はドライヤーで'
+2025-11-02 22:07:20,574 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251102_220646
+2025-11-02 22:07:20,574 - INFO - 画像URLを取得しました
+2025-11-02 22:07:20,576 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc1NjYyMzgyMzYxNzc2MTcwNg==, dt=2025-11-02T00:47:59.000Z
+2025-11-02 22:07:20,576 - INFO - このレコードは存在します
+2025-11-02 22:07:20,576 - INFO - 全件レコードが存在します

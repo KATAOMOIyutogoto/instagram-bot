@@ -1,0 +1,129 @@
+================================================================================
+2025-10-23 02:39:22,307 - INFO - 処理開始 PROCESSID:20251023_023918
+2025-10-23 02:39:22,307 - INFO - 対象ユーザー: don.napoli1110
+2025-10-23 02:39:22,307 - INFO - 処理を開始します
+2025-10-23 02:39:22,365 - INFO - 選択されたプロファイル: Profile 10
+2025-10-23 02:39:22,366 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-23 02:39:27,083 - INFO - don.napoli1110 のプロフィールページにアクセスします
+2025-10-23 02:39:49,853 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 02:39:50,569 - INFO - don.napoli1110: 動画を検出しました
+2025-10-23 02:39:50,569 - INFO - datetime属性の抽出を開始します
+2025-10-23 02:39:50,679 - INFO - 抽出されたdatetime: 2025-10-22T06:36:44.000Z
+2025-10-23 02:39:50,679 - INFO - don.napoli1110 の投稿日時: 2025-10-22T06:36:44.000Z
+2025-10-23 02:39:51,924 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m78/AQNLZRs27jbcYDnHusVLuAApPxa4_pVKmisYIRN8smhZuRO3ElgZox2acN8BZ5M1oU5RYEi9UZrS1crNBCXkXaVeJ8bHbWzTDDnf_kw.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=IaepfyVh4qEQ7kNvwGTgDX-&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE3NTUyNzIwNzk3NDMxMiwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=prYXGhfaGS9QgaagD-cPow&_nc_zt=28&oh=00_AfcwpuICtQEq7cVkvmbxbu83VRfCIVrhM5UoKncXo6a8Gw&oe=68FB58D0&bytestart=0&byteend=925433
+2025-10-23 02:39:51,924 - INFO - 動画URLを取得しました
+2025-10-23 02:39:51,926 - INFO - DUP(with-key): user=don.napoli1110, key=AQNLZRs27jbcYDnHusVLuAApPxa4_pVKmisYIRN8smhZuRO3ElgZox2acN8BZ5M1oU5RYEi9UZrS1crNBCXkXaVeJ8bHbWzTDDnf_kw, dt=2025-10-22T06:36:44.000Z
+================================================================================
+2025-10-23 06:50:57,016 - INFO - 処理開始 PROCESSID:20251023_065053
+2025-10-23 06:50:57,016 - INFO - 対象ユーザー: don.napoli1110
+2025-10-23 06:50:57,016 - INFO - 処理を開始します
+2025-10-23 06:50:57,080 - INFO - 選択されたプロファイル: Profile 9
+2025-10-23 06:50:57,080 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-23 06:51:01,763 - INFO - don.napoli1110 のプロフィールページにアクセスします
+2025-10-23 06:51:24,259 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 06:51:27,372 - INFO - 動画の取得に失敗しました
+2025-10-23 06:51:27,372 - INFO - datetime属性の抽出を開始します
+2025-10-23 06:51:37,863 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa6fe43+66515]
+	GetHandleVerifier [0x0xa6fe84+66580]
+	(No symbol) [0x0x85dc48]
+	(No symbol) [0x0x8a8704]
+	(No symbol) [0x0x8a8aab]
+	(No symbol) [0x0x8ef482]
+	(No symbol) [0x0x8cb214]
+	(No symbol) [0x0x8ecba7]
+	(No symbol) [0x0x8cafc6]
+	(No symbol) [0x0x89c2ca]
+	(No symbol) [0x0x89d154]
+	GetHandleVerifier [0x0xcc7353+2521315]
+	GetHandleVerifier [0x0xcc22d3+2500707]
+	GetHandleVerifier [0x0xa97c94+229924]
+	GetHandleVerifier [0x0xa881f8+165768]
+	GetHandleVerifier [0x0xa8ecad+193085]
+	GetHandleVerifier [0x0xa78158+100072]
+	GetHandleVerifier [0x0xa782f0+100480]
+	GetHandleVerifier [0x0xa625aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-23 06:51:48,178 - INFO - 画像の取得に失敗しました
+2025-10-23 06:51:50,618 - INFO - 処理終了
+================================================================================
+2025-10-23 11:05:35,298 - INFO - 処理開始 PROCESSID:20251023_110531
+2025-10-23 11:05:35,298 - INFO - 対象ユーザー: don.napoli1110
+2025-10-23 11:05:35,298 - INFO - 処理を開始します
+2025-10-23 11:05:35,368 - INFO - 選択されたプロファイル: Profile 10
+2025-10-23 11:05:35,370 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-23 11:05:40,289 - INFO - don.napoli1110 のプロフィールページにアクセスします
+2025-10-23 11:06:02,865 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 11:06:03,687 - INFO - don.napoli1110: 動画を検出しました
+2025-10-23 11:06:03,687 - INFO - datetime属性の抽出を開始します
+2025-10-23 11:06:03,979 - INFO - 抽出されたdatetime: 2025-10-23T06:52:17.000Z
+2025-10-23 11:06:03,979 - INFO - don.napoli1110 の投稿日時: 2025-10-23T06:52:17.000Z
+2025-10-23 11:06:05,205 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m78/AQMD0rFXz3lZluJeBmPhd6uVBTjbpBy1KuPX3ARctNM2EjMwKE0K2jLMv0ePS97YKYQ6RQQ3glwR_KJXHlnI_RtDh6wrcMIIL-x7dS8.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Kp5BMTCLwp8Q7kNvwHL6wKj&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTIwMzg3MzE3MTU2ODE4MCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=10xIs3v0tCooAiS4IwUP0g&_nc_zt=28&oh=00_AfeaOy4Qqt3nuHf0LX7a9HScpjoSlOPWZYpzmiDeWzgX2Q&oe=68FBF210&bytestart=0&byteend=979193
+2025-10-23 11:06:05,205 - INFO - 動画URLを取得しました
+2025-10-23 11:06:05,442 - INFO - INSERT(with-key): user=don.napoli1110, key=AQMD0rFXz3lZluJeBmPhd6uVBTjbpBy1KuPX3ARctNM2EjMwKE0K2jLMv0ePS97YKYQ6RQQ3glwR_KJXHlnI_RtDh6wrcMIIL-x7dS8, dt=2025-10-23T06:52:17.000Z
+2025-10-23 11:06:07,444 - INFO - ダウンロードを開始します: media\don.napoli1110\don.napoli1110_20251023110607.mp4
+2025-10-23 11:06:09,712 - INFO - ダウンロード完了: media\don.napoli1110\don.napoli1110_20251023110607.mp4
+2025-10-23 11:06:12,290 - INFO - 処理終了
+2025-10-23 11:06:12,294 - INFO - 説明文_AI: None
+2025-10-23 11:06:12,294 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 11:06:18,776 - INFO - 処理開始: Mode=story, Username=don.napoli1110, GBP=MSDKSAXK487145
+2025-10-23 11:06:18,778 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0RLU0FYSzQ4NzE0NSJd.
+2025-10-23 11:06:42,501 - INFO - 元の動画サイズ: 720x1280
+2025-10-23 11:06:42,501 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-23 11:06:42,501 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\don.napoli1110\don.napoli1110_20251023110607.mp4
+2025-10-23 11:06:52,557 - INFO - 一時ファイルが見つかりません: media\don.napoli1110\description\20251023_110531
+2025-10-23 11:06:52,557 - INFO - Looking for button section...
+2025-10-23 11:06:57,171 - INFO - Trying to select CALL option...
+2025-10-23 11:06:57,405 - INFO - CALL option successfully selected
+2025-10-23 11:06:59,405 - INFO - Clicking submit button...
+2025-10-23 11:07:08,102 - INFO - 処理完了
+================================================================================
+2025-10-23 15:10:36,554 - INFO - 処理開始 PROCESSID:20251023_151033
+2025-10-23 15:10:36,554 - INFO - 対象ユーザー: don.napoli1110
+2025-10-23 15:10:36,554 - INFO - 処理を開始します
+2025-10-23 15:10:36,637 - INFO - 選択されたプロファイル: Profile 9
+2025-10-23 15:10:36,637 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-23 15:10:41,285 - INFO - don.napoli1110 のプロフィールページにアクセスします
+2025-10-23 15:11:03,388 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 15:11:04,604 - INFO - don.napoli1110: 動画を検出しました
+2025-10-23 15:11:04,604 - INFO - datetime属性の抽出を開始します
+2025-10-23 15:11:04,637 - INFO - 抽出されたdatetime: 2025-10-23T06:52:17.000Z
+2025-10-23 15:11:04,637 - INFO - don.napoli1110 の投稿日時: 2025-10-23T06:52:17.000Z
+2025-10-23 15:11:05,799 - INFO - 生成URL:https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m78/AQMD0rFXz3lZluJeBmPhd6uVBTjbpBy1KuPX3ARctNM2EjMwKE0K2jLMv0ePS97YKYQ6RQQ3glwR_KJXHlnI_RtDh6wrcMIIL-x7dS8.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Kp5BMTCLwp8Q7kNvwHL6wKj&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMjAzODczMTcxNTY4MTgwLCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=9p3wjcyjVul_bh9Yx3pF4w&_nc_zt=28&oh=00_AfdXmgVdI-zwfqpdEkljimxRuCN9hRlFycljjZv9d3cNUw&oe=68FC2A50&bytestart=0&byteend=979193
+2025-10-23 15:11:05,799 - INFO - 動画URLを取得しました
+2025-10-23 15:11:05,801 - INFO - DUP(with-key): user=don.napoli1110, key=AQMD0rFXz3lZluJeBmPhd6uVBTjbpBy1KuPX3ARctNM2EjMwKE0K2jLMv0ePS97YKYQ6RQQ3glwR_KJXHlnI_RtDh6wrcMIIL-x7dS8, dt=2025-10-23T06:52:17.000Z
+================================================================================
+2025-10-23 16:33:02,647 - INFO - 処理開始 PROCESSID:20251023_163259
+2025-10-23 16:33:02,647 - INFO - 対象ユーザー: don.napoli1110
+2025-10-23 16:33:02,647 - INFO - 処理を開始します
+2025-10-23 16:33:02,713 - INFO - 選択されたプロファイル: Profile 9
+2025-10-23 16:33:02,713 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-23 16:33:07,325 - INFO - don.napoli1110 のプロフィールページにアクセスします
+2025-10-23 16:33:28,938 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 16:33:29,590 - INFO - don.napoli1110: 動画を検出しました
+2025-10-23 16:33:29,591 - INFO - datetime属性の抽出を開始します
+2025-10-23 16:33:29,618 - INFO - 抽出されたdatetime: 2025-10-23T06:52:17.000Z
+2025-10-23 16:33:29,618 - INFO - don.napoli1110 の投稿日時: 2025-10-23T06:52:17.000Z
+2025-10-23 16:33:30,835 - INFO - 生成URL:https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m78/AQMD0rFXz3lZluJeBmPhd6uVBTjbpBy1KuPX3ARctNM2EjMwKE0K2jLMv0ePS97YKYQ6RQQ3glwR_KJXHlnI_RtDh6wrcMIIL-x7dS8.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Kp5BMTCLwp8Q7kNvwHL6wKj&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMjAzODczMTcxNTY4MTgwLCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=T5GEWLWUzIFqOMYV6tSYmQ&_nc_zt=28&oh=00_AfcRD_p3roxer05xk28mu_2fYC4UT3OCefOL2Djw-ZOfLQ&oe=68FC2A50&bytestart=0&byteend=979193
+2025-10-23 16:33:30,835 - INFO - 動画URLを取得しました
+2025-10-23 16:33:30,838 - INFO - DUP(with-key): user=don.napoli1110, key=AQMD0rFXz3lZluJeBmPhd6uVBTjbpBy1KuPX3ARctNM2EjMwKE0K2jLMv0ePS97YKYQ6RQQ3glwR_KJXHlnI_RtDh6wrcMIIL-x7dS8, dt=2025-10-23T06:52:17.000Z
+================================================================================
+2025-10-23 20:31:52,633 - INFO - 処理開始 PROCESSID:20251023_203149
+2025-10-23 20:31:52,633 - INFO - 対象ユーザー: don.napoli1110
+2025-10-23 20:31:52,633 - INFO - 処理を開始します
+2025-10-23 20:31:52,690 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 20:31:52,692 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 20:31:57,248 - INFO - don.napoli1110 のプロフィールページにアクセスします
+2025-10-23 20:32:19,842 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 20:32:20,533 - INFO - don.napoli1110: 動画を検出しました
+2025-10-23 20:32:20,533 - INFO - datetime属性の抽出を開始します
+2025-10-23 20:32:20,794 - INFO - 抽出されたdatetime: 2025-10-23T06:52:17.000Z
+2025-10-23 20:32:20,794 - INFO - don.napoli1110 の投稿日時: 2025-10-23T06:52:17.000Z
+2025-10-23 20:32:22,020 - INFO - 生成URL:https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m78/AQMD0rFXz3lZluJeBmPhd6uVBTjbpBy1KuPX3ARctNM2EjMwKE0K2jLMv0ePS97YKYQ6RQQ3glwR_KJXHlnI_RtDh6wrcMIIL-x7dS8.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Kp5BMTCLwp8Q7kNvwHL6wKj&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMjAzODczMTcxNTY4MTgwLCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ENh_74Uteh568i0o_irBHw&_nc_zt=28&oh=00_Aff6eGKMVg-7bzVgnJzyoeeJykKyWF7_3zuvdIsxZ3_u0Q&oe=68FC6290&bytestart=0&byteend=979193
+2025-10-23 20:32:22,021 - INFO - 動画URLを取得しました
+2025-10-23 20:32:22,022 - INFO - DUP(with-key): user=don.napoli1110, key=AQMD0rFXz3lZluJeBmPhd6uVBTjbpBy1KuPX3ARctNM2EjMwKE0K2jLMv0ePS97YKYQ6RQQ3glwR_KJXHlnI_RtDh6wrcMIIL-x7dS8, dt=2025-10-23T06:52:17.000Z

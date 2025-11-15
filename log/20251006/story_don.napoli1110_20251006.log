@@ -1,0 +1,213 @@
+================================================================================
+2025-10-06 01:12:02,721 - INFO - 処理開始 PROCESSID:20251006_011155
+2025-10-06 01:12:02,721 - INFO - 対象ユーザー: don.napoli1110
+2025-10-06 01:12:02,723 - INFO - 処理を開始します
+2025-10-06 01:12:02,864 - INFO - 選択されたプロファイル: Profile 9
+2025-10-06 01:12:02,864 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-06 01:12:18,281 - INFO - don.napoli1110 のプロフィールページにアクセスします
+2025-10-06 01:12:44,855 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 01:12:46,267 - INFO - don.napoli1110: 動画を検出しました
+2025-10-06 01:12:46,267 - INFO - datetime属性の抽出を開始します
+2025-10-06 01:12:46,371 - INFO - 抽出されたdatetime: 2025-10-05T06:46:48.000Z
+2025-10-06 01:12:46,371 - INFO - don.napoli1110 の投稿日時: 2025-10-05T06:46:48.000Z
+2025-10-06 01:12:47,573 - INFO - 生成URL:https://scontent-hkg1-1.cdninstagram.com/o1/v/t2/f2/m78/AQMzG6aBkhQMfQcTRO6l92ymKUifxdgHOISQxbZZ_B1ICTbrXOd9CBx9QkymKPqvQXAouEQX-HGc3ZR0QITWx2YvGKlQMwSvyFT0LPg.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-hkg1-1.cdninstagram.com&_nc_ohc=yjd-ZT-6diQQ7kNvwG88FYy&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTk0MDY3MTA1ODg5NDQ3LCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=U7dlXumEcT0Xinu99T8Vsg&_nc_zt=28&oh=00_AfdYoRTdfaxzEoEw1fydBlwmnZH_trsXFzSC8WcqwCfL-A&oe=68E5065A&bytestart=0&byteend=131522
+2025-10-06 01:12:47,574 - INFO - 動画URLを取得しました
+2025-10-06 01:12:47,808 - INFO - INSERT(with-key): user=don.napoli1110, key=AQMzG6aBkhQMfQcTRO6l92ymKUifxdgHOISQxbZZ_B1ICTbrXOd9CBx9QkymKPqvQXAouEQX-HGc3ZR0QITWx2YvGKlQMwSvyFT0LPg, dt=2025-10-05T06:46:48.000Z
+2025-10-06 01:12:49,834 - INFO - ダウンロードを開始します: media\don.napoli1110\don.napoli1110_20251006011249.mp4
+2025-10-06 01:12:50,321 - INFO - ダウンロード完了: media\don.napoli1110\don.napoli1110_20251006011249.mp4
+2025-10-06 01:12:54,155 - INFO - 処理終了
+2025-10-06 01:12:54,157 - INFO - 説明文_AI: None
+2025-10-06 01:12:54,157 - INFO - 説明文_最終: 
+================================================================================
+2025-10-06 01:13:00,300 - INFO - 処理開始: Mode=story, Username=don.napoli1110, GBP=MSDKSAXK487145
+2025-10-06 01:13:00,300 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0RLU0FYSzQ4NzE0NSJd.
+2025-10-06 01:13:26,123 - INFO - 元の動画サイズ: 360x640
+2025-10-06 01:13:26,123 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-06 01:13:26,123 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\don.napoli1110\don.napoli1110_20251006011249.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\don.napoli1110\don.napoli1110_20251006011249_resized.mp4
+2025-10-06 01:13:39,519 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\don.napoli1110\don.napoli1110_20251006011249_resized.mp4
+2025-10-06 01:13:39,519 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\don.napoli1110\don.napoli1110_20251006011249.mp4
+2025-10-06 01:13:39,521 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\don.napoli1110\don.napoli1110_20251006011249_resized.mp4
+2025-10-06 01:13:49,715 - INFO - 一時ファイルが見つかりません: media\don.napoli1110\description\20251006_011155
+2025-10-06 01:13:49,715 - INFO - Looking for button section...
+2025-10-06 01:13:54,304 - INFO - Trying to select CALL option...
+2025-10-06 01:13:54,520 - INFO - CALL option successfully selected
+2025-10-06 01:13:56,521 - INFO - Clicking submit button...
+2025-10-06 01:15:59,555 - INFO - 処理完了
+================================================================================
+2025-10-06 01:39:52,289 - INFO - 処理開始 PROCESSID:20251006_013948
+2025-10-06 01:39:52,289 - INFO - 対象ユーザー: don.napoli1110
+2025-10-06 01:39:52,289 - INFO - 処理を開始します
+2025-10-06 01:39:52,367 - INFO - 選択されたプロファイル: Profile 10
+2025-10-06 01:39:52,367 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-06 01:40:08,724 - INFO - don.napoli1110 のプロフィールページにアクセスします
+2025-10-06 01:40:37,320 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 01:40:41,466 - INFO - don.napoli1110: 動画を検出しました
+2025-10-06 01:40:41,466 - INFO - datetime属性の抽出を開始します
+2025-10-06 01:40:44,048 - INFO - 抽出されたdatetime: 2025-10-05T06:46:48.000Z
+2025-10-06 01:40:44,048 - INFO - don.napoli1110 の投稿日時: 2025-10-05T06:46:48.000Z
+2025-10-06 01:40:49,201 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m78/AQM5IHRJlvoeSyvbMFXrIiM1FF37rTOwSyqUXiYH_bo7_746NjsyOToLnCJX2Z76-25-3nhRljti4khxENajUcce-1KQFfa3l4w8_14.mp4?_nc_cat=100&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=kBfZ4cVTrQkQ7kNvwGg7v1r&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE5NDA2NzEwNTg4OTQ0NywidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=o7ymXhBDPaPyXNC8Z1dO7w&_nc_zt=28&oh=00_AfcriNmSPYQ7-OqBW4B3d5fZV9CohK1l3amz1i8NnHQLjg&oe=68E4F795&bytestart=0&byteend=514249
+2025-10-06 01:40:49,201 - INFO - 動画URLを取得しました
+2025-10-06 01:40:49,222 - INFO - DUP(with-key): user=don.napoli1110, key=AQM5IHRJlvoeSyvbMFXrIiM1FF37rTOwSyqUXiYH_bo7_746NjsyOToLnCJX2Z76-25-3nhRljti4khxENajUcce-1KQFfa3l4w8_14, dt=2025-10-05T06:46:48.000Z
+================================================================================
+2025-10-06 05:53:27,742 - INFO - 処理開始 PROCESSID:20251006_055324
+2025-10-06 05:53:27,742 - INFO - 対象ユーザー: don.napoli1110
+2025-10-06 05:53:27,744 - INFO - 処理を開始します
+2025-10-06 05:53:27,801 - INFO - 選択されたプロファイル: Profile 10
+2025-10-06 05:53:27,801 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-06 05:53:32,871 - INFO - don.napoli1110 のプロフィールページにアクセスします
+2025-10-06 05:53:54,935 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 05:53:55,685 - INFO - don.napoli1110: 動画を検出しました
+2025-10-06 05:53:55,686 - INFO - datetime属性の抽出を開始します
+2025-10-06 05:53:56,302 - INFO - 抽出されたdatetime: 2025-10-05T06:46:48.000Z
+2025-10-06 05:53:56,302 - INFO - don.napoli1110 の投稿日時: 2025-10-05T06:46:48.000Z
+2025-10-06 05:53:57,458 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m78/AQM5IHRJlvoeSyvbMFXrIiM1FF37rTOwSyqUXiYH_bo7_746NjsyOToLnCJX2Z76-25-3nhRljti4khxENajUcce-1KQFfa3l4w8_14.mp4?_nc_cat=100&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=kBfZ4cVTrQkQ7kNvwGg7v1r&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTE5NDA2NzEwNTg4OTQ0NywidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=5G1r45bnXqS4KEpms7qg3w&_nc_zt=28&oh=00_Afe2gn5vJ3LBbw0V5da2quQE_OkN1WmrBCZnfGzxy4JkgA&oe=68E52FD5&bytestart=0&byteend=514249
+2025-10-06 05:53:57,458 - INFO - 動画URLを取得しました
+2025-10-06 05:53:57,485 - INFO - DUP(with-key): user=don.napoli1110, key=AQM5IHRJlvoeSyvbMFXrIiM1FF37rTOwSyqUXiYH_bo7_746NjsyOToLnCJX2Z76-25-3nhRljti4khxENajUcce-1KQFfa3l4w8_14, dt=2025-10-05T06:46:48.000Z
+================================================================================
+2025-10-06 09:47:51,033 - INFO - 処理開始 PROCESSID:20251006_094747
+2025-10-06 09:47:51,033 - INFO - 対象ユーザー: don.napoli1110
+2025-10-06 09:47:51,033 - INFO - 処理を開始します
+2025-10-06 09:47:51,090 - INFO - 選択されたプロファイル: Profile 10
+2025-10-06 09:47:51,092 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-06 09:47:55,983 - INFO - don.napoli1110 のプロフィールページにアクセスします
+2025-10-06 09:48:18,096 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 09:48:21,214 - INFO - 動画の取得に失敗しました
+2025-10-06 09:48:21,215 - INFO - datetime属性の抽出を開始します
+2025-10-06 09:48:31,233 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xe3c333+65459]
+	GetHandleVerifier [0x0xe3c374+65524]
+	(No symbol) [0x0xc5d973]
+	(No symbol) [0x0xca76e7]
+	(No symbol) [0x0xca7a8b]
+	(No symbol) [0x0xcedea2]
+	(No symbol) [0x0xcc9e44]
+	(No symbol) [0x0xceb606]
+	(No symbol) [0x0xcc9bf6]
+	(No symbol) [0x0xc9b38e]
+	(No symbol) [0x0xc9c274]
+	GetHandleVerifier [0x0x10beda3+2697763]
+	GetHandleVerifier [0x0x10b9ec7+2677575]
+	GetHandleVerifier [0x0xe64194+228884]
+	GetHandleVerifier [0x0xe549f8+165496]
+	GetHandleVerifier [0x0xe5b18d+192013]
+	GetHandleVerifier [0x0xe447d8+99416]
+	GetHandleVerifier [0x0xe44972+99826]
+	GetHandleVerifier [0x0xe2ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-06 09:48:41,528 - INFO - 画像の取得に失敗しました
+2025-10-06 09:48:43,952 - INFO - 処理終了
+================================================================================
+2025-10-06 13:46:39,711 - INFO - 処理開始 PROCESSID:20251006_134636
+2025-10-06 13:46:39,711 - INFO - 対象ユーザー: don.napoli1110
+2025-10-06 13:46:39,711 - INFO - 処理を開始します
+2025-10-06 13:46:39,775 - INFO - 選択されたプロファイル: Profile 10
+2025-10-06 13:46:39,775 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-06 13:46:44,524 - INFO - don.napoli1110 のプロフィールページにアクセスします
+2025-10-06 13:47:06,779 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 13:47:09,915 - INFO - 動画の取得に失敗しました
+2025-10-06 13:47:09,915 - INFO - datetime属性の抽出を開始します
+2025-10-06 13:47:20,423 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xe3c333+65459]
+	GetHandleVerifier [0x0xe3c374+65524]
+	(No symbol) [0x0xc5d973]
+	(No symbol) [0x0xca76e7]
+	(No symbol) [0x0xca7a8b]
+	(No symbol) [0x0xcedea2]
+	(No symbol) [0x0xcc9e44]
+	(No symbol) [0x0xceb606]
+	(No symbol) [0x0xcc9bf6]
+	(No symbol) [0x0xc9b38e]
+	(No symbol) [0x0xc9c274]
+	GetHandleVerifier [0x0x10beda3+2697763]
+	GetHandleVerifier [0x0x10b9ec7+2677575]
+	GetHandleVerifier [0x0xe64194+228884]
+	GetHandleVerifier [0x0xe549f8+165496]
+	GetHandleVerifier [0x0xe5b18d+192013]
+	GetHandleVerifier [0x0xe447d8+99416]
+	GetHandleVerifier [0x0xe44972+99826]
+	GetHandleVerifier [0x0xe2ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-06 13:47:30,725 - INFO - 画像の取得に失敗しました
+2025-10-06 13:47:33,185 - INFO - 処理終了
+================================================================================
+2025-10-06 17:34:46,270 - INFO - 処理開始 PROCESSID:20251006_173442
+2025-10-06 17:34:46,270 - INFO - 対象ユーザー: don.napoli1110
+2025-10-06 17:34:46,270 - INFO - 処理を開始します
+2025-10-06 17:34:46,341 - INFO - 選択されたプロファイル: Profile 10
+2025-10-06 17:34:46,341 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-06 17:34:51,069 - INFO - don.napoli1110 のプロフィールページにアクセスします
+2025-10-06 17:35:13,133 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 17:35:16,305 - INFO - 動画の取得に失敗しました
+2025-10-06 17:35:16,305 - INFO - datetime属性の抽出を開始します
+2025-10-06 17:35:26,550 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xe3c333+65459]
+	GetHandleVerifier [0x0xe3c374+65524]
+	(No symbol) [0x0xc5d973]
+	(No symbol) [0x0xca76e7]
+	(No symbol) [0x0xca7a8b]
+	(No symbol) [0x0xcedea2]
+	(No symbol) [0x0xcc9e44]
+	(No symbol) [0x0xceb606]
+	(No symbol) [0x0xcc9bf6]
+	(No symbol) [0x0xc9b38e]
+	(No symbol) [0x0xc9c274]
+	GetHandleVerifier [0x0x10beda3+2697763]
+	GetHandleVerifier [0x0x10b9ec7+2677575]
+	GetHandleVerifier [0x0xe64194+228884]
+	GetHandleVerifier [0x0xe549f8+165496]
+	GetHandleVerifier [0x0xe5b18d+192013]
+	GetHandleVerifier [0x0xe447d8+99416]
+	GetHandleVerifier [0x0xe44972+99826]
+	GetHandleVerifier [0x0xe2ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-06 17:35:36,880 - INFO - 画像の取得に失敗しました
+2025-10-06 17:35:39,335 - INFO - 処理終了
+================================================================================
+2025-10-06 21:19:38,294 - INFO - 処理開始 PROCESSID:20251006_211934
+2025-10-06 21:19:38,296 - INFO - 対象ユーザー: don.napoli1110
+2025-10-06 21:19:38,296 - INFO - 処理を開始します
+2025-10-06 21:19:38,356 - INFO - 選択されたプロファイル: Profile 12
+2025-10-06 21:19:38,356 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-06 21:19:43,206 - INFO - don.napoli1110 のプロフィールページにアクセスします
+2025-10-06 21:20:05,163 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 21:20:08,280 - INFO - 動画の取得に失敗しました
+2025-10-06 21:20:08,281 - INFO - datetime属性の抽出を開始します
+2025-10-06 21:20:18,745 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xe3c333+65459]
+	GetHandleVerifier [0x0xe3c374+65524]
+	(No symbol) [0x0xc5d973]
+	(No symbol) [0x0xca76e7]
+	(No symbol) [0x0xca7a8b]
+	(No symbol) [0x0xcedea2]
+	(No symbol) [0x0xcc9e44]
+	(No symbol) [0x0xceb606]
+	(No symbol) [0x0xcc9bf6]
+	(No symbol) [0x0xc9b38e]
+	(No symbol) [0x0xc9c274]
+	GetHandleVerifier [0x0x10beda3+2697763]
+	GetHandleVerifier [0x0x10b9ec7+2677575]
+	GetHandleVerifier [0x0xe64194+228884]
+	GetHandleVerifier [0x0xe549f8+165496]
+	GetHandleVerifier [0x0xe5b18d+192013]
+	GetHandleVerifier [0x0xe447d8+99416]
+	GetHandleVerifier [0x0xe44972+99826]
+	GetHandleVerifier [0x0xe2ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-06 21:20:29,121 - INFO - 画像の取得に失敗しました
+2025-10-06 21:20:31,589 - INFO - 処理終了

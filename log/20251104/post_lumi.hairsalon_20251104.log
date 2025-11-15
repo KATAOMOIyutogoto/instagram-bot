@@ -1,0 +1,167 @@
+================================================================================
+2025-11-04 14:55:58,449 - INFO - 処理開始 PROCESSID:20251104_145555
+2025-11-04 14:55:58,449 - INFO - 対象ユーザー: lumi.hairsalon
+2025-11-04 14:55:58,450 - INFO - 処理を開始します
+2025-11-04 14:55:58,512 - INFO - 選択されたプロファイル: Profile 10
+2025-11-04 14:55:58,512 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-04 14:56:02,757 - INFO - lumi.hairsalon のプロフィールページにアクセスします
+2025-11-04 14:56:14,572 - INFO - 最新投稿を読み込みます
+2025-11-04 14:56:19,875 - INFO - 選定: 非ピン留め https://www.instagram.com/toyasangapapa/reel/DQmSeg_ktD6/?hl=ja
+2025-11-04 14:56:25,565 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 14:56:29,971 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 14:56:30,020 - INFO - datetime属性の抽出を開始します
+2025-11-04 14:56:30,048 - INFO - 抽出されたdatetime: 2025-11-03T14:53:21.000Z
+2025-11-04 14:56:30,049 - INFO - lumi.hairsalon の投稿日時: 2025-11-03T14:53:21.000Z
+2025-11-04 14:56:30,056 - INFO - date:2025-11-03 23:53:21+09:00
+2025-11-04 14:56:30,057 - INFO - post_date:20251103
+2025-11-04 14:56:30,083 - INFO - 1枚目: blob:https://www.instagram.com/8bd5f684-dea4-445a-9eff-f35528c4797f
+2025-11-04 14:56:30,085 - INFO - [caption/by_username] 開始
+2025-11-04 14:57:51,994 - INFO - [caption/by_username] 説明文確定（先頭100）: '秋色ウォームブラウン🍁
+　
+　
+🙋🏻‍♀️白髪を染めたいけど､暗すぎるのはイヤ！毛先の黄色いのを直したい！秋を感じるいい感じの色はありますか？
+　
+↓
+　
+👨🏻‍⚕️かしこまりました！秋だから必ずしも'
+2025-11-04 14:57:51,997 - INFO - [caption/by_username] 説明文を保存: media\lumi.hairsalon\description\20251104_145555
+2025-11-04 14:57:53,314 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQMfkMliThcX6pd2eSf04kvKtUlS_fEXcT_rzrSBRSHThogRFZI7kEM8ghWPXKLzRxG7lVskE8UUiL52IWFNBU2iEfAFtZc1chUGrXY.mp4?_nc_cat=105&_nc_oc=AdkOjyfBPdjEdtXTacb-_7GORxnRqyGEEdn0KOz9JZNs_rKVFxqZO_YzEb7pvrAYQ7M&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=j1mjqhQSHVgQ7kNvwG92JAd&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjItaGZyXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjExNTU3Njg5MjYyNzA1MDYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=L701lta579fkB2yrvMiVwg&_nc_zt=28&oh=00_Afg8rUwA2ESyvgOp1BcuRBKNqLN4rlyCqEWZt7wybjymmw&oe=690FEAA2&bytestart=0&byteend=3387570
+2025-11-04 14:57:53,357 - INFO - INSERT(with-key): user=lumi.hairsalon, key=AQMfkMliThcX6pd2eSf04kvKtUlS_fEXcT_rzrSBRSHThogRFZI7kEM8ghWPXKLzRxG7lVskE8UUiL52IWFNBU2iEfAFtZc1chUGrXY, dt=2025-11-03T14:53:21.000Z
+2025-11-04 14:57:55,359 - INFO - ダウンロードを開始します: media\lumi.hairsalon\lumi.hairsalon_20251104145755.mp4
+2025-11-04 14:57:57,075 - INFO - ダウンロード完了: media\lumi.hairsalon\lumi.hairsalon_20251104145755.mp4
+2025-11-04 14:57:57,075 - INFO - 説明文:秋色ウォームブラウン🍁
+　
+　
+🙋🏻‍♀️白髪を染めたいけど､暗すぎるのはイヤ！毛先の黄色いのを直したい！秋を感じるいい感じの色はありますか？
+　
+↓
+　
+👨🏻‍⚕️かしこまりました！秋だから必ずしも暗くする必要はないと思います！ただ色味をブラウンベースにすることで､暗くしなくても秋っぽさは出ます！白髪も染まるし､ツヤも出るし､ムラもなくせます！柔らかい印象の色味と､落ち着いた印象の色味と､どちらが好みですか？
+　
+↓
+　
+🙋🏻‍♀️柔らかい方がいいです！
+　
+↓
+　
+👨🏻‍⚕️かしこまりました！今回はブラウンをベースに､少し赤を混ぜて､ウォームブラウンで染めますね！
+　
+↓
+　
+👨🏻‍⚕️根元の白髪用､表面の毛先用､内側の暗いところ用の3種類の薬剤で塗り分けました！
+　
+
+#トヤカラー
+#Lumi
+#横浜駅東口
+#横浜美容室
+#横浜ヘアサロン
+#横浜美容師
+#ヘアカラー横浜
+2025-11-04 14:58:00,568 - INFO - 処理終了
+================================================================================
+2025-11-04 14:58:06,580 - INFO - 処理開始: Mode=post, Username=lumi.hairsalon, GBP=1208234769854629990
+2025-11-04 14:58:06,580 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMjA4MjM0NzY5ODU0NjI5OTkwIl0.
+2025-11-04 14:58:29,233 - INFO - 元の動画サイズ: 1080x1920
+2025-11-04 14:58:29,233 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-11-04 14:58:29,234 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lumi.hairsalon\lumi.hairsalon_20251104145755.mp4
+2025-11-04 14:58:39,308 - INFO - Waiting for description field...
+2025-11-04 14:58:39,341 - INFO - Setting description via JS (no send_keys)...
+2025-11-04 14:58:40,431 - INFO - Looking for button section...
+2025-11-04 14:58:44,895 - INFO - Trying to select CALL option...
+2025-11-04 14:58:45,142 - INFO - CALL option successfully selected
+2025-11-04 14:58:47,143 - INFO - Clicking submit button...
+2025-11-04 14:58:55,855 - INFO - 処理完了
+================================================================================
+2025-11-04 17:55:31,178 - INFO - 処理開始 PROCESSID:20251104_175528
+2025-11-04 17:55:31,178 - INFO - 対象ユーザー: lumi.hairsalon
+2025-11-04 17:55:31,178 - INFO - 処理を開始します
+2025-11-04 17:55:31,238 - INFO - 選択されたプロファイル: Profile 10
+2025-11-04 17:55:31,238 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-04 17:55:35,589 - INFO - lumi.hairsalon のプロフィールページにアクセスします
+2025-11-04 17:55:47,163 - INFO - 最新投稿を読み込みます
+2025-11-04 17:55:52,402 - INFO - 選定: 非ピン留め https://www.instagram.com/toyasangapapa/reel/DQmSeg_ktD6/?hl=ja
+2025-11-04 17:55:55,809 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 17:55:59,090 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 17:55:59,322 - INFO - datetime属性の抽出を開始します
+2025-11-04 17:55:59,374 - INFO - 抽出されたdatetime: 2025-11-03T14:53:21.000Z
+2025-11-04 17:55:59,375 - INFO - lumi.hairsalon の投稿日時: 2025-11-03T14:53:21.000Z
+2025-11-04 17:55:59,389 - INFO - date:2025-11-03 23:53:21+09:00
+2025-11-04 17:55:59,389 - INFO - post_date:20251103
+2025-11-04 17:55:59,430 - INFO - 1枚目: blob:https://www.instagram.com/102dbf21-70de-4efd-b1d4-f97551b63b9f
+2025-11-04 17:55:59,430 - INFO - [caption/by_username] 開始
+2025-11-04 17:57:21,433 - INFO - [caption/by_username] 説明文確定（先頭100）: '秋色ウォームブラウン🍁
+　
+　
+🙋🏻‍♀️白髪を染めたいけど､暗すぎるのはイヤ！毛先の黄色いのを直したい！秋を感じるいい感じの色はありますか？
+　
+↓
+　
+👨🏻‍⚕️かしこまりました！秋だから必ずしも'
+2025-11-04 17:57:21,435 - INFO - [caption/by_username] 説明文を保存: media\lumi.hairsalon\description\20251104_175528
+2025-11-04 17:57:22,742 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQMfkMliThcX6pd2eSf04kvKtUlS_fEXcT_rzrSBRSHThogRFZI7kEM8ghWPXKLzRxG7lVskE8UUiL52IWFNBU2iEfAFtZc1chUGrXY.mp4?_nc_cat=105&_nc_oc=AdkOjyfBPdjEdtXTacb-_7GORxnRqyGEEdn0KOz9JZNs_rKVFxqZO_YzEb7pvrAYQ7M&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=j1mjqhQSHVgQ7kNvwG92JAd&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjItaGZyXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjExNTU3Njg5MjYyNzA1MDYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=V5fghn-kobHiJLFcBzWn4g&_nc_zt=28&oh=00_Afja0pEzx4di3Yh3pOM_Us3-CN6SH0B3gVNvLhLE2tpW5g&oe=691022E2&bytestart=0&byteend=3678558
+2025-11-04 17:57:22,749 - INFO - DUP(with-key): user=lumi.hairsalon, key=AQMfkMliThcX6pd2eSf04kvKtUlS_fEXcT_rzrSBRSHThogRFZI7kEM8ghWPXKLzRxG7lVskE8UUiL52IWFNBU2iEfAFtZc1chUGrXY, dt=2025-11-03T14:53:21.000Z
+2025-11-04 17:57:22,749 - INFO - このレコードは存在します
+2025-11-04 17:57:22,750 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-04 20:50:44,783 - INFO - 処理開始 PROCESSID:20251104_205041
+2025-11-04 20:50:44,783 - INFO - 対象ユーザー: lumi.hairsalon
+2025-11-04 20:50:44,783 - INFO - 処理を開始します
+2025-11-04 20:50:44,842 - INFO - 選択されたプロファイル: Profile 13
+2025-11-04 20:50:44,842 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-04 20:50:49,132 - INFO - lumi.hairsalon のプロフィールページにアクセスします
+2025-11-04 20:51:00,534 - INFO - 最新投稿を読み込みます
+2025-11-04 20:51:05,789 - INFO - 選定: 非ピン留め https://www.instagram.com/toyasangapapa/reel/DQmSeg_ktD6/?hl=ja
+2025-11-04 20:51:11,510 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 20:51:16,659 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 20:51:16,695 - INFO - datetime属性の抽出を開始します
+2025-11-04 20:51:16,744 - INFO - 抽出されたdatetime: 2025-11-03T14:53:21.000Z
+2025-11-04 20:51:16,744 - INFO - lumi.hairsalon の投稿日時: 2025-11-03T14:53:21.000Z
+2025-11-04 20:51:16,758 - INFO - date:2025-11-03 23:53:21+09:00
+2025-11-04 20:51:16,758 - INFO - post_date:20251103
+2025-11-04 20:51:16,793 - INFO - 1枚目: blob:https://www.instagram.com/5c3cfeab-35d5-4406-b14f-4e92ff533af1
+2025-11-04 20:51:16,793 - INFO - [caption/by_username] 開始
+2025-11-04 20:52:38,081 - INFO - [caption/by_username] 説明文確定（先頭100）: '秋色ウォームブラウン🍁
+　
+　
+🙋🏻‍♀️白髪を染めたいけど､暗すぎるのはイヤ！毛先の黄色いのを直したい！秋を感じるいい感じの色はありますか？
+　
+↓
+　
+👨🏻‍⚕️かしこまりました！秋だから必ずしも'
+2025-11-04 20:52:38,084 - INFO - [caption/by_username] 説明文を保存: media\lumi.hairsalon\description\20251104_205041
+2025-11-04 20:52:39,404 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQMfkMliThcX6pd2eSf04kvKtUlS_fEXcT_rzrSBRSHThogRFZI7kEM8ghWPXKLzRxG7lVskE8UUiL52IWFNBU2iEfAFtZc1chUGrXY.mp4?_nc_cat=105&_nc_oc=AdkOjyfBPdjEdtXTacb-_7GORxnRqyGEEdn0KOz9JZNs_rKVFxqZO_YzEb7pvrAYQ7M&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=j1mjqhQSHVgQ7kNvwG92JAd&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjItaGZyXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjExNTU3Njg5MjYyNzA1MDYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=TdfFkVUJzKRFLvJP7e5J1Q&_nc_zt=28&oh=00_AfiE2XEu9rGCgfbWjzMz_ZBlMR4FT4co_K09YLGkPBNLeQ&oe=691022E2&bytestart=0&byteend=3678558
+2025-11-04 20:52:39,406 - INFO - DUP(with-key): user=lumi.hairsalon, key=AQMfkMliThcX6pd2eSf04kvKtUlS_fEXcT_rzrSBRSHThogRFZI7kEM8ghWPXKLzRxG7lVskE8UUiL52IWFNBU2iEfAFtZc1chUGrXY, dt=2025-11-03T14:53:21.000Z
+2025-11-04 20:52:39,406 - INFO - このレコードは存在します
+2025-11-04 20:52:39,406 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-04 23:46:21,751 - INFO - 処理開始 PROCESSID:20251104_234618
+2025-11-04 23:46:21,751 - INFO - 対象ユーザー: lumi.hairsalon
+2025-11-04 23:46:21,751 - INFO - 処理を開始します
+2025-11-04 23:46:21,815 - INFO - 選択されたプロファイル: Profile 9
+2025-11-04 23:46:21,815 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-04 23:46:26,239 - INFO - lumi.hairsalon のプロフィールページにアクセスします
+2025-11-04 23:46:38,006 - INFO - 最新投稿を読み込みます
+2025-11-04 23:46:43,273 - INFO - 選定: 非ピン留め https://www.instagram.com/toyasangapapa/reel/DQmSeg_ktD6/?hl=ja
+2025-11-04 23:46:46,775 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 23:46:50,516 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 23:46:50,615 - INFO - datetime属性の抽出を開始します
+2025-11-04 23:46:50,675 - INFO - 抽出されたdatetime: 2025-11-03T14:53:21.000Z
+2025-11-04 23:46:50,675 - INFO - lumi.hairsalon の投稿日時: 2025-11-03T14:53:21.000Z
+2025-11-04 23:46:50,688 - INFO - date:2025-11-03 23:53:21+09:00
+2025-11-04 23:46:50,688 - INFO - post_date:20251103
+2025-11-04 23:46:50,716 - INFO - 1枚目: blob:https://www.instagram.com/23b5520f-9d1f-4fc2-8ca4-2e8ad8f9acc1
+2025-11-04 23:46:50,716 - INFO - [caption/by_username] 開始
+2025-11-04 23:48:12,291 - INFO - [caption/by_username] 説明文確定（先頭100）: '秋色ウォームブラウン🍁
+　
+　
+🙋🏻‍♀️白髪を染めたいけど､暗すぎるのはイヤ！毛先の黄色いのを直したい！秋を感じるいい感じの色はありますか？
+　
+↓
+　
+👨🏻‍⚕️かしこまりました！秋だから必ずしも'
+2025-11-04 23:48:12,294 - INFO - [caption/by_username] 説明文を保存: media\lumi.hairsalon\description\20251104_234618
+2025-11-04 23:48:13,610 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQMfkMliThcX6pd2eSf04kvKtUlS_fEXcT_rzrSBRSHThogRFZI7kEM8ghWPXKLzRxG7lVskE8UUiL52IWFNBU2iEfAFtZc1chUGrXY.mp4?_nc_cat=105&_nc_oc=AdkOjyfBPdjEdtXTacb-_7GORxnRqyGEEdn0KOz9JZNs_rKVFxqZO_YzEb7pvrAYQ7M&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=j1mjqhQSHVgQ7kNvwG92JAd&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMxLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjItaGZyXzEwODBwIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjExNTU3Njg5MjYyNzA1MDYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=kIBVPJnrjuaXMXxLDfs9hg&_nc_zt=28&oh=00_AfgfZqNrqJyYRaJezmpE0LW2Ft8OKRn0w2rplOoNhPg_sg&oe=69105B22&bytestart=0&byteend=3678558
+2025-11-04 23:48:13,613 - INFO - DUP(with-key): user=lumi.hairsalon, key=AQMfkMliThcX6pd2eSf04kvKtUlS_fEXcT_rzrSBRSHThogRFZI7kEM8ghWPXKLzRxG7lVskE8UUiL52IWFNBU2iEfAFtZc1chUGrXY, dt=2025-11-03T14:53:21.000Z
+2025-11-04 23:48:13,613 - INFO - このレコードは存在します
+2025-11-04 23:48:13,613 - INFO - 全件レコードが存在します

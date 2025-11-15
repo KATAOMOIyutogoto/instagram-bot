@@ -1,0 +1,119 @@
+================================================================================
+2025-10-24 00:20:10,041 - INFO - 処理開始 PROCESSID:20251024_002006
+2025-10-24 00:20:10,043 - INFO - 対象ユーザー: mangetu_yokohama
+2025-10-24 00:20:10,043 - INFO - 処理を開始します
+2025-10-24 00:20:10,106 - INFO - 選択されたプロファイル: Profile 13
+2025-10-24 00:20:10,106 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-24 00:20:14,743 - INFO - mangetu_yokohama のプロフィールページにアクセスします
+2025-10-24 00:20:36,961 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 00:20:40,109 - INFO - 動画の取得に失敗しました
+2025-10-24 00:20:40,109 - INFO - datetime属性の抽出を開始します
+2025-10-24 00:20:50,435 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xb2fe43+66515]
+	GetHandleVerifier [0x0xb2fe84+66580]
+	(No symbol) [0x0x91dc48]
+	(No symbol) [0x0x968704]
+	(No symbol) [0x0x968aab]
+	(No symbol) [0x0x9af482]
+	(No symbol) [0x0x98b214]
+	(No symbol) [0x0x9acba7]
+	(No symbol) [0x0x98afc6]
+	(No symbol) [0x0x95c2ca]
+	(No symbol) [0x0x95d154]
+	GetHandleVerifier [0x0xd87353+2521315]
+	GetHandleVerifier [0x0xd822d3+2500707]
+	GetHandleVerifier [0x0xb57c94+229924]
+	GetHandleVerifier [0x0xb481f8+165768]
+	GetHandleVerifier [0x0xb4ecad+193085]
+	GetHandleVerifier [0x0xb38158+100072]
+	GetHandleVerifier [0x0xb382f0+100480]
+	GetHandleVerifier [0x0xb225aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-24 00:21:00,744 - INFO - 画像の取得に失敗しました
+2025-10-24 00:21:03,167 - INFO - 処理終了
+================================================================================
+2025-10-24 04:33:41,770 - INFO - 処理開始 PROCESSID:20251024_043338
+2025-10-24 04:33:41,770 - INFO - 対象ユーザー: mangetu_yokohama
+2025-10-24 04:33:41,770 - INFO - 処理を開始します
+2025-10-24 04:33:41,830 - INFO - 選択されたプロファイル: Profile 9
+2025-10-24 04:33:41,830 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-24 04:33:46,560 - INFO - mangetu_yokohama のプロフィールページにアクセスします
+2025-10-24 04:34:08,778 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 04:34:11,926 - INFO - 動画の取得に失敗しました
+2025-10-24 04:34:11,927 - INFO - datetime属性の抽出を開始します
+2025-10-24 04:34:12,009 - INFO - 抽出されたdatetime: 2025-10-24T03:33:06.000Z
+2025-10-24 04:34:12,036 - INFO - 画像URLを取得しました
+2025-10-24 04:34:12,079 - INFO - INSERT(with-key): user=mangetu_yokohama, key=Mzc1MDE4NDAwMDg0MjQ0NTUxOA==, dt=2025-10-24T03:33:06.000Z
+2025-10-24 04:34:14,142 - INFO - ダウンロードを開始します: media\mangetu_yokohama\mangetu_yokohama_20251024043414.jpg
+2025-10-24 04:34:15,400 - INFO - ダウンロード完了: media\mangetu_yokohama\mangetu_yokohama_20251024043414.jpg
+2025-10-24 04:34:15,511 - INFO - 元の画像サイズ: 480x853
+2025-10-24 04:34:15,511 - INFO - サイズ変更は不要です
+2025-10-24 04:34:20,378 - INFO - 処理終了
+2025-10-24 04:34:20,378 - INFO - 説明文_AI: None
+2025-10-24 04:34:20,378 - INFO - 説明文_最終: 
+================================================================================
+2025-10-24 04:34:26,717 - INFO - 処理開始: Mode=story, Username=mangetu_yokohama, GBP=MSGNWPCD818899
+2025-10-24 04:34:26,717 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0dOV1BDRDgxODg5OSJd.
+2025-10-24 04:34:49,842 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\mangetu_yokohama\mangetu_yokohama_20251024043414.jpg
+2025-10-24 04:34:53,100 - INFO - 一時ファイルが見つかりません: media\mangetu_yokohama\description\20251024_043338
+2025-10-24 04:34:53,100 - INFO - Looking for button section...
+2025-10-24 04:34:57,660 - INFO - Trying to select CALL option...
+2025-10-24 04:34:57,903 - INFO - CALL option successfully selected
+2025-10-24 04:34:59,910 - INFO - Clicking submit button...
+2025-10-24 04:35:09,840 - INFO - 処理完了
+================================================================================
+2025-10-24 08:43:33,413 - INFO - 処理開始 PROCESSID:20251024_084329
+2025-10-24 08:43:33,413 - INFO - 対象ユーザー: mangetu_yokohama
+2025-10-24 08:43:33,413 - INFO - 処理を開始します
+2025-10-24 08:43:33,479 - INFO - 選択されたプロファイル: Profile 9
+2025-10-24 08:43:33,479 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-24 08:43:38,186 - INFO - mangetu_yokohama のプロフィールページにアクセスします
+2025-10-24 08:44:00,229 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 08:44:03,457 - INFO - 動画の取得に失敗しました
+2025-10-24 08:44:03,459 - INFO - datetime属性の抽出を開始します
+2025-10-24 08:44:03,544 - INFO - 抽出されたdatetime: 2025-10-24T03:33:06.000Z
+2025-10-24 08:44:03,570 - INFO - 画像URLを取得しました
+2025-10-24 08:44:03,572 - INFO - DUP(with-key): user=mangetu_yokohama, key=Mzc1MDE4NDAwMDg0MjQ0NTUxOA==, dt=2025-10-24T03:33:06.000Z
+================================================================================
+2025-10-24 13:03:52,547 - INFO - 処理開始 PROCESSID:20251024_130349
+2025-10-24 13:03:52,547 - INFO - 対象ユーザー: mangetu_yokohama
+2025-10-24 13:03:52,547 - INFO - 処理を開始します
+2025-10-24 13:03:52,607 - INFO - 選択されたプロファイル: Profile 10
+2025-10-24 13:03:52,607 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-24 13:03:57,309 - INFO - mangetu_yokohama のプロフィールページにアクセスします
+2025-10-24 13:04:19,805 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 13:04:23,118 - INFO - 動画の取得に失敗しました
+2025-10-24 13:04:23,118 - INFO - datetime属性の抽出を開始します
+2025-10-24 13:04:23,198 - INFO - 抽出されたdatetime: 2025-10-24T03:33:06.000Z
+2025-10-24 13:04:23,225 - INFO - 画像URLを取得しました
+2025-10-24 13:04:23,227 - INFO - DUP(with-key): user=mangetu_yokohama, key=Mzc1MDE4NDAwMDg0MjQ0NTUxOA==, dt=2025-10-24T03:33:06.000Z
+================================================================================
+2025-10-24 17:11:08,341 - INFO - 処理開始 PROCESSID:20251024_171105
+2025-10-24 17:11:08,341 - INFO - 対象ユーザー: mangetu_yokohama
+2025-10-24 17:11:08,341 - INFO - 処理を開始します
+2025-10-24 17:11:08,406 - INFO - 選択されたプロファイル: Profile 12
+2025-10-24 17:11:08,406 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-24 17:11:12,842 - INFO - mangetu_yokohama のプロフィールページにアクセスします
+2025-10-24 17:11:34,863 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 17:11:38,054 - INFO - 動画の取得に失敗しました
+2025-10-24 17:11:38,055 - INFO - datetime属性の抽出を開始します
+2025-10-24 17:11:38,143 - INFO - 抽出されたdatetime: 2025-10-24T03:33:06.000Z
+2025-10-24 17:11:38,165 - INFO - 画像URLを取得しました
+2025-10-24 17:11:38,167 - INFO - DUP(with-key): user=mangetu_yokohama, key=Mzc1MDE4NDAwMDg0MjQ0NTUxOA==, dt=2025-10-24T03:33:06.000Z
+================================================================================
+2025-10-24 21:17:09,989 - INFO - 処理開始 PROCESSID:20251024_211706
+2025-10-24 21:17:09,989 - INFO - 対象ユーザー: mangetu_yokohama
+2025-10-24 21:17:09,989 - INFO - 処理を開始します
+2025-10-24 21:17:10,049 - INFO - 選択されたプロファイル: Profile 9
+2025-10-24 21:17:10,049 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-24 21:17:14,729 - INFO - mangetu_yokohama のプロフィールページにアクセスします
+2025-10-24 21:17:36,806 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 21:17:40,115 - INFO - 動画の取得に失敗しました
+2025-10-24 21:17:40,116 - INFO - datetime属性の抽出を開始します
+2025-10-24 21:17:40,190 - INFO - 抽出されたdatetime: 2025-10-24T03:33:06.000Z
+2025-10-24 21:17:40,213 - INFO - 画像URLを取得しました
+2025-10-24 21:17:40,216 - INFO - DUP(with-key): user=mangetu_yokohama, key=Mzc1MDE4NDAwMDg0MjQ0NTUxOA==, dt=2025-10-24T03:33:06.000Z

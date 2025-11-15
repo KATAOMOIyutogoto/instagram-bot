@@ -1,0 +1,33 @@
+================================================================================
+2025-11-04 11:57:55,965 - INFO - 処理開始 PROCESSID:20251104_115750
+2025-11-04 11:57:55,966 - INFO - 対象ユーザー: lumi.hairsalon
+2025-11-04 11:57:55,966 - INFO - 処理を開始します
+2025-11-04 11:57:56,037 - INFO - 選択されたプロファイル: Profile 13
+2025-11-04 11:57:56,038 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-04 11:58:06,182 - ERROR - Chromeドライバーの設定でエラーが発生しました: Message: session not created: Chrome failed to start: crashed.
+  (chrome not reachable)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x0x96fe43+66515]
+	GetHandleVerifier [0x0x96fe84+66580]
+	(No symbol) [0x0x75dc48]
+	(No symbol) [0x0x793923]
+	(No symbol) [0x0x78ea2a]
+	(No symbol) [0x0x7d6ffc]
+	(No symbol) [0x0x7d68fa]
+	(No symbol) [0x0x7cafc6]
+	(No symbol) [0x0x79c2ca]
+	(No symbol) [0x0x79d154]
+	GetHandleVerifier [0x0xbc7353+2521315]
+	GetHandleVerifier [0x0xbc22d3+2500707]
+	GetHandleVerifier [0x0x997c94+229924]
+	GetHandleVerifier [0x0x9881f8+165768]
+	GetHandleVerifier [0x0x98ecad+193085]
+	GetHandleVerifier [0x0x978158+100072]
+	GetHandleVerifier [0x0x9782f0+100480]
+	GetHandleVerifier [0x0x9625aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-11-04 11:58:06,184 - ERROR - 注意: Chromeを完全に終了してから実行してください

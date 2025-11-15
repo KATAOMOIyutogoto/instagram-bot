@@ -1,0 +1,106 @@
+================================================================================
+2025-10-06 04:53:08,322 - INFO - 処理開始 PROCESSID:20251006_045304
+2025-10-06 04:53:08,324 - INFO - 対象ユーザー: fupao_yokohama
+2025-10-06 04:53:08,324 - INFO - 処理を開始します
+2025-10-06 04:53:08,388 - INFO - 選択されたプロファイル: Profile 12
+2025-10-06 04:53:08,388 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-06 04:53:13,996 - INFO - fupao_yokohama のプロフィールページにアクセスします
+2025-10-06 04:53:35,924 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 04:53:39,084 - INFO - 動画の取得に失敗しました
+2025-10-06 04:53:39,084 - INFO - datetime属性の抽出を開始します
+2025-10-06 04:53:49,463 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xe3c333+65459]
+	GetHandleVerifier [0x0xe3c374+65524]
+	(No symbol) [0x0xc5d973]
+	(No symbol) [0x0xca76e7]
+	(No symbol) [0x0xca7a8b]
+	(No symbol) [0x0xcedea2]
+	(No symbol) [0x0xcc9e44]
+	(No symbol) [0x0xceb606]
+	(No symbol) [0x0xcc9bf6]
+	(No symbol) [0x0xc9b38e]
+	(No symbol) [0x0xc9c274]
+	GetHandleVerifier [0x0x10beda3+2697763]
+	GetHandleVerifier [0x0x10b9ec7+2677575]
+	GetHandleVerifier [0x0xe64194+228884]
+	GetHandleVerifier [0x0xe549f8+165496]
+	GetHandleVerifier [0x0xe5b18d+192013]
+	GetHandleVerifier [0x0xe447d8+99416]
+	GetHandleVerifier [0x0xe44972+99826]
+	GetHandleVerifier [0x0xe2ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-06 04:53:59,754 - INFO - 画像の取得に失敗しました
+2025-10-06 04:54:02,244 - INFO - 処理終了
+================================================================================
+2025-10-06 08:44:52,248 - INFO - 処理開始 PROCESSID:20251006_084448
+2025-10-06 08:44:52,250 - INFO - 対象ユーザー: fupao_yokohama
+2025-10-06 08:44:52,250 - INFO - 処理を開始します
+2025-10-06 08:44:52,305 - INFO - 選択されたプロファイル: Profile 12
+2025-10-06 08:44:52,305 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-06 08:44:57,487 - INFO - fupao_yokohama のプロフィールページにアクセスします
+2025-10-06 08:45:19,998 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 08:45:23,255 - INFO - 動画の取得に失敗しました
+2025-10-06 08:45:23,257 - INFO - datetime属性の抽出を開始します
+2025-10-06 08:45:23,351 - INFO - 抽出されたdatetime: 2025-10-06T07:28:28.000Z
+2025-10-06 08:45:23,379 - INFO - 画像URLを取得しました
+2025-10-06 08:45:23,422 - INFO - INSERT(with-key): user=fupao_yokohama, key=MzczNzI1NjQ3OTk4NTYyNTEyOQ==, dt=2025-10-06T07:28:28.000Z
+2025-10-06 08:45:25,594 - INFO - ダウンロードを開始します: media\fupao_yokohama\fupao_yokohama_20251006084525.jpg
+2025-10-06 08:45:25,975 - INFO - ダウンロード完了: media\fupao_yokohama\fupao_yokohama_20251006084525.jpg
+2025-10-06 08:45:26,104 - INFO - 元の画像サイズ: 480x853
+2025-10-06 08:45:26,105 - INFO - サイズ変更は不要です
+2025-10-06 08:45:28,553 - INFO - 処理終了
+2025-10-06 08:45:28,555 - INFO - 説明文_AI: None
+2025-10-06 08:45:28,555 - INFO - 説明文_最終: 
+================================================================================
+2025-10-06 08:45:34,836 - INFO - 処理開始: Mode=story, Username=fupao_yokohama, GBP=MSUFJECB290807
+2025-10-06 08:45:34,838 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU1VGSkVDQjI5MDgwNyJd.
+2025-10-06 08:45:58,155 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_yokohama\fupao_yokohama_20251006084525.jpg
+2025-10-06 08:46:01,390 - INFO - 一時ファイルが見つかりません: media\fupao_yokohama\description\20251006_084448
+2025-10-06 08:46:01,390 - INFO - Looking for button section...
+2025-10-06 08:46:05,992 - INFO - Trying to select CALL option...
+2025-10-06 08:46:06,241 - INFO - CALL option successfully selected
+2025-10-06 08:46:08,244 - INFO - Clicking submit button...
+2025-10-06 08:46:17,266 - INFO - 処理完了
+================================================================================
+2025-10-06 12:46:02,692 - INFO - 処理開始 PROCESSID:20251006_124559
+2025-10-06 12:46:02,692 - INFO - 対象ユーザー: fupao_yokohama
+2025-10-06 12:46:02,692 - INFO - 処理を開始します
+2025-10-06 12:46:02,758 - INFO - 選択されたプロファイル: Profile 13
+2025-10-06 12:46:02,758 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-06 12:46:07,534 - INFO - fupao_yokohama のプロフィールページにアクセスします
+2025-10-06 12:46:29,907 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 12:46:33,424 - INFO - 動画の取得に失敗しました
+2025-10-06 12:46:33,425 - INFO - datetime属性の抽出を開始します
+2025-10-06 12:46:33,508 - INFO - 抽出されたdatetime: 2025-10-06T07:28:28.000Z
+2025-10-06 12:46:33,536 - INFO - 画像URLを取得しました
+2025-10-06 12:46:33,538 - INFO - DUP(with-key): user=fupao_yokohama, key=MzczNzI1NjQ3OTk4NTYyNTEyOQ==, dt=2025-10-06T07:28:28.000Z
+================================================================================
+2025-10-06 16:36:49,875 - INFO - 処理開始 PROCESSID:20251006_163646
+2025-10-06 16:36:49,875 - INFO - 対象ユーザー: fupao_yokohama
+2025-10-06 16:36:49,875 - INFO - 処理を開始します
+2025-10-06 16:36:49,936 - INFO - 選択されたプロファイル: Profile 13
+2025-10-06 16:36:49,936 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-06 16:36:54,751 - INFO - fupao_yokohama のプロフィールページにアクセスします
+2025-10-06 16:37:16,997 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 16:37:20,227 - INFO - 動画の取得に失敗しました
+2025-10-06 16:37:20,227 - INFO - datetime属性の抽出を開始します
+2025-10-06 16:37:20,308 - INFO - 抽出されたdatetime: 2025-10-06T07:28:28.000Z
+2025-10-06 16:37:20,340 - INFO - 画像URLを取得しました
+2025-10-06 16:37:20,342 - INFO - DUP(with-key): user=fupao_yokohama, key=MzczNzI1NjQ3OTk4NTYyNTEyOQ==, dt=2025-10-06T07:28:28.000Z
+================================================================================
+2025-10-06 20:21:58,511 - INFO - 処理開始 PROCESSID:20251006_202155
+2025-10-06 20:21:58,511 - INFO - 対象ユーザー: fupao_yokohama
+2025-10-06 20:21:58,511 - INFO - 処理を開始します
+2025-10-06 20:21:58,566 - INFO - 選択されたプロファイル: Profile 10
+2025-10-06 20:21:58,566 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-06 20:22:03,317 - INFO - fupao_yokohama のプロフィールページにアクセスします
+2025-10-06 20:22:25,867 - INFO - プロフィール写真のクリックに成功しました
+2025-10-06 20:22:29,113 - INFO - 動画の取得に失敗しました
+2025-10-06 20:22:29,113 - INFO - datetime属性の抽出を開始します
+2025-10-06 20:22:29,214 - INFO - 抽出されたdatetime: 2025-10-06T07:28:28.000Z
+2025-10-06 20:22:29,244 - INFO - 画像URLを取得しました
+2025-10-06 20:22:29,246 - INFO - DUP(with-key): user=fupao_yokohama, key=MzczNzI1NjQ3OTk4NTYyNTEyOQ==, dt=2025-10-06T07:28:28.000Z

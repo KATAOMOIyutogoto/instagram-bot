@@ -1,0 +1,106 @@
+================================================================================
+2025-10-19 03:50:56,675 - INFO - 処理開始 PROCESSID:20251019_035053
+2025-10-19 03:50:56,675 - INFO - 対象ユーザー: sumibi_nao_yamato
+2025-10-19 03:50:56,677 - INFO - 処理を開始します
+2025-10-19 03:50:56,738 - INFO - 選択されたプロファイル: Profile 13
+2025-10-19 03:50:56,738 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-19 03:51:02,916 - INFO - sumibi_nao_yamato のプロフィールページにアクセスします
+2025-10-19 03:51:24,941 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 03:51:28,334 - INFO - 動画の取得に失敗しました
+2025-10-19 03:51:28,335 - INFO - datetime属性の抽出を開始します
+2025-10-19 03:51:38,433 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x40fe83+66515]
+	GetHandleVerifier [0x0x40fec4+66580]
+	(No symbol) [0x0x1fdc48]
+	(No symbol) [0x0x248704]
+	(No symbol) [0x0x248aab]
+	(No symbol) [0x0x28f482]
+	(No symbol) [0x0x26b214]
+	(No symbol) [0x0x28cba7]
+	(No symbol) [0x0x26afc6]
+	(No symbol) [0x0x23c2ca]
+	(No symbol) [0x0x23d154]
+	GetHandleVerifier [0x0x6673b3+2521347]
+	GetHandleVerifier [0x0x662333+2500739]
+	GetHandleVerifier [0x0x437cd4+229924]
+	GetHandleVerifier [0x0x428238+165768]
+	GetHandleVerifier [0x0x42eced+193085]
+	GetHandleVerifier [0x0x418198+100072]
+	GetHandleVerifier [0x0x418330+100480]
+	GetHandleVerifier [0x0x4025ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-19 03:51:48,750 - INFO - 画像の取得に失敗しました
+2025-10-19 03:51:51,143 - INFO - 処理終了
+================================================================================
+2025-10-19 08:07:45,030 - INFO - 処理開始 PROCESSID:20251019_080741
+2025-10-19 08:07:45,030 - INFO - 対象ユーザー: sumibi_nao_yamato
+2025-10-19 08:07:45,030 - INFO - 処理を開始します
+2025-10-19 08:07:45,100 - INFO - 選択されたプロファイル: Profile 10
+2025-10-19 08:07:45,100 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-19 08:07:50,515 - INFO - sumibi_nao_yamato のプロフィールページにアクセスします
+2025-10-19 08:08:13,620 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 08:08:17,027 - INFO - 動画の取得に失敗しました
+2025-10-19 08:08:17,029 - INFO - datetime属性の抽出を開始します
+2025-10-19 08:08:17,155 - INFO - 抽出されたdatetime: 2025-10-19T05:39:02.000Z
+2025-10-19 08:08:17,265 - INFO - 画像URLを取得しました
+2025-10-19 08:08:17,314 - INFO - INSERT(with-key): user=sumibi_nao_yamato, key=Mzc0NjYyMzQ3NzQ3NTY3MzMyMA==, dt=2025-10-19T05:39:02.000Z
+2025-10-19 08:08:19,351 - INFO - ダウンロードを開始します: media\sumibi_nao_yamato\sumibi_nao_yamato_20251019080819.jpg
+2025-10-19 08:08:20,424 - INFO - ダウンロード完了: media\sumibi_nao_yamato\sumibi_nao_yamato_20251019080819.jpg
+2025-10-19 08:08:20,528 - INFO - 元の画像サイズ: 480x853
+2025-10-19 08:08:20,528 - INFO - サイズ変更は不要です
+2025-10-19 08:08:22,931 - INFO - 処理終了
+2025-10-19 08:08:22,941 - INFO - 説明文_AI: None
+2025-10-19 08:08:22,941 - INFO - 説明文_最終: 
+================================================================================
+2025-10-19 08:08:29,121 - INFO - 処理開始: Mode=story, Username=sumibi_nao_yamato, GBP=MSIOXWFX771716
+2025-10-19 08:08:29,121 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0lPWFdGWDc3MTcxNiJd.
+2025-10-19 08:08:56,349 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\sumibi_nao_yamato\sumibi_nao_yamato_20251019080819.jpg
+2025-10-19 08:08:59,476 - INFO - 一時ファイルが見つかりません: media\sumibi_nao_yamato\description\20251019_080741
+2025-10-19 08:08:59,477 - INFO - Looking for button section...
+2025-10-19 08:09:04,078 - INFO - Trying to select CALL option...
+2025-10-19 08:09:04,316 - INFO - CALL option successfully selected
+2025-10-19 08:09:06,317 - INFO - Clicking submit button...
+2025-10-19 08:09:15,163 - INFO - 処理完了
+================================================================================
+2025-10-19 12:25:59,753 - INFO - 処理開始 PROCESSID:20251019_122556
+2025-10-19 12:25:59,753 - INFO - 対象ユーザー: sumibi_nao_yamato
+2025-10-19 12:25:59,753 - INFO - 処理を開始します
+2025-10-19 12:25:59,813 - INFO - 選択されたプロファイル: Profile 13
+2025-10-19 12:25:59,813 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-19 12:26:04,996 - INFO - sumibi_nao_yamato のプロフィールページにアクセスします
+2025-10-19 12:26:27,480 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 12:26:30,914 - INFO - 動画の取得に失敗しました
+2025-10-19 12:26:30,914 - INFO - datetime属性の抽出を開始します
+2025-10-19 12:26:30,998 - INFO - 抽出されたdatetime: 2025-10-19T05:39:02.000Z
+2025-10-19 12:26:31,035 - INFO - 画像URLを取得しました
+2025-10-19 12:26:31,038 - INFO - DUP(with-key): user=sumibi_nao_yamato, key=Mzc0NjYyMzQ3NzQ3NTY3MzMyMA==, dt=2025-10-19T05:39:02.000Z
+================================================================================
+2025-10-19 16:37:29,135 - INFO - 処理開始 PROCESSID:20251019_163725
+2025-10-19 16:37:29,135 - INFO - 対象ユーザー: sumibi_nao_yamato
+2025-10-19 16:37:29,135 - INFO - 処理を開始します
+2025-10-19 16:37:29,193 - INFO - 選択されたプロファイル: Profile 9
+2025-10-19 16:37:29,193 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-19 16:37:34,249 - INFO - sumibi_nao_yamato のプロフィールページにアクセスします
+2025-10-19 16:37:56,308 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 16:37:59,630 - INFO - 動画の取得に失敗しました
+2025-10-19 16:37:59,631 - INFO - datetime属性の抽出を開始します
+2025-10-19 16:37:59,753 - INFO - 抽出されたdatetime: 2025-10-19T05:39:02.000Z
+2025-10-19 16:37:59,817 - INFO - 画像URLを取得しました
+2025-10-19 16:37:59,820 - INFO - DUP(with-key): user=sumibi_nao_yamato, key=Mzc0NjYyMzQ3NzQ3NTY3MzMyMA==, dt=2025-10-19T05:39:02.000Z
+================================================================================
+2025-10-19 21:53:45,804 - INFO - 処理開始 PROCESSID:20251019_215342
+2025-10-19 21:53:45,804 - INFO - 対象ユーザー: sumibi_nao_yamato
+2025-10-19 21:53:45,804 - INFO - 処理を開始します
+2025-10-19 21:53:45,863 - INFO - 選択されたプロファイル: Profile 12
+2025-10-19 21:53:45,863 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-19 21:53:50,327 - INFO - sumibi_nao_yamato のプロフィールページにアクセスします
+2025-10-19 21:54:12,033 - INFO - プロフィール写真のクリックに成功しました
+2025-10-19 21:54:15,502 - INFO - 動画の取得に失敗しました
+2025-10-19 21:54:15,503 - INFO - datetime属性の抽出を開始します
+2025-10-19 21:54:15,583 - INFO - 抽出されたdatetime: 2025-10-19T05:39:02.000Z
+2025-10-19 21:54:15,619 - INFO - 画像URLを取得しました
+2025-10-19 21:54:15,621 - INFO - DUP(with-key): user=sumibi_nao_yamato, key=Mzc0NjYyMzQ3NzQ3NTY3MzMyMA==, dt=2025-10-19T05:39:02.000Z

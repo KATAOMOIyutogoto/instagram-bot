@@ -1,0 +1,386 @@
+================================================================================
+2025-10-22 01:50:46,444 - INFO - 処理開始 PROCESSID:20251022_015042
+2025-10-22 01:50:46,445 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-22 01:50:46,445 - INFO - 処理を開始します
+2025-10-22 01:50:46,500 - INFO - 選択されたプロファイル: Profile 10
+2025-10-22 01:50:46,500 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-22 01:50:51,153 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-22 01:51:04,156 - INFO - 最新投稿を読み込みます
+2025-10-22 01:51:09,471 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-10-22 01:51:12,108 - INFO - ピン留めだが3日以上前(99日) → スキップ
+2025-10-22 01:51:12,108 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-10-22 01:51:15,561 - INFO - ピン留めだが3日以上前(490日) → スキップ
+2025-10-22 01:51:15,561 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DQDkuKBki08/?hl=ja
+2025-10-22 01:51:21,674 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 01:51:25,072 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 01:51:25,135 - INFO - datetime属性の抽出を開始します
+2025-10-22 01:51:25,162 - INFO - 抽出されたdatetime: 2025-10-21T03:15:04.000Z
+2025-10-22 01:51:25,163 - INFO - hfhsraffaello の投稿日時: 2025-10-21T03:15:04.000Z
+2025-10-22 01:51:25,170 - INFO - date:2025-10-21 12:15:04+09:00
+2025-10-22 01:51:25,170 - INFO - post_date:20251021
+2025-10-22 01:51:25,226 - INFO - カルーセル推定: 3枚
+2025-10-22 01:51:25,253 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/564908198_18431695813101616_1638482061461351421_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc0NDM5ODU3MDE4MDI0NDg5Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=5sYc8_wRUC4Q7kNvwGaGtVX&_nc_oc=AdlLmtU-ntuVFq25MoWKeMD-BSkFZJjHVDPxrP8fB2M4wOQVy9cexHmbjy5q-5sqqLE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=H9kLXbS-ArjjXZhEDv-jRA&oh=00_AfeKLU1IAejinATkl3XZ0loFV7hpHxaR5Xy12gaqcVSlcw&oe=68FE0DAA
+2025-10-22 01:51:25,258 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565103138_18431695822101616_5942915911551462925_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0NDM5ODU3MDE4ODU3MjkyOA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=bwhKNwcQxUkQ7kNvwFPzGb-&_nc_oc=AdljzdmkiXAEUmVqVummeoBqWREL6Yr2XIQ12wp3GFAphnekK2CPrJCVgckKhhPYYE8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=H9kLXbS-ArjjXZhEDv-jRA&oh=00_AfdENYwKOzUiEoKzj4ISTE-J6aHAyk-yl7a-u7XfNFvunw&oe=68FDF009
+2025-10-22 01:52:07,037 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565004851_18431695831101616_1969321160496177560_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc0NDM5ODU3MDMxNDQ0MzY2OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=Iv7enDpjGQwQ7kNvwHwyTdl&_nc_oc=Adkk3fAZi6Jd7StM7mwhQP-FOQtvLcfydV5ovpBtmx4sNRI7nRVDA1Iaoj4nWI9EI6E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=H9kLXbS-ArjjXZhEDv-jRA&oh=00_AfeVusgdQXk2TH0Y1GR2sBd69s847coENUM5S5JZ_zjKpw&oe=68FE2327
+2025-10-22 01:52:07,056 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/564908198_18431695813101616_1638482061461351421_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc0NDM5ODU3MDE4MDI0NDg5Ng%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=5sYc8_wRUC4Q7kNvwGaGtVX&_nc_oc=AdlLmtU-ntuVFq25MoWKeMD-BSkFZJjHVDPxrP8fB2M4wOQVy9cexHmbjy5q-5sqqLE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=H9kLXbS-ArjjXZhEDv-jRA&oh=00_AfeKLU1IAejinATkl3XZ0loFV7hpHxaR5Xy12gaqcVSlcw&oe=68FE0DAA
+2025-10-22 01:52:07,056 - INFO - 2枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565103138_18431695822101616_5942915911551462925_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0NDM5ODU3MDE4ODU3MjkyOA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=bwhKNwcQxUkQ7kNvwFPzGb-&_nc_oc=AdljzdmkiXAEUmVqVummeoBqWREL6Yr2XIQ12wp3GFAphnekK2CPrJCVgckKhhPYYE8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=H9kLXbS-ArjjXZhEDv-jRA&oh=00_AfdENYwKOzUiEoKzj4ISTE-J6aHAyk-yl7a-u7XfNFvunw&oe=68FDF009
+2025-10-22 01:52:07,056 - INFO - 3枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565004851_18431695831101616_1969321160496177560_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc0NDM5ODU3MDMxNDQ0MzY2OA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=Iv7enDpjGQwQ7kNvwHwyTdl&_nc_oc=Adkk3fAZi6Jd7StM7mwhQP-FOQtvLcfydV5ovpBtmx4sNRI7nRVDA1Iaoj4nWI9EI6E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=H9kLXbS-ArjjXZhEDv-jRA&oh=00_AfeVusgdQXk2TH0Y1GR2sBd69s847coENUM5S5JZ_zjKpw&oe=68FE2327
+2025-10-22 01:52:07,056 - INFO - [caption/by_username] 開始
+2025-10-22 01:52:07,135 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+カット　エドルクオンカラー　マットブラウン🟢🤎
+Rトリートメント
+いつもご来店ありがとうございます♪
+Rトリートメントとご一緒に艶髪keep✨
+
+担当　雪乃
+
+======= re'
+2025-10-22 01:52:07,137 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251022_015042
+2025-10-22 01:52:07,138 - INFO - 画像URLを取得しました
+2025-10-22 01:52:07,142 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDM5ODU3MDE4MDI0NDg5Ng==, dt=2025-10-21T03:15:04.000Z
+2025-10-22 01:52:07,142 - INFO - このレコードは存在します
+2025-10-22 01:52:07,142 - INFO - 画像URLを取得しました
+2025-10-22 01:52:07,144 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDM5ODU3MDE4ODU3MjkyOA==, dt=2025-10-21T03:15:04.000Z
+2025-10-22 01:52:07,144 - INFO - このレコードは存在します
+2025-10-22 01:52:07,144 - INFO - 画像URLを取得しました
+2025-10-22 01:52:07,144 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDM5ODU3MDMxNDQ0MzY2OA==, dt=2025-10-21T03:15:04.000Z
+2025-10-22 01:52:07,144 - INFO - このレコードは存在します
+2025-10-22 01:52:07,144 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL0 / 既存スキップ3 / 失敗0
+2025-10-22 01:52:07,144 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-22 01:52:07,144 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-22 06:02:32,923 - INFO - 処理開始 PROCESSID:20251022_060229
+2025-10-22 06:02:32,923 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-22 06:02:32,923 - INFO - 処理を開始します
+2025-10-22 06:02:32,982 - INFO - 選択されたプロファイル: Profile 12
+2025-10-22 06:02:32,982 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-22 06:02:37,599 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-22 06:02:50,040 - INFO - 最新投稿を読み込みます
+2025-10-22 06:02:55,459 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-10-22 06:02:59,213 - INFO - ピン留めだが3日以上前(99日) → スキップ
+2025-10-22 06:02:59,214 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-10-22 06:03:01,238 - INFO - ピン留めだが3日以上前(490日) → スキップ
+2025-10-22 06:03:01,239 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DQGJhWVkt1v/?hl=ja
+2025-10-22 06:03:05,748 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 06:03:10,564 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 06:03:10,651 - INFO - datetime属性の抽出を開始します
+2025-10-22 06:03:10,752 - INFO - 抽出されたdatetime: 2025-10-22T03:15:06.000Z
+2025-10-22 06:03:10,752 - INFO - hfhsraffaello の投稿日時: 2025-10-22T03:15:06.000Z
+2025-10-22 06:03:10,759 - INFO - date:2025-10-22 12:15:06+09:00
+2025-10-22 06:03:10,759 - INFO - post_date:20251022
+2025-10-22 06:03:10,813 - INFO - カルーセル推定: 3枚
+2025-10-22 06:03:10,872 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565220943_18431696014101616_4996437870791805195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=_Lpc3yO0aMMQ7kNvwF4gTuq&_nc_oc=AdkjMTaYtS3pqsjPtaSuoxycEAp1GGceA8o-SK6CwZy2odOjycvDc9IHuLW1qASxc28&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=nQa0UHYdrndl8iuNmptt8Q&oh=00_AfeQyKhLF3uD-DAi--yf9BGHxWISL48tB5JcsmN8EVEMmQ&oe=68FE5AC3
+2025-10-22 06:03:10,883 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/566344123_18431696026101616_4642841869832959470_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NCVal0tdIKMQ7kNvwGgMCG9&_nc_oc=Adnpn6XccbB1N-AAnMm3GKPwCewhk3ijGIkfbvruB5g_lYIKUQBinn2vlngCdB66YGw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=nQa0UHYdrndl8iuNmptt8Q&oh=00_AfcClufewnu_TKmE8UmJW3lkhgU4Sf6VxNEtZrFafRj01Q&oe=68FE506C
+2025-10-22 06:03:31,514 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/564345969_18431696035101616_9205079450199277616_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=YKXeM9pVKQAQ7kNvwETfUbH&_nc_oc=AdnrZvFBDfDirIk4NTzHlOiDc64-x_SonM4rhqM127g-UKGDN9k-h0blt-vi5gxmpwA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=nQa0UHYdrndl8iuNmptt8Q&oh=00_AfcGIzo3uigxOWxsVd6HKWYsxi5h8Gi_ajGf-Qs-jr_OWA&oe=68FE2EDE
+2025-10-22 06:03:31,533 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565220943_18431696014101616_4996437870791805195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=_Lpc3yO0aMMQ7kNvwF4gTuq&_nc_oc=AdkjMTaYtS3pqsjPtaSuoxycEAp1GGceA8o-SK6CwZy2odOjycvDc9IHuLW1qASxc28&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=nQa0UHYdrndl8iuNmptt8Q&oh=00_AfeQyKhLF3uD-DAi--yf9BGHxWISL48tB5JcsmN8EVEMmQ&oe=68FE5AC3
+2025-10-22 06:03:31,534 - INFO - 2枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/566344123_18431696026101616_4642841869832959470_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NCVal0tdIKMQ7kNvwGgMCG9&_nc_oc=Adnpn6XccbB1N-AAnMm3GKPwCewhk3ijGIkfbvruB5g_lYIKUQBinn2vlngCdB66YGw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=nQa0UHYdrndl8iuNmptt8Q&oh=00_AfcClufewnu_TKmE8UmJW3lkhgU4Sf6VxNEtZrFafRj01Q&oe=68FE506C
+2025-10-22 06:03:31,534 - INFO - 3枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/564345969_18431696035101616_9205079450199277616_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=YKXeM9pVKQAQ7kNvwETfUbH&_nc_oc=AdnrZvFBDfDirIk4NTzHlOiDc64-x_SonM4rhqM127g-UKGDN9k-h0blt-vi5gxmpwA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=nQa0UHYdrndl8iuNmptt8Q&oh=00_AfcGIzo3uigxOWxsVd6HKWYsxi5h8Gi_ajGf-Qs-jr_OWA&oe=68FE2EDE
+2025-10-22 06:03:31,534 - INFO - [caption/by_username] 開始
+2025-10-22 06:03:31,609 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+カット　エドルクオンカラーベージュブラウン🟡🤎
+コラーゲントリートメント
+いつもご来店ありがとうございます♪
+home careも当店のオススメ
+seesawシリーズ　シャンプー＆'
+2025-10-22 06:03:31,611 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251022_060229
+2025-10-22 06:03:31,611 - INFO - 画像URLを取得しました
+2025-10-22 06:03:31,660 - INFO - INSERT(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 06:03:31,660 - INFO - メディアを取得します
+2025-10-22 06:03:33,661 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251022060333.jpg
+2025-10-22 06:03:35,494 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251022060333.jpg
+2025-10-22 06:03:35,601 - INFO - 元の画像サイズ: 1440x1910
+2025-10-22 06:03:35,601 - INFO - サイズ変更は不要です
+2025-10-22 06:03:35,603 - INFO - 画像URLを取得しました
+2025-10-22 06:03:35,641 - INFO - INSERT(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 06:03:35,641 - INFO - メディアを取得します
+2025-10-22 06:03:37,642 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251022060337.jpg
+2025-10-22 06:03:39,631 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251022060337.jpg
+2025-10-22 06:03:39,714 - INFO - 元の画像サイズ: 1440x1910
+2025-10-22 06:03:39,714 - INFO - サイズ変更は不要です
+2025-10-22 06:03:39,716 - INFO - 画像URLを取得しました
+2025-10-22 06:03:39,753 - INFO - INSERT(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 06:03:39,753 - INFO - メディアを取得します
+2025-10-22 06:03:41,754 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251022060341.jpg
+2025-10-22 06:03:43,655 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251022060341.jpg
+2025-10-22 06:03:43,734 - INFO - 元の画像サイズ: 1440x1910
+2025-10-22 06:03:43,734 - INFO - サイズ変更は不要です
+2025-10-22 06:03:43,735 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL3 / 既存スキップ0 / 失敗0
+2025-10-22 06:03:43,735 - INFO - 説明文:お客様photo📸
+カット　エドルクオンカラーベージュブラウン🟡🤎
+コラーゲントリートメント
+いつもご来店ありがとうございます♪
+home careも当店のオススメ
+seesawシリーズ　シャンプー＆トリートメント＆afterトリートメントをご愛用頂き、艶髪keep✨
+
+担当　雪乃
+
+======= renaissance hair RAFFAELLO =======
+
+【営業時間】
+平日　：9:00～19:00
+土日祝：8:30～19:00
+（パーマ・カラー受付　PM　18:00まで） 
+
+定休日
+第1日曜、第2火曜、第3日月連休、第4火曜、第5火曜定休日
+冬期休暇のお知らせ1月1・2・3日 
+
+◆ご予約はこちら↓
+ホットペッパービューティー
+https://beauty.hotpepper.jp/slnH000379634/
+
+住所📍
+栃木県足利市駒場町893-2
+
+============================
+
+#RAFFAELLO #美容室 #美容院 #美容師 #髪型 #ヘアカット #カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #縮毛矯正 #ヘアサロン #ヘッドスパ #足利市美容院 #足利市美容室 #足利市ヘアサロン #足利市ヘアカット #足利市髪質改善 #足利市美容室メンズ #足利市女性人気美容室 #足利市駒場町美容室 #ベージュブラウン #艶カラー #seesaw #hfhsraffaello
+2025-10-22 06:03:46,163 - INFO - 処理終了
+================================================================================
+2025-10-22 06:03:52,130 - INFO - 処理開始: Mode=post, Username=hfhsraffaello, GBP=03056610151687686385
+2025-10-22 06:03:52,130 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwMzA1NjYxMDE1MTY4NzY4NjM4NSJd.
+2025-10-22 06:04:15,684 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251022060333.jpg
+2025-10-22 06:04:18,767 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251022060337.jpg
+2025-10-22 06:04:21,914 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251022060341.jpg
+2025-10-22 06:04:24,994 - INFO - Waiting for description field...
+2025-10-22 06:04:25,031 - INFO - Setting description via JS (no send_keys)...
+2025-10-22 06:04:26,148 - INFO - Looking for button section...
+2025-10-22 06:04:30,644 - INFO - Trying to select CALL option...
+2025-10-22 06:04:30,977 - INFO - CALL option successfully selected
+2025-10-22 06:04:32,977 - INFO - Clicking submit button...
+2025-10-22 06:04:41,626 - INFO - 処理完了
+================================================================================
+2025-10-22 08:58:47,459 - INFO - 処理開始 PROCESSID:20251022_085843
+2025-10-22 08:58:47,459 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-22 08:58:47,459 - INFO - 処理を開始します
+2025-10-22 08:58:47,522 - INFO - 選択されたプロファイル: Profile 9
+2025-10-22 08:58:47,522 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-22 08:58:52,136 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-22 08:59:04,685 - INFO - 最新投稿を読み込みます
+2025-10-22 08:59:10,084 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-10-22 08:59:13,567 - INFO - ピン留めだが3日以上前(100日) → スキップ
+2025-10-22 08:59:13,567 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-10-22 08:59:16,016 - INFO - ピン留めだが3日以上前(490日) → スキップ
+2025-10-22 08:59:16,016 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DQGJhWVkt1v/?hl=ja
+2025-10-22 08:59:20,494 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 08:59:25,038 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 08:59:25,071 - INFO - datetime属性の抽出を開始します
+2025-10-22 08:59:25,093 - INFO - 抽出されたdatetime: 2025-10-22T03:15:06.000Z
+2025-10-22 08:59:25,093 - INFO - hfhsraffaello の投稿日時: 2025-10-22T03:15:06.000Z
+2025-10-22 08:59:25,100 - INFO - date:2025-10-22 12:15:06+09:00
+2025-10-22 08:59:25,100 - INFO - post_date:20251022
+2025-10-22 08:59:25,151 - INFO - カルーセル推定: 3枚
+2025-10-22 08:59:25,172 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565220943_18431696014101616_4996437870791805195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=_Lpc3yO0aMMQ7kNvwF4gTuq&_nc_oc=AdkjMTaYtS3pqsjPtaSuoxycEAp1GGceA8o-SK6CwZy2odOjycvDc9IHuLW1qASxc28&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qtTi3ypx_24p-g32S8bUaw&oh=00_AfdqZls7XMQDjYcJzj0UiX3e8AFHCPam4RgRdtRnO0lBHw&oe=68FE5AC3
+2025-10-22 08:59:25,178 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/566344123_18431696026101616_4642841869832959470_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NCVal0tdIKMQ7kNvwGgMCG9&_nc_oc=Adnpn6XccbB1N-AAnMm3GKPwCewhk3ijGIkfbvruB5g_lYIKUQBinn2vlngCdB66YGw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qtTi3ypx_24p-g32S8bUaw&oh=00_AffqgSPk2erdxFNLawUvXUIAX4koPx4DNOXjYooa80QwYw&oe=68FE88AC
+2025-10-22 09:00:06,908 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/564345969_18431696035101616_9205079450199277616_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=YKXeM9pVKQAQ7kNvwETfUbH&_nc_oc=AdnrZvFBDfDirIk4NTzHlOiDc64-x_SonM4rhqM127g-UKGDN9k-h0blt-vi5gxmpwA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qtTi3ypx_24p-g32S8bUaw&oh=00_AfdeGOb1EhXhl0ttMKEysSC4rqv_FxOTAfL3uVvoh-bhUA&oe=68FE671E
+2025-10-22 09:00:06,935 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565220943_18431696014101616_4996437870791805195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=_Lpc3yO0aMMQ7kNvwF4gTuq&_nc_oc=AdkjMTaYtS3pqsjPtaSuoxycEAp1GGceA8o-SK6CwZy2odOjycvDc9IHuLW1qASxc28&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qtTi3ypx_24p-g32S8bUaw&oh=00_AfdqZls7XMQDjYcJzj0UiX3e8AFHCPam4RgRdtRnO0lBHw&oe=68FE5AC3
+2025-10-22 09:00:06,935 - INFO - 2枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/566344123_18431696026101616_4642841869832959470_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NCVal0tdIKMQ7kNvwGgMCG9&_nc_oc=Adnpn6XccbB1N-AAnMm3GKPwCewhk3ijGIkfbvruB5g_lYIKUQBinn2vlngCdB66YGw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qtTi3ypx_24p-g32S8bUaw&oh=00_AffqgSPk2erdxFNLawUvXUIAX4koPx4DNOXjYooa80QwYw&oe=68FE88AC
+2025-10-22 09:00:06,935 - INFO - 3枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/564345969_18431696035101616_9205079450199277616_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=YKXeM9pVKQAQ7kNvwETfUbH&_nc_oc=AdnrZvFBDfDirIk4NTzHlOiDc64-x_SonM4rhqM127g-UKGDN9k-h0blt-vi5gxmpwA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qtTi3ypx_24p-g32S8bUaw&oh=00_AfdeGOb1EhXhl0ttMKEysSC4rqv_FxOTAfL3uVvoh-bhUA&oe=68FE671E
+2025-10-22 09:00:06,936 - INFO - [caption/by_username] 開始
+2025-10-22 09:00:07,142 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+カット　エドルクオンカラーベージュブラウン🟡🤎
+コラーゲントリートメント
+いつもご来店ありがとうございます♪
+home careも当店のオススメ
+seesawシリーズ　シャンプー＆'
+2025-10-22 09:00:07,144 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251022_085843
+2025-10-22 09:00:07,145 - INFO - 画像URLを取得しました
+2025-10-22 09:00:07,149 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 09:00:07,150 - INFO - このレコードは存在します
+2025-10-22 09:00:07,150 - INFO - 画像URLを取得しました
+2025-10-22 09:00:07,151 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 09:00:07,151 - INFO - このレコードは存在します
+2025-10-22 09:00:07,151 - INFO - 画像URLを取得しました
+2025-10-22 09:00:07,152 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 09:00:07,152 - INFO - このレコードは存在します
+2025-10-22 09:00:07,152 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL0 / 既存スキップ3 / 失敗0
+2025-10-22 09:00:07,153 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-22 09:00:07,153 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-22 13:04:18,022 - INFO - 処理開始 PROCESSID:20251022_130414
+2025-10-22 13:04:18,022 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-22 13:04:18,022 - INFO - 処理を開始します
+2025-10-22 13:04:18,081 - INFO - 選択されたプロファイル: Profile 13
+2025-10-22 13:04:18,081 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-22 13:04:22,653 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-22 13:04:35,100 - INFO - 最新投稿を読み込みます
+2025-10-22 13:04:40,476 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-10-22 13:04:44,003 - INFO - ピン留めだが3日以上前(100日) → スキップ
+2025-10-22 13:04:44,004 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-10-22 13:04:47,574 - INFO - ピン留めだが3日以上前(490日) → スキップ
+2025-10-22 13:04:47,575 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DQGJhWVkt1v/?hl=ja
+2025-10-22 13:04:52,555 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 13:04:57,516 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 13:04:57,561 - INFO - datetime属性の抽出を開始します
+2025-10-22 13:04:57,635 - INFO - 抽出されたdatetime: 2025-10-22T03:15:06.000Z
+2025-10-22 13:04:57,635 - INFO - hfhsraffaello の投稿日時: 2025-10-22T03:15:06.000Z
+2025-10-22 13:04:57,641 - INFO - date:2025-10-22 12:15:06+09:00
+2025-10-22 13:04:57,642 - INFO - post_date:20251022
+2025-10-22 13:04:57,692 - INFO - カルーセル推定: 3枚
+2025-10-22 13:04:57,724 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565220943_18431696014101616_4996437870791805195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=_Lpc3yO0aMMQ7kNvwF4gTuq&_nc_oc=AdkjMTaYtS3pqsjPtaSuoxycEAp1GGceA8o-SK6CwZy2odOjycvDc9IHuLW1qASxc28&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=U4fV0gmvsTQR0LM88NKBxA&oh=00_AfdWJOIk9yTsQ7tcrlcaKjRifuDZ4lW7b_Y1_gsmucjyLQ&oe=68FE9303
+2025-10-22 13:04:57,730 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/566344123_18431696026101616_4642841869832959470_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NCVal0tdIKMQ7kNvwGgMCG9&_nc_oc=Adnpn6XccbB1N-AAnMm3GKPwCewhk3ijGIkfbvruB5g_lYIKUQBinn2vlngCdB66YGw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=U4fV0gmvsTQR0LM88NKBxA&oh=00_Afenl9kl6xWrtKiIVda-aVHxUsQoq2kyGCUzXMATCUOt-A&oe=68FEC0EC
+2025-10-22 13:05:39,146 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/564345969_18431696035101616_9205079450199277616_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=YKXeM9pVKQAQ7kNvwETfUbH&_nc_oc=AdnrZvFBDfDirIk4NTzHlOiDc64-x_SonM4rhqM127g-UKGDN9k-h0blt-vi5gxmpwA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=U4fV0gmvsTQR0LM88NKBxA&oh=00_AfcIg8mRDHfr0ZfsGoZzayidnMsy7CJURQpUfdlD4cva-w&oe=68FE9F5E
+2025-10-22 13:05:39,169 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565220943_18431696014101616_4996437870791805195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=_Lpc3yO0aMMQ7kNvwF4gTuq&_nc_oc=AdkjMTaYtS3pqsjPtaSuoxycEAp1GGceA8o-SK6CwZy2odOjycvDc9IHuLW1qASxc28&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=U4fV0gmvsTQR0LM88NKBxA&oh=00_AfdWJOIk9yTsQ7tcrlcaKjRifuDZ4lW7b_Y1_gsmucjyLQ&oe=68FE9303
+2025-10-22 13:05:39,169 - INFO - 2枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/566344123_18431696026101616_4642841869832959470_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NCVal0tdIKMQ7kNvwGgMCG9&_nc_oc=Adnpn6XccbB1N-AAnMm3GKPwCewhk3ijGIkfbvruB5g_lYIKUQBinn2vlngCdB66YGw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=U4fV0gmvsTQR0LM88NKBxA&oh=00_Afenl9kl6xWrtKiIVda-aVHxUsQoq2kyGCUzXMATCUOt-A&oe=68FEC0EC
+2025-10-22 13:05:39,169 - INFO - 3枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/564345969_18431696035101616_9205079450199277616_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=YKXeM9pVKQAQ7kNvwETfUbH&_nc_oc=AdnrZvFBDfDirIk4NTzHlOiDc64-x_SonM4rhqM127g-UKGDN9k-h0blt-vi5gxmpwA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=U4fV0gmvsTQR0LM88NKBxA&oh=00_AfcIg8mRDHfr0ZfsGoZzayidnMsy7CJURQpUfdlD4cva-w&oe=68FE9F5E
+2025-10-22 13:05:39,169 - INFO - [caption/by_username] 開始
+2025-10-22 13:05:39,265 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+カット　エドルクオンカラーベージュブラウン🟡🤎
+コラーゲントリートメント
+いつもご来店ありがとうございます♪
+home careも当店のオススメ
+seesawシリーズ　シャンプー＆'
+2025-10-22 13:05:39,267 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251022_130414
+2025-10-22 13:05:39,267 - INFO - 画像URLを取得しました
+2025-10-22 13:05:39,269 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 13:05:39,270 - INFO - このレコードは存在します
+2025-10-22 13:05:39,270 - INFO - 画像URLを取得しました
+2025-10-22 13:05:39,271 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 13:05:39,271 - INFO - このレコードは存在します
+2025-10-22 13:05:39,271 - INFO - 画像URLを取得しました
+2025-10-22 13:05:39,272 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 13:05:39,272 - INFO - このレコードは存在します
+2025-10-22 13:05:39,272 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL0 / 既存スキップ3 / 失敗0
+2025-10-22 13:05:39,272 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-22 13:05:39,272 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-22 17:08:35,302 - INFO - 処理開始 PROCESSID:20251022_170831
+2025-10-22 17:08:35,302 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-22 17:08:35,302 - INFO - 処理を開始します
+2025-10-22 17:08:35,364 - INFO - 選択されたプロファイル: Profile 13
+2025-10-22 17:08:35,364 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-22 17:08:40,133 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-22 17:08:51,952 - INFO - 最新投稿を読み込みます
+2025-10-22 17:08:57,347 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-10-22 17:09:01,280 - INFO - ピン留めだが3日以上前(100日) → スキップ
+2025-10-22 17:09:01,280 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-10-22 17:09:04,197 - INFO - ピン留めだが3日以上前(490日) → スキップ
+2025-10-22 17:09:04,197 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DQGJhWVkt1v/?hl=ja
+2025-10-22 17:09:09,077 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 17:09:13,195 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 17:09:13,233 - INFO - datetime属性の抽出を開始します
+2025-10-22 17:09:13,266 - INFO - 抽出されたdatetime: 2025-10-22T03:15:06.000Z
+2025-10-22 17:09:13,266 - INFO - hfhsraffaello の投稿日時: 2025-10-22T03:15:06.000Z
+2025-10-22 17:09:13,274 - INFO - date:2025-10-22 12:15:06+09:00
+2025-10-22 17:09:13,274 - INFO - post_date:20251022
+2025-10-22 17:09:13,317 - INFO - カルーセル推定: 3枚
+2025-10-22 17:09:13,336 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565220943_18431696014101616_4996437870791805195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=_Lpc3yO0aMMQ7kNvwF4gTuq&_nc_oc=AdkjMTaYtS3pqsjPtaSuoxycEAp1GGceA8o-SK6CwZy2odOjycvDc9IHuLW1qASxc28&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=kJcGIVF9B2fTUWUyWUXadQ&oh=00_AfdkDVNMWlQRff0dHixKLLr5WVd5P_XUs8hPpqk5P_47pw&oe=68FECB43
+2025-10-22 17:09:13,348 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/566344123_18431696026101616_4642841869832959470_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NCVal0tdIKMQ7kNvwGgMCG9&_nc_oc=Adnpn6XccbB1N-AAnMm3GKPwCewhk3ijGIkfbvruB5g_lYIKUQBinn2vlngCdB66YGw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=kJcGIVF9B2fTUWUyWUXadQ&oh=00_AfeK88FJOOQAT8u5gplLxaVvjGRMfHJ5H5ffVceSShQKFw&oe=68FEF92C
+2025-10-22 17:09:55,251 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/564345969_18431696035101616_9205079450199277616_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=YKXeM9pVKQAQ7kNvwETfUbH&_nc_oc=AdnrZvFBDfDirIk4NTzHlOiDc64-x_SonM4rhqM127g-UKGDN9k-h0blt-vi5gxmpwA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=kJcGIVF9B2fTUWUyWUXadQ&oh=00_Afccop6i_pYH0dIuj8U0kpRdNGIPgpbj-z8hvtAylAvMmg&oe=68FED79E
+2025-10-22 17:09:55,268 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565220943_18431696014101616_4996437870791805195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=_Lpc3yO0aMMQ7kNvwF4gTuq&_nc_oc=AdkjMTaYtS3pqsjPtaSuoxycEAp1GGceA8o-SK6CwZy2odOjycvDc9IHuLW1qASxc28&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=kJcGIVF9B2fTUWUyWUXadQ&oh=00_AfdkDVNMWlQRff0dHixKLLr5WVd5P_XUs8hPpqk5P_47pw&oe=68FECB43
+2025-10-22 17:09:55,268 - INFO - 2枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/566344123_18431696026101616_4642841869832959470_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NCVal0tdIKMQ7kNvwGgMCG9&_nc_oc=Adnpn6XccbB1N-AAnMm3GKPwCewhk3ijGIkfbvruB5g_lYIKUQBinn2vlngCdB66YGw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=kJcGIVF9B2fTUWUyWUXadQ&oh=00_AfeK88FJOOQAT8u5gplLxaVvjGRMfHJ5H5ffVceSShQKFw&oe=68FEF92C
+2025-10-22 17:09:55,268 - INFO - 3枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/564345969_18431696035101616_9205079450199277616_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=YKXeM9pVKQAQ7kNvwETfUbH&_nc_oc=AdnrZvFBDfDirIk4NTzHlOiDc64-x_SonM4rhqM127g-UKGDN9k-h0blt-vi5gxmpwA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=kJcGIVF9B2fTUWUyWUXadQ&oh=00_Afccop6i_pYH0dIuj8U0kpRdNGIPgpbj-z8hvtAylAvMmg&oe=68FED79E
+2025-10-22 17:09:55,268 - INFO - [caption/by_username] 開始
+2025-10-22 17:09:55,346 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+カット　エドルクオンカラーベージュブラウン🟡🤎
+コラーゲントリートメント
+いつもご来店ありがとうございます♪
+home careも当店のオススメ
+seesawシリーズ　シャンプー＆'
+2025-10-22 17:09:55,349 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251022_170831
+2025-10-22 17:09:55,349 - INFO - 画像URLを取得しました
+2025-10-22 17:09:55,351 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 17:09:55,351 - INFO - このレコードは存在します
+2025-10-22 17:09:55,351 - INFO - 画像URLを取得しました
+2025-10-22 17:09:55,352 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 17:09:55,352 - INFO - このレコードは存在します
+2025-10-22 17:09:55,352 - INFO - 画像URLを取得しました
+2025-10-22 17:09:55,352 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 17:09:55,353 - INFO - このレコードは存在します
+2025-10-22 17:09:55,353 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL0 / 既存スキップ3 / 失敗0
+2025-10-22 17:09:55,353 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-22 17:09:55,353 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-22 21:06:38,915 - INFO - 処理開始 PROCESSID:20251022_210635
+2025-10-22 21:06:38,917 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-22 21:06:38,917 - INFO - 処理を開始します
+2025-10-22 21:06:38,973 - INFO - 選択されたプロファイル: Profile 12
+2025-10-22 21:06:38,973 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-22 21:06:43,578 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-22 21:06:54,908 - INFO - 最新投稿を読み込みます
+2025-10-22 21:07:00,220 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-10-22 21:07:03,528 - INFO - ピン留めだが3日以上前(100日) → スキップ
+2025-10-22 21:07:03,528 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-10-22 21:07:05,720 - INFO - ピン留めだが3日以上前(490日) → スキップ
+2025-10-22 21:07:05,720 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DQGJhWVkt1v/?hl=ja
+2025-10-22 21:07:10,667 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 21:07:15,392 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 21:07:15,480 - INFO - datetime属性の抽出を開始します
+2025-10-22 21:07:15,504 - INFO - 抽出されたdatetime: 2025-10-22T03:15:06.000Z
+2025-10-22 21:07:15,505 - INFO - hfhsraffaello の投稿日時: 2025-10-22T03:15:06.000Z
+2025-10-22 21:07:15,512 - INFO - date:2025-10-22 12:15:06+09:00
+2025-10-22 21:07:15,512 - INFO - post_date:20251022
+2025-10-22 21:07:15,582 - INFO - カルーセル推定: 3枚
+2025-10-22 21:07:15,603 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565220943_18431696014101616_4996437870791805195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=_Lpc3yO0aMMQ7kNvwF4gTuq&_nc_oc=AdkjMTaYtS3pqsjPtaSuoxycEAp1GGceA8o-SK6CwZy2odOjycvDc9IHuLW1qASxc28&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=G3nZ6d7oVVTxrweNaegTOA&oh=00_AfdR-j9nm04tn8c8lr5PzSqLawOYDk6KghS6F_-kSpcpDg&oe=68FF0383
+2025-10-22 21:07:15,610 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/566344123_18431696026101616_4642841869832959470_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NCVal0tdIKMQ7kNvwGgMCG9&_nc_oc=Adnpn6XccbB1N-AAnMm3GKPwCewhk3ijGIkfbvruB5g_lYIKUQBinn2vlngCdB66YGw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=G3nZ6d7oVVTxrweNaegTOA&oh=00_AfeSnZ-jJgQjYgoPkaC-kRoz2iWOBddkC6BufFmpV6CHZg&oe=68FF316C
+2025-10-22 21:07:36,595 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/564345969_18431696035101616_9205079450199277616_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=YKXeM9pVKQAQ7kNvwETfUbH&_nc_oc=AdnrZvFBDfDirIk4NTzHlOiDc64-x_SonM4rhqM127g-UKGDN9k-h0blt-vi5gxmpwA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=G3nZ6d7oVVTxrweNaegTOA&oh=00_AfeEHsdlNBX_CzAItUdtRH8I1gf3vOcL4PaPJC7Q2JWE3w&oe=68FF0FDE
+2025-10-22 21:07:36,611 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565220943_18431696014101616_4996437870791805195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=_Lpc3yO0aMMQ7kNvwF4gTuq&_nc_oc=AdkjMTaYtS3pqsjPtaSuoxycEAp1GGceA8o-SK6CwZy2odOjycvDc9IHuLW1qASxc28&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=G3nZ6d7oVVTxrweNaegTOA&oh=00_AfdR-j9nm04tn8c8lr5PzSqLawOYDk6KghS6F_-kSpcpDg&oe=68FF0383
+2025-10-22 21:07:36,612 - INFO - 2枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/566344123_18431696026101616_4642841869832959470_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NCVal0tdIKMQ7kNvwGgMCG9&_nc_oc=Adnpn6XccbB1N-AAnMm3GKPwCewhk3ijGIkfbvruB5g_lYIKUQBinn2vlngCdB66YGw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=G3nZ6d7oVVTxrweNaegTOA&oh=00_AfeSnZ-jJgQjYgoPkaC-kRoz2iWOBddkC6BufFmpV6CHZg&oe=68FF316C
+2025-10-22 21:07:36,612 - INFO - 3枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/564345969_18431696035101616_9205079450199277616_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=YKXeM9pVKQAQ7kNvwETfUbH&_nc_oc=AdnrZvFBDfDirIk4NTzHlOiDc64-x_SonM4rhqM127g-UKGDN9k-h0blt-vi5gxmpwA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=G3nZ6d7oVVTxrweNaegTOA&oh=00_AfeEHsdlNBX_CzAItUdtRH8I1gf3vOcL4PaPJC7Q2JWE3w&oe=68FF0FDE
+2025-10-22 21:07:36,612 - INFO - [caption/by_username] 開始
+2025-10-22 21:07:36,717 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+カット　エドルクオンカラーベージュブラウン🟡🤎
+コラーゲントリートメント
+いつもご来店ありがとうございます♪
+home careも当店のオススメ
+seesawシリーズ　シャンプー＆'
+2025-10-22 21:07:36,719 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251022_210635
+2025-10-22 21:07:36,719 - INFO - 画像URLを取得しました
+2025-10-22 21:07:36,721 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 21:07:36,721 - INFO - このレコードは存在します
+2025-10-22 21:07:36,722 - INFO - 画像URLを取得しました
+2025-10-22 21:07:36,722 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 21:07:36,723 - INFO - このレコードは存在します
+2025-10-22 21:07:36,723 - INFO - 画像URLを取得しました
+2025-10-22 21:07:36,724 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 21:07:36,724 - INFO - このレコードは存在します
+2025-10-22 21:07:36,724 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL0 / 既存スキップ3 / 失敗0
+2025-10-22 21:07:36,724 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-22 21:07:36,724 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-22 23:50:21,518 - INFO - 処理開始 PROCESSID:20251022_235018
+2025-10-22 23:50:21,518 - INFO - 対象ユーザー: hfhsraffaello
+2025-10-22 23:50:21,519 - INFO - 処理を開始します
+2025-10-22 23:50:21,589 - INFO - 選択されたプロファイル: Profile 9
+2025-10-22 23:50:21,589 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-22 23:50:26,049 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-10-22 23:50:38,302 - INFO - 最新投稿を読み込みます
+2025-10-22 23:50:43,927 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-10-22 23:50:46,583 - INFO - ピン留めだが3日以上前(100日) → スキップ
+2025-10-22 23:50:46,584 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-10-22 23:50:50,593 - INFO - ピン留めだが3日以上前(490日) → スキップ
+2025-10-22 23:50:50,593 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DQGJhWVkt1v/?hl=ja
+2025-10-22 23:50:55,160 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 23:50:59,318 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 23:50:59,397 - INFO - datetime属性の抽出を開始します
+2025-10-22 23:50:59,428 - INFO - 抽出されたdatetime: 2025-10-22T03:15:06.000Z
+2025-10-22 23:50:59,428 - INFO - hfhsraffaello の投稿日時: 2025-10-22T03:15:06.000Z
+2025-10-22 23:50:59,437 - INFO - date:2025-10-22 12:15:06+09:00
+2025-10-22 23:50:59,437 - INFO - post_date:20251022
+2025-10-22 23:50:59,533 - INFO - カルーセル推定: 3枚
+2025-10-22 23:50:59,561 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565220943_18431696014101616_4996437870791805195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=_Lpc3yO0aMMQ7kNvwF4gTuq&_nc_oc=AdkjMTaYtS3pqsjPtaSuoxycEAp1GGceA8o-SK6CwZy2odOjycvDc9IHuLW1qASxc28&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Fh_ZNB0GbCNHkFpzw-wmPg&oh=00_AffmM0kg6lxzdjOpPc2wYzQFyiJn_QOtQAv5WfMb9tgwlQ&oe=68FF3BC3
+2025-10-22 23:50:59,571 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/566344123_18431696026101616_4642841869832959470_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NCVal0tdIKMQ7kNvwGgMCG9&_nc_oc=Adnpn6XccbB1N-AAnMm3GKPwCewhk3ijGIkfbvruB5g_lYIKUQBinn2vlngCdB66YGw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Fh_ZNB0GbCNHkFpzw-wmPg&oh=00_Aff3tjjVHqJeFzVH-uz0Ct5cbmyyg_KPXwbgia4BKNkAVQ&oe=68FF316C
+2025-10-22 23:51:41,033 - INFO - 検出(UL): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/564345969_18431696035101616_9205079450199277616_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=YKXeM9pVKQAQ7kNvwETfUbH&_nc_oc=AdnrZvFBDfDirIk4NTzHlOiDc64-x_SonM4rhqM127g-UKGDN9k-h0blt-vi5gxmpwA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Fh_ZNB0GbCNHkFpzw-wmPg&oh=00_AfcmnY3WenjrwTjJUT0HhWrkpGNIT-GxXKQE_I30KlEFIw&oe=68FF481E
+2025-10-22 23:51:41,049 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/565220943_18431696014101616_4996437870791805195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=_Lpc3yO0aMMQ7kNvwF4gTuq&_nc_oc=AdkjMTaYtS3pqsjPtaSuoxycEAp1GGceA8o-SK6CwZy2odOjycvDc9IHuLW1qASxc28&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Fh_ZNB0GbCNHkFpzw-wmPg&oh=00_AffmM0kg6lxzdjOpPc2wYzQFyiJn_QOtQAv5WfMb9tgwlQ&oe=68FF3BC3
+2025-10-22 23:51:41,049 - INFO - 2枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/566344123_18431696026101616_4642841869832959470_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=NCVal0tdIKMQ7kNvwGgMCG9&_nc_oc=Adnpn6XccbB1N-AAnMm3GKPwCewhk3ijGIkfbvruB5g_lYIKUQBinn2vlngCdB66YGw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Fh_ZNB0GbCNHkFpzw-wmPg&oh=00_Aff3tjjVHqJeFzVH-uz0Ct5cbmyyg_KPXwbgia4BKNkAVQ&oe=68FF316C
+2025-10-22 23:51:41,049 - INFO - 3枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/564345969_18431696035101616_9205079450199277616_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkxMC5zZHIuQzMifQ%3D%3D&_nc_ohc=YKXeM9pVKQAQ7kNvwETfUbH&_nc_oc=AdnrZvFBDfDirIk4NTzHlOiDc64-x_SonM4rhqM127g-UKGDN9k-h0blt-vi5gxmpwA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Fh_ZNB0GbCNHkFpzw-wmPg&oh=00_AfcmnY3WenjrwTjJUT0HhWrkpGNIT-GxXKQE_I30KlEFIw&oe=68FF481E
+2025-10-22 23:51:41,049 - INFO - [caption/by_username] 開始
+2025-10-22 23:51:41,125 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+カット　エドルクオンカラーベージュブラウン🟡🤎
+コラーゲントリートメント
+いつもご来店ありがとうございます♪
+home careも当店のオススメ
+seesawシリーズ　シャンプー＆'
+2025-10-22 23:51:41,127 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251022_235018
+2025-10-22 23:51:41,127 - INFO - 画像URLを取得しました
+2025-10-22 23:51:41,129 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTEzMzY2MTcwOQ==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 23:51:41,130 - INFO - このレコードは存在します
+2025-10-22 23:51:41,130 - INFO - 画像URLを取得しました
+2025-10-22 23:51:41,131 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTE1MDQyMjA5Mw==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 23:51:41,131 - INFO - このレコードは存在します
+2025-10-22 23:51:41,131 - INFO - 画像URLを取得しました
+2025-10-22 23:51:41,132 - INFO - DUP(with-key): user=hfhsraffaello, key=Mzc0NDQwMTEwNTA3NDk0MDY2Nw==, dt=2025-10-22T03:15:06.000Z
+2025-10-22 23:51:41,132 - INFO - このレコードは存在します
+2025-10-22 23:51:41,132 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL0 / 既存スキップ3 / 失敗0
+2025-10-22 23:51:41,132 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-22 23:51:41,132 - INFO - 全件レコードが存在します

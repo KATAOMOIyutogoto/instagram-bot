@@ -1,0 +1,228 @@
+================================================================================
+2025-10-12 03:14:33,983 - INFO - 処理開始 PROCESSID:20251012_031429
+2025-10-12 03:14:33,983 - INFO - 対象ユーザー: fupaokawasaki
+2025-10-12 03:14:33,985 - INFO - 処理を開始します
+2025-10-12 03:14:34,048 - INFO - 選択されたプロファイル: Profile 13
+2025-10-12 03:14:34,048 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-12 03:14:39,860 - INFO - fupaokawasaki のプロフィールページにアクセスします
+2025-10-12 03:14:51,981 - INFO - 最新投稿を読み込みます
+2025-10-12 03:14:57,653 - INFO - 選定: 非ピン留め https://www.instagram.com/fupaokawasaki/p/DPsWiTJkumm/?hl=ja
+2025-10-12 03:15:02,438 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 03:15:06,668 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 03:15:06,774 - INFO - datetime属性の抽出を開始します
+2025-10-12 03:15:06,935 - INFO - 抽出されたdatetime: 2025-10-12T02:49:08.000Z
+2025-10-12 03:15:06,935 - INFO - fupaokawasaki の投稿日時: 2025-10-12T02:49:08.000Z
+2025-10-12 03:15:06,986 - INFO - date:2025-10-12 11:49:08+09:00
+2025-10-12 03:15:06,986 - INFO - post_date:20251012
+2025-10-12 03:15:07,085 - INFO - カルーセル推定: 1枚
+2025-10-12 03:15:07,152 - INFO - 検出(SINGLE): https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/561987800_17948732256042052_8908223311334316250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qvp0ap3EsloQ7kNvwHYL7ti&_nc_oc=AdnD9vQ6o3BaeL3wqkE_H_8oGAx-749aUVmAPB-G3B1DU-U10BVjucCNyda2s27FUhw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=Xc2kEwoj9slnAqidw-E0hQ&oh=00_AffWDUuFSt-voiN74RFChm-bo_vaGsBEquJPj73gPZKftw&oe=68F0EB45
+2025-10-12 03:15:07,152 - INFO - 1枚目: https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/561987800_17948732256042052_8908223311334316250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qvp0ap3EsloQ7kNvwHYL7ti&_nc_oc=AdnD9vQ6o3BaeL3wqkE_H_8oGAx-749aUVmAPB-G3B1DU-U10BVjucCNyda2s27FUhw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=Xc2kEwoj9slnAqidw-E0hQ&oh=00_AffWDUuFSt-voiN74RFChm-bo_vaGsBEquJPj73gPZKftw&oe=68F0EB45
+2025-10-12 03:15:07,152 - INFO - [caption/by_username] 開始
+2025-10-12 03:15:07,469 - INFO - [caption/by_username] 説明文確定（先頭100）: '福包酒場　川崎店です！
+
+メニューリニューアル👏🎉
+新しいメニューや値段が安くなった商品沢山あります！
+
+ぜひご来店ください🍺
+お待ちしております！
+
+#福包酒場 #フーパオサカバ #福包酒場川崎店 '
+2025-10-12 03:15:07,473 - INFO - [caption/by_username] 説明文を保存: media\fupaokawasaki\description\20251012_031429
+2025-10-12 03:15:07,473 - INFO - 画像URLを取得しました
+2025-10-12 03:15:07,516 - INFO - INSERT(with-key): user=fupaokawasaki, key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA==, dt=2025-10-12T02:49:08.000Z
+2025-10-12 03:15:07,517 - INFO - メディアを取得します
+2025-10-12 03:15:09,517 - INFO - ダウンロードを開始します: media\fupaokawasaki\fupaokawasaki_20251012031509.jpg
+2025-10-12 03:15:09,909 - INFO - ダウンロード完了: media\fupaokawasaki\fupaokawasaki_20251012031509.jpg
+2025-10-12 03:15:10,031 - INFO - 元の画像サイズ: 1317x1756
+2025-10-12 03:15:10,031 - INFO - サイズ変更は不要です
+2025-10-12 03:15:10,033 - INFO - 説明文:福包酒場　川崎店です！
+
+メニューリニューアル👏🎉
+新しいメニューや値段が安くなった商品沢山あります！
+
+ぜひご来店ください🍺
+お待ちしております！
+
+#福包酒場 #フーパオサカバ #福包酒場川崎店 #川崎 #川崎駅前 #川崎駅居酒屋 #居酒屋 #川崎駅居酒屋おすすめ #飲み屋 #飲み放題 #川崎居酒屋喫煙可 #川崎駅餃子 #餃子 #川崎駅喫煙 #川崎駅グルメ #川崎飲み屋  #川崎飲み放題 #川崎駅昼飲み  #川崎ディナー #川崎飲み #川崎居酒屋安い #川崎居酒屋デート #川崎中華 #火鍋サワー #グルメ女子#女子会#小籠包#映えスポット#ネオ居酒屋#ネオ居酒屋川崎
+2025-10-12 03:15:13,950 - INFO - 処理終了
+================================================================================
+2025-10-12 03:15:20,054 - INFO - 処理開始: Mode=post, Username=fupaokawasaki, GBP=MSKSPTVF842595
+2025-10-12 03:15:20,056 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0tTUFRWRjg0MjU5NSJd.
+2025-10-12 03:15:43,209 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupaokawasaki\fupaokawasaki_20251012031509.jpg
+2025-10-12 03:15:46,377 - INFO - Waiting for description field...
+2025-10-12 03:15:46,420 - INFO - Setting description via JS (no send_keys)...
+2025-10-12 03:15:47,553 - INFO - Looking for button section...
+2025-10-12 03:15:52,131 - INFO - Trying to select CALL option...
+2025-10-12 03:15:52,399 - INFO - CALL option successfully selected
+2025-10-12 03:15:54,401 - INFO - Clicking submit button...
+2025-10-12 03:16:03,063 - INFO - 処理完了
+================================================================================
+2025-10-12 07:12:17,833 - INFO - 処理開始 PROCESSID:20251012_071214
+2025-10-12 07:12:17,833 - INFO - 対象ユーザー: fupaokawasaki
+2025-10-12 07:12:17,833 - INFO - 処理を開始します
+2025-10-12 07:12:17,889 - INFO - 選択されたプロファイル: Profile 12
+2025-10-12 07:12:17,891 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-12 07:12:22,782 - INFO - fupaokawasaki のプロフィールページにアクセスします
+2025-10-12 07:12:34,737 - INFO - 最新投稿を読み込みます
+2025-10-12 07:12:40,367 - INFO - 選定: 非ピン留め https://www.instagram.com/fupaokawasaki/p/DPsWiTJkumm/?hl=ja
+2025-10-12 07:12:45,226 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 07:12:49,520 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 07:12:49,591 - INFO - datetime属性の抽出を開始します
+2025-10-12 07:12:49,667 - INFO - 抽出されたdatetime: 2025-10-12T02:49:08.000Z
+2025-10-12 07:12:49,667 - INFO - fupaokawasaki の投稿日時: 2025-10-12T02:49:08.000Z
+2025-10-12 07:12:49,755 - INFO - date:2025-10-12 11:49:08+09:00
+2025-10-12 07:12:49,755 - INFO - post_date:20251012
+2025-10-12 07:12:49,907 - INFO - カルーセル推定: 1枚
+2025-10-12 07:12:50,129 - INFO - 検出(SINGLE): https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/561987800_17948732256042052_8908223311334316250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qvp0ap3EsloQ7kNvwHYL7ti&_nc_oc=AdnD9vQ6o3BaeL3wqkE_H_8oGAx-749aUVmAPB-G3B1DU-U10BVjucCNyda2s27FUhw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=98bSLihLRjqzMeYCARgKQg&oh=00_AfcjecHfeQR5brJ3snWZLGuSHbC-wmnLpJP8oWUcu-sNpA&oe=68F12385
+2025-10-12 07:12:50,131 - INFO - 1枚目: https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/561987800_17948732256042052_8908223311334316250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qvp0ap3EsloQ7kNvwHYL7ti&_nc_oc=AdnD9vQ6o3BaeL3wqkE_H_8oGAx-749aUVmAPB-G3B1DU-U10BVjucCNyda2s27FUhw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=98bSLihLRjqzMeYCARgKQg&oh=00_AfcjecHfeQR5brJ3snWZLGuSHbC-wmnLpJP8oWUcu-sNpA&oe=68F12385
+2025-10-12 07:12:50,131 - INFO - [caption/by_username] 開始
+2025-10-12 07:12:50,394 - INFO - [caption/by_username] 説明文確定（先頭100）: '福包酒場　川崎店です！
+
+メニューリニューアル👏🎉
+新しいメニューや値段が安くなった商品沢山あります！
+
+ぜひご来店ください🍺
+お待ちしております！
+
+#福包酒場 #フーパオサカバ #福包酒場川崎店 '
+2025-10-12 07:12:50,395 - INFO - [caption/by_username] 説明文を保存: media\fupaokawasaki\description\20251012_071214
+2025-10-12 07:12:50,396 - INFO - 画像URLを取得しました
+2025-10-12 07:12:50,398 - INFO - DUP(with-key): user=fupaokawasaki, key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA==, dt=2025-10-12T02:49:08.000Z
+2025-10-12 07:12:50,398 - INFO - このレコードは存在します
+2025-10-12 07:12:50,399 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-12 11:11:11,154 - INFO - 処理開始 PROCESSID:20251012_111107
+2025-10-12 11:11:11,156 - INFO - 対象ユーザー: fupaokawasaki
+2025-10-12 11:11:11,156 - INFO - 処理を開始します
+2025-10-12 11:11:11,219 - INFO - 選択されたプロファイル: Profile 12
+2025-10-12 11:11:11,219 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-12 11:11:15,943 - INFO - fupaokawasaki のプロフィールページにアクセスします
+2025-10-12 11:11:28,609 - INFO - 最新投稿を読み込みます
+2025-10-12 11:11:33,930 - INFO - 選定: 非ピン留め https://www.instagram.com/fupaokawasaki/p/DPsWiTJkumm/?hl=ja
+2025-10-12 11:11:38,271 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 11:11:42,473 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 11:11:42,699 - INFO - datetime属性の抽出を開始します
+2025-10-12 11:11:42,981 - INFO - 抽出されたdatetime: 2025-10-12T02:49:08.000Z
+2025-10-12 11:11:42,981 - INFO - fupaokawasaki の投稿日時: 2025-10-12T02:49:08.000Z
+2025-10-12 11:11:43,180 - INFO - date:2025-10-12 11:49:08+09:00
+2025-10-12 11:11:43,180 - INFO - post_date:20251012
+2025-10-12 11:11:43,547 - INFO - カルーセル推定: 1枚
+2025-10-12 11:11:44,377 - INFO - 検出(SINGLE): https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/561987800_17948732256042052_8908223311334316250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qvp0ap3EsloQ7kNvwHYL7ti&_nc_oc=AdnD9vQ6o3BaeL3wqkE_H_8oGAx-749aUVmAPB-G3B1DU-U10BVjucCNyda2s27FUhw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=5FBkmHlNEY4CzKusFZad6Q&oh=00_AfdSPqw3cIYHOuvixhSPgOfTA7hlGNekuJwxpfsbkJRxZg&oe=68F15BC5
+2025-10-12 11:11:44,378 - INFO - 1枚目: https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/561987800_17948732256042052_8908223311334316250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qvp0ap3EsloQ7kNvwHYL7ti&_nc_oc=AdnD9vQ6o3BaeL3wqkE_H_8oGAx-749aUVmAPB-G3B1DU-U10BVjucCNyda2s27FUhw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&_nc_gid=5FBkmHlNEY4CzKusFZad6Q&oh=00_AfdSPqw3cIYHOuvixhSPgOfTA7hlGNekuJwxpfsbkJRxZg&oe=68F15BC5
+2025-10-12 11:11:44,378 - INFO - [caption/by_username] 開始
+2025-10-12 11:11:45,101 - INFO - [caption/by_username] 説明文確定（先頭100）: '福包酒場　川崎店です！
+
+メニューリニューアル👏🎉
+新しいメニューや値段が安くなった商品沢山あります！
+
+ぜひご来店ください🍺
+お待ちしております！
+
+#福包酒場 #フーパオサカバ #福包酒場川崎店 '
+2025-10-12 11:11:45,101 - INFO - [caption/by_username] 説明文を保存: media\fupaokawasaki\description\20251012_111107
+2025-10-12 11:11:45,101 - INFO - 画像URLを取得しました
+2025-10-12 11:11:45,105 - INFO - DUP(with-key): user=fupaokawasaki, key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA==, dt=2025-10-12T02:49:08.000Z
+2025-10-12 11:11:45,105 - INFO - このレコードは存在します
+2025-10-12 11:11:45,105 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-12 15:07:15,331 - INFO - 処理開始 PROCESSID:20251012_150711
+2025-10-12 15:07:15,331 - INFO - 対象ユーザー: fupaokawasaki
+2025-10-12 15:07:15,331 - INFO - 処理を開始します
+2025-10-12 15:07:15,386 - INFO - 選択されたプロファイル: Profile 12
+2025-10-12 15:07:15,386 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-12 15:07:19,950 - INFO - fupaokawasaki のプロフィールページにアクセスします
+2025-10-12 15:07:32,317 - INFO - 最新投稿を読み込みます
+2025-10-12 15:07:37,768 - INFO - 選定: 非ピン留め https://www.instagram.com/fupaokawasaki/p/DPsWiTJkumm/?hl=ja
+2025-10-12 15:07:42,258 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 15:07:46,459 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 15:07:46,507 - INFO - datetime属性の抽出を開始します
+2025-10-12 15:07:46,544 - INFO - 抽出されたdatetime: 2025-10-12T02:49:08.000Z
+2025-10-12 15:07:46,545 - INFO - fupaokawasaki の投稿日時: 2025-10-12T02:49:08.000Z
+2025-10-12 15:07:46,553 - INFO - date:2025-10-12 11:49:08+09:00
+2025-10-12 15:07:46,553 - INFO - post_date:20251012
+2025-10-12 15:07:46,608 - INFO - カルーセル推定: 1枚
+2025-10-12 15:07:46,652 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/561987800_17948732256042052_8908223311334316250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qvp0ap3EsloQ7kNvwHYL7ti&_nc_oc=AdnD9vQ6o3BaeL3wqkE_H_8oGAx-749aUVmAPB-G3B1DU-U10BVjucCNyda2s27FUhw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=_7ZYxPcJd6nm_yH9LCQQ0g&oh=00_AfdIbNPFf3avHLjCanRDXf9GTnrkjQWluZf4M7DHhmG4vQ&oe=68F19405
+2025-10-12 15:07:46,652 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/561987800_17948732256042052_8908223311334316250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qvp0ap3EsloQ7kNvwHYL7ti&_nc_oc=AdnD9vQ6o3BaeL3wqkE_H_8oGAx-749aUVmAPB-G3B1DU-U10BVjucCNyda2s27FUhw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=_7ZYxPcJd6nm_yH9LCQQ0g&oh=00_AfdIbNPFf3avHLjCanRDXf9GTnrkjQWluZf4M7DHhmG4vQ&oe=68F19405
+2025-10-12 15:07:46,653 - INFO - [caption/by_username] 開始
+2025-10-12 15:07:46,882 - INFO - [caption/by_username] 説明文確定（先頭100）: '福包酒場　川崎店です！
+
+メニューリニューアル👏🎉
+新しいメニューや値段が安くなった商品沢山あります！
+
+ぜひご来店ください🍺
+お待ちしております！
+
+#福包酒場 #フーパオサカバ #福包酒場川崎店 '
+2025-10-12 15:07:46,884 - INFO - [caption/by_username] 説明文を保存: media\fupaokawasaki\description\20251012_150711
+2025-10-12 15:07:46,884 - INFO - 画像URLを取得しました
+2025-10-12 15:07:46,886 - INFO - DUP(with-key): user=fupaokawasaki, key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA==, dt=2025-10-12T02:49:08.000Z
+2025-10-12 15:07:46,886 - INFO - このレコードは存在します
+2025-10-12 15:07:46,886 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-12 19:04:01,764 - INFO - 処理開始 PROCESSID:20251012_190357
+2025-10-12 19:04:01,764 - INFO - 対象ユーザー: fupaokawasaki
+2025-10-12 19:04:01,764 - INFO - 処理を開始します
+2025-10-12 19:04:01,825 - INFO - 選択されたプロファイル: Profile 12
+2025-10-12 19:04:01,825 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-12 19:04:06,734 - INFO - fupaokawasaki のプロフィールページにアクセスします
+2025-10-12 19:04:18,866 - INFO - 最新投稿を読み込みます
+2025-10-12 19:04:24,580 - INFO - 選定: 非ピン留め https://www.instagram.com/fupaokawasaki/p/DPsWiTJkumm/?hl=ja
+2025-10-12 19:04:29,396 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 19:04:32,742 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 19:04:32,840 - INFO - datetime属性の抽出を開始します
+2025-10-12 19:04:32,868 - INFO - 抽出されたdatetime: 2025-10-12T02:49:08.000Z
+2025-10-12 19:04:32,868 - INFO - fupaokawasaki の投稿日時: 2025-10-12T02:49:08.000Z
+2025-10-12 19:04:32,876 - INFO - date:2025-10-12 11:49:08+09:00
+2025-10-12 19:04:32,876 - INFO - post_date:20251012
+2025-10-12 19:04:32,956 - INFO - カルーセル推定: 1枚
+2025-10-12 19:04:33,326 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/561987800_17948732256042052_8908223311334316250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qvp0ap3EsloQ7kNvwHYL7ti&_nc_oc=AdnD9vQ6o3BaeL3wqkE_H_8oGAx-749aUVmAPB-G3B1DU-U10BVjucCNyda2s27FUhw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=id3Er0xlQbS9HbHYiV2sAQ&oh=00_Afc9Cpr0IU1NEGeTwyO2rxIyWGAdGf1xi7_PczOlV1m1kQ&oe=68F1CC45
+2025-10-12 19:04:33,326 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/561987800_17948732256042052_8908223311334316250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qvp0ap3EsloQ7kNvwHYL7ti&_nc_oc=AdnD9vQ6o3BaeL3wqkE_H_8oGAx-749aUVmAPB-G3B1DU-U10BVjucCNyda2s27FUhw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=id3Er0xlQbS9HbHYiV2sAQ&oh=00_Afc9Cpr0IU1NEGeTwyO2rxIyWGAdGf1xi7_PczOlV1m1kQ&oe=68F1CC45
+2025-10-12 19:04:33,326 - INFO - [caption/by_username] 開始
+2025-10-12 19:04:33,483 - INFO - [caption/by_username] 説明文確定（先頭100）: '福包酒場　川崎店です！
+
+メニューリニューアル👏🎉
+新しいメニューや値段が安くなった商品沢山あります！
+
+ぜひご来店ください🍺
+お待ちしております！
+
+#福包酒場 #フーパオサカバ #福包酒場川崎店 '
+2025-10-12 19:04:33,485 - INFO - [caption/by_username] 説明文を保存: media\fupaokawasaki\description\20251012_190357
+2025-10-12 19:04:33,486 - INFO - 画像URLを取得しました
+2025-10-12 19:04:33,491 - INFO - DUP(with-key): user=fupaokawasaki, key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA==, dt=2025-10-12T02:49:08.000Z
+2025-10-12 19:04:33,491 - INFO - このレコードは存在します
+2025-10-12 19:04:33,491 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-12 22:53:31,081 - INFO - 処理開始 PROCESSID:20251012_225327
+2025-10-12 22:53:31,081 - INFO - 対象ユーザー: fupaokawasaki
+2025-10-12 22:53:31,081 - INFO - 処理を開始します
+2025-10-12 22:53:31,140 - INFO - 選択されたプロファイル: Profile 12
+2025-10-12 22:53:31,140 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-12 22:53:35,668 - INFO - fupaokawasaki のプロフィールページにアクセスします
+2025-10-12 22:53:47,911 - INFO - 最新投稿を読み込みます
+2025-10-12 22:53:53,458 - INFO - 選定: 非ピン留め https://www.instagram.com/fupaokawasaki/p/DPsWiTJkumm/?hl=ja
+2025-10-12 22:53:58,574 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 22:54:01,890 - INFO - 最新投稿ページにアクセスしました
+2025-10-12 22:54:02,081 - INFO - datetime属性の抽出を開始します
+2025-10-12 22:54:02,347 - INFO - 抽出されたdatetime: 2025-10-12T02:49:08.000Z
+2025-10-12 22:54:02,348 - INFO - fupaokawasaki の投稿日時: 2025-10-12T02:49:08.000Z
+2025-10-12 22:54:02,426 - INFO - date:2025-10-12 11:49:08+09:00
+2025-10-12 22:54:02,427 - INFO - post_date:20251012
+2025-10-12 22:54:02,562 - INFO - カルーセル推定: 1枚
+2025-10-12 22:54:02,698 - INFO - 検出(SINGLE): https://scontent.cdninstagram.com/v/t51.82787-15/561987800_17948732256042052_8908223311334316250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qvp0ap3EsloQ7kNvwHYL7ti&_nc_oc=AdnD9vQ6o3BaeL3wqkE_H_8oGAx-749aUVmAPB-G3B1DU-U10BVjucCNyda2s27FUhw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=a_FdW_dGBljcotQ3J-ooUA&oh=00_AfeZ7aa1Wl0TZaYWSMzGHHIAiN1mdn8g_owp247bV6enig&oe=68F20485
+2025-10-12 22:54:02,698 - INFO - 1枚目: https://scontent.cdninstagram.com/v/t51.82787-15/561987800_17948732256042052_8908223311334316250_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzMTd4MTc1Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=qvp0ap3EsloQ7kNvwHYL7ti&_nc_oc=AdnD9vQ6o3BaeL3wqkE_H_8oGAx-749aUVmAPB-G3B1DU-U10BVjucCNyda2s27FUhw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=a_FdW_dGBljcotQ3J-ooUA&oh=00_AfeZ7aa1Wl0TZaYWSMzGHHIAiN1mdn8g_owp247bV6enig&oe=68F20485
+2025-10-12 22:54:02,698 - INFO - [caption/by_username] 開始
+2025-10-12 22:54:02,868 - INFO - [caption/by_username] 説明文確定（先頭100）: '福包酒場　川崎店です！
+
+メニューリニューアル👏🎉
+新しいメニューや値段が安くなった商品沢山あります！
+
+ぜひご来店ください🍺
+お待ちしております！
+
+#福包酒場 #フーパオサカバ #福包酒場川崎店 '
+2025-10-12 22:54:02,869 - INFO - [caption/by_username] 説明文を保存: media\fupaokawasaki\description\20251012_225327
+2025-10-12 22:54:02,869 - INFO - 画像URLを取得しました
+2025-10-12 22:54:02,874 - INFO - DUP(with-key): user=fupaokawasaki, key=Mzc0MTQ2NDUwNDQ4NTIxMDUzNA==, dt=2025-10-12T02:49:08.000Z
+2025-10-12 22:54:02,874 - INFO - このレコードは存在します
+2025-10-12 22:54:02,874 - INFO - 全件レコードが存在します

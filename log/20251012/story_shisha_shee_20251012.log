@@ -1,0 +1,119 @@
+================================================================================
+2025-10-12 02:37:36,846 - INFO - 処理開始 PROCESSID:20251012_023733
+2025-10-12 02:37:36,846 - INFO - 対象ユーザー: shisha_shee
+2025-10-12 02:37:36,848 - INFO - 処理を開始します
+2025-10-12 02:37:36,904 - INFO - 選択されたプロファイル: Profile 10
+2025-10-12 02:37:36,904 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-12 02:37:42,721 - INFO - shisha_shee のプロフィールページにアクセスします
+2025-10-12 02:38:05,174 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 02:38:08,358 - INFO - 動画の取得に失敗しました
+2025-10-12 02:38:08,359 - INFO - datetime属性の抽出を開始します
+2025-10-12 02:38:08,443 - INFO - 抽出されたdatetime: 2025-10-11T05:41:49.000Z
+2025-10-12 02:38:08,473 - INFO - 画像URLを取得しました
+2025-10-12 02:38:08,475 - INFO - DUP(with-key): user=shisha_shee, key=Mzc0MDgyNjY3NzE2MjQ1MTc0NQ==, dt=2025-10-11T05:41:49.000Z
+================================================================================
+2025-10-12 06:37:39,836 - INFO - 処理開始 PROCESSID:20251012_063735
+2025-10-12 06:37:39,836 - INFO - 対象ユーザー: shisha_shee
+2025-10-12 06:37:39,836 - INFO - 処理を開始します
+2025-10-12 06:37:39,904 - INFO - 選択されたプロファイル: Profile 13
+2025-10-12 06:37:39,904 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-12 06:37:44,684 - INFO - shisha_shee のプロフィールページにアクセスします
+2025-10-12 06:38:07,220 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 06:38:10,352 - INFO - 動画の取得に失敗しました
+2025-10-12 06:38:10,355 - INFO - datetime属性の抽出を開始します
+2025-10-12 06:38:20,830 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x65fea3+66515]
+	GetHandleVerifier [0x0x65fee4+66580]
+	(No symbol) [0x0x44dc48]
+	(No symbol) [0x0x498704]
+	(No symbol) [0x0x498aab]
+	(No symbol) [0x0x4df482]
+	(No symbol) [0x0x4bb214]
+	(No symbol) [0x0x4dcba7]
+	(No symbol) [0x0x4bafc6]
+	(No symbol) [0x0x48c2ca]
+	(No symbol) [0x0x48d154]
+	GetHandleVerifier [0x0x8b73d3+2521347]
+	GetHandleVerifier [0x0x8b2353+2500739]
+	GetHandleVerifier [0x0x687cf4+229924]
+	GetHandleVerifier [0x0x678258+165768]
+	GetHandleVerifier [0x0x67ed0d+193085]
+	GetHandleVerifier [0x0x6681b8+100072]
+	GetHandleVerifier [0x0x668350+100480]
+	GetHandleVerifier [0x0x65260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-12 06:38:31,141 - INFO - 画像の取得に失敗しました
+2025-10-12 06:38:33,572 - INFO - 処理終了
+================================================================================
+2025-10-12 10:37:14,433 - INFO - 処理開始 PROCESSID:20251012_103711
+2025-10-12 10:37:14,433 - INFO - 対象ユーザー: shisha_shee
+2025-10-12 10:37:14,433 - INFO - 処理を開始します
+2025-10-12 10:37:14,494 - INFO - 選択されたプロファイル: Profile 9
+2025-10-12 10:37:14,494 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-12 10:37:19,271 - INFO - shisha_shee のプロフィールページにアクセスします
+2025-10-12 10:37:41,600 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 10:37:44,826 - INFO - 動画の取得に失敗しました
+2025-10-12 10:37:44,826 - INFO - datetime属性の抽出を開始します
+2025-10-12 10:37:44,905 - INFO - 抽出されたdatetime: 2025-10-12T06:52:44.000Z
+2025-10-12 10:37:44,928 - INFO - 画像URLを取得しました
+2025-10-12 10:37:44,975 - INFO - INSERT(with-key): user=shisha_shee, key=Mzc0MTU4NzE2MzEzMDc5NjQ0MA==, dt=2025-10-12T06:52:44.000Z
+2025-10-12 10:37:46,979 - INFO - ダウンロードを開始します: media\shisha_shee\shisha_shee_20251012103746.jpg
+2025-10-12 10:37:47,279 - INFO - ダウンロード完了: media\shisha_shee\shisha_shee_20251012103746.jpg
+2025-10-12 10:37:47,406 - INFO - 元の画像サイズ: 480x854
+2025-10-12 10:37:47,407 - INFO - サイズ変更は不要です
+2025-10-12 10:37:50,044 - INFO - 処理終了
+2025-10-12 10:37:50,048 - INFO - 説明文_AI: None
+2025-10-12 10:37:50,048 - INFO - 説明文_最終: 
+================================================================================
+2025-10-12 10:37:56,239 - INFO - 処理開始: Mode=story, Username=shisha_shee, GBP=13337750764817328930
+2025-10-12 10:37:56,239 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMzMzNzc1MDc2NDgxNzMyODkzMCJd.
+2025-10-12 10:38:20,105 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\shisha_shee\shisha_shee_20251012103746.jpg
+2025-10-12 10:38:23,195 - INFO - 一時ファイルが見つかりません: media\shisha_shee\description\20251012_103711
+2025-10-12 10:38:23,195 - INFO - Looking for button section...
+2025-10-12 10:38:27,819 - INFO - Trying to select CALL option...
+2025-10-12 10:38:28,071 - INFO - CALL option successfully selected
+2025-10-12 10:38:30,073 - INFO - Clicking submit button...
+2025-10-12 10:38:38,743 - INFO - 処理完了
+================================================================================
+2025-10-12 14:34:25,539 - INFO - 処理開始 PROCESSID:20251012_143422
+2025-10-12 14:34:25,539 - INFO - 対象ユーザー: shisha_shee
+2025-10-12 14:34:25,539 - INFO - 処理を開始します
+2025-10-12 14:34:25,594 - INFO - 選択されたプロファイル: Profile 10
+2025-10-12 14:34:25,594 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-12 14:34:30,290 - INFO - shisha_shee のプロフィールページにアクセスします
+2025-10-12 14:34:52,614 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 14:34:55,839 - INFO - 動画の取得に失敗しました
+2025-10-12 14:34:55,839 - INFO - datetime属性の抽出を開始します
+2025-10-12 14:34:55,914 - INFO - 抽出されたdatetime: 2025-10-12T06:52:44.000Z
+2025-10-12 14:34:55,938 - INFO - 画像URLを取得しました
+2025-10-12 14:34:55,941 - INFO - DUP(with-key): user=shisha_shee, key=Mzc0MTU4NzE2MzEzMDc5NjQ0MA==, dt=2025-10-12T06:52:44.000Z
+================================================================================
+2025-10-12 18:31:42,618 - INFO - 処理開始 PROCESSID:20251012_183139
+2025-10-12 18:31:42,618 - INFO - 対象ユーザー: shisha_shee
+2025-10-12 18:31:42,618 - INFO - 処理を開始します
+2025-10-12 18:31:42,680 - INFO - 選択されたプロファイル: Profile 12
+2025-10-12 18:31:42,680 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-12 18:31:47,342 - INFO - shisha_shee のプロフィールページにアクセスします
+2025-10-12 18:32:09,395 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 18:32:12,606 - INFO - 動画の取得に失敗しました
+2025-10-12 18:32:12,607 - INFO - datetime属性の抽出を開始します
+2025-10-12 18:32:12,688 - INFO - 抽出されたdatetime: 2025-10-12T06:52:44.000Z
+2025-10-12 18:32:12,711 - INFO - 画像URLを取得しました
+2025-10-12 18:32:12,713 - INFO - DUP(with-key): user=shisha_shee, key=Mzc0MTU4NzE2MzEzMDc5NjQ0MA==, dt=2025-10-12T06:52:44.000Z
+================================================================================
+2025-10-12 22:22:32,811 - INFO - 処理開始 PROCESSID:20251012_222229
+2025-10-12 22:22:32,811 - INFO - 対象ユーザー: shisha_shee
+2025-10-12 22:22:32,811 - INFO - 処理を開始します
+2025-10-12 22:22:32,866 - INFO - 選択されたプロファイル: Profile 13
+2025-10-12 22:22:32,868 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-12 22:22:37,467 - INFO - shisha_shee のプロフィールページにアクセスします
+2025-10-12 22:22:59,452 - INFO - プロフィール写真のクリックに成功しました
+2025-10-12 22:23:02,592 - INFO - 動画の取得に失敗しました
+2025-10-12 22:23:02,595 - INFO - datetime属性の抽出を開始します
+2025-10-12 22:23:02,711 - INFO - 抽出されたdatetime: 2025-10-12T06:52:44.000Z
+2025-10-12 22:23:02,758 - INFO - 画像URLを取得しました
+2025-10-12 22:23:02,762 - INFO - DUP(with-key): user=shisha_shee, key=Mzc0MTU4NzE2MzEzMDc5NjQ0MA==, dt=2025-10-12T06:52:44.000Z

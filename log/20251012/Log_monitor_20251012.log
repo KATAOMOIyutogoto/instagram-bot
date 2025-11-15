@@ -1,0 +1,408 @@
+================================================================================
+2025-10-12 00:30:02,996 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 00:30:02,997 - INFO - 監視日付: 20251012
+2025-10-12 00:30:02,997 - INFO - ログディレクトリ内のファイル総数: 22
+2025-10-12 00:30:03,000 - INFO - 監視対象ファイル数: 21
+2025-10-12 00:30:07,735 - INFO - エラーは検出されませんでした
+2025-10-12 00:30:07,736 - INFO - 集計対象のファイル総数: 22
+2025-10-12 00:30:07,798 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 01:30:02,984 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 01:30:02,984 - INFO - 監視日付: 20251012
+2025-10-12 01:30:02,985 - INFO - ログディレクトリ内のファイル総数: 61
+2025-10-12 01:30:02,986 - INFO - 監視対象ファイル数: 60
+2025-10-12 01:30:04,055 - INFO - エラーが見つかったファイル数: 1
+2025-10-12 01:30:04,374 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+2025-10-12 01:30:04,376 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 01:30:04,378 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 01:30:04,378 - INFO - errディレクトリに移動したファイル数: 0
+2025-10-12 01:30:04,379 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 01:30:04,379 - INFO - 集計対象のファイル総数: 61
+2025-10-12 01:30:04,446 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 02:30:07,100 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 02:30:07,100 - INFO - 監視日付: 20251012
+2025-10-12 02:30:07,101 - INFO - ログディレクトリ内のファイル総数: 96
+2025-10-12 02:30:07,103 - INFO - 監視対象ファイル数: 95
+2025-10-12 02:30:08,715 - INFO - エラーが見つかったファイル数: 4
+2025-10-12 02:30:08,945 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+post_marumaru_shinbashihonten_20251012.log
+post_poteribakery_yokohama_20251012.log
+story_poteribakery_yokohama_20251012.log
+2025-10-12 02:30:08,948 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 02:30:08,948 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 02:30:08,950 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 02:30:08,951 - INFO - エラーログを移動しました: post_marumaru_shinbashihonten_20251012.log -> post_marumaru_shinbashihonten_20251012.log
+2025-10-12 02:30:08,959 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 02:30:08,959 - INFO - エラーログを移動しました: post_poteribakery_yokohama_20251012.log -> post_poteribakery_yokohama_20251012.log
+2025-10-12 02:30:08,965 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 02:30:08,968 - INFO - エラーログを移動しました: story_poteribakery_yokohama_20251012.log -> story_poteribakery_yokohama_20251012.log
+2025-10-12 02:30:08,972 - INFO - errディレクトリに移動したファイル数: 3
+2025-10-12 02:30:08,972 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 02:30:08,974 - INFO - 集計対象のファイル総数: 93
+2025-10-12 02:30:09,044 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 03:30:02,035 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 03:30:02,037 - INFO - 監視日付: 20251012
+2025-10-12 03:30:02,040 - INFO - ログディレクトリ内のファイル総数: 129
+2025-10-12 03:30:02,041 - INFO - 監視対象ファイル数: 128
+2025-10-12 03:30:02,854 - INFO - エラーが見つかったファイル数: 2
+2025-10-12 03:30:03,154 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+post_zekkocho_shitaya_20251012.log
+2025-10-12 03:30:03,154 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 03:30:03,154 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 03:30:03,154 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 03:30:03,154 - INFO - エラーログを移動しました: post_zekkocho_shitaya_20251012.log -> post_zekkocho_shitaya_20251012.log
+2025-10-12 03:30:03,154 - INFO - errディレクトリに移動したファイル数: 1
+2025-10-12 03:30:03,154 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 03:30:03,171 - INFO - 集計対象のファイル総数: 128
+2025-10-12 03:30:03,226 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 04:30:02,105 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 04:30:02,107 - INFO - 監視日付: 20251012
+2025-10-12 04:30:02,109 - INFO - ログディレクトリ内のファイル総数: 149
+2025-10-12 04:30:02,111 - INFO - 監視対象ファイル数: 148
+2025-10-12 04:30:04,862 - INFO - エラーが見つかったファイル数: 2
+2025-10-12 04:30:05,185 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+post_marumaru_shinbashihonten_20251012.log
+2025-10-12 04:30:05,185 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 04:30:05,201 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 04:30:05,202 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 04:30:05,204 - INFO - エラーログを移動しました: post_marumaru_shinbashihonten_20251012.log -> post_marumaru_shinbashihonten_20251012_043005.log
+2025-10-12 04:30:05,204 - INFO - errディレクトリに移動したファイル数: 1
+2025-10-12 04:30:05,204 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 04:30:05,208 - INFO - 集計対象のファイル総数: 148
+2025-10-12 04:30:05,297 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 05:30:02,291 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 05:30:02,291 - INFO - 監視日付: 20251012
+2025-10-12 05:30:02,295 - INFO - ログディレクトリ内のファイル総数: 148
+2025-10-12 05:30:02,295 - INFO - 監視対象ファイル数: 147
+2025-10-12 05:30:03,160 - INFO - エラーが見つかったファイル数: 1
+2025-10-12 05:30:03,365 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+2025-10-12 05:30:03,367 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 05:30:03,367 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 05:30:03,367 - INFO - errディレクトリに移動したファイル数: 0
+2025-10-12 05:30:03,369 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 05:30:03,371 - INFO - 集計対象のファイル総数: 148
+2025-10-12 05:30:03,453 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 06:30:02,142 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 06:30:02,142 - INFO - 監視日付: 20251012
+2025-10-12 06:30:02,146 - INFO - ログディレクトリ内のファイル総数: 151
+2025-10-12 06:30:02,148 - INFO - 監視対象ファイル数: 150
+2025-10-12 06:30:02,985 - INFO - エラーが見つかったファイル数: 3
+2025-10-12 06:30:03,278 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+post_marumaru_shinbashihonten_20251012.log
+story_poteribakery_yokohama_20251012.log
+2025-10-12 06:30:03,280 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 06:30:03,280 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 06:30:03,280 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 06:30:03,285 - INFO - エラーログを移動しました: post_marumaru_shinbashihonten_20251012.log -> post_marumaru_shinbashihonten_20251012_063003.log
+2025-10-12 06:30:03,287 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 06:30:03,290 - INFO - エラーログを移動しました: story_poteribakery_yokohama_20251012.log -> story_poteribakery_yokohama_20251012_063003.log
+2025-10-12 06:30:03,290 - INFO - errディレクトリに移動したファイル数: 2
+2025-10-12 06:30:03,291 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 06:30:03,296 - INFO - 集計対象のファイル総数: 149
+2025-10-12 06:30:03,376 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 07:30:02,285 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 07:30:02,285 - INFO - 監視日付: 20251012
+2025-10-12 07:30:02,291 - INFO - ログディレクトリ内のファイル総数: 150
+2025-10-12 07:30:02,293 - INFO - 監視対象ファイル数: 149
+2025-10-12 07:30:03,366 - INFO - エラーが見つかったファイル数: 2
+2025-10-12 07:30:03,693 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+post_zekkocho_shitaya_20251012.log
+2025-10-12 07:30:03,695 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 07:30:03,696 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 07:30:03,696 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 07:30:03,698 - INFO - エラーログを移動しました: post_zekkocho_shitaya_20251012.log -> post_zekkocho_shitaya_20251012_073003.log
+2025-10-12 07:30:03,712 - INFO - errディレクトリに移動したファイル数: 1
+2025-10-12 07:30:03,712 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 07:30:03,716 - INFO - 集計対象のファイル総数: 149
+2025-10-12 07:30:03,833 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 08:30:08,642 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 08:30:08,642 - INFO - 監視日付: 20251012
+2025-10-12 08:30:08,648 - INFO - ログディレクトリ内のファイル総数: 150
+2025-10-12 08:30:08,648 - INFO - 監視対象ファイル数: 149
+2025-10-12 08:30:11,584 - INFO - エラーが見つかったファイル数: 2
+2025-10-12 08:30:11,957 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+post_marumaru_shinbashihonten_20251012.log
+2025-10-12 08:30:11,999 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 08:30:12,034 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 08:30:12,034 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 08:30:12,090 - INFO - エラーログを移動しました: post_marumaru_shinbashihonten_20251012.log -> post_marumaru_shinbashihonten_20251012_083012.log
+2025-10-12 08:30:12,090 - INFO - errディレクトリに移動したファイル数: 1
+2025-10-12 08:30:12,090 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 08:30:12,094 - INFO - 集計対象のファイル総数: 149
+2025-10-12 08:30:12,164 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 09:30:02,459 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 09:30:02,459 - INFO - 監視日付: 20251012
+2025-10-12 09:30:02,467 - INFO - ログディレクトリ内のファイル総数: 149
+2025-10-12 09:30:02,469 - INFO - 監視対象ファイル数: 148
+2025-10-12 09:30:03,994 - INFO - エラーが見つかったファイル数: 1
+2025-10-12 09:30:04,496 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+2025-10-12 09:30:04,496 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 09:30:04,575 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 09:30:04,575 - INFO - errディレクトリに移動したファイル数: 0
+2025-10-12 09:30:04,575 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 09:30:04,577 - INFO - 集計対象のファイル総数: 149
+2025-10-12 09:30:04,753 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 10:30:03,543 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 10:30:03,545 - INFO - 監視日付: 20251012
+2025-10-12 10:30:03,549 - INFO - ログディレクトリ内のファイル総数: 151
+2025-10-12 10:30:03,549 - INFO - 監視対象ファイル数: 150
+2025-10-12 10:30:04,699 - INFO - エラーが見つかったファイル数: 3
+2025-10-12 10:30:04,918 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+post_marumaru_shinbashihonten_20251012.log
+story_poteribakery_yokohama_20251012.log
+2025-10-12 10:30:04,920 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 10:30:04,920 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 10:30:04,922 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 10:30:04,924 - INFO - エラーログを移動しました: post_marumaru_shinbashihonten_20251012.log -> post_marumaru_shinbashihonten_20251012_103004.log
+2025-10-12 10:30:04,924 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 10:30:04,926 - INFO - エラーログを移動しました: story_poteribakery_yokohama_20251012.log -> story_poteribakery_yokohama_20251012_103004.log
+2025-10-12 10:30:04,926 - INFO - errディレクトリに移動したファイル数: 2
+2025-10-12 10:30:04,928 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 10:30:04,930 - INFO - 集計対象のファイル総数: 149
+2025-10-12 10:30:04,999 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 11:30:02,216 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 11:30:02,216 - INFO - 監視日付: 20251012
+2025-10-12 11:30:02,220 - INFO - ログディレクトリ内のファイル総数: 151
+2025-10-12 11:30:02,220 - INFO - 監視対象ファイル数: 150
+2025-10-12 11:30:03,819 - INFO - エラーが見つかったファイル数: 4
+2025-10-12 11:30:04,155 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+post_marumaru_shinbashihonten_20251012.log
+post_zekkocho_shitaya_20251012.log
+story_horumoncenter_otani_shouten_20251012.log
+2025-10-12 11:30:04,155 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 11:30:04,155 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 11:30:04,155 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 11:30:04,162 - INFO - エラーログを移動しました: post_marumaru_shinbashihonten_20251012.log -> post_marumaru_shinbashihonten_20251012_113004.log
+2025-10-12 11:30:04,163 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 11:30:04,165 - INFO - エラーログを移動しました: post_zekkocho_shitaya_20251012.log -> post_zekkocho_shitaya_20251012_113004.log
+2025-10-12 11:30:04,166 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 11:30:04,168 - INFO - エラーログを移動しました: story_horumoncenter_otani_shouten_20251012.log -> story_horumoncenter_otani_shouten_20251012.log
+2025-10-12 11:30:04,168 - INFO - errディレクトリに移動したファイル数: 3
+2025-10-12 11:30:04,168 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 11:30:04,170 - INFO - 集計対象のファイル総数: 148
+2025-10-12 11:30:04,250 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 12:30:02,291 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 12:30:02,291 - INFO - 監視日付: 20251012
+2025-10-12 12:30:02,295 - INFO - ログディレクトリ内のファイル総数: 148
+2025-10-12 12:30:02,296 - INFO - 監視対象ファイル数: 147
+2025-10-12 12:30:03,100 - INFO - エラーが見つかったファイル数: 1
+2025-10-12 12:30:03,436 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+2025-10-12 12:30:03,436 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 12:30:03,436 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 12:30:03,436 - INFO - errディレクトリに移動したファイル数: 0
+2025-10-12 12:30:03,436 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 12:30:03,441 - INFO - 集計対象のファイル総数: 148
+2025-10-12 12:30:03,515 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 13:30:07,693 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 13:30:07,694 - INFO - 監視日付: 20251012
+2025-10-12 13:30:07,699 - INFO - ログディレクトリ内のファイル総数: 148
+2025-10-12 13:30:07,700 - INFO - 監視対象ファイル数: 147
+2025-10-12 13:30:08,744 - INFO - エラーが見つかったファイル数: 1
+2025-10-12 13:30:08,996 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+2025-10-12 13:30:09,081 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 13:30:09,081 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 13:30:09,081 - INFO - errディレクトリに移動したファイル数: 0
+2025-10-12 13:30:09,082 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 13:30:09,090 - INFO - 集計対象のファイル総数: 148
+2025-10-12 13:30:09,194 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 14:30:02,239 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 14:30:02,240 - INFO - 監視日付: 20251012
+2025-10-12 14:30:02,243 - INFO - ログディレクトリ内のファイル総数: 150
+2025-10-12 14:30:02,244 - INFO - 監視対象ファイル数: 149
+2025-10-12 14:30:03,299 - INFO - エラーが見つかったファイル数: 3
+2025-10-12 14:30:03,584 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+post_marumaru_shinbashihonten_20251012.log
+story_poteribakery_yokohama_20251012.log
+2025-10-12 14:30:03,586 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 14:30:03,586 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 14:30:03,587 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 14:30:03,590 - INFO - エラーログを移動しました: post_marumaru_shinbashihonten_20251012.log -> post_marumaru_shinbashihonten_20251012_143003.log
+2025-10-12 14:30:03,590 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 14:30:03,592 - INFO - エラーログを移動しました: story_poteribakery_yokohama_20251012.log -> story_poteribakery_yokohama_20251012_143003.log
+2025-10-12 14:30:03,592 - INFO - errディレクトリに移動したファイル数: 2
+2025-10-12 14:30:03,594 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 14:30:03,596 - INFO - 集計対象のファイル総数: 148
+2025-10-12 14:30:03,677 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 15:30:02,268 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 15:30:02,269 - INFO - 監視日付: 20251012
+2025-10-12 15:30:02,273 - INFO - ログディレクトリ内のファイル総数: 151
+2025-10-12 15:30:02,274 - INFO - 監視対象ファイル数: 150
+2025-10-12 15:30:03,173 - INFO - エラーが見つかったファイル数: 3
+2025-10-12 15:30:03,500 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+post_marumaru_shinbashihonten_20251012.log
+post_zekkocho_shitaya_20251012.log
+2025-10-12 15:30:03,501 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 15:30:03,502 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 15:30:03,502 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 15:30:03,505 - INFO - エラーログを移動しました: post_marumaru_shinbashihonten_20251012.log -> post_marumaru_shinbashihonten_20251012_153003.log
+2025-10-12 15:30:03,559 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 15:30:03,563 - INFO - エラーログを移動しました: post_zekkocho_shitaya_20251012.log -> post_zekkocho_shitaya_20251012_153003.log
+2025-10-12 15:30:03,563 - INFO - errディレクトリに移動したファイル数: 2
+2025-10-12 15:30:03,563 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 15:30:03,567 - INFO - 集計対象のファイル総数: 149
+2025-10-12 15:30:03,645 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 16:30:02,245 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 16:30:02,245 - INFO - 監視日付: 20251012
+2025-10-12 16:30:02,248 - INFO - ログディレクトリ内のファイル総数: 149
+2025-10-12 16:30:02,248 - INFO - 監視対象ファイル数: 148
+2025-10-12 16:30:03,047 - INFO - エラーが見つかったファイル数: 1
+2025-10-12 16:30:03,636 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+2025-10-12 16:30:03,636 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 16:30:03,636 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 16:30:03,636 - INFO - errディレクトリに移動したファイル数: 0
+2025-10-12 16:30:03,636 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 16:30:03,641 - INFO - 集計対象のファイル総数: 149
+2025-10-12 16:30:03,731 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 17:30:02,941 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 17:30:02,941 - INFO - 監視日付: 20251012
+2025-10-12 17:30:02,945 - INFO - ログディレクトリ内のファイル総数: 149
+2025-10-12 17:30:02,946 - INFO - 監視対象ファイル数: 148
+2025-10-12 17:30:06,243 - INFO - エラーが見つかったファイル数: 1
+2025-10-12 17:30:06,642 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+2025-10-12 17:30:06,643 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 17:30:06,644 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 17:30:06,644 - INFO - errディレクトリに移動したファイル数: 0
+2025-10-12 17:30:06,644 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 17:30:06,647 - INFO - 集計対象のファイル総数: 149
+2025-10-12 17:30:07,704 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 18:30:08,790 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 18:30:08,791 - INFO - 監視日付: 20251012
+2025-10-12 18:30:08,795 - INFO - ログディレクトリ内のファイル総数: 151
+2025-10-12 18:30:08,796 - INFO - 監視対象ファイル数: 150
+2025-10-12 18:30:09,896 - INFO - エラーが見つかったファイル数: 3
+2025-10-12 18:30:10,190 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+post_marumaru_shinbashihonten_20251012.log
+story_poteribakery_yokohama_20251012.log
+2025-10-12 18:30:10,194 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 18:30:10,194 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 18:30:10,195 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 18:30:10,196 - INFO - エラーログを移動しました: post_marumaru_shinbashihonten_20251012.log -> post_marumaru_shinbashihonten_20251012_183010.log
+2025-10-12 18:30:10,206 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 18:30:10,209 - INFO - エラーログを移動しました: story_poteribakery_yokohama_20251012.log -> story_poteribakery_yokohama_20251012_183010.log
+2025-10-12 18:30:10,211 - INFO - errディレクトリに移動したファイル数: 2
+2025-10-12 18:30:10,211 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 18:30:10,215 - INFO - 集計対象のファイル総数: 149
+2025-10-12 18:30:10,327 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 19:30:02,406 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 19:30:02,406 - INFO - 監視日付: 20251012
+2025-10-12 19:30:02,408 - INFO - ログディレクトリ内のファイル総数: 151
+2025-10-12 19:30:02,410 - INFO - 監視対象ファイル数: 150
+2025-10-12 19:30:03,254 - INFO - エラーが見つかったファイル数: 3
+2025-10-12 19:30:03,581 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+post_marumaru_shinbashihonten_20251012.log
+post_zekkocho_shitaya_20251012.log
+2025-10-12 19:30:03,581 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 19:30:03,584 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 19:30:03,584 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 19:30:03,584 - INFO - エラーログを移動しました: post_marumaru_shinbashihonten_20251012.log -> post_marumaru_shinbashihonten_20251012_193003.log
+2025-10-12 19:30:03,584 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 19:30:03,588 - INFO - エラーログを移動しました: post_zekkocho_shitaya_20251012.log -> post_zekkocho_shitaya_20251012_193003.log
+2025-10-12 19:30:03,590 - INFO - errディレクトリに移動したファイル数: 2
+2025-10-12 19:30:03,590 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 19:30:03,594 - INFO - 集計対象のファイル総数: 149
+2025-10-12 19:30:03,684 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 20:30:04,000 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 20:30:04,000 - INFO - 監視日付: 20251012
+2025-10-12 20:30:04,004 - INFO - ログディレクトリ内のファイル総数: 149
+2025-10-12 20:30:04,004 - INFO - 監視対象ファイル数: 148
+2025-10-12 20:30:05,249 - INFO - エラーが見つかったファイル数: 1
+2025-10-12 20:30:05,628 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+2025-10-12 20:30:05,629 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 20:30:05,630 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 20:30:05,630 - INFO - errディレクトリに移動したファイル数: 0
+2025-10-12 20:30:05,630 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 20:30:05,634 - INFO - 集計対象のファイル総数: 149
+2025-10-12 20:30:05,722 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 21:30:02,433 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 21:30:02,433 - INFO - 監視日付: 20251012
+2025-10-12 21:30:02,438 - INFO - ログディレクトリ内のファイル総数: 149
+2025-10-12 21:30:02,438 - INFO - 監視対象ファイル数: 148
+2025-10-12 21:30:03,237 - INFO - エラーが見つかったファイル数: 1
+2025-10-12 21:30:03,440 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+2025-10-12 21:30:03,442 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 21:30:03,442 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 21:30:03,442 - INFO - errディレクトリに移動したファイル数: 0
+2025-10-12 21:30:03,442 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 21:30:03,446 - INFO - 集計対象のファイル総数: 149
+2025-10-12 21:30:03,525 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 22:30:02,485 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 22:30:02,485 - INFO - 監視日付: 20251012
+2025-10-12 22:30:02,492 - INFO - ログディレクトリ内のファイル総数: 151
+2025-10-12 22:30:02,494 - INFO - 監視対象ファイル数: 150
+2025-10-12 22:30:03,277 - INFO - エラーが見つかったファイル数: 3
+2025-10-12 22:30:03,617 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+post_marumaru_shinbashihonten_20251012.log
+story_poteribakery_yokohama_20251012.log
+2025-10-12 22:30:03,618 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 22:30:03,619 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 22:30:03,619 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 22:30:03,621 - INFO - エラーログを移動しました: post_marumaru_shinbashihonten_20251012.log -> post_marumaru_shinbashihonten_20251012_223003.log
+2025-10-12 22:30:03,623 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 22:30:03,625 - INFO - エラーログを移動しました: story_poteribakery_yokohama_20251012.log -> story_poteribakery_yokohama_20251012_223003.log
+2025-10-12 22:30:03,626 - INFO - errディレクトリに移動したファイル数: 2
+2025-10-12 22:30:03,626 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 22:30:03,629 - INFO - 集計対象のファイル総数: 149
+2025-10-12 22:30:03,722 - INFO - 送信ログは見つかりませんでした
+================================================================================
+2025-10-12 23:30:02,515 - INFO - 監視開始: C:\Users\adminadmin\Desktop\MEO-main\dev\log\20251012
+2025-10-12 23:30:02,515 - INFO - 監視日付: 20251012
+2025-10-12 23:30:02,521 - INFO - ログディレクトリ内のファイル総数: 151
+2025-10-12 23:30:02,521 - INFO - 監視対象ファイル数: 150
+2025-10-12 23:30:03,457 - INFO - エラーが見つかったファイル数: 3
+2025-10-12 23:30:03,786 - INFO - 通知送信成功: 
+GLINK_runbat_v2_20251012.log
+post_marumaru_shinbashihonten_20251012.log
+post_zekkocho_shitaya_20251012.log
+2025-10-12 23:30:03,800 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 23:30:03,801 - ERROR - ファイル移動エラー GLINK_runbat_v2_20251012.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\log\\20251012\\GLINK_runbat_v2_20251012.log' -> 'C:\\Users\\adminadmin\\Desktop\\MEO-main\\dev\\err\\20251012\\GLINK_runbat_v2_20251012.log'
+2025-10-12 23:30:03,801 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 23:30:03,809 - INFO - エラーログを移動しました: post_marumaru_shinbashihonten_20251012.log -> post_marumaru_shinbashihonten_20251012_233003.log
+2025-10-12 23:30:03,840 - INFO - errディレクトリを確認しました: C:\Users\adminadmin\Desktop\MEO-main\dev\err\20251012
+2025-10-12 23:30:03,845 - INFO - エラーログを移動しました: post_zekkocho_shitaya_20251012.log -> post_zekkocho_shitaya_20251012_233003.log
+2025-10-12 23:30:03,845 - INFO - errディレクトリに移動したファイル数: 2
+2025-10-12 23:30:03,845 - WARNING - 移動に失敗したファイル数: 1
+2025-10-12 23:30:03,849 - INFO - 集計対象のファイル総数: 149
+2025-10-12 23:30:03,950 - INFO - 送信ログは見つかりませんでした

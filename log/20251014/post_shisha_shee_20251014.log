@@ -1,0 +1,239 @@
+================================================================================
+2025-10-14 04:42:49,335 - INFO - 処理開始 PROCESSID:20251014_044245
+2025-10-14 04:42:49,335 - INFO - 対象ユーザー: shisha_shee
+2025-10-14 04:42:49,337 - INFO - 処理を開始します
+2025-10-14 04:42:49,396 - INFO - 選択されたプロファイル: Profile 12
+2025-10-14 04:42:49,396 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-14 04:42:54,861 - INFO - shisha_shee のプロフィールページにアクセスします
+2025-10-14 04:43:07,058 - INFO - 最新投稿を読み込みます
+2025-10-14 04:43:12,715 - INFO - 選定: 非ピン留め https://www.instagram.com/shisha_shee/p/DPxoRqRErox/?hl=ja
+2025-10-14 04:43:16,659 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 04:43:20,066 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 04:43:20,365 - INFO - datetime属性の抽出を開始します
+2025-10-14 04:43:20,675 - INFO - 抽出されたdatetime: 2025-10-14T04:00:06.000Z
+2025-10-14 04:43:20,675 - INFO - shisha_shee の投稿日時: 2025-10-14T04:00:06.000Z
+2025-10-14 04:43:20,686 - INFO - date:2025-10-14 13:00:06+09:00
+2025-10-14 04:43:20,686 - INFO - post_date:20251014
+2025-10-14 04:43:20,770 - INFO - カルーセル推定: 1枚
+2025-10-14 04:43:20,822 - INFO - 検出(SINGLE): https://scontent-hkg4-1.cdninstagram.com/v/t51.82787-15/561342388_17855312034540089_1365674245943272333_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0Mjk0OTkwMDc5NjczODA5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNTB4MTY4OC5zZHIuQzMifQ%3D%3D&_nc_ohc=qKUO_9UDLsAQ7kNvwHAApdk&_nc_oc=AdlTnI4MV2f53QiSevPe0jiPIgNfVZPoEp8c-0qyvWu2do0wr1IDyeE4qf4x7Md1vMg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_gid=7k2v1kuisoz4YIUk6LczNw&oh=00_AfeNQxxcXpOIUWXnUFMxcVbgjU5lJVsCrejiw2l_VuiagQ&oe=68F3B655
+2025-10-14 04:43:20,822 - INFO - 1枚目: https://scontent-hkg4-1.cdninstagram.com/v/t51.82787-15/561342388_17855312034540089_1365674245943272333_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0Mjk0OTkwMDc5NjczODA5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNTB4MTY4OC5zZHIuQzMifQ%3D%3D&_nc_ohc=qKUO_9UDLsAQ7kNvwHAApdk&_nc_oc=AdlTnI4MV2f53QiSevPe0jiPIgNfVZPoEp8c-0qyvWu2do0wr1IDyeE4qf4x7Md1vMg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_gid=7k2v1kuisoz4YIUk6LczNw&oh=00_AfeNQxxcXpOIUWXnUFMxcVbgjU5lJVsCrejiw2l_VuiagQ&oe=68F3B655
+2025-10-14 04:43:20,822 - INFO - [caption/by_username] 開始
+2025-10-14 04:43:21,456 - INFO - [caption/by_username] 説明文確定（先頭100）: '【 2025年9月2日 OPEN 】
+
+本日も13時から営業してます🍹
+
+提供フレーバーは70種類以上　お好きなミックスであなただけのシーシャをお作り致します。
+
+＜日曜〜木曜＞
+13時〜24時
+＜金'
+2025-10-14 04:43:21,459 - INFO - [caption/by_username] 説明文を保存: media\shisha_shee\description\20251014_044245
+2025-10-14 04:43:21,459 - INFO - 画像URLを取得しました
+2025-10-14 04:43:21,502 - INFO - INSERT(with-key): user=shisha_shee, key=Mzc0Mjk0OTkwMDc5NjczODA5Nw==, dt=2025-10-14T04:00:06.000Z
+2025-10-14 04:43:21,502 - INFO - メディアを取得します
+2025-10-14 04:43:23,504 - INFO - ダウンロードを開始します: media\shisha_shee\shisha_shee_20251014044323.jpg
+2025-10-14 04:43:23,843 - INFO - ダウンロード完了: media\shisha_shee\shisha_shee_20251014044323.jpg
+2025-10-14 04:43:24,031 - INFO - 元の画像サイズ: 1350x1688
+2025-10-14 04:43:24,031 - INFO - サイズ変更は不要です
+2025-10-14 04:43:24,035 - INFO - 説明文:【 2025年9月2日 OPEN 】
+
+本日も13時から営業してます🍹
+
+提供フレーバーは70種類以上　お好きなミックスであなただけのシーシャをお作り致します。
+
+＜日曜〜木曜＞
+13時〜24時
+＜金曜・土曜＞
+13時〜26時
+
+◆現金、各種クレジットカード、QR決済🉑
+◆充電ケーブル貸出
+◆ブランケットあり
+◆各席にコンセント
+◆無料Wi-Fiあり
+◆店内電子タバコのみ喫煙可能
+◆予約はお電話 or DM
+
+#shee. #シーシャ #シーシャカフェ #シーシャバー #広島シーシャ#本通シーシャ #広島カフェ #広島バー #広島 #shisha
+2025-10-14 04:43:29,634 - INFO - 処理終了
+================================================================================
+2025-10-14 04:43:37,523 - INFO - 処理開始: Mode=post, Username=shisha_shee, GBP=13337750764817328930
+2025-10-14 04:43:37,523 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMzMzNzc1MDc2NDgxNzMyODkzMCJd.
+2025-10-14 04:44:38,862 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\shisha_shee\shisha_shee_20251014044323.jpg
+2025-10-14 04:44:42,818 - INFO - Waiting for description field...
+2025-10-14 04:44:43,071 - INFO - Setting description via JS (no send_keys)...
+2025-10-14 04:44:45,308 - INFO - Looking for button section...
+2025-10-14 04:44:52,781 - INFO - Trying to select CALL option...
+2025-10-14 04:44:53,067 - INFO - CALL option successfully selected
+2025-10-14 04:44:55,068 - INFO - Clicking submit button...
+2025-10-14 04:45:04,278 - INFO - 処理完了
+================================================================================
+2025-10-14 10:11:50,745 - INFO - 処理開始 PROCESSID:20251014_101138
+2025-10-14 10:11:50,746 - INFO - 対象ユーザー: shisha_shee
+2025-10-14 10:11:50,746 - INFO - 処理を開始します
+2025-10-14 10:11:50,866 - INFO - 選択されたプロファイル: Profile 10
+2025-10-14 10:11:50,866 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-14 10:12:04,485 - INFO - shisha_shee のプロフィールページにアクセスします
+2025-10-14 10:12:31,877 - INFO - 最新投稿を読み込みます
+2025-10-14 10:12:38,616 - INFO - 選定: 非ピン留め https://www.instagram.com/shisha_shee/p/DPxoRqRErox/?hl=ja
+2025-10-14 10:12:50,163 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 10:12:56,848 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 10:13:11,383 - INFO - datetime属性の抽出を開始します
+2025-10-14 10:13:11,538 - INFO - 抽出されたdatetime: 2025-10-14T04:00:06.000Z
+2025-10-14 10:13:11,538 - INFO - shisha_shee の投稿日時: 2025-10-14T04:00:06.000Z
+2025-10-14 10:13:11,579 - INFO - date:2025-10-14 13:00:06+09:00
+2025-10-14 10:13:11,579 - INFO - post_date:20251014
+2025-10-14 10:13:11,874 - INFO - カルーセル推定: 1枚
+2025-10-14 10:13:12,100 - INFO - 検出(SINGLE): https://scontent-hkg4-1.cdninstagram.com/v/t51.82787-15/561342388_17855312034540089_1365674245943272333_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0Mjk0OTkwMDc5NjczODA5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNTB4MTY4OC5zZHIuQzMifQ%3D%3D&_nc_ohc=qKUO_9UDLsAQ7kNvwHAApdk&_nc_oc=AdlTnI4MV2f53QiSevPe0jiPIgNfVZPoEp8c-0qyvWu2do0wr1IDyeE4qf4x7Md1vMg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_gid=RyYDUi4SU-uT09HboP9UnA&oh=00_AffdXyrEXtz0epi_vxhyaGxlMQQpc_bu8-d5YIk7fqxhzA&oe=68F3EE95
+2025-10-14 10:13:12,100 - INFO - 1枚目: https://scontent-hkg4-1.cdninstagram.com/v/t51.82787-15/561342388_17855312034540089_1365674245943272333_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0Mjk0OTkwMDc5NjczODA5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNTB4MTY4OC5zZHIuQzMifQ%3D%3D&_nc_ohc=qKUO_9UDLsAQ7kNvwHAApdk&_nc_oc=AdlTnI4MV2f53QiSevPe0jiPIgNfVZPoEp8c-0qyvWu2do0wr1IDyeE4qf4x7Md1vMg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_gid=RyYDUi4SU-uT09HboP9UnA&oh=00_AffdXyrEXtz0epi_vxhyaGxlMQQpc_bu8-d5YIk7fqxhzA&oe=68F3EE95
+2025-10-14 10:13:12,100 - INFO - [caption/by_username] 開始
+2025-10-14 10:13:14,533 - INFO - [caption/by_username] 説明文確定（先頭100）: '【 2025年9月2日 OPEN 】
+
+本日も13時から営業してます🍹
+
+提供フレーバーは70種類以上　お好きなミックスであなただけのシーシャをお作り致します。
+
+＜日曜〜木曜＞
+13時〜24時
+＜金'
+2025-10-14 10:13:14,543 - INFO - [caption/by_username] 説明文を保存: media\shisha_shee\description\20251014_101138
+2025-10-14 10:13:14,543 - INFO - 画像URLを取得しました
+2025-10-14 10:13:14,552 - INFO - DUP(with-key): user=shisha_shee, key=Mzc0Mjk0OTkwMDc5NjczODA5Nw==, dt=2025-10-14T04:00:06.000Z
+2025-10-14 10:13:14,552 - INFO - このレコードは存在します
+2025-10-14 10:13:14,553 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-14 15:28:11,233 - INFO - 処理開始 PROCESSID:20251014_152807
+2025-10-14 15:28:11,233 - INFO - 対象ユーザー: shisha_shee
+2025-10-14 15:28:11,233 - INFO - 処理を開始します
+2025-10-14 15:28:11,290 - INFO - 選択されたプロファイル: Profile 13
+2025-10-14 15:28:11,291 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-14 15:28:15,802 - INFO - shisha_shee のプロフィールページにアクセスします
+2025-10-14 15:28:28,082 - INFO - 最新投稿を読み込みます
+2025-10-14 15:28:34,967 - INFO - 選定: 非ピン留め https://www.instagram.com/shisha_shee/p/DPxoRqRErox/?hl=ja
+2025-10-14 15:28:42,574 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 15:29:01,645 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 15:29:02,775 - INFO - datetime属性の抽出を開始します
+2025-10-14 15:29:10,164 - INFO - 抽出されたdatetime: 2025-10-14T04:00:06.000Z
+2025-10-14 15:29:10,164 - INFO - shisha_shee の投稿日時: 2025-10-14T04:00:06.000Z
+2025-10-14 15:29:10,194 - INFO - date:2025-10-14 13:00:06+09:00
+2025-10-14 15:29:10,195 - INFO - post_date:20251014
+2025-10-14 15:29:10,424 - INFO - カルーセル推定: 1枚
+2025-10-14 15:29:10,655 - INFO - 検出(SINGLE): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/561342388_17855312034540089_1365674245943272333_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0Mjk0OTkwMDc5NjczODA5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNTB4MTY4OC5zZHIuQzMifQ%3D%3D&_nc_ohc=qKUO_9UDLsAQ7kNvwHAApdk&_nc_oc=AdlTnI4MV2f53QiSevPe0jiPIgNfVZPoEp8c-0qyvWu2do0wr1IDyeE4qf4x7Md1vMg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=ibacI00S-1iCI3Nz5cdMHg&oh=00_Afem9lWWm6PA6GcHeQSv6OPADFhRzmwvFUtd4JcbM6lrVg&oe=68F426D5
+2025-10-14 15:29:10,663 - INFO - 1枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/561342388_17855312034540089_1365674245943272333_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0Mjk0OTkwMDc5NjczODA5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNTB4MTY4OC5zZHIuQzMifQ%3D%3D&_nc_ohc=qKUO_9UDLsAQ7kNvwHAApdk&_nc_oc=AdlTnI4MV2f53QiSevPe0jiPIgNfVZPoEp8c-0qyvWu2do0wr1IDyeE4qf4x7Md1vMg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=ibacI00S-1iCI3Nz5cdMHg&oh=00_Afem9lWWm6PA6GcHeQSv6OPADFhRzmwvFUtd4JcbM6lrVg&oe=68F426D5
+2025-10-14 15:29:10,663 - INFO - [caption/by_username] 開始
+2025-10-14 15:29:11,331 - INFO - [caption/by_username] 説明文確定（先頭100）: '【 2025年9月2日 OPEN 】
+
+本日も13時から営業してます🍹
+
+提供フレーバーは70種類以上　お好きなミックスであなただけのシーシャをお作り致します。
+
+＜日曜〜木曜＞
+13時〜24時
+＜金'
+2025-10-14 15:29:11,341 - INFO - [caption/by_username] 説明文を保存: media\shisha_shee\description\20251014_152807
+2025-10-14 15:29:11,341 - INFO - 画像URLを取得しました
+2025-10-14 15:29:11,350 - INFO - DUP(with-key): user=shisha_shee, key=Mzc0Mjk0OTkwMDc5NjczODA5Nw==, dt=2025-10-14T04:00:06.000Z
+2025-10-14 15:29:11,350 - INFO - このレコードは存在します
+2025-10-14 15:29:11,350 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-14 16:10:04,713 - INFO - 処理開始 PROCESSID:20251014_161001
+2025-10-14 16:10:04,713 - INFO - 対象ユーザー: shisha_shee
+2025-10-14 16:10:04,713 - INFO - 処理を開始します
+2025-10-14 16:10:04,767 - INFO - 選択されたプロファイル: Profile 9
+2025-10-14 16:10:04,767 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-14 16:10:09,274 - INFO - shisha_shee のプロフィールページにアクセスします
+2025-10-14 16:10:21,728 - INFO - 最新投稿を読み込みます
+2025-10-14 16:10:27,051 - INFO - 選定: 非ピン留め https://www.instagram.com/shisha_shee/p/DPxoRqRErox/?hl=ja
+2025-10-14 16:10:30,623 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 16:10:43,017 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 16:10:45,370 - INFO - datetime属性の抽出を開始します
+2025-10-14 16:10:46,265 - INFO - 抽出されたdatetime: 2025-10-14T04:00:06.000Z
+2025-10-14 16:10:46,265 - INFO - shisha_shee の投稿日時: 2025-10-14T04:00:06.000Z
+2025-10-14 16:10:46,706 - INFO - date:2025-10-14 13:00:06+09:00
+2025-10-14 16:10:46,706 - INFO - post_date:20251014
+2025-10-14 16:10:54,460 - INFO - カルーセル推定: 1枚
+2025-10-14 16:10:54,692 - INFO - 検出(SINGLE): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/561342388_17855312034540089_1365674245943272333_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0Mjk0OTkwMDc5NjczODA5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNTB4MTY4OC5zZHIuQzMifQ%3D%3D&_nc_ohc=qKUO_9UDLsAQ7kNvwHAApdk&_nc_oc=AdlTnI4MV2f53QiSevPe0jiPIgNfVZPoEp8c-0qyvWu2do0wr1IDyeE4qf4x7Md1vMg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=-TxAk15l9xmjLtzir-_eZA&oh=00_AfeYtkvDeMHGavh9EqaApXAO8HwxOvxBVStlJ82GDrXCcQ&oe=68F45F15
+2025-10-14 16:10:54,692 - INFO - 1枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/561342388_17855312034540089_1365674245943272333_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0Mjk0OTkwMDc5NjczODA5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNTB4MTY4OC5zZHIuQzMifQ%3D%3D&_nc_ohc=qKUO_9UDLsAQ7kNvwHAApdk&_nc_oc=AdlTnI4MV2f53QiSevPe0jiPIgNfVZPoEp8c-0qyvWu2do0wr1IDyeE4qf4x7Md1vMg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=-TxAk15l9xmjLtzir-_eZA&oh=00_AfeYtkvDeMHGavh9EqaApXAO8HwxOvxBVStlJ82GDrXCcQ&oe=68F45F15
+2025-10-14 16:10:54,692 - INFO - [caption/by_username] 開始
+2025-10-14 16:10:55,174 - INFO - [caption/by_username] 説明文確定（先頭100）: '【 2025年9月2日 OPEN 】
+
+本日も13時から営業してます🍹
+
+提供フレーバーは70種類以上　お好きなミックスであなただけのシーシャをお作り致します。
+
+＜日曜〜木曜＞
+13時〜24時
+＜金'
+2025-10-14 16:10:55,176 - INFO - [caption/by_username] 説明文を保存: media\shisha_shee\description\20251014_161001
+2025-10-14 16:10:55,176 - INFO - 画像URLを取得しました
+2025-10-14 16:10:55,183 - INFO - DUP(with-key): user=shisha_shee, key=Mzc0Mjk0OTkwMDc5NjczODA5Nw==, dt=2025-10-14T04:00:06.000Z
+2025-10-14 16:10:55,183 - INFO - このレコードは存在します
+2025-10-14 16:10:55,183 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-14 20:01:44,590 - INFO - 処理開始 PROCESSID:20251014_200141
+2025-10-14 20:01:44,590 - INFO - 対象ユーザー: shisha_shee
+2025-10-14 20:01:44,590 - INFO - 処理を開始します
+2025-10-14 20:01:44,645 - INFO - 選択されたプロファイル: Profile 13
+2025-10-14 20:01:44,645 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-14 20:01:49,212 - INFO - shisha_shee のプロフィールページにアクセスします
+2025-10-14 20:02:01,313 - INFO - 最新投稿を読み込みます
+2025-10-14 20:02:06,907 - INFO - 選定: 非ピン留め https://www.instagram.com/shisha_shee/p/DPxoRqRErox/?hl=ja
+2025-10-14 20:02:10,920 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 20:02:15,208 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 20:02:15,358 - INFO - datetime属性の抽出を開始します
+2025-10-14 20:02:15,391 - INFO - 抽出されたdatetime: 2025-10-14T04:00:06.000Z
+2025-10-14 20:02:15,391 - INFO - shisha_shee の投稿日時: 2025-10-14T04:00:06.000Z
+2025-10-14 20:02:15,399 - INFO - date:2025-10-14 13:00:06+09:00
+2025-10-14 20:02:15,399 - INFO - post_date:20251014
+2025-10-14 20:02:15,466 - INFO - カルーセル推定: 1枚
+2025-10-14 20:02:15,503 - INFO - 検出(SINGLE): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/561342388_17855312034540089_1365674245943272333_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0Mjk0OTkwMDc5NjczODA5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNTB4MTY4OC5zZHIuQzMifQ%3D%3D&_nc_ohc=qKUO_9UDLsAQ7kNvwHAApdk&_nc_oc=AdlTnI4MV2f53QiSevPe0jiPIgNfVZPoEp8c-0qyvWu2do0wr1IDyeE4qf4x7Md1vMg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=yttTLVlHq4WPvHvHsy9jRQ&oh=00_AfcvyCdDmlR5OnxC6K6prYrihC1zvsMIRZkEp1O8ht4xAw&oe=68F49755
+2025-10-14 20:02:15,504 - INFO - 1枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/561342388_17855312034540089_1365674245943272333_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0Mjk0OTkwMDc5NjczODA5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNTB4MTY4OC5zZHIuQzMifQ%3D%3D&_nc_ohc=qKUO_9UDLsAQ7kNvwHAApdk&_nc_oc=AdlTnI4MV2f53QiSevPe0jiPIgNfVZPoEp8c-0qyvWu2do0wr1IDyeE4qf4x7Md1vMg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=yttTLVlHq4WPvHvHsy9jRQ&oh=00_AfcvyCdDmlR5OnxC6K6prYrihC1zvsMIRZkEp1O8ht4xAw&oe=68F49755
+2025-10-14 20:02:15,504 - INFO - [caption/by_username] 開始
+2025-10-14 20:02:15,599 - INFO - [caption/by_username] 説明文確定（先頭100）: '【 2025年9月2日 OPEN 】
+
+本日も13時から営業してます🍹
+
+提供フレーバーは70種類以上　お好きなミックスであなただけのシーシャをお作り致します。
+
+＜日曜〜木曜＞
+13時〜24時
+＜金'
+2025-10-14 20:02:15,601 - INFO - [caption/by_username] 説明文を保存: media\shisha_shee\description\20251014_200141
+2025-10-14 20:02:15,601 - INFO - 画像URLを取得しました
+2025-10-14 20:02:15,603 - INFO - DUP(with-key): user=shisha_shee, key=Mzc0Mjk0OTkwMDc5NjczODA5Nw==, dt=2025-10-14T04:00:06.000Z
+2025-10-14 20:02:15,605 - INFO - このレコードは存在します
+2025-10-14 20:02:15,605 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-14 23:51:55,005 - INFO - 処理開始 PROCESSID:20251014_235151
+2025-10-14 23:51:55,005 - INFO - 対象ユーザー: shisha_shee
+2025-10-14 23:51:55,005 - INFO - 処理を開始します
+2025-10-14 23:51:55,064 - INFO - 選択されたプロファイル: Profile 13
+2025-10-14 23:51:55,065 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-14 23:51:59,542 - INFO - shisha_shee のプロフィールページにアクセスします
+2025-10-14 23:52:12,001 - INFO - 最新投稿を読み込みます
+2025-10-14 23:52:17,377 - INFO - 選定: 非ピン留め https://www.instagram.com/shisha_shee/p/DPxoRqRErox/?hl=ja
+2025-10-14 23:52:21,001 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 23:52:25,606 - INFO - 最新投稿ページにアクセスしました
+2025-10-14 23:52:25,667 - INFO - datetime属性の抽出を開始します
+2025-10-14 23:52:25,706 - INFO - 抽出されたdatetime: 2025-10-14T04:00:06.000Z
+2025-10-14 23:52:25,706 - INFO - shisha_shee の投稿日時: 2025-10-14T04:00:06.000Z
+2025-10-14 23:52:25,714 - INFO - date:2025-10-14 13:00:06+09:00
+2025-10-14 23:52:25,714 - INFO - post_date:20251014
+2025-10-14 23:52:25,822 - INFO - カルーセル推定: 1枚
+2025-10-14 23:52:25,860 - INFO - 検出(SINGLE): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/561342388_17855312034540089_1365674245943272333_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0Mjk0OTkwMDc5NjczODA5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNTB4MTY4OC5zZHIuQzMifQ%3D%3D&_nc_ohc=qKUO_9UDLsAQ7kNvwHAApdk&_nc_oc=AdlTnI4MV2f53QiSevPe0jiPIgNfVZPoEp8c-0qyvWu2do0wr1IDyeE4qf4x7Md1vMg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=Ddut2sh9ttUbPn0Chx69GQ&oh=00_Afe8ZoDgDBR8Hcc9XupeXlXJBCMrsLWMMyPJM7ilBCkHEw&oe=68F4CF95
+2025-10-14 23:52:25,860 - INFO - 1枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/561342388_17855312034540089_1365674245943272333_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzc0Mjk0OTkwMDc5NjczODA5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNTB4MTY4OC5zZHIuQzMifQ%3D%3D&_nc_ohc=qKUO_9UDLsAQ7kNvwHAApdk&_nc_oc=AdlTnI4MV2f53QiSevPe0jiPIgNfVZPoEp8c-0qyvWu2do0wr1IDyeE4qf4x7Md1vMg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=Ddut2sh9ttUbPn0Chx69GQ&oh=00_Afe8ZoDgDBR8Hcc9XupeXlXJBCMrsLWMMyPJM7ilBCkHEw&oe=68F4CF95
+2025-10-14 23:52:25,861 - INFO - [caption/by_username] 開始
+2025-10-14 23:52:25,953 - INFO - [caption/by_username] 説明文確定（先頭100）: '【 2025年9月2日 OPEN 】
+
+本日も13時から営業してます🍹
+
+提供フレーバーは70種類以上　お好きなミックスであなただけのシーシャをお作り致します。
+
+＜日曜〜木曜＞
+13時〜24時
+＜金'
+2025-10-14 23:52:25,955 - INFO - [caption/by_username] 説明文を保存: media\shisha_shee\description\20251014_235151
+2025-10-14 23:52:25,956 - INFO - 画像URLを取得しました
+2025-10-14 23:52:25,959 - INFO - DUP(with-key): user=shisha_shee, key=Mzc0Mjk0OTkwMDc5NjczODA5Nw==, dt=2025-10-14T04:00:06.000Z
+2025-10-14 23:52:25,959 - INFO - このレコードは存在します
+2025-10-14 23:52:25,959 - INFO - 全件レコードが存在します

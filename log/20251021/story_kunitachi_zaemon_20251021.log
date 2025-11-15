@@ -1,0 +1,114 @@
+================================================================================
+2025-10-21 01:44:42,115 - INFO - 処理開始 PROCESSID:20251021_014438
+2025-10-21 01:44:42,115 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-21 01:44:42,115 - INFO - 処理を開始します
+2025-10-21 01:44:42,190 - INFO - 選択されたプロファイル: Profile 10
+2025-10-21 01:44:42,190 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-21 01:44:46,739 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-21 01:45:09,760 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 01:45:13,050 - INFO - 動画の取得に失敗しました
+2025-10-21 01:45:13,051 - INFO - datetime属性の抽出を開始します
+2025-10-21 01:45:23,069 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x9dfe83+66515]
+	GetHandleVerifier [0x0x9dfec4+66580]
+	(No symbol) [0x0x7cdc48]
+	(No symbol) [0x0x818704]
+	(No symbol) [0x0x818aab]
+	(No symbol) [0x0x85f482]
+	(No symbol) [0x0x83b214]
+	(No symbol) [0x0x85cba7]
+	(No symbol) [0x0x83afc6]
+	(No symbol) [0x0x80c2ca]
+	(No symbol) [0x0x80d154]
+	GetHandleVerifier [0x0xc373b3+2521347]
+	GetHandleVerifier [0x0xc32333+2500739]
+	GetHandleVerifier [0x0xa07cd4+229924]
+	GetHandleVerifier [0x0x9f8238+165768]
+	GetHandleVerifier [0x0x9feced+193085]
+	GetHandleVerifier [0x0x9e8198+100072]
+	GetHandleVerifier [0x0x9e8330+100480]
+	GetHandleVerifier [0x0x9d25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-21 01:45:33,370 - INFO - 画像の取得に失敗しました
+2025-10-21 01:45:35,791 - INFO - 処理終了
+================================================================================
+2025-10-21 11:31:42,573 - INFO - 処理開始 PROCESSID:20251021_113139
+2025-10-21 11:31:42,575 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-21 11:31:42,581 - INFO - 処理を開始します
+2025-10-21 11:31:42,640 - INFO - 選択されたプロファイル: Profile 9
+2025-10-21 11:31:42,640 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-21 11:31:47,465 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-21 11:32:09,646 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 11:32:10,381 - INFO - kunitachi_zaemon: 動画を検出しました
+2025-10-21 11:32:10,381 - INFO - datetime属性の抽出を開始します
+2025-10-21 11:32:10,570 - INFO - 抽出されたdatetime: 2025-10-21T10:00:15.000Z
+2025-10-21 11:32:10,571 - INFO - kunitachi_zaemon の投稿日時: 2025-10-21T10:00:15.000Z
+2025-10-21 11:32:11,879 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMEVHpGsDOpNJzZM2_9TqPTR4hCTFOpl_kA3GkwD5qb5GHFiYFrZv3hPryxMWA28SgNXoLuUF2e6ztKzBRiOZkuq49y28Q34kP0dLMxJK5n7g.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=GMBcgyajsgMQ7kNvwHF5az4&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6NDE3ODg0Nzc3MjM4NDQyOSwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=FkFny52zKYOsomvvKvUPoA&_nc_zt=28&oh=00_AffGIfNO_ql7tobav53yxP7NWnol7oh1XKoKYDDlJB4deA&oe=68FD4AF1&bytestart=0&byteend=189927
+2025-10-21 11:32:11,880 - INFO - 動画URLを取得しました
+2025-10-21 11:32:12,053 - INFO - INSERT(with-key): user=kunitachi_zaemon, key=AQMEVHpGsDOpNJzZM2_9TqPTR4hCTFOpl_kA3GkwD5qb5GHFiYFrZv3hPryxMWA28SgNXoLuUF2e6ztKzBRiOZkuq49y28Q34kP0dLMxJK5n7g, dt=2025-10-21T10:00:15.000Z
+2025-10-21 11:32:14,056 - INFO - ダウンロードを開始します: media\kunitachi_zaemon\kunitachi_zaemon_20251021113214.mp4
+2025-10-21 11:32:15,735 - INFO - ダウンロード完了: media\kunitachi_zaemon\kunitachi_zaemon_20251021113214.mp4
+2025-10-21 11:32:18,255 - INFO - 処理終了
+2025-10-21 11:32:18,257 - INFO - 説明文_AI: None
+2025-10-21 11:32:18,257 - INFO - 説明文_最終: 
+================================================================================
+2025-10-21 11:32:24,361 - INFO - 処理開始: Mode=story, Username=kunitachi_zaemon, GBP=10681705115677728036
+2025-10-21 11:32:24,361 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMDY4MTcwNTExNTY3NzcyODAzNiJd.
+2025-10-21 11:32:47,690 - INFO - 元の動画サイズ: 1080x1920
+2025-10-21 11:32:47,690 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-21 11:32:47,690 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\kunitachi_zaemon\kunitachi_zaemon_20251021113214.mp4
+2025-10-21 11:32:57,745 - INFO - 一時ファイルが見つかりません: media\kunitachi_zaemon\description\20251021_113139
+2025-10-21 11:32:57,745 - INFO - Looking for button section...
+2025-10-21 11:33:02,384 - INFO - Trying to select CALL option...
+2025-10-21 11:33:02,625 - INFO - CALL option successfully selected
+2025-10-21 11:33:04,626 - INFO - Clicking submit button...
+2025-10-21 11:33:13,316 - INFO - 処理完了
+================================================================================
+2025-10-21 15:38:39,862 - INFO - 処理開始 PROCESSID:20251021_153836
+2025-10-21 15:38:39,864 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-21 15:38:39,864 - INFO - 処理を開始します
+2025-10-21 15:38:39,921 - INFO - 選択されたプロファイル: Profile 12
+2025-10-21 15:38:39,921 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-21 15:38:44,876 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-21 15:39:07,015 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 15:39:07,831 - INFO - kunitachi_zaemon: 動画を検出しました
+2025-10-21 15:39:07,832 - INFO - datetime属性の抽出を開始します
+2025-10-21 15:39:07,889 - INFO - 抽出されたdatetime: 2025-10-21T10:00:15.000Z
+2025-10-21 15:39:07,889 - INFO - kunitachi_zaemon の投稿日時: 2025-10-21T10:00:15.000Z
+2025-10-21 15:39:09,221 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=lX8m8Qqw-cIQ7kNvwG0TNGh&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTg5MzQzNDY2NTU5NjgyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=h65qeU2gq95Y4Nq7Otu3LQ&_nc_zt=28&oh=00_AfcsQ44Y-XnqaQMNKR68Zb6gjUHCyspL8ci8HT0lT07HIA&oe=68FD8D54&bytestart=0&byteend=689614
+2025-10-21 15:39:09,221 - INFO - 動画URLを取得しました
+2025-10-21 15:39:09,227 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=kunitachi_zaemon, key=AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg, dt=2025-10-21T10:00:15.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=lX8m8Qqw-cIQ7kNvwG0TNGh&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTg5MzQzNDY2NTU5NjgyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=h65qeU2gq95Y4Nq7Otu3LQ&_nc_zt=28&oh=00_AfcsQ44Y-XnqaQMNKR68Zb6gjUHCyspL8ci8HT0lT07HIA&oe=68FD8D54&bytestart=0&byteend=689614, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('kunitachi_zaemon', 'AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=lX8m8Qqw-cIQ7kNvwG0TNGh&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTg5MzQzNDY2NTU5NjgyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=h65qeU2gq95Y4Nq7Otu3LQ&_nc_zt=28&oh=00_AfcsQ44Y-XnqaQMNKR68Zb6gjUHCyspL8ci8HT0lT07HIA&oe=68FD8D54&bytestart=0&byteend=689614', '2025-10-21T10:00:15.000Z')
+================================================================================
+2025-10-21 19:39:52,069 - INFO - 処理開始 PROCESSID:20251021_193948
+2025-10-21 19:39:52,069 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-21 19:39:52,069 - INFO - 処理を開始します
+2025-10-21 19:39:52,133 - INFO - 選択されたプロファイル: Profile 12
+2025-10-21 19:39:52,133 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-21 19:39:56,721 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-21 19:40:18,865 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 19:40:19,548 - INFO - kunitachi_zaemon: 動画を検出しました
+2025-10-21 19:40:19,548 - INFO - datetime属性の抽出を開始します
+2025-10-21 19:40:19,895 - INFO - 抽出されたdatetime: 2025-10-21T10:00:15.000Z
+2025-10-21 19:40:19,895 - INFO - kunitachi_zaemon の投稿日時: 2025-10-21T10:00:15.000Z
+2025-10-21 19:40:21,108 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=lX8m8Qqw-cIQ7kNvwG0TNGh&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTg5MzQzNDY2NTU5NjgyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Y0v4N1qgNwXaGVdu5lffMA&_nc_zt=28&oh=00_AfcoCmS7W32wxWmlULcmbjagqx48eBQiQwwTJvA4QFWZMQ&oe=68FDC594&bytestart=0&byteend=689614
+2025-10-21 19:40:21,108 - INFO - 動画URLを取得しました
+2025-10-21 19:40:21,109 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=kunitachi_zaemon, key=AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg, dt=2025-10-21T10:00:15.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=lX8m8Qqw-cIQ7kNvwG0TNGh&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTg5MzQzNDY2NTU5NjgyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Y0v4N1qgNwXaGVdu5lffMA&_nc_zt=28&oh=00_AfcoCmS7W32wxWmlULcmbjagqx48eBQiQwwTJvA4QFWZMQ&oe=68FDC594&bytestart=0&byteend=689614, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('kunitachi_zaemon', 'AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=lX8m8Qqw-cIQ7kNvwG0TNGh&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTg5MzQzNDY2NTU5NjgyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Y0v4N1qgNwXaGVdu5lffMA&_nc_zt=28&oh=00_AfcoCmS7W32wxWmlULcmbjagqx48eBQiQwwTJvA4QFWZMQ&oe=68FDC594&bytestart=0&byteend=689614', '2025-10-21T10:00:15.000Z')
+================================================================================
+2025-10-21 23:41:28,275 - INFO - 処理開始 PROCESSID:20251021_234125
+2025-10-21 23:41:28,275 - INFO - 対象ユーザー: kunitachi_zaemon
+2025-10-21 23:41:28,275 - INFO - 処理を開始します
+2025-10-21 23:41:28,345 - INFO - 選択されたプロファイル: Profile 13
+2025-10-21 23:41:28,345 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-21 23:41:32,995 - INFO - kunitachi_zaemon のプロフィールページにアクセスします
+2025-10-21 23:41:55,415 - INFO - プロフィール写真のクリックに成功しました
+2025-10-21 23:41:56,767 - INFO - kunitachi_zaemon: 動画を検出しました
+2025-10-21 23:41:56,767 - INFO - datetime属性の抽出を開始します
+2025-10-21 23:41:56,789 - INFO - 抽出されたdatetime: 2025-10-21T10:00:15.000Z
+2025-10-21 23:41:56,789 - INFO - kunitachi_zaemon の投稿日時: 2025-10-21T10:00:15.000Z
+2025-10-21 23:41:57,985 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=lX8m8Qqw-cIQ7kNvwG0TNGh&cb=032594c6-4d46f1f4&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTg5MzQzNDY2NTU5NjgyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UQUqLHwpmSquV2WvVD0UkQ&_nc_zt=28&oh=00_AfddTgyjBGPYRI_EjZHryB_XfSDcRpAXSUXKp_raHx9Hbw&oe=68FDFDD4&bytestart=0&byteend=689614
+2025-10-21 23:41:57,985 - INFO - 動画URLを取得しました
+2025-10-21 23:41:58,181 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=kunitachi_zaemon, key=AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg, dt=2025-10-21T10:00:15.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=lX8m8Qqw-cIQ7kNvwG0TNGh&cb=032594c6-4d46f1f4&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTg5MzQzNDY2NTU5NjgyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UQUqLHwpmSquV2WvVD0UkQ&_nc_zt=28&oh=00_AfddTgyjBGPYRI_EjZHryB_XfSDcRpAXSUXKp_raHx9Hbw&oe=68FDFDD4&bytestart=0&byteend=689614, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('kunitachi_zaemon', 'AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMcY3RBx1Y9e6OLVW6fWgF9si6_wTJou-1hMopNyxTD0HbzddQ6GhU6PGS-srbOPFoWGvAshnTF1OBU87N2AVQL7Wnlk1wYPQ6zlCe5gaFnqg.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=lX8m8Qqw-cIQ7kNvwG0TNGh&cb=032594c6-4d46f1f4&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxMTg5MzQzNDY2NTU5NjgyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UQUqLHwpmSquV2WvVD0UkQ&_nc_zt=28&oh=00_AfddTgyjBGPYRI_EjZHryB_XfSDcRpAXSUXKp_raHx9Hbw&oe=68FDFDD4&bytestart=0&byteend=689614', '2025-10-21T10:00:15.000Z')

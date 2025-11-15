@@ -1,0 +1,332 @@
+================================================================================
+2025-10-24 02:02:22,672 - INFO - 処理開始 PROCESSID:20251024_020218
+2025-10-24 02:02:22,672 - INFO - 対象ユーザー: mitake2514
+2025-10-24 02:02:22,672 - INFO - 処理を開始します
+2025-10-24 02:02:22,729 - INFO - 選択されたプロファイル: Profile 12
+2025-10-24 02:02:22,730 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-24 02:02:27,677 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-24 02:02:40,518 - INFO - 最新投稿を読み込みます
+2025-10-24 02:02:45,854 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/p/DPP-8cGk2sI/?hl=ja → 日付確認
+2025-10-24 02:02:49,244 - INFO - ピン留めだが3日以上前(22日) → スキップ
+2025-10-24 02:02:49,244 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/reel/DISltogzbbB/?hl=ja → 日付確認
+2025-10-24 02:02:52,587 - INFO - ピン留めだが3日以上前(195日) → スキップ
+2025-10-24 02:02:52,588 - INFO - 選定: 非ピン留め https://www.instagram.com/mitake2514/reel/DQInuA1k7ee/?hl=ja
+2025-10-24 02:02:57,393 - INFO - 最新投稿ページにアクセスしました
+2025-10-24 02:03:01,246 - INFO - 最新投稿ページにアクセスしました
+2025-10-24 02:03:01,523 - INFO - datetime属性の抽出を開始します
+2025-10-24 02:03:01,619 - INFO - 抽出されたdatetime: 2025-10-23T02:18:43.000Z
+2025-10-24 02:03:01,619 - INFO - mitake2514 の投稿日時: 2025-10-23T02:18:43.000Z
+2025-10-24 02:03:01,634 - INFO - date:2025-10-23 11:18:43+09:00
+2025-10-24 02:03:01,634 - INFO - post_date:20251023
+2025-10-24 02:03:01,669 - INFO - 1枚目: blob:https://www.instagram.com/caa6b473-35f1-4705-af31-0665337ec803
+2025-10-24 02:03:01,669 - INFO - [caption/by_username] 開始
+2025-10-24 02:03:01,833 - INFO - [caption/by_username] 説明文確定（先頭100）: 'サーフパーマスタイル‼️
+
+Cut ‪✂︎ ¥3,500～
+Cut＆Shaving ‪✂︎‬ ¥3,950
+Cut＆Color ‪✂︎‬ ¥7,300~
+Cut＆Perm ‪✂︎‬ ¥8,300~…e'
+2025-10-24 02:03:01,835 - INFO - [caption/by_username] 説明文を保存: media\mitake2514\description\20251024_020218
+2025-10-24 02:03:03,455 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQPSuSZ0cGleWrYYRNGLM92_CoPEHTMnW1rU41PJCc1eJ-fa0oCHG-R3EZBG2qIutBYCH0r1bqN5TEqXa27yEoXrtDP3QIlBjgGE5eI.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=ZvE_3Gqa-S8Q7kNvwEbzAHS&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1Nzk5ODMxMzEwNTg3ODUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=zsh2_y2WgEmSot2h3Xb7Ww&_nc_zt=28&oh=00_AfdFhchC_h_Nh4-wxA7PP3i33mhzMOAehj4T-U9tLego9A&oe=68FCC69A&bytestart=0&byteend=1105460
+2025-10-24 02:03:03,465 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=mitake2514, key=AQPSuSZ0cGleWrYYRNGLM92_CoPEHTMnW1rU41PJCc1eJ-fa0oCHG-R3EZBG2qIutBYCH0r1bqN5TEqXa27yEoXrtDP3QIlBjgGE5eI, dt=2025-10-23T02:18:43.000Z, url=https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQPSuSZ0cGleWrYYRNGLM92_CoPEHTMnW1rU41PJCc1eJ-fa0oCHG-R3EZBG2qIutBYCH0r1bqN5TEqXa27yEoXrtDP3QIlBjgGE5eI.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=ZvE_3Gqa-S8Q7kNvwEbzAHS&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1Nzk5ODMxMzEwNTg3ODUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=zsh2_y2WgEmSot2h3Xb7Ww&_nc_zt=28&oh=00_AfdFhchC_h_Nh4-wxA7PP3i33mhzMOAehj4T-U9tLego9A&oe=68FCC69A&bytestart=0&byteend=1105460, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('mitake2514', 'AQPSuSZ0cGleWrYYRNGLM92_CoPEHTMnW1rU41PJCc1eJ-fa0oCHG-R3EZBG2qIutBYCH0r1bqN5TEqXa27yEoXrtDP3QIlBjgGE5eI', 'https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQPSuSZ0cGleWrYYRNGLM92_CoPEHTMnW1rU41PJCc1eJ-fa0oCHG-R3EZBG2qIutBYCH0r1bqN5TEqXa27yEoXrtDP3QIlBjgGE5eI.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=ZvE_3Gqa-S8Q7kNvwEbzAHS&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo1Nzk5ODMxMzEwNTg3ODUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=zsh2_y2WgEmSot2h3Xb7Ww&_nc_zt=28&oh=00_AfdFhchC_h_Nh4-wxA7PP3i33mhzMOAehj4T-U9tLego9A&oe=68FCC69A&bytestart=0&byteend=1105460', '2025-10-23T02:18:43.000Z')
+2025-10-24 02:03:03,465 - INFO - このレコードは存在します
+2025-10-24 02:03:03,465 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-24 06:16:59,392 - INFO - 処理開始 PROCESSID:20251024_061655
+2025-10-24 06:16:59,392 - INFO - 対象ユーザー: mitake2514
+2025-10-24 06:16:59,392 - INFO - 処理を開始します
+2025-10-24 06:16:59,452 - INFO - 選択されたプロファイル: Profile 13
+2025-10-24 06:16:59,453 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-24 06:17:04,081 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-24 06:17:15,978 - INFO - 最新投稿を読み込みます
+2025-10-24 06:17:21,597 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/p/DPP-8cGk2sI/?hl=ja → 日付確認
+2025-10-24 06:17:25,594 - INFO - ピン留めだが3日以上前(23日) → スキップ
+2025-10-24 06:17:25,594 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/reel/DISltogzbbB/?hl=ja → 日付確認
+2025-10-24 06:17:29,500 - INFO - ピン留めだが3日以上前(196日) → スキップ
+2025-10-24 06:17:29,500 - INFO - 選定: 非ピン留め https://www.instagram.com/popular_zenkunen/p/DQLSQezEd-0/?hl=ja
+2025-10-24 06:17:33,703 - INFO - 最新投稿ページにアクセスしました
+2025-10-24 06:17:38,461 - INFO - 最新投稿ページにアクセスしました
+2025-10-24 06:17:38,497 - INFO - datetime属性の抽出を開始します
+2025-10-24 06:17:38,519 - INFO - 抽出されたdatetime: 2025-10-24T03:08:12.000Z
+2025-10-24 06:17:38,519 - INFO - mitake2514 の投稿日時: 2025-10-24T03:08:12.000Z
+2025-10-24 06:17:38,525 - INFO - date:2025-10-24 12:08:12+09:00
+2025-10-24 06:17:38,525 - INFO - post_date:20251024
+2025-10-24 06:17:38,571 - INFO - カルーセル推定: 1枚
+2025-10-24 06:17:38,632 - INFO - 検出(SINGLE): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/564989876_18427189669106400_6743659167769824259_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc1MDE3MTQxMjEzMzk2MTY1Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=1m9-usT0PP0Q7kNvwGYAIoe&_nc_oc=AdmGENfV_FVR0gNeg6sLMIoun8E7Tqn8_adbjVrU7WYkB1h492pGzCBqNs-Mbl91DuY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=R1HDdpn-4h24eq7JUElafA&oh=00_Afc1L1WDbXnkpj1cOz49Z9ZWhwjwwXhBMDXkzbRnofbedw&oe=690101F3
+2025-10-24 06:17:38,632 - INFO - 1枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/564989876_18427189669106400_6743659167769824259_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc1MDE3MTQxMjEzMzk2MTY1Mg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=1m9-usT0PP0Q7kNvwGYAIoe&_nc_oc=AdmGENfV_FVR0gNeg6sLMIoun8E7Tqn8_adbjVrU7WYkB1h492pGzCBqNs-Mbl91DuY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=R1HDdpn-4h24eq7JUElafA&oh=00_Afc1L1WDbXnkpj1cOz49Z9ZWhwjwwXhBMDXkzbRnofbedw&oe=690101F3
+2025-10-24 06:17:38,632 - INFO - [caption/by_username] 開始
+2025-10-24 06:18:59,449 - INFO - [caption/by_username] 説明文確定（先頭100）: 'ゆるめパーマスタイル‼️
+
+Cut ‪✂︎ ¥4,800 
+men's cut✂︎¥3800
+Cut＆Color ‪✂︎‬ ¥8200~
+Cut＆Perm ‪✂︎‬ ¥8500~
+ShavingEst'
+2025-10-24 06:18:59,450 - INFO - [caption/by_username] 説明文を保存: media\mitake2514\description\20251024_061655
+2025-10-24 06:18:59,450 - INFO - 画像URLを取得しました
+2025-10-24 06:18:59,492 - INFO - INSERT(with-key): user=mitake2514, key=Mzc1MDE3MTQxMjEzMzk2MTY1Mg==, dt=2025-10-24T03:08:12.000Z
+2025-10-24 06:18:59,492 - INFO - メディアを取得します
+2025-10-24 06:19:01,493 - INFO - ダウンロードを開始します: media\mitake2514\mitake2514_20251024061901.jpg
+2025-10-24 06:19:03,117 - INFO - ダウンロード完了: media\mitake2514\mitake2514_20251024061901.jpg
+2025-10-24 06:19:03,274 - INFO - 元の画像サイズ: 1440x1920
+2025-10-24 06:19:03,274 - INFO - サイズ変更は不要です
+2025-10-24 06:19:03,276 - INFO - 説明文:ゆるめパーマスタイル‼️
+
+Cut ‪✂︎ ¥4,800 
+men's cut✂︎¥3800
+Cut＆Color ‪✂︎‬ ¥8200~
+Cut＆Perm ‪✂︎‬ ¥8500~
+ShavingEste ‪✂︎‬ ¥5,800～…etc.
+※店舗により料金が異なります。
+.
+岩手県盛岡市前九年2-12-6
+☏019-647-4828
+.
+各店舗のInstagramからご予約可能です！
+
+#ヘアスタイル#hairstyle#Instahair#hairstagram
+#メンズカット#ツイストパーマ #スパイラルパーマ#波巻きパーマ
+#ヘアカラー#イルミナカラー#ダブルカラー#フェード#髪質改善 #ストレート
+#グラデーションカラー#バレイヤージュ#インナーカラー #縮毛矯正
+#ヘアモデル#ポプラルみたけ店#ポプラル前九年
+#盛岡エステサロン#盛岡メンズカット#前九年#美容院
+2025-10-24 06:19:05,700 - INFO - 処理終了
+================================================================================
+2025-10-24 06:19:13,162 - INFO - 処理開始: Mode=post, Username=mitake2514, GBP=pa00039718
+2025-10-24 06:19:13,162 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJwYTAwMDM5NzE4Il0.
+2025-10-24 06:19:36,586 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\mitake2514\mitake2514_20251024061901.jpg
+2025-10-24 06:19:39,750 - INFO - Waiting for description field...
+2025-10-24 06:19:39,780 - INFO - Setting description via JS (no send_keys)...
+2025-10-24 06:19:40,893 - INFO - Looking for button section...
+2025-10-24 06:19:45,466 - INFO - Trying to select CALL option...
+2025-10-24 06:19:45,764 - INFO - CALL option successfully selected
+2025-10-24 06:19:47,765 - INFO - Clicking submit button...
+2025-10-24 06:19:56,484 - INFO - 処理完了
+================================================================================
+2025-10-24 10:31:38,553 - INFO - 処理開始 PROCESSID:20251024_103135
+2025-10-24 10:31:38,553 - INFO - 対象ユーザー: mitake2514
+2025-10-24 10:31:38,553 - INFO - 処理を開始します
+2025-10-24 10:31:38,620 - INFO - 選択されたプロファイル: Profile 12
+2025-10-24 10:31:38,620 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-24 10:31:43,289 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-24 10:31:55,129 - INFO - 最新投稿を読み込みます
+2025-10-24 10:32:00,489 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/p/DPP-8cGk2sI/?hl=ja → 日付確認
+2025-10-24 10:32:03,368 - INFO - ピン留めだが3日以上前(23日) → スキップ
+2025-10-24 10:32:03,368 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/reel/DISltogzbbB/?hl=ja → 日付確認
+2025-10-24 10:32:07,804 - INFO - ピン留めだが3日以上前(196日) → スキップ
+2025-10-24 10:32:07,804 - INFO - 選定: 非ピン留め https://www.instagram.com/mitake2514/p/DQLurvJEf_c/?hl=ja
+2025-10-24 10:32:12,556 - INFO - 最新投稿ページにアクセスしました
+2025-10-24 10:32:15,778 - INFO - 最新投稿ページにアクセスしました
+2025-10-24 10:32:15,860 - INFO - datetime属性の抽出を開始します
+2025-10-24 10:32:15,978 - INFO - 抽出されたdatetime: 2025-10-24T07:16:36.000Z
+2025-10-24 10:32:15,978 - INFO - mitake2514 の投稿日時: 2025-10-24T07:16:36.000Z
+2025-10-24 10:32:15,998 - INFO - date:2025-10-24 16:16:36+09:00
+2025-10-24 10:32:15,998 - INFO - post_date:20251024
+2025-10-24 10:32:16,062 - INFO - カルーセル推定: 3枚
+2025-10-24 10:32:16,102 - INFO - 検出(UL): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/568701211_18019898939787724_200956109097754804_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc1MDI5NjQyMTc3MDc5NTU2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=mXFOmUnv6EQQ7kNvwEExpNB&_nc_oc=AdmLHN-JlCJ1B35tPu41WbWF63pb57BtKWLmuyMF5QFZzruiUe-zB5vHfd37EmOhIFk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=t-Hb3tnjg1VtV3mV8tLkBQ&oh=00_AfexggBba7ocxFE7wzQC30nJkmeJn1lT3ofOOrF48kWNuw&oe=69013996
+2025-10-24 10:32:16,111 - INFO - 検出(UL): https://scontent-lhr8-1.cdninstagram.com/v/t51.82787-15/568508216_18019898948787724_7265387156281701232_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc1MDI5NjQyMTc5NTk2MDcyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=HXa6ToHnGa0Q7kNvwGZ9cHn&_nc_oc=AdnjTsL2o-6wwOnQNw1dTFAxsgKAti5ivjK4LoZCi6fXdrUv1XPx5L2e7zm7bOjPgXU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_gid=t-Hb3tnjg1VtV3mV8tLkBQ&oh=00_AfedCzohpdea1D3jzZJjQlGcQI33938sb8g4w7DKKYagBQ&oe=6901139C
+2025-10-24 10:32:37,130 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/569390097_18019898957787724_6004225757598018006_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MDI5NjQyMTc3OTIzMTYwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=D9D7tjbUBoMQ7kNvwEJxkI3&_nc_oc=AdnVH3hvkCcAOnRNZCiDFsJByJo9ka2AruPsf2XsuInbYCQbYv2dUXf7DcZjWwUqaVM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=t-Hb3tnjg1VtV3mV8tLkBQ&oh=00_Affw_T9p6fbCQtUC9wYeRLAQAIZl7Kg4GW9necWmXHJhdw&oe=69013EA4
+2025-10-24 10:32:37,146 - INFO - 1枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/568701211_18019898939787724_200956109097754804_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc1MDI5NjQyMTc3MDc5NTU2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=mXFOmUnv6EQQ7kNvwEExpNB&_nc_oc=AdmLHN-JlCJ1B35tPu41WbWF63pb57BtKWLmuyMF5QFZzruiUe-zB5vHfd37EmOhIFk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=t-Hb3tnjg1VtV3mV8tLkBQ&oh=00_AfexggBba7ocxFE7wzQC30nJkmeJn1lT3ofOOrF48kWNuw&oe=69013996
+2025-10-24 10:32:37,146 - INFO - 2枚目: https://scontent-lhr8-1.cdninstagram.com/v/t51.82787-15/568508216_18019898948787724_7265387156281701232_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc1MDI5NjQyMTc5NTk2MDcyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=HXa6ToHnGa0Q7kNvwGZ9cHn&_nc_oc=AdnjTsL2o-6wwOnQNw1dTFAxsgKAti5ivjK4LoZCi6fXdrUv1XPx5L2e7zm7bOjPgXU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_gid=t-Hb3tnjg1VtV3mV8tLkBQ&oh=00_AfedCzohpdea1D3jzZJjQlGcQI33938sb8g4w7DKKYagBQ&oe=6901139C
+2025-10-24 10:32:37,146 - INFO - 3枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/569390097_18019898957787724_6004225757598018006_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MDI5NjQyMTc3OTIzMTYwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=D9D7tjbUBoMQ7kNvwEJxkI3&_nc_oc=AdnVH3hvkCcAOnRNZCiDFsJByJo9ka2AruPsf2XsuInbYCQbYv2dUXf7DcZjWwUqaVM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=t-Hb3tnjg1VtV3mV8tLkBQ&oh=00_Affw_T9p6fbCQtUC9wYeRLAQAIZl7Kg4GW9necWmXHJhdw&oe=69013EA4
+2025-10-24 10:32:37,146 - INFO - [caption/by_username] 開始
+2025-10-24 10:32:37,229 - INFO - [caption/by_username] 説明文確定（先頭100）: 'アシンメトリースタイル‼️
+
+Cut ‪✂︎ ¥3,500～
+Cut＆Shaving ‪✂︎‬ ¥3,950
+Cut＆Color ‪✂︎‬ ¥7,300~
+Cut＆Perm ‪✂︎‬ ¥8,300~…'
+2025-10-24 10:32:37,231 - INFO - [caption/by_username] 説明文を保存: media\mitake2514\description\20251024_103135
+2025-10-24 10:32:37,231 - INFO - 画像URLを取得しました
+2025-10-24 10:32:37,272 - INFO - INSERT(with-key): user=mitake2514, key=Mzc1MDI5NjQyMTc3MDc5NTU2OQ==, dt=2025-10-24T07:16:36.000Z
+2025-10-24 10:32:37,272 - INFO - メディアを取得します
+2025-10-24 10:32:39,273 - INFO - ダウンロードを開始します: media\mitake2514\mitake2514_20251024103239.jpg
+2025-10-24 10:32:40,802 - INFO - ダウンロード完了: media\mitake2514\mitake2514_20251024103239.jpg
+2025-10-24 10:32:40,894 - INFO - 元の画像サイズ: 1440x1920
+2025-10-24 10:32:40,894 - INFO - サイズ変更は不要です
+2025-10-24 10:32:40,897 - INFO - 画像URLを取得しました
+2025-10-24 10:32:40,943 - INFO - INSERT(with-key): user=mitake2514, key=Mzc1MDI5NjQyMTc5NTk2MDcyMw==, dt=2025-10-24T07:16:36.000Z
+2025-10-24 10:32:40,944 - INFO - メディアを取得します
+2025-10-24 10:32:42,945 - INFO - ダウンロードを開始します: media\mitake2514\mitake2514_20251024103242.jpg
+2025-10-24 10:32:44,546 - INFO - ダウンロード完了: media\mitake2514\mitake2514_20251024103242.jpg
+2025-10-24 10:32:44,620 - INFO - 元の画像サイズ: 1440x1920
+2025-10-24 10:32:44,620 - INFO - サイズ変更は不要です
+2025-10-24 10:32:44,623 - INFO - 画像URLを取得しました
+2025-10-24 10:32:44,675 - INFO - INSERT(with-key): user=mitake2514, key=Mzc1MDI5NjQyMTc3OTIzMTYwMw==, dt=2025-10-24T07:16:36.000Z
+2025-10-24 10:32:44,675 - INFO - メディアを取得します
+2025-10-24 10:32:46,676 - INFO - ダウンロードを開始します: media\mitake2514\mitake2514_20251024103246.jpg
+2025-10-24 10:32:48,308 - INFO - ダウンロード完了: media\mitake2514\mitake2514_20251024103246.jpg
+2025-10-24 10:32:48,370 - INFO - 元の画像サイズ: 1440x1920
+2025-10-24 10:32:48,370 - INFO - サイズ変更は不要です
+2025-10-24 10:32:48,373 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL3 / 既存スキップ0 / 失敗0
+2025-10-24 10:32:48,373 - INFO - 説明文:アシンメトリースタイル‼️
+
+Cut ‪✂︎ ¥3,500～
+Cut＆Shaving ‪✂︎‬ ¥3,950
+Cut＆Color ‪✂︎‬ ¥7,300~
+Cut＆Perm ‪✂︎‬ ¥8,300~…etc
+.
+お気軽にコメント、DMでもご相談承ります。
+ご新規の方もお気軽にご相談下さい。
+
+住所📍
+岩手県盛岡市みたけ４丁目２４−２８
+
+===========================
+
+#POPULAR #ポプラル #盛岡市 #美容室 #美容院 #美容師 #髪型 #ヘアカット #カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #縮毛矯正 #ヘアサロン #学生歓迎 #盛岡美容院 #盛岡美容室 #盛岡美容師 #盛岡ヘアサロン #盛岡ヘアカット #盛岡髪質改善 #盛岡美容室メンズ #盛岡女性人気美容室 #盛岡みたけ美容室 #盛岡みたけ美容院 #盛岡みたけヘアサロン #盛岡みたけメンズ美容室 #盛岡みたけ女性美容室
+2025-10-24 10:32:51,824 - INFO - 処理終了
+================================================================================
+2025-10-24 10:32:57,832 - INFO - 処理開始: Mode=post, Username=mitake2514, GBP=pa00039718
+2025-10-24 10:32:57,832 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJwYTAwMDM5NzE4Il0.
+2025-10-24 10:33:21,016 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\mitake2514\mitake2514_20251024103239.jpg
+2025-10-24 10:33:24,366 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\mitake2514\mitake2514_20251024103242.jpg
+2025-10-24 10:33:27,442 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\mitake2514\mitake2514_20251024103246.jpg
+2025-10-24 10:33:30,537 - INFO - Waiting for description field...
+2025-10-24 10:33:30,567 - INFO - Setting description via JS (no send_keys)...
+2025-10-24 10:33:31,680 - INFO - Looking for button section...
+2025-10-24 10:33:36,204 - INFO - Trying to select CALL option...
+2025-10-24 10:33:36,456 - INFO - CALL option successfully selected
+2025-10-24 10:33:38,457 - INFO - Clicking submit button...
+2025-10-24 10:33:47,250 - INFO - 処理完了
+================================================================================
+2025-10-24 14:46:14,746 - INFO - 処理開始 PROCESSID:20251024_144611
+2025-10-24 14:46:14,746 - INFO - 対象ユーザー: mitake2514
+2025-10-24 14:46:14,746 - INFO - 処理を開始します
+2025-10-24 14:46:14,808 - INFO - 選択されたプロファイル: Profile 9
+2025-10-24 14:46:14,808 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-24 14:46:19,277 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-24 14:46:31,252 - INFO - 最新投稿を読み込みます
+2025-10-24 14:46:36,714 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/p/DPP-8cGk2sI/?hl=ja → 日付確認
+2025-10-24 14:46:40,380 - INFO - ピン留めだが3日以上前(23日) → スキップ
+2025-10-24 14:46:40,380 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/reel/DISltogzbbB/?hl=ja → 日付確認
+2025-10-24 14:46:44,293 - INFO - ピン留めだが3日以上前(196日) → スキップ
+2025-10-24 14:46:44,293 - INFO - 選定: 非ピン留め https://www.instagram.com/mitake2514/p/DQLurvJEf_c/?hl=ja
+2025-10-24 14:46:49,299 - INFO - 最新投稿ページにアクセスしました
+2025-10-24 14:46:52,969 - INFO - 最新投稿ページにアクセスしました
+2025-10-24 14:46:53,185 - INFO - datetime属性の抽出を開始します
+2025-10-24 14:46:53,392 - INFO - 抽出されたdatetime: 2025-10-24T07:16:36.000Z
+2025-10-24 14:46:53,392 - INFO - mitake2514 の投稿日時: 2025-10-24T07:16:36.000Z
+2025-10-24 14:46:53,427 - INFO - date:2025-10-24 16:16:36+09:00
+2025-10-24 14:46:53,427 - INFO - post_date:20251024
+2025-10-24 14:46:53,811 - INFO - カルーセル推定: 3枚
+2025-10-24 14:46:53,889 - INFO - 検出(UL): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/568701211_18019898939787724_200956109097754804_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc1MDI5NjQyMTc3MDc5NTU2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=mXFOmUnv6EQQ7kNvwEExpNB&_nc_oc=AdmLHN-JlCJ1B35tPu41WbWF63pb57BtKWLmuyMF5QFZzruiUe-zB5vHfd37EmOhIFk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=sfpca1ik11G0cPxLfKOF1g&oh=00_Afe1cQnMmLIwDLlsQrwWX2d-gbQoGcZfAguuXXo4Q6fMLA&oe=690171D6
+2025-10-24 14:46:53,933 - INFO - 検出(UL): https://scontent-lhr8-1.cdninstagram.com/v/t51.82787-15/568508216_18019898948787724_7265387156281701232_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc1MDI5NjQyMTc5NTk2MDcyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=HXa6ToHnGa0Q7kNvwGZ9cHn&_nc_oc=AdnjTsL2o-6wwOnQNw1dTFAxsgKAti5ivjK4LoZCi6fXdrUv1XPx5L2e7zm7bOjPgXU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_gid=sfpca1ik11G0cPxLfKOF1g&oh=00_AfdSSFdsoMND72G2xi_3-ZlQ-zNE2p_xzWcuBLWxdsICnw&oe=69014BDC
+2025-10-24 14:47:36,107 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/569390097_18019898957787724_6004225757598018006_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MDI5NjQyMTc3OTIzMTYwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=D9D7tjbUBoMQ7kNvwEJxkI3&_nc_oc=AdnVH3hvkCcAOnRNZCiDFsJByJo9ka2AruPsf2XsuInbYCQbYv2dUXf7DcZjWwUqaVM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=sfpca1ik11G0cPxLfKOF1g&oh=00_AfcI0vK0uCy08-Va_Ls7nTRNudNFtzi6rfbRqFSJ61uBXQ&oe=690176E4
+2025-10-24 14:47:36,125 - INFO - 1枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/568701211_18019898939787724_200956109097754804_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc1MDI5NjQyMTc3MDc5NTU2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=mXFOmUnv6EQQ7kNvwEExpNB&_nc_oc=AdmLHN-JlCJ1B35tPu41WbWF63pb57BtKWLmuyMF5QFZzruiUe-zB5vHfd37EmOhIFk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=sfpca1ik11G0cPxLfKOF1g&oh=00_Afe1cQnMmLIwDLlsQrwWX2d-gbQoGcZfAguuXXo4Q6fMLA&oe=690171D6
+2025-10-24 14:47:36,125 - INFO - 2枚目: https://scontent-lhr8-1.cdninstagram.com/v/t51.82787-15/568508216_18019898948787724_7265387156281701232_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc1MDI5NjQyMTc5NTk2MDcyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=HXa6ToHnGa0Q7kNvwGZ9cHn&_nc_oc=AdnjTsL2o-6wwOnQNw1dTFAxsgKAti5ivjK4LoZCi6fXdrUv1XPx5L2e7zm7bOjPgXU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_gid=sfpca1ik11G0cPxLfKOF1g&oh=00_AfdSSFdsoMND72G2xi_3-ZlQ-zNE2p_xzWcuBLWxdsICnw&oe=69014BDC
+2025-10-24 14:47:36,125 - INFO - 3枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/569390097_18019898957787724_6004225757598018006_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MDI5NjQyMTc3OTIzMTYwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=D9D7tjbUBoMQ7kNvwEJxkI3&_nc_oc=AdnVH3hvkCcAOnRNZCiDFsJByJo9ka2AruPsf2XsuInbYCQbYv2dUXf7DcZjWwUqaVM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=sfpca1ik11G0cPxLfKOF1g&oh=00_AfcI0vK0uCy08-Va_Ls7nTRNudNFtzi6rfbRqFSJ61uBXQ&oe=690176E4
+2025-10-24 14:47:36,126 - INFO - [caption/by_username] 開始
+2025-10-24 14:47:36,213 - INFO - [caption/by_username] 説明文確定（先頭100）: 'アシンメトリースタイル‼️
+
+Cut ‪✂︎ ¥3,500～
+Cut＆Shaving ‪✂︎‬ ¥3,950
+Cut＆Color ‪✂︎‬ ¥7,300~
+Cut＆Perm ‪✂︎‬ ¥8,300~…'
+2025-10-24 14:47:36,215 - INFO - [caption/by_username] 説明文を保存: media\mitake2514\description\20251024_144611
+2025-10-24 14:47:36,215 - INFO - 画像URLを取得しました
+2025-10-24 14:47:36,217 - INFO - DUP(with-key): user=mitake2514, key=Mzc1MDI5NjQyMTc3MDc5NTU2OQ==, dt=2025-10-24T07:16:36.000Z
+2025-10-24 14:47:36,217 - INFO - このレコードは存在します
+2025-10-24 14:47:36,217 - INFO - 画像URLを取得しました
+2025-10-24 14:47:36,218 - INFO - DUP(with-key): user=mitake2514, key=Mzc1MDI5NjQyMTc5NTk2MDcyMw==, dt=2025-10-24T07:16:36.000Z
+2025-10-24 14:47:36,218 - INFO - このレコードは存在します
+2025-10-24 14:47:36,219 - INFO - 画像URLを取得しました
+2025-10-24 14:47:36,220 - INFO - DUP(with-key): user=mitake2514, key=Mzc1MDI5NjQyMTc3OTIzMTYwMw==, dt=2025-10-24T07:16:36.000Z
+2025-10-24 14:47:36,220 - INFO - このレコードは存在します
+2025-10-24 14:47:36,220 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL0 / 既存スキップ3 / 失敗0
+2025-10-24 14:47:36,220 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-24 14:47:36,220 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-24 18:51:48,771 - INFO - 処理開始 PROCESSID:20251024_185145
+2025-10-24 18:51:48,771 - INFO - 対象ユーザー: mitake2514
+2025-10-24 18:51:48,771 - INFO - 処理を開始します
+2025-10-24 18:51:48,831 - INFO - 選択されたプロファイル: Profile 12
+2025-10-24 18:51:48,831 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-24 18:51:53,827 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-24 18:52:06,142 - INFO - 最新投稿を読み込みます
+2025-10-24 18:52:11,494 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/p/DPP-8cGk2sI/?hl=ja → 日付確認
+2025-10-24 18:52:14,178 - INFO - ピン留めだが3日以上前(23日) → スキップ
+2025-10-24 18:52:14,178 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/reel/DISltogzbbB/?hl=ja → 日付確認
+2025-10-24 18:52:17,469 - INFO - ピン留めだが3日以上前(196日) → スキップ
+2025-10-24 18:52:17,469 - INFO - 選定: 非ピン留め https://www.instagram.com/mitake2514/p/DQLurvJEf_c/?hl=ja
+2025-10-24 18:52:21,900 - INFO - 最新投稿ページにアクセスしました
+2025-10-24 18:52:26,933 - INFO - 最新投稿ページにアクセスしました
+2025-10-24 18:52:27,181 - INFO - datetime属性の抽出を開始します
+2025-10-24 18:52:27,497 - INFO - 抽出されたdatetime: 2025-10-24T07:16:36.000Z
+2025-10-24 18:52:27,497 - INFO - mitake2514 の投稿日時: 2025-10-24T07:16:36.000Z
+2025-10-24 18:52:27,691 - INFO - date:2025-10-24 16:16:36+09:00
+2025-10-24 18:52:27,691 - INFO - post_date:20251024
+2025-10-24 18:52:27,969 - INFO - カルーセル推定: 3枚
+2025-10-24 18:52:29,504 - INFO - 検出(UL): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/568701211_18019898939787724_200956109097754804_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc1MDI5NjQyMTc3MDc5NTU2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=mXFOmUnv6EQQ7kNvwEExpNB&_nc_oc=AdmLHN-JlCJ1B35tPu41WbWF63pb57BtKWLmuyMF5QFZzruiUe-zB5vHfd37EmOhIFk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=DfQOInMpQh28x3ltnEUUSA&oh=00_Afd8zRm67T25YuwKicm-K3WnA4KjM7yEcrSICTccjCI1sQ&oe=6901AA16
+2025-10-24 18:52:29,509 - INFO - 検出(UL): https://scontent-lhr8-1.cdninstagram.com/v/t51.82787-15/568508216_18019898948787724_7265387156281701232_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc1MDI5NjQyMTc5NTk2MDcyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=HXa6ToHnGa0Q7kNvwGZ9cHn&_nc_oc=AdnjTsL2o-6wwOnQNw1dTFAxsgKAti5ivjK4LoZCi6fXdrUv1XPx5L2e7zm7bOjPgXU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_gid=DfQOInMpQh28x3ltnEUUSA&oh=00_AfffGf3KG6iA5VS5W0OjZ7nax0nQh_dxryfFWG9I3zxnqg&oe=6901841C
+2025-10-24 18:52:50,363 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/569390097_18019898957787724_6004225757598018006_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MDI5NjQyMTc3OTIzMTYwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=egUWSlsPyFIQ7kNvwEBFcOc&_nc_oc=Adl3yMnzvN0CIJUp0_A61VDiICRhC66UgUxdm8q-mLAAOATE1HeSC9Tgx1uqzHLaTqw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=DfQOInMpQh28x3ltnEUUSA&oh=00_Afcd8lMUmsnsxy3Zx4JMqCDWiBrhMNqLLTtyn4p5gM4uDg&oe=6901AF24
+2025-10-24 18:52:50,380 - INFO - 1枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/568701211_18019898939787724_200956109097754804_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc1MDI5NjQyMTc3MDc5NTU2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=mXFOmUnv6EQQ7kNvwEExpNB&_nc_oc=AdmLHN-JlCJ1B35tPu41WbWF63pb57BtKWLmuyMF5QFZzruiUe-zB5vHfd37EmOhIFk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=DfQOInMpQh28x3ltnEUUSA&oh=00_Afd8zRm67T25YuwKicm-K3WnA4KjM7yEcrSICTccjCI1sQ&oe=6901AA16
+2025-10-24 18:52:50,380 - INFO - 2枚目: https://scontent-lhr8-1.cdninstagram.com/v/t51.82787-15/568508216_18019898948787724_7265387156281701232_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc1MDI5NjQyMTc5NTk2MDcyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=HXa6ToHnGa0Q7kNvwGZ9cHn&_nc_oc=AdnjTsL2o-6wwOnQNw1dTFAxsgKAti5ivjK4LoZCi6fXdrUv1XPx5L2e7zm7bOjPgXU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_gid=DfQOInMpQh28x3ltnEUUSA&oh=00_AfffGf3KG6iA5VS5W0OjZ7nax0nQh_dxryfFWG9I3zxnqg&oe=6901841C
+2025-10-24 18:52:50,380 - INFO - 3枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/569390097_18019898957787724_6004225757598018006_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MDI5NjQyMTc3OTIzMTYwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=egUWSlsPyFIQ7kNvwEBFcOc&_nc_oc=Adl3yMnzvN0CIJUp0_A61VDiICRhC66UgUxdm8q-mLAAOATE1HeSC9Tgx1uqzHLaTqw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=DfQOInMpQh28x3ltnEUUSA&oh=00_Afcd8lMUmsnsxy3Zx4JMqCDWiBrhMNqLLTtyn4p5gM4uDg&oe=6901AF24
+2025-10-24 18:52:50,381 - INFO - [caption/by_username] 開始
+2025-10-24 18:52:50,459 - INFO - [caption/by_username] 説明文確定（先頭100）: 'アシンメトリースタイル‼️
+
+Cut ‪✂︎ ¥3,500～
+Cut＆Shaving ‪✂︎‬ ¥3,950
+Cut＆Color ‪✂︎‬ ¥7,300~
+Cut＆Perm ‪✂︎‬ ¥8,300~…'
+2025-10-24 18:52:50,462 - INFO - [caption/by_username] 説明文を保存: media\mitake2514\description\20251024_185145
+2025-10-24 18:52:50,462 - INFO - 画像URLを取得しました
+2025-10-24 18:52:50,463 - INFO - DUP(with-key): user=mitake2514, key=Mzc1MDI5NjQyMTc3MDc5NTU2OQ==, dt=2025-10-24T07:16:36.000Z
+2025-10-24 18:52:50,464 - INFO - このレコードは存在します
+2025-10-24 18:52:50,464 - INFO - 画像URLを取得しました
+2025-10-24 18:52:50,465 - INFO - DUP(with-key): user=mitake2514, key=Mzc1MDI5NjQyMTc5NTk2MDcyMw==, dt=2025-10-24T07:16:36.000Z
+2025-10-24 18:52:50,465 - INFO - このレコードは存在します
+2025-10-24 18:52:50,465 - INFO - 画像URLを取得しました
+2025-10-24 18:52:50,466 - INFO - DUP(with-key): user=mitake2514, key=Mzc1MDI5NjQyMTc3OTIzMTYwMw==, dt=2025-10-24T07:16:36.000Z
+2025-10-24 18:52:50,466 - INFO - このレコードは存在します
+2025-10-24 18:52:50,466 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL0 / 既存スキップ3 / 失敗0
+2025-10-24 18:52:50,466 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-24 18:52:50,466 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-24 22:54:46,351 - INFO - 処理開始 PROCESSID:20251024_225443
+2025-10-24 22:54:46,351 - INFO - 対象ユーザー: mitake2514
+2025-10-24 22:54:46,351 - INFO - 処理を開始します
+2025-10-24 22:54:46,415 - INFO - 選択されたプロファイル: Profile 9
+2025-10-24 22:54:46,415 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-24 22:54:51,337 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-24 22:55:03,286 - INFO - 最新投稿を読み込みます
+2025-10-24 22:55:08,733 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/p/DPP-8cGk2sI/?hl=ja → 日付確認
+2025-10-24 22:55:11,874 - INFO - ピン留めだが3日以上前(23日) → スキップ
+2025-10-24 22:55:11,875 - INFO - 候補はピン留め: https://www.instagram.com/mitake2514/reel/DISltogzbbB/?hl=ja → 日付確認
+2025-10-24 22:55:16,377 - INFO - ピン留めだが3日以上前(196日) → スキップ
+2025-10-24 22:55:16,377 - INFO - 選定: 非ピン留め https://www.instagram.com/mitake2514/p/DQLurvJEf_c/?hl=ja
+2025-10-24 22:55:21,443 - INFO - 最新投稿ページにアクセスしました
+2025-10-24 22:55:26,211 - INFO - 最新投稿ページにアクセスしました
+2025-10-24 22:55:26,417 - INFO - datetime属性の抽出を開始します
+2025-10-24 22:55:26,583 - INFO - 抽出されたdatetime: 2025-10-24T07:16:36.000Z
+2025-10-24 22:55:26,584 - INFO - mitake2514 の投稿日時: 2025-10-24T07:16:36.000Z
+2025-10-24 22:55:26,663 - INFO - date:2025-10-24 16:16:36+09:00
+2025-10-24 22:55:26,663 - INFO - post_date:20251024
+2025-10-24 22:55:26,905 - INFO - カルーセル推定: 3枚
+2025-10-24 22:55:27,179 - INFO - 検出(UL): https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/568701211_18019898939787724_200956109097754804_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc1MDI5NjQyMTc3MDc5NTU2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=mXFOmUnv6EQQ7kNvwEExpNB&_nc_oc=AdmLHN-JlCJ1B35tPu41WbWF63pb57BtKWLmuyMF5QFZzruiUe-zB5vHfd37EmOhIFk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=T-GrP5QeRC2ZGqgnxGqJ7A&oh=00_AffmkSU8yrje0EacXzPD9NhTEdi8haIrzsceOWQ7kGqI1A&oe=6901E256
+2025-10-24 22:55:27,281 - INFO - 検出(UL): https://scontent-lhr8-1.cdninstagram.com/v/t51.82787-15/568508216_18019898948787724_7265387156281701232_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc1MDI5NjQyMTc5NTk2MDcyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=HXa6ToHnGa0Q7kNvwGZ9cHn&_nc_oc=AdnjTsL2o-6wwOnQNw1dTFAxsgKAti5ivjK4LoZCi6fXdrUv1XPx5L2e7zm7bOjPgXU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_gid=T-GrP5QeRC2ZGqgnxGqJ7A&oh=00_AfeOLba9LkQmxnJBoz_521o_UophlGC4qmrpj7_EzP89qA&oe=6901BC5C
+2025-10-24 22:56:10,715 - INFO - 検出(UL): https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/569390097_18019898957787724_6004225757598018006_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MDI5NjQyMTc3OTIzMTYwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=egUWSlsPyFIQ7kNvwEBFcOc&_nc_oc=Adl3yMnzvN0CIJUp0_A61VDiICRhC66UgUxdm8q-mLAAOATE1HeSC9Tgx1uqzHLaTqw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=T-GrP5QeRC2ZGqgnxGqJ7A&oh=00_AfdTA6_z1L5HEA9qHwXM7GqQhu5-QEEJYYy64RrBWjcfHw&oe=6901E764
+2025-10-24 22:56:10,732 - INFO - 1枚目: https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/568701211_18019898939787724_200956109097754804_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzc1MDI5NjQyMTc3MDc5NTU2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=mXFOmUnv6EQQ7kNvwEExpNB&_nc_oc=AdmLHN-JlCJ1B35tPu41WbWF63pb57BtKWLmuyMF5QFZzruiUe-zB5vHfd37EmOhIFk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=T-GrP5QeRC2ZGqgnxGqJ7A&oh=00_AffmkSU8yrje0EacXzPD9NhTEdi8haIrzsceOWQ7kGqI1A&oe=6901E256
+2025-10-24 22:56:10,732 - INFO - 2枚目: https://scontent-lhr8-1.cdninstagram.com/v/t51.82787-15/568508216_18019898948787724_7265387156281701232_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzc1MDI5NjQyMTc5NTk2MDcyMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=HXa6ToHnGa0Q7kNvwGZ9cHn&_nc_oc=AdnjTsL2o-6wwOnQNw1dTFAxsgKAti5ivjK4LoZCi6fXdrUv1XPx5L2e7zm7bOjPgXU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_gid=T-GrP5QeRC2ZGqgnxGqJ7A&oh=00_AfeOLba9LkQmxnJBoz_521o_UophlGC4qmrpj7_EzP89qA&oe=6901BC5C
+2025-10-24 22:56:10,732 - INFO - 3枚目: https://scontent-lhr6-2.cdninstagram.com/v/t51.82787-15/569390097_18019898957787724_6004225757598018006_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc1MDI5NjQyMTc3OTIzMTYwMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=egUWSlsPyFIQ7kNvwEBFcOc&_nc_oc=Adl3yMnzvN0CIJUp0_A61VDiICRhC66UgUxdm8q-mLAAOATE1HeSC9Tgx1uqzHLaTqw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_gid=T-GrP5QeRC2ZGqgnxGqJ7A&oh=00_AfdTA6_z1L5HEA9qHwXM7GqQhu5-QEEJYYy64RrBWjcfHw&oe=6901E764
+2025-10-24 22:56:10,732 - INFO - [caption/by_username] 開始
+2025-10-24 22:56:10,817 - INFO - [caption/by_username] 説明文確定（先頭100）: 'アシンメトリースタイル‼️
+
+Cut ‪✂︎ ¥3,500～
+Cut＆Shaving ‪✂︎‬ ¥3,950
+Cut＆Color ‪✂︎‬ ¥7,300~
+Cut＆Perm ‪✂︎‬ ¥8,300~…'
+2025-10-24 22:56:10,819 - INFO - [caption/by_username] 説明文を保存: media\mitake2514\description\20251024_225443
+2025-10-24 22:56:10,819 - INFO - 画像URLを取得しました
+2025-10-24 22:56:10,821 - INFO - DUP(with-key): user=mitake2514, key=Mzc1MDI5NjQyMTc3MDc5NTU2OQ==, dt=2025-10-24T07:16:36.000Z
+2025-10-24 22:56:10,821 - INFO - このレコードは存在します
+2025-10-24 22:56:10,822 - INFO - 画像URLを取得しました
+2025-10-24 22:56:10,822 - INFO - DUP(with-key): user=mitake2514, key=Mzc1MDI5NjQyMTc5NTk2MDcyMw==, dt=2025-10-24T07:16:36.000Z
+2025-10-24 22:56:10,823 - INFO - このレコードは存在します
+2025-10-24 22:56:10,823 - INFO - 画像URLを取得しました
+2025-10-24 22:56:10,824 - INFO - DUP(with-key): user=mitake2514, key=Mzc1MDI5NjQyMTc3OTIzMTYwMw==, dt=2025-10-24T07:16:36.000Z
+2025-10-24 22:56:10,824 - INFO - このレコードは存在します
+2025-10-24 22:56:10,824 - INFO - カルーセル集計: 想定3 / 収集3 / 新規DL0 / 既存スキップ3 / 失敗0
+2025-10-24 22:56:10,824 - INFO - カルーセル: すべて既存レコード（新規DLなし）。処理OK。
+2025-10-24 22:56:10,824 - INFO - 全件レコードが存在します

@@ -1,0 +1,163 @@
+================================================================================
+2025-10-17 00:29:44,602 - INFO - 処理開始 PROCESSID:20251017_002941
+2025-10-17 00:29:44,602 - INFO - 対象ユーザー: fiesta_grande.nail
+2025-10-17 00:29:44,602 - INFO - 処理を開始します
+2025-10-17 00:29:44,664 - INFO - 選択されたプロファイル: Profile 13
+2025-10-17 00:29:44,664 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-17 00:29:49,349 - INFO - fiesta_grande.nail のプロフィールページにアクセスします
+2025-10-17 00:30:11,315 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 00:30:12,093 - INFO - fiesta_grande.nail: 動画を検出しました
+2025-10-17 00:30:12,093 - INFO - datetime属性の抽出を開始します
+2025-10-17 00:30:12,118 - INFO - 抽出されたdatetime: 2025-10-16T03:22:25.000Z
+2025-10-17 00:30:12,118 - INFO - fiesta_grande.nail の投稿日時: 2025-10-16T03:22:25.000Z
+2025-10-17 00:30:13,359 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m367/AQNThKz3YrjMOmkRKjJt-hRPFnEmbyi7aUwROrdaY4sOUrHljg3mQzeBtSJt9YPPE5hpAgWxVwsLJgbY89SBiyHV-isNUCjzOzgS8MahuQgAEQ.mp4?_nc_cat=103&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=el9a3ogoBcgQ7kNvwG38tdd&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfdnA5LWJhc2ljLWdlbjJfMTA4MHAiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTM0MDU1MzE3MDc5MzYxNSwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=pS3ktW9ick5tvVZQXcw62Q&_nc_zt=28&oh=00_Afc1zuaMqj-r2jsGbBb8yvHj2y3qr3rouh9EuhUzHd4n0Q&oe=68F76E25&bytestart=0&byteend=226389
+2025-10-17 00:30:13,577 - INFO - 動画URLを取得しました
+2025-10-17 00:30:13,608 - INFO - DUP(with-key): user=fiesta_grande.nail, key=AQNThKz3YrjMOmkRKjJt-hRPFnEmbyi7aUwROrdaY4sOUrHljg3mQzeBtSJt9YPPE5hpAgWxVwsLJgbY89SBiyHV-isNUCjzOzgS8MahuQgAEQ, dt=2025-10-16T03:22:25.000Z
+================================================================================
+2025-10-17 04:22:50,092 - INFO - 処理開始 PROCESSID:20251017_042246
+2025-10-17 04:22:50,092 - INFO - 対象ユーザー: fiesta_grande.nail
+2025-10-17 04:22:50,092 - INFO - 処理を開始します
+2025-10-17 04:22:50,154 - INFO - 選択されたプロファイル: Profile 13
+2025-10-17 04:22:50,154 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-17 04:22:54,669 - INFO - fiesta_grande.nail のプロフィールページにアクセスします
+2025-10-17 04:23:16,658 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 04:23:19,756 - INFO - 動画の取得に失敗しました
+2025-10-17 04:23:19,756 - INFO - datetime属性の抽出を開始します
+2025-10-17 04:23:29,818 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x8efe83+66515]
+	GetHandleVerifier [0x0x8efec4+66580]
+	(No symbol) [0x0x6ddc48]
+	(No symbol) [0x0x728704]
+	(No symbol) [0x0x728aab]
+	(No symbol) [0x0x76f482]
+	(No symbol) [0x0x74b214]
+	(No symbol) [0x0x76cba7]
+	(No symbol) [0x0x74afc6]
+	(No symbol) [0x0x71c2ca]
+	(No symbol) [0x0x71d154]
+	GetHandleVerifier [0x0xb473b3+2521347]
+	GetHandleVerifier [0x0xb42333+2500739]
+	GetHandleVerifier [0x0x917cd4+229924]
+	GetHandleVerifier [0x0x908238+165768]
+	GetHandleVerifier [0x0x90eced+193085]
+	GetHandleVerifier [0x0x8f8198+100072]
+	GetHandleVerifier [0x0x8f8330+100480]
+	GetHandleVerifier [0x0x8e25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-17 04:23:40,170 - INFO - 画像の取得に失敗しました
+2025-10-17 04:23:42,611 - INFO - 処理終了
+================================================================================
+2025-10-17 08:18:46,915 - INFO - 処理開始 PROCESSID:20251017_081843
+2025-10-17 08:18:46,915 - INFO - 対象ユーザー: fiesta_grande.nail
+2025-10-17 08:18:46,915 - INFO - 処理を開始します
+2025-10-17 08:18:46,973 - INFO - 選択されたプロファイル: Profile 10
+2025-10-17 08:18:46,973 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-17 08:18:51,744 - INFO - fiesta_grande.nail のプロフィールページにアクセスします
+2025-10-17 08:19:14,087 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 08:19:17,186 - INFO - 動画の取得に失敗しました
+2025-10-17 08:19:17,187 - INFO - datetime属性の抽出を開始します
+2025-10-17 08:19:27,290 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x8efe83+66515]
+	GetHandleVerifier [0x0x8efec4+66580]
+	(No symbol) [0x0x6ddc48]
+	(No symbol) [0x0x728704]
+	(No symbol) [0x0x728aab]
+	(No symbol) [0x0x76f482]
+	(No symbol) [0x0x74b214]
+	(No symbol) [0x0x76cba7]
+	(No symbol) [0x0x74afc6]
+	(No symbol) [0x0x71c2ca]
+	(No symbol) [0x0x71d154]
+	GetHandleVerifier [0x0xb473b3+2521347]
+	GetHandleVerifier [0x0xb42333+2500739]
+	GetHandleVerifier [0x0x917cd4+229924]
+	GetHandleVerifier [0x0x908238+165768]
+	GetHandleVerifier [0x0x90eced+193085]
+	GetHandleVerifier [0x0x8f8198+100072]
+	GetHandleVerifier [0x0x8f8330+100480]
+	GetHandleVerifier [0x0x8e25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-17 08:19:37,692 - INFO - 画像の取得に失敗しました
+2025-10-17 08:19:40,333 - INFO - 処理終了
+================================================================================
+2025-10-17 16:56:57,364 - INFO - 処理開始 PROCESSID:20251017_165654
+2025-10-17 16:56:57,364 - INFO - 対象ユーザー: fiesta_grande.nail
+2025-10-17 16:56:57,364 - INFO - 処理を開始します
+2025-10-17 16:56:57,438 - INFO - 選択されたプロファイル: Profile 10
+2025-10-17 16:56:57,438 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-17 16:57:02,021 - INFO - fiesta_grande.nail のプロフィールページにアクセスします
+2025-10-17 16:57:24,372 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 16:57:27,518 - INFO - 動画の取得に失敗しました
+2025-10-17 16:57:27,518 - INFO - datetime属性の抽出を開始します
+2025-10-17 16:57:37,806 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x8efe83+66515]
+	GetHandleVerifier [0x0x8efec4+66580]
+	(No symbol) [0x0x6ddc48]
+	(No symbol) [0x0x728704]
+	(No symbol) [0x0x728aab]
+	(No symbol) [0x0x76f482]
+	(No symbol) [0x0x74b214]
+	(No symbol) [0x0x76cba7]
+	(No symbol) [0x0x74afc6]
+	(No symbol) [0x0x71c2ca]
+	(No symbol) [0x0x71d154]
+	GetHandleVerifier [0x0xb473b3+2521347]
+	GetHandleVerifier [0x0xb42333+2500739]
+	GetHandleVerifier [0x0x917cd4+229924]
+	GetHandleVerifier [0x0x908238+165768]
+	GetHandleVerifier [0x0x90eced+193085]
+	GetHandleVerifier [0x0x8f8198+100072]
+	GetHandleVerifier [0x0x8f8330+100480]
+	GetHandleVerifier [0x0x8e25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-17 16:57:48,147 - INFO - 画像の取得に失敗しました
+2025-10-17 16:57:50,597 - INFO - 処理終了
+================================================================================
+2025-10-17 20:20:40,331 - INFO - 処理開始 PROCESSID:20251017_202037
+2025-10-17 20:20:40,331 - INFO - 対象ユーザー: fiesta_grande.nail
+2025-10-17 20:20:40,331 - INFO - 処理を開始します
+2025-10-17 20:20:40,394 - INFO - 選択されたプロファイル: Profile 9
+2025-10-17 20:20:40,394 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-17 20:20:44,926 - INFO - fiesta_grande.nail のプロフィールページにアクセスします
+2025-10-17 20:21:06,618 - INFO - プロフィール写真のクリックに成功しました
+2025-10-17 20:21:09,733 - INFO - 動画の取得に失敗しました
+2025-10-17 20:21:09,734 - INFO - datetime属性の抽出を開始します
+2025-10-17 20:21:20,060 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x8efe83+66515]
+	GetHandleVerifier [0x0x8efec4+66580]
+	(No symbol) [0x0x6ddc48]
+	(No symbol) [0x0x728704]
+	(No symbol) [0x0x728aab]
+	(No symbol) [0x0x76f482]
+	(No symbol) [0x0x74b214]
+	(No symbol) [0x0x76cba7]
+	(No symbol) [0x0x74afc6]
+	(No symbol) [0x0x71c2ca]
+	(No symbol) [0x0x71d154]
+	GetHandleVerifier [0x0xb473b3+2521347]
+	GetHandleVerifier [0x0xb42333+2500739]
+	GetHandleVerifier [0x0x917cd4+229924]
+	GetHandleVerifier [0x0x908238+165768]
+	GetHandleVerifier [0x0x90eced+193085]
+	GetHandleVerifier [0x0x8f8198+100072]
+	GetHandleVerifier [0x0x8f8330+100480]
+	GetHandleVerifier [0x0x8e25ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-17 20:21:30,344 - INFO - 画像の取得に失敗しました
+2025-10-17 20:21:32,748 - INFO - 処理終了

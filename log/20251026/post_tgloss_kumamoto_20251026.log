@@ -1,0 +1,135 @@
+================================================================================
+2025-10-26 04:52:21,995 - INFO - 処理開始 PROCESSID:20251026_045213
+2025-10-26 04:52:21,995 - INFO - 対象ユーザー: tgloss_kumamoto
+2025-10-26 04:52:21,995 - INFO - 処理を開始します
+2025-10-26 04:52:22,108 - INFO - 選択されたプロファイル: Profile 9
+2025-10-26 04:52:22,114 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-26 04:52:33,404 - INFO - tgloss_kumamoto のプロフィールページにアクセスします
+2025-10-26 04:53:05,019 - INFO - 最新投稿を読み込みます
+2025-10-26 04:53:13,634 - INFO - 選定: 非ピン留め https://www.instagram.com/tgloss_kumamoto/p/DQQVpRPj8kj/?hl=ja
+2025-10-26 04:53:19,428 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 04:53:26,464 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 04:53:29,011 - INFO - datetime属性の抽出を開始します
+2025-10-26 04:53:40,937 - INFO - 抽出されたdatetime: 2025-10-26T02:15:27.000Z
+2025-10-26 04:53:40,937 - INFO - tgloss_kumamoto の投稿日時: 2025-10-26T02:15:27.000Z
+2025-10-26 04:53:41,397 - INFO - date:2025-10-26 11:15:27+09:00
+2025-10-26 04:53:41,398 - INFO - post_date:20251026
+2025-10-26 04:53:43,210 - INFO - カルーセル推定: 1枚
+2025-10-26 04:53:43,498 - INFO - 検出(SINGLE): https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/572654018_18532992142021670_2928280202483309306_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1MTU5MzY4NDU4OTU5NDkxNQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE1MzZ4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=3M-b8FIqsNkQ7kNvwFllgL8&_nc_oc=AdlFa6gkHe9zCEurEiMil8wLfoa6Nqoesu5qZL4JtWN4wY9xy1zzpDW5u35Pj4aTeTw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=qMD6lNc-mXXGXofttfJibw&oh=00_AfdX569awpnFt6Yk_-I3lJRuORpb066He-POSfmeIW8pAw&oe=69036E3C
+2025-10-26 04:53:43,499 - INFO - 1枚目: https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/572654018_18532992142021670_2928280202483309306_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1MTU5MzY4NDU4OTU5NDkxNQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE1MzZ4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=3M-b8FIqsNkQ7kNvwFllgL8&_nc_oc=AdlFa6gkHe9zCEurEiMil8wLfoa6Nqoesu5qZL4JtWN4wY9xy1zzpDW5u35Pj4aTeTw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=qMD6lNc-mXXGXofttfJibw&oh=00_AfdX569awpnFt6Yk_-I3lJRuORpb066He-POSfmeIW8pAw&oe=69036E3C
+2025-10-26 04:53:43,499 - INFO - [caption/by_username] 開始
+2025-10-26 04:53:44,650 - INFO - [caption/by_username] 説明文確定（先頭100）: '今年も七五三が始まりました〜
+
+袴姿、かっこよかったです☺️
+
+========= ティーグロス =========
+
+【営業時間】
+9時～18時（受付：カラー・パーマ17：00迄/カット17:30）'
+2025-10-26 04:53:44,659 - INFO - [caption/by_username] 説明文を保存: media\tgloss_kumamoto\description\20251026_045213
+2025-10-26 04:53:44,660 - INFO - 画像URLを取得しました
+2025-10-26 04:53:44,725 - INFO - INSERT(with-key): user=tgloss_kumamoto, key=Mzc1MTU5MzY4NDU4OTU5NDkxNQ==, dt=2025-10-26T02:15:27.000Z
+2025-10-26 04:53:44,727 - INFO - メディアを取得します
+2025-10-26 04:53:46,736 - INFO - ダウンロードを開始します: media\tgloss_kumamoto\tgloss_kumamoto_20251026045346.jpg
+2025-10-26 04:53:48,783 - INFO - ダウンロード完了: media\tgloss_kumamoto\tgloss_kumamoto_20251026045346.jpg
+2025-10-26 04:53:50,108 - INFO - 元の画像サイズ: 1536x2048
+2025-10-26 04:53:50,116 - INFO - サイズ変更は不要です
+2025-10-26 04:53:50,125 - INFO - 説明文:今年も七五三が始まりました〜
+
+袴姿、かっこよかったです☺️
+
+========= ティーグロス =========
+
+【営業時間】
+9時～18時（受付：カラー・パーマ17：00迄/カット17:30）
+
+定休日　月曜日、第一日曜日 
+
+◆ご予約はこちら↓
+ホットペッパービューティー
+https://beauty.hotpepper.jp/slnH000050572/
+
+住所📍
+熊本県熊本市東区新外2丁目3-17
+
+=========================
+
+#ティーグロス #Tgloss #美容室 #美容院 #美容師 #髪型 #ヘアカット #カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #縮毛矯正 #ヘアサロン #熊本ヘアセット#熊本市美容院 #熊本市美容室 #熊本市ヘアサロン #熊本市ヘアカット #熊本市髪質改善  #熊本市女性人気美容室 #熊本東区美容室 #熊本東区美容院 #熊本東区ヘアサロン #熊本市着付け #編みおろし #編みおろしアレンジ
+2025-10-26 04:54:11,100 - INFO - 処理終了
+================================================================================
+2025-10-26 04:54:18,699 - INFO - 処理開始: Mode=post, Username=tgloss_kumamoto, GBP=tgloss
+2025-10-26 04:54:18,699 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJ0Z2xvc3MiXQ.
+2025-10-26 04:55:10,181 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\tgloss_kumamoto\tgloss_kumamoto_20251026045346.jpg
+2025-10-26 04:55:13,365 - INFO - Waiting for description field...
+2025-10-26 04:55:13,440 - INFO - Setting description via JS (no send_keys)...
+2025-10-26 04:55:14,523 - INFO - Looking for button section...
+2025-10-26 04:55:19,039 - INFO - Trying to select CALL option...
+2025-10-26 04:55:19,291 - INFO - CALL option successfully selected
+2025-10-26 04:55:21,292 - INFO - Clicking submit button...
+2025-10-26 04:55:30,031 - INFO - 処理完了
+================================================================================
+2025-10-26 11:31:56,097 - INFO - 処理開始 PROCESSID:20251026_113152
+2025-10-26 11:31:56,097 - INFO - 対象ユーザー: tgloss_kumamoto
+2025-10-26 11:31:56,097 - INFO - 処理を開始します
+2025-10-26 11:31:56,156 - INFO - 選択されたプロファイル: Profile 10
+2025-10-26 11:31:56,156 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-26 11:32:05,226 - INFO - tgloss_kumamoto のプロフィールページにアクセスします
+2025-10-26 11:32:37,075 - INFO - 最新投稿を読み込みます
+2025-10-26 11:32:47,023 - INFO - 選定: 非ピン留め https://www.instagram.com/tgloss_kumamoto/p/DQQVpRPj8kj/?hl=ja
+2025-10-26 11:32:52,057 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 11:32:57,379 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 11:32:58,320 - INFO - datetime属性の抽出を開始します
+2025-10-26 11:33:01,890 - INFO - 抽出されたdatetime: 2025-10-26T02:15:27.000Z
+2025-10-26 11:33:01,891 - INFO - tgloss_kumamoto の投稿日時: 2025-10-26T02:15:27.000Z
+2025-10-26 11:33:02,735 - INFO - date:2025-10-26 11:15:27+09:00
+2025-10-26 11:33:02,743 - INFO - post_date:20251026
+2025-10-26 11:33:20,054 - INFO - カルーセル推定: 1枚
+2025-10-26 11:33:20,389 - INFO - 検出(SINGLE): https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/572654018_18532992142021670_2928280202483309306_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1MTU5MzY4NDU4OTU5NDkxNQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE1MzZ4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=3M-b8FIqsNkQ7kNvwFllgL8&_nc_oc=AdlFa6gkHe9zCEurEiMil8wLfoa6Nqoesu5qZL4JtWN4wY9xy1zzpDW5u35Pj4aTeTw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=MI3sI3J-GCKrz1eNyyaUNQ&oh=00_AfcDbam0k6p0-l4eeyXVkJwUKMAOK2RhxVfaLPy6QZDV-A&oe=6903DEBC
+2025-10-26 11:33:20,389 - INFO - 1枚目: https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/572654018_18532992142021670_2928280202483309306_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1MTU5MzY4NDU4OTU5NDkxNQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE1MzZ4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=3M-b8FIqsNkQ7kNvwFllgL8&_nc_oc=AdlFa6gkHe9zCEurEiMil8wLfoa6Nqoesu5qZL4JtWN4wY9xy1zzpDW5u35Pj4aTeTw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=MI3sI3J-GCKrz1eNyyaUNQ&oh=00_AfcDbam0k6p0-l4eeyXVkJwUKMAOK2RhxVfaLPy6QZDV-A&oe=6903DEBC
+2025-10-26 11:33:20,390 - INFO - [caption/by_username] 開始
+2025-10-26 11:33:20,831 - INFO - [caption/by_username] 説明文確定（先頭100）: '今年も七五三が始まりました〜
+
+袴姿、かっこよかったです☺️
+
+========= ティーグロス =========
+
+【営業時間】
+9時～18時（受付：カラー・パーマ17：00迄/カット17:30）'
+2025-10-26 11:33:20,833 - INFO - [caption/by_username] 説明文を保存: media\tgloss_kumamoto\description\20251026_113152
+2025-10-26 11:33:20,833 - INFO - 画像URLを取得しました
+2025-10-26 11:33:20,841 - INFO - DUP(with-key): user=tgloss_kumamoto, key=Mzc1MTU5MzY4NDU4OTU5NDkxNQ==, dt=2025-10-26T02:15:27.000Z
+2025-10-26 11:33:20,841 - INFO - このレコードは存在します
+2025-10-26 11:33:20,842 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-26 17:34:58,926 - INFO - 処理開始 PROCESSID:20251026_173455
+2025-10-26 17:34:58,926 - INFO - 対象ユーザー: tgloss_kumamoto
+2025-10-26 17:34:58,926 - INFO - 処理を開始します
+2025-10-26 17:34:58,983 - INFO - 選択されたプロファイル: Profile 12
+2025-10-26 17:34:58,983 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-26 17:35:03,247 - INFO - tgloss_kumamoto のプロフィールページにアクセスします
+2025-10-26 17:35:19,560 - INFO - 最新投稿を読み込みます
+2025-10-26 17:35:25,185 - INFO - 選定: 非ピン留め https://www.instagram.com/tgloss_kumamoto/p/DQQVpRPj8kj/?hl=ja
+2025-10-26 17:35:34,926 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 17:35:38,899 - INFO - 最新投稿ページにアクセスしました
+2025-10-26 17:35:39,178 - INFO - datetime属性の抽出を開始します
+2025-10-26 17:35:39,560 - INFO - 抽出されたdatetime: 2025-10-26T02:15:27.000Z
+2025-10-26 17:35:39,560 - INFO - tgloss_kumamoto の投稿日時: 2025-10-26T02:15:27.000Z
+2025-10-26 17:35:39,662 - INFO - date:2025-10-26 11:15:27+09:00
+2025-10-26 17:35:39,663 - INFO - post_date:20251026
+2025-10-26 17:35:39,903 - INFO - カルーセル推定: 1枚
+2025-10-26 17:35:40,559 - INFO - 検出(SINGLE): https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/572654018_18532992142021670_2928280202483309306_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1MTU5MzY4NDU4OTU5NDkxNQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE1MzZ4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=3M-b8FIqsNkQ7kNvwFllgL8&_nc_oc=AdlFa6gkHe9zCEurEiMil8wLfoa6Nqoesu5qZL4JtWN4wY9xy1zzpDW5u35Pj4aTeTw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=v1OBirrPpvv8eFmV8PXFnA&oh=00_AfcEtytj7dtkAtc50__cNNV-QjHmgvHdJqaM3Tz4uvgolA&oe=690416FC
+2025-10-26 17:35:40,559 - INFO - 1枚目: https://scontent-lhr8-2.cdninstagram.com/v/t51.82787-15/572654018_18532992142021670_2928280202483309306_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzc1MTU5MzY4NDU4OTU5NDkxNQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE1MzZ4MjA0OC5zZHIuQzMifQ%3D%3D&_nc_ohc=3M-b8FIqsNkQ7kNvwFllgL8&_nc_oc=AdlFa6gkHe9zCEurEiMil8wLfoa6Nqoesu5qZL4JtWN4wY9xy1zzpDW5u35Pj4aTeTw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_gid=v1OBirrPpvv8eFmV8PXFnA&oh=00_AfcEtytj7dtkAtc50__cNNV-QjHmgvHdJqaM3Tz4uvgolA&oe=690416FC
+2025-10-26 17:35:40,559 - INFO - [caption/by_username] 開始
+2025-10-26 17:35:42,012 - INFO - [caption/by_username] 説明文確定（先頭100）: '今年も七五三が始まりました〜
+
+袴姿、かっこよかったです☺️
+
+========= ティーグロス =========
+
+【営業時間】
+9時～18時（受付：カラー・パーマ17：00迄/カット17:30）'
+2025-10-26 17:35:42,015 - INFO - [caption/by_username] 説明文を保存: media\tgloss_kumamoto\description\20251026_173455
+2025-10-26 17:35:42,015 - INFO - 画像URLを取得しました
+2025-10-26 17:35:42,018 - INFO - DUP(with-key): user=tgloss_kumamoto, key=Mzc1MTU5MzY4NDU4OTU5NDkxNQ==, dt=2025-10-26T02:15:27.000Z
+2025-10-26 17:35:42,018 - INFO - このレコードは存在します
+2025-10-26 17:35:42,018 - INFO - 全件レコードが存在します

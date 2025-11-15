@@ -1,0 +1,116 @@
+================================================================================
+2025-10-24 01:57:27,624 - INFO - 処理開始 PROCESSID:20251024_015724
+2025-10-24 01:57:27,624 - INFO - 対象ユーザー: tgloss_kumamoto
+2025-10-24 01:57:27,624 - INFO - 処理を開始します
+2025-10-24 01:57:27,689 - INFO - 選択されたプロファイル: Profile 12
+2025-10-24 01:57:27,689 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-24 01:57:32,489 - INFO - tgloss_kumamoto のプロフィールページにアクセスします
+2025-10-24 01:57:54,475 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 01:57:57,769 - INFO - 動画の取得に失敗しました
+2025-10-24 01:57:57,770 - INFO - datetime属性の抽出を開始します
+2025-10-24 01:57:57,844 - INFO - 抽出されたdatetime: 2025-10-24T01:13:33.000Z
+2025-10-24 01:57:57,867 - INFO - 画像URLを取得しました
+2025-10-24 01:57:57,917 - INFO - INSERT(with-key): user=tgloss_kumamoto, key=Mzc1MDExMzc0NjYwMjY2NTIwMA==, dt=2025-10-24T01:13:33.000Z
+2025-10-24 01:57:59,920 - INFO - ダウンロードを開始します: media\tgloss_kumamoto\tgloss_kumamoto_20251024015759.jpg
+2025-10-24 01:58:01,085 - INFO - ダウンロード完了: media\tgloss_kumamoto\tgloss_kumamoto_20251024015759.jpg
+2025-10-24 01:58:01,193 - INFO - 元の画像サイズ: 480x853
+2025-10-24 01:58:01,193 - INFO - サイズ変更は不要です
+2025-10-24 01:58:05,245 - INFO - 処理終了
+2025-10-24 01:58:05,247 - INFO - 説明文_AI: None
+2025-10-24 01:58:05,247 - INFO - 説明文_最終: 
+================================================================================
+2025-10-24 01:58:11,328 - INFO - 処理開始: Mode=story, Username=tgloss_kumamoto, GBP=tgloss
+2025-10-24 01:58:11,328 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJ0Z2xvc3MiXQ.
+2025-10-24 01:58:34,362 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\tgloss_kumamoto\tgloss_kumamoto_20251024015759.jpg
+2025-10-24 01:58:37,454 - INFO - 一時ファイルが見つかりません: media\tgloss_kumamoto\description\20251024_015724
+2025-10-24 01:58:37,455 - INFO - Looking for button section...
+2025-10-24 01:58:42,019 - INFO - Trying to select CALL option...
+2025-10-24 01:58:42,269 - INFO - CALL option successfully selected
+2025-10-24 01:58:44,270 - INFO - Clicking submit button...
+2025-10-24 01:58:52,992 - INFO - 処理完了
+================================================================================
+2025-10-24 06:12:32,974 - INFO - 処理開始 PROCESSID:20251024_061229
+2025-10-24 06:12:32,974 - INFO - 対象ユーザー: tgloss_kumamoto
+2025-10-24 06:12:32,974 - INFO - 処理を開始します
+2025-10-24 06:12:33,033 - INFO - 選択されたプロファイル: Profile 9
+2025-10-24 06:12:33,033 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-24 06:12:38,283 - INFO - tgloss_kumamoto のプロフィールページにアクセスします
+2025-10-24 06:13:00,834 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 06:13:04,086 - INFO - 動画の取得に失敗しました
+2025-10-24 06:13:04,087 - INFO - datetime属性の抽出を開始します
+2025-10-24 06:13:04,244 - INFO - 抽出されたdatetime: 2025-10-24T01:13:33.000Z
+2025-10-24 06:13:04,285 - INFO - 画像URLを取得しました
+2025-10-24 06:13:04,290 - INFO - DUP(with-key): user=tgloss_kumamoto, key=Mzc1MDExMzc0NjYwMjY2NTIwMA==, dt=2025-10-24T01:13:33.000Z
+================================================================================
+2025-10-24 10:28:11,039 - INFO - 処理開始 PROCESSID:20251024_102807
+2025-10-24 10:28:11,039 - INFO - 対象ユーザー: tgloss_kumamoto
+2025-10-24 10:28:11,039 - INFO - 処理を開始します
+2025-10-24 10:28:11,103 - INFO - 選択されたプロファイル: Profile 10
+2025-10-24 10:28:11,103 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-24 10:28:15,858 - INFO - tgloss_kumamoto のプロフィールページにアクセスします
+2025-10-24 10:28:37,722 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 10:28:41,118 - INFO - 動画の取得に失敗しました
+2025-10-24 10:28:41,118 - INFO - datetime属性の抽出を開始します
+2025-10-24 10:28:41,207 - INFO - 抽出されたdatetime: 2025-10-24T01:13:33.000Z
+2025-10-24 10:28:41,232 - INFO - 画像URLを取得しました
+2025-10-24 10:28:41,234 - INFO - DUP(with-key): user=tgloss_kumamoto, key=Mzc1MDExMzc0NjYwMjY2NTIwMA==, dt=2025-10-24T01:13:33.000Z
+================================================================================
+2025-10-24 14:40:55,881 - INFO - 処理開始 PROCESSID:20251024_144052
+2025-10-24 14:40:55,881 - INFO - 対象ユーザー: tgloss_kumamoto
+2025-10-24 14:40:55,881 - INFO - 処理を開始します
+2025-10-24 14:40:55,941 - INFO - 選択されたプロファイル: Profile 9
+2025-10-24 14:40:55,941 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-24 14:41:00,670 - INFO - tgloss_kumamoto のプロフィールページにアクセスします
+2025-10-24 14:41:22,787 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 14:41:23,487 - INFO - tgloss_kumamoto: 動画を検出しました
+2025-10-24 14:41:23,487 - INFO - datetime属性の抽出を開始します
+2025-10-24 14:41:23,517 - INFO - 抽出されたdatetime: 2025-10-24T01:33:29.000Z
+2025-10-24 14:41:23,518 - INFO - tgloss_kumamoto の投稿日時: 2025-10-24T01:33:29.000Z
+2025-10-24 14:41:24,837 - INFO - 生成URL:https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m78/AQO6Zpg2P_Gxb3r9y2_llXuq00Yi4VLGaHVGKZHaV65p347f8V42pI4hnQC4EDYaidr3UqNAif1ljOvbM9VnoEPPAxJ1KKp4ooAn80Q.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=pMAWiS3Ph7MQ7kNvwEzPisV&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMTkxMzY3NTcxMzUzMzQwLCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6MjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=nrrB3rrrGSsF7OjhjeUXqQ&_nc_zt=28&oh=00_Affqs3AovDwALN1fUQJ-uOIEuSl_0aMaDJkZimf-9Smdzg&oe=68FD7ACD&bytestart=0&byteend=320834
+2025-10-24 14:41:24,837 - INFO - 動画URLを取得しました
+2025-10-24 14:41:25,155 - INFO - INSERT(with-key): user=tgloss_kumamoto, key=AQO6Zpg2P_Gxb3r9y2_llXuq00Yi4VLGaHVGKZHaV65p347f8V42pI4hnQC4EDYaidr3UqNAif1ljOvbM9VnoEPPAxJ1KKp4ooAn80Q, dt=2025-10-24T01:33:29.000Z
+2025-10-24 14:41:27,166 - INFO - ダウンロードを開始します: media\tgloss_kumamoto\tgloss_kumamoto_20251024144127.mp4
+2025-10-24 14:41:28,954 - INFO - ダウンロード完了: media\tgloss_kumamoto\tgloss_kumamoto_20251024144127.mp4
+2025-10-24 14:41:34,478 - INFO - 処理終了
+2025-10-24 14:41:34,478 - INFO - 説明文_AI: None
+2025-10-24 14:41:34,478 - INFO - 説明文_最終: 
+================================================================================
+2025-10-24 14:41:40,534 - INFO - 処理開始: Mode=story, Username=tgloss_kumamoto, GBP=tgloss
+2025-10-24 14:41:40,534 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJ0Z2xvc3MiXQ.
+2025-10-24 14:42:53,327 - INFO - 元の動画サイズ: 720x1280
+2025-10-24 14:42:53,327 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-24 14:42:53,327 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\tgloss_kumamoto\tgloss_kumamoto_20251024144127.mp4
+2025-10-24 14:43:03,378 - INFO - 一時ファイルが見つかりません: media\tgloss_kumamoto\description\20251024_144052
+2025-10-24 14:43:03,378 - INFO - Looking for button section...
+2025-10-24 14:43:07,927 - INFO - Trying to select CALL option...
+2025-10-24 14:43:08,168 - INFO - CALL option successfully selected
+2025-10-24 14:43:10,169 - INFO - Clicking submit button...
+2025-10-24 14:43:18,952 - INFO - 処理完了
+================================================================================
+2025-10-24 18:48:18,166 - INFO - 処理開始 PROCESSID:20251024_184815
+2025-10-24 18:48:18,166 - INFO - 対象ユーザー: tgloss_kumamoto
+2025-10-24 18:48:18,166 - INFO - 処理を開始します
+2025-10-24 18:48:18,228 - INFO - 選択されたプロファイル: Profile 13
+2025-10-24 18:48:18,228 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-24 18:48:22,595 - INFO - tgloss_kumamoto のプロフィールページにアクセスします
+2025-10-24 18:48:44,595 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 18:48:47,988 - INFO - 動画の取得に失敗しました
+2025-10-24 18:48:47,989 - INFO - datetime属性の抽出を開始します
+2025-10-24 18:48:48,232 - INFO - 抽出されたdatetime: 2025-10-24T01:13:33.000Z
+2025-10-24 18:48:48,473 - INFO - 画像URLを取得しました
+2025-10-24 18:48:48,477 - INFO - DUP(with-key): user=tgloss_kumamoto, key=Mzc1MDExMzc0NjYwMjY2NTIwMA==, dt=2025-10-24T01:13:33.000Z
+================================================================================
+2025-10-24 22:51:21,110 - INFO - 処理開始 PROCESSID:20251024_225117
+2025-10-24 22:51:21,110 - INFO - 対象ユーザー: tgloss_kumamoto
+2025-10-24 22:51:21,110 - INFO - 処理を開始します
+2025-10-24 22:51:21,176 - INFO - 選択されたプロファイル: Profile 10
+2025-10-24 22:51:21,176 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-24 22:51:26,495 - INFO - tgloss_kumamoto のプロフィールページにアクセスします
+2025-10-24 22:51:48,640 - INFO - プロフィール写真のクリックに成功しました
+2025-10-24 22:51:49,621 - INFO - tgloss_kumamoto: 動画を検出しました
+2025-10-24 22:51:49,621 - INFO - datetime属性の抽出を開始します
+2025-10-24 22:51:49,650 - INFO - 抽出されたdatetime: 2025-10-24T01:33:29.000Z
+2025-10-24 22:51:49,650 - INFO - tgloss_kumamoto の投稿日時: 2025-10-24T01:33:29.000Z
+2025-10-24 22:51:51,041 - INFO - 生成URL:https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m78/AQO6Zpg2P_Gxb3r9y2_llXuq00Yi4VLGaHVGKZHaV65p347f8V42pI4hnQC4EDYaidr3UqNAif1ljOvbM9VnoEPPAxJ1KKp4ooAn80Q.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=pMAWiS3Ph7MQ7kNvwEzPisV&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MjE5MTM2NzU3MTM1MzM0MCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=PV2lzbIpweP95uX50FqnpA&_nc_zt=28&oh=00_AfcNKx_0LyJphJ_IkYP1pjP4osXKRlRbpAB7-fas-gXSyg&oe=68FDEB4D&bytestart=0&byteend=425579
+2025-10-24 22:51:51,041 - INFO - 動画URLを取得しました
+2025-10-24 22:51:51,044 - INFO - DUP(with-key): user=tgloss_kumamoto, key=AQO6Zpg2P_Gxb3r9y2_llXuq00Yi4VLGaHVGKZHaV65p347f8V42pI4hnQC4EDYaidr3UqNAif1ljOvbM9VnoEPPAxJ1KKp4ooAn80Q, dt=2025-10-24T01:33:29.000Z

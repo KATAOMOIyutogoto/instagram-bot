@@ -1,0 +1,288 @@
+================================================================================
+2025-11-13 02:37:10,881 - INFO - 処理開始 PROCESSID:20251113_023707
+2025-11-13 02:37:10,881 - INFO - 対象ユーザー: lapishsakurada
+2025-11-13 02:37:10,881 - INFO - 処理を開始します
+2025-11-13 02:37:10,942 - INFO - 選択されたプロファイル: Profile 13
+2025-11-13 02:37:10,942 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-13 02:37:15,617 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-13 02:37:28,170 - INFO - 最新投稿を読み込みます
+2025-11-13 02:37:33,554 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQ-k6MiAe9d/?hl=ja
+2025-11-13 02:37:36,690 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 02:37:39,839 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 02:37:39,927 - INFO - datetime属性の抽出を開始します
+2025-11-13 02:37:39,957 - INFO - 抽出されたdatetime: 2025-11-13T01:12:27.000Z
+2025-11-13 02:37:39,958 - INFO - lapishsakurada の投稿日時: 2025-11-13T01:12:27.000Z
+2025-11-13 02:37:39,964 - INFO - date:2025-11-13 10:12:27+09:00
+2025-11-13 02:37:39,965 - INFO - post_date:20251113
+2025-11-13 02:37:40,021 - INFO - カルーセル推定: 1枚
+2025-11-13 02:37:40,098 - INFO - 検出(SINGLE): https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=0PkUrMgJzMsQ7kNvwFmyL9o&_nc_oc=AdnbZ7ZV32fdfS9awuL21m733H7Dwwnum50O7l-eRCJWbbwlwx8HVVHkMnjQPdU_At8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=r8sR61p9aqcN8g83EPV_Dg&oh=00_AfhTxS_midPGTMNka2EDbmt52pY0DmGGAlKtBCkiuEb9ig&oe=691B19A4
+2025-11-13 02:37:40,099 - INFO - 1枚目: https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=0PkUrMgJzMsQ7kNvwFmyL9o&_nc_oc=AdnbZ7ZV32fdfS9awuL21m733H7Dwwnum50O7l-eRCJWbbwlwx8HVVHkMnjQPdU_At8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=r8sR61p9aqcN8g83EPV_Dg&oh=00_AfhTxS_midPGTMNka2EDbmt52pY0DmGGAlKtBCkiuEb9ig&oe=691B19A4
+2025-11-13 02:37:40,099 - INFO - [caption/by_username] 開始
+2025-11-13 02:37:40,382 - INFO - [caption/by_username] 説明文確定（先頭100）: 'これからもLapishをよろしくお願い致します！
+Lapishアシスタントの河合です！
+今回ご紹介するのは「ミルボン エルジューダ フリッズフィクサーエマルジョン」です！
+どんな人に向いてる？
+髪のう'
+2025-11-13 02:37:40,383 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251113_023707
+2025-11-13 02:37:40,383 - INFO - 画像URLを取得しました
+2025-11-13 02:37:40,420 - INFO - INSERT(with-key): user=lapishsakurada, key=Mzc2NDYwODY2NzM4NzgxNzgyMQ==, dt=2025-11-13T01:12:27.000Z
+2025-11-13 02:37:40,420 - INFO - メディアを取得します
+2025-11-13 02:37:42,421 - INFO - ダウンロードを開始します: media\lapishsakurada\lapishsakurada_20251113023742.jpg
+2025-11-13 02:37:43,364 - INFO - ダウンロード完了: media\lapishsakurada\lapishsakurada_20251113023742.jpg
+2025-11-13 02:37:43,429 - INFO - 元の画像サイズ: 854x854
+2025-11-13 02:37:43,429 - INFO - サイズ変更は不要です
+2025-11-13 02:37:43,430 - INFO - 説明文:これからもLapishをよろしくお願い致します！
+Lapishアシスタントの河合です！
+今回ご紹介するのは「ミルボン エルジューダ フリッズフィクサーエマルジョン」です！
+どんな人に向いてる？
+髪のうねり・広がりが気になる方
+湿気で髪がまとまらない方
+やわらかくて乾燥しやすい髪質の方
+しっとりしながらも、重すぎない仕上がりを求める！
+ 使うとどうなる？
+湿気に強く、うねりや広がりを抑えてくれます！
+	•	まとまりのある、なめらかな髪に仕上がります！
+	•	ベタつきにくく、指通りがよくなります！
+	•	軽やかで自然なツヤが出ます！
+	•	ドライヤー前につけると熱保護効果もあります！
+
+当店にご来店いただくと、さらに詳しくご説明させていただきますので、これからもよろしくお願い致します🙇‍♂️🙇🏻‍♀️
+
+【営業時間】
+平日/土曜日9:30～18:30、日曜日9:30～17:30
+定休日	毎週火曜日 
+
+◆ご予約はこちら↓
+ホットペッパービューティー
+https://beauty.hotpepper.jp/slnH000210897/
+　
+住所📍
+山形県山形市桜田東3-8-4 
+
+===================================
+
+#Lapish #ラピッシュ #山形駅 #美容室 #美容院 #美容師 #髪型 #ヘアカット #カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #ヘアサロン #ヘッドスパ #山形市美容院 #山形市美容室 #山形市ヘアサロン #山形美容院 #山形美容室 #山形ヘアサロン #山形市カット #山形市髪質改善 #山形市メンズカット #山形市女性人気美容室 #蔵王美容室 #蔵王美容院 #桜田美容室 #桜田美容院
+
+アシスタント  河合
+2025-11-13 02:37:45,848 - INFO - 処理終了
+================================================================================
+2025-11-13 02:37:51,828 - INFO - 処理開始: Mode=post, Username=lapishsakurada, GBP=lapishsakurada
+2025-11-13 02:37:51,831 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJsYXBpc2hzYWt1cmFkYSJd.
+2025-11-13 02:38:13,698 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\lapishsakurada\lapishsakurada_20251113023742.jpg
+2025-11-13 02:38:17,004 - INFO - Waiting for description field...
+2025-11-13 02:38:17,039 - INFO - Setting description via JS (no send_keys)...
+2025-11-13 02:38:18,176 - INFO - Looking for button section...
+2025-11-13 02:38:22,716 - INFO - Trying to select CALL option...
+2025-11-13 02:38:23,150 - INFO - CALL option successfully selected
+2025-11-13 02:38:25,151 - INFO - Clicking submit button...
+2025-11-13 02:38:33,812 - INFO - 処理完了
+================================================================================
+2025-11-13 05:36:21,931 - INFO - 処理開始 PROCESSID:20251113_053618
+2025-11-13 05:36:21,931 - INFO - 対象ユーザー: lapishsakurada
+2025-11-13 05:36:21,931 - INFO - 処理を開始します
+2025-11-13 05:36:21,994 - INFO - 選択されたプロファイル: Profile 10
+2025-11-13 05:36:21,994 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-13 05:36:26,615 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-13 05:36:38,475 - INFO - 最新投稿を読み込みます
+2025-11-13 05:36:43,976 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQ-k6MiAe9d/?hl=ja
+2025-11-13 05:36:47,533 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 05:36:51,868 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 05:36:52,027 - INFO - datetime属性の抽出を開始します
+2025-11-13 05:36:52,074 - INFO - 抽出されたdatetime: 2025-11-13T01:12:27.000Z
+2025-11-13 05:36:52,074 - INFO - lapishsakurada の投稿日時: 2025-11-13T01:12:27.000Z
+2025-11-13 05:36:52,080 - INFO - date:2025-11-13 10:12:27+09:00
+2025-11-13 05:36:52,081 - INFO - post_date:20251113
+2025-11-13 05:36:52,128 - INFO - カルーセル推定: 1枚
+2025-11-13 05:36:52,163 - INFO - 検出(SINGLE): https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=0PkUrMgJzMsQ7kNvwFmyL9o&_nc_oc=AdnbZ7ZV32fdfS9awuL21m733H7Dwwnum50O7l-eRCJWbbwlwx8HVVHkMnjQPdU_At8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=cRErTCn1YuE9eNSqTEgDFw&oh=00_AfhnlJZhliO2v5hEpBXqbb8MPm_-eqybICNS8omKnFU6Qw&oe=691B51E4
+2025-11-13 05:36:52,163 - INFO - 1枚目: https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=0PkUrMgJzMsQ7kNvwFmyL9o&_nc_oc=AdnbZ7ZV32fdfS9awuL21m733H7Dwwnum50O7l-eRCJWbbwlwx8HVVHkMnjQPdU_At8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=cRErTCn1YuE9eNSqTEgDFw&oh=00_AfhnlJZhliO2v5hEpBXqbb8MPm_-eqybICNS8omKnFU6Qw&oe=691B51E4
+2025-11-13 05:36:52,163 - INFO - [caption/by_username] 開始
+2025-11-13 05:36:52,280 - INFO - [caption/by_username] 説明文確定（先頭100）: 'これからもLapishをよろしくお願い致します！
+Lapishアシスタントの河合です！
+今回ご紹介するのは「ミルボン エルジューダ フリッズフィクサーエマルジョン」です！
+どんな人に向いてる？
+髪のう'
+2025-11-13 05:36:52,282 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251113_053618
+2025-11-13 05:36:52,282 - INFO - 画像URLを取得しました
+2025-11-13 05:36:52,285 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc2NDYwODY2NzM4NzgxNzgyMQ==, dt=2025-11-13T01:12:27.000Z
+2025-11-13 05:36:52,285 - INFO - このレコードは存在します
+2025-11-13 05:36:52,285 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-13 08:34:44,603 - INFO - 処理開始 PROCESSID:20251113_083440
+2025-11-13 08:34:44,603 - INFO - 対象ユーザー: lapishsakurada
+2025-11-13 08:34:44,603 - INFO - 処理を開始します
+2025-11-13 08:34:44,666 - INFO - 選択されたプロファイル: Profile 12
+2025-11-13 08:34:44,666 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-13 08:34:49,250 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-13 08:35:01,516 - INFO - 最新投稿を読み込みます
+2025-11-13 08:35:07,022 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQ-k6MiAe9d/?hl=ja
+2025-11-13 08:35:10,313 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 08:35:14,194 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 08:35:14,304 - INFO - datetime属性の抽出を開始します
+2025-11-13 08:35:14,379 - INFO - 抽出されたdatetime: 2025-11-13T01:12:27.000Z
+2025-11-13 08:35:14,379 - INFO - lapishsakurada の投稿日時: 2025-11-13T01:12:27.000Z
+2025-11-13 08:35:14,391 - INFO - date:2025-11-13 10:12:27+09:00
+2025-11-13 08:35:14,391 - INFO - post_date:20251113
+2025-11-13 08:35:14,454 - INFO - カルーセル推定: 1枚
+2025-11-13 08:35:14,495 - INFO - 検出(SINGLE): https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=0PkUrMgJzMsQ7kNvwFmyL9o&_nc_oc=AdnbZ7ZV32fdfS9awuL21m733H7Dwwnum50O7l-eRCJWbbwlwx8HVVHkMnjQPdU_At8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=qldqhpM9k0tWlxvNJ4absg&oh=00_Afhxog9iUgGbDimyk50lD4s3nZT24gw2ziPjtIJefTwKUg&oe=691B51E4
+2025-11-13 08:35:14,495 - INFO - 1枚目: https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=0PkUrMgJzMsQ7kNvwFmyL9o&_nc_oc=AdnbZ7ZV32fdfS9awuL21m733H7Dwwnum50O7l-eRCJWbbwlwx8HVVHkMnjQPdU_At8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=qldqhpM9k0tWlxvNJ4absg&oh=00_Afhxog9iUgGbDimyk50lD4s3nZT24gw2ziPjtIJefTwKUg&oe=691B51E4
+2025-11-13 08:35:14,495 - INFO - [caption/by_username] 開始
+2025-11-13 08:35:14,590 - INFO - [caption/by_username] 説明文確定（先頭100）: 'これからもLapishをよろしくお願い致します！
+Lapishアシスタントの河合です！
+今回ご紹介するのは「ミルボン エルジューダ フリッズフィクサーエマルジョン」です！
+どんな人に向いてる？
+髪のう'
+2025-11-13 08:35:14,592 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251113_083440
+2025-11-13 08:35:14,592 - INFO - 画像URLを取得しました
+2025-11-13 08:35:14,594 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc2NDYwODY2NzM4NzgxNzgyMQ==, dt=2025-11-13T01:12:27.000Z
+2025-11-13 08:35:14,594 - INFO - このレコードは存在します
+2025-11-13 08:35:14,594 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-13 11:29:38,160 - INFO - 処理開始 PROCESSID:20251113_112934
+2025-11-13 11:29:38,160 - INFO - 対象ユーザー: lapishsakurada
+2025-11-13 11:29:38,162 - INFO - 処理を開始します
+2025-11-13 11:29:38,220 - INFO - 選択されたプロファイル: Profile 12
+2025-11-13 11:29:38,220 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-13 11:29:42,740 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-13 11:29:54,612 - INFO - 最新投稿を読み込みます
+2025-11-13 11:29:59,953 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQ-k6MiAe9d/?hl=ja
+2025-11-13 11:30:03,912 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 11:30:07,855 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 11:30:07,923 - INFO - datetime属性の抽出を開始します
+2025-11-13 11:30:08,041 - INFO - 抽出されたdatetime: 2025-11-13T01:12:27.000Z
+2025-11-13 11:30:08,041 - INFO - lapishsakurada の投稿日時: 2025-11-13T01:12:27.000Z
+2025-11-13 11:30:08,047 - INFO - date:2025-11-13 10:12:27+09:00
+2025-11-13 11:30:08,047 - INFO - post_date:20251113
+2025-11-13 11:30:08,104 - INFO - カルーセル推定: 1枚
+2025-11-13 11:30:08,144 - INFO - 検出(SINGLE): https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=0PkUrMgJzMsQ7kNvwFmyL9o&_nc_oc=AdnbZ7ZV32fdfS9awuL21m733H7Dwwnum50O7l-eRCJWbbwlwx8HVVHkMnjQPdU_At8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=4k4pe9M3GepFQvWPQnnhpQ&oh=00_AfjJ0njdx1d4SExf_X8y8k5iOkZ-IFuGAEBehwmphyR59w&oe=691B8A24
+2025-11-13 11:30:08,144 - INFO - 1枚目: https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=0PkUrMgJzMsQ7kNvwFmyL9o&_nc_oc=AdnbZ7ZV32fdfS9awuL21m733H7Dwwnum50O7l-eRCJWbbwlwx8HVVHkMnjQPdU_At8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=4k4pe9M3GepFQvWPQnnhpQ&oh=00_AfjJ0njdx1d4SExf_X8y8k5iOkZ-IFuGAEBehwmphyR59w&oe=691B8A24
+2025-11-13 11:30:08,144 - INFO - [caption/by_username] 開始
+2025-11-13 11:30:08,399 - INFO - [caption/by_username] 説明文確定（先頭100）: 'これからもLapishをよろしくお願い致します！
+Lapishアシスタントの河合です！
+今回ご紹介するのは「ミルボン エルジューダ フリッズフィクサーエマルジョン」です！
+どんな人に向いてる？
+髪のう'
+2025-11-13 11:30:08,401 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251113_112934
+2025-11-13 11:30:08,401 - INFO - 画像URLを取得しました
+2025-11-13 11:30:08,403 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc2NDYwODY2NzM4NzgxNzgyMQ==, dt=2025-11-13T01:12:27.000Z
+2025-11-13 11:30:08,403 - INFO - このレコードは存在します
+2025-11-13 11:30:08,403 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-13 14:23:44,117 - INFO - 処理開始 PROCESSID:20251113_142340
+2025-11-13 14:23:44,118 - INFO - 対象ユーザー: lapishsakurada
+2025-11-13 14:23:44,118 - INFO - 処理を開始します
+2025-11-13 14:23:44,188 - INFO - 選択されたプロファイル: Profile 13
+2025-11-13 14:23:44,188 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-13 14:23:48,394 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-13 14:24:00,567 - INFO - 最新投稿を読み込みます
+2025-11-13 14:24:06,193 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQ-k6MiAe9d/?hl=ja
+2025-11-13 14:24:10,323 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 14:24:13,835 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 14:24:13,955 - INFO - datetime属性の抽出を開始します
+2025-11-13 14:24:13,991 - INFO - 抽出されたdatetime: 2025-11-13T01:12:27.000Z
+2025-11-13 14:24:13,991 - INFO - lapishsakurada の投稿日時: 2025-11-13T01:12:27.000Z
+2025-11-13 14:24:14,125 - INFO - date:2025-11-13 10:12:27+09:00
+2025-11-13 14:24:14,125 - INFO - post_date:20251113
+2025-11-13 14:24:14,201 - INFO - カルーセル推定: 1枚
+2025-11-13 14:24:14,243 - INFO - 検出(SINGLE): https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=0PkUrMgJzMsQ7kNvwFmyL9o&_nc_oc=AdnbZ7ZV32fdfS9awuL21m733H7Dwwnum50O7l-eRCJWbbwlwx8HVVHkMnjQPdU_At8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=_rIyfRy57Ubab97zOMmnOQ&oh=00_Afjle1XEigKmpd2pr7ObS5a1MVWmUzYOQgb7iVg9K-P0nA&oe=691BC264
+2025-11-13 14:24:14,243 - INFO - 1枚目: https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=0PkUrMgJzMsQ7kNvwFmyL9o&_nc_oc=AdnbZ7ZV32fdfS9awuL21m733H7Dwwnum50O7l-eRCJWbbwlwx8HVVHkMnjQPdU_At8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_gid=_rIyfRy57Ubab97zOMmnOQ&oh=00_Afjle1XEigKmpd2pr7ObS5a1MVWmUzYOQgb7iVg9K-P0nA&oe=691BC264
+2025-11-13 14:24:14,243 - INFO - [caption/by_username] 開始
+2025-11-13 14:24:14,340 - INFO - [caption/by_username] 説明文確定（先頭100）: 'これからもLapishをよろしくお願い致します！
+Lapishアシスタントの河合です！
+今回ご紹介するのは「ミルボン エルジューダ フリッズフィクサーエマルジョン」です！
+どんな人に向いてる？
+髪のう'
+2025-11-13 14:24:14,343 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251113_142340
+2025-11-13 14:24:14,343 - INFO - 画像URLを取得しました
+2025-11-13 14:24:14,345 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc2NDYwODY2NzM4NzgxNzgyMQ==, dt=2025-11-13T01:12:27.000Z
+2025-11-13 14:24:14,345 - INFO - このレコードは存在します
+2025-11-13 14:24:14,345 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-13 17:15:52,783 - INFO - 処理開始 PROCESSID:20251113_171549
+2025-11-13 17:15:52,783 - INFO - 対象ユーザー: lapishsakurada
+2025-11-13 17:15:52,783 - INFO - 処理を開始します
+2025-11-13 17:15:52,857 - INFO - 選択されたプロファイル: Profile 9
+2025-11-13 17:15:52,858 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-13 17:15:57,326 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-13 17:16:08,738 - INFO - 最新投稿を読み込みます
+2025-11-13 17:16:13,993 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQ-k6MiAe9d/?hl=ja
+2025-11-13 17:16:17,539 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 17:16:21,174 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 17:16:21,253 - INFO - datetime属性の抽出を開始します
+2025-11-13 17:16:21,335 - INFO - 抽出されたdatetime: 2025-11-13T01:12:27.000Z
+2025-11-13 17:16:21,336 - INFO - lapishsakurada の投稿日時: 2025-11-13T01:12:27.000Z
+2025-11-13 17:16:21,347 - INFO - date:2025-11-13 10:12:27+09:00
+2025-11-13 17:16:21,347 - INFO - post_date:20251113
+2025-11-13 17:16:21,406 - INFO - カルーセル推定: 1枚
+2025-11-13 17:16:21,460 - INFO - 検出(SINGLE): https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=0PkUrMgJzMsQ7kNvwFmyL9o&_nc_oc=AdnbZ7ZV32fdfS9awuL21m733H7Dwwnum50O7l-eRCJWbbwlwx8HVVHkMnjQPdU_At8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=K5J94COJL6g6prJ7-bcBtA&oh=00_AfgV4DGPZ38h_MncTVpNc1lEXSVTE-uOy7CYWQEdXYhHhw&oe=691BFAA4
+2025-11-13 17:16:21,460 - INFO - 1枚目: https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=0PkUrMgJzMsQ7kNvwFmyL9o&_nc_oc=AdnbZ7ZV32fdfS9awuL21m733H7Dwwnum50O7l-eRCJWbbwlwx8HVVHkMnjQPdU_At8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=K5J94COJL6g6prJ7-bcBtA&oh=00_AfgV4DGPZ38h_MncTVpNc1lEXSVTE-uOy7CYWQEdXYhHhw&oe=691BFAA4
+2025-11-13 17:16:21,460 - INFO - [caption/by_username] 開始
+2025-11-13 17:16:21,546 - INFO - [caption/by_username] 説明文確定（先頭100）: 'これからもLapishをよろしくお願い致します！
+Lapishアシスタントの河合です！
+今回ご紹介するのは「ミルボン エルジューダ フリッズフィクサーエマルジョン」です！
+どんな人に向いてる？
+髪のう'
+2025-11-13 17:16:21,548 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251113_171549
+2025-11-13 17:16:21,549 - INFO - 画像URLを取得しました
+2025-11-13 17:16:21,550 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc2NDYwODY2NzM4NzgxNzgyMQ==, dt=2025-11-13T01:12:27.000Z
+2025-11-13 17:16:21,551 - INFO - このレコードは存在します
+2025-11-13 17:16:21,551 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-13 20:06:25,394 - INFO - 処理開始 PROCESSID:20251113_200622
+2025-11-13 20:06:25,394 - INFO - 対象ユーザー: lapishsakurada
+2025-11-13 20:06:25,394 - INFO - 処理を開始します
+2025-11-13 20:06:25,451 - INFO - 選択されたプロファイル: Profile 13
+2025-11-13 20:06:25,451 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-13 20:06:29,682 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-13 20:06:41,207 - INFO - 最新投稿を読み込みます
+2025-11-13 20:06:46,465 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQ-k6MiAe9d/?hl=ja
+2025-11-13 20:06:49,395 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 20:06:52,809 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 20:06:52,926 - INFO - datetime属性の抽出を開始します
+2025-11-13 20:06:53,026 - INFO - 抽出されたdatetime: 2025-11-13T01:12:27.000Z
+2025-11-13 20:06:53,026 - INFO - lapishsakurada の投稿日時: 2025-11-13T01:12:27.000Z
+2025-11-13 20:06:53,044 - INFO - date:2025-11-13 10:12:27+09:00
+2025-11-13 20:06:53,044 - INFO - post_date:20251113
+2025-11-13 20:06:53,131 - INFO - カルーセル推定: 1枚
+2025-11-13 20:06:53,176 - INFO - 検出(SINGLE): https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=0PkUrMgJzMsQ7kNvwFmyL9o&_nc_oc=AdnbZ7ZV32fdfS9awuL21m733H7Dwwnum50O7l-eRCJWbbwlwx8HVVHkMnjQPdU_At8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=9VBIwF79dngMqy-U-Oz9Nw&oh=00_Afgts46cQTL57vRD2gY2me8XbURWlIawr364yz50Ttxlgw&oe=691BFAA4
+2025-11-13 20:06:53,176 - INFO - 1枚目: https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=0PkUrMgJzMsQ7kNvwFmyL9o&_nc_oc=AdnbZ7ZV32fdfS9awuL21m733H7Dwwnum50O7l-eRCJWbbwlwx8HVVHkMnjQPdU_At8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=9VBIwF79dngMqy-U-Oz9Nw&oh=00_Afgts46cQTL57vRD2gY2me8XbURWlIawr364yz50Ttxlgw&oe=691BFAA4
+2025-11-13 20:06:53,176 - INFO - [caption/by_username] 開始
+2025-11-13 20:06:53,393 - INFO - [caption/by_username] 説明文確定（先頭100）: 'これからもLapishをよろしくお願い致します！
+Lapishアシスタントの河合です！
+今回ご紹介するのは「ミルボン エルジューダ フリッズフィクサーエマルジョン」です！
+どんな人に向いてる？
+髪のう'
+2025-11-13 20:06:53,395 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251113_200622
+2025-11-13 20:06:53,395 - INFO - 画像URLを取得しました
+2025-11-13 20:06:53,396 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc2NDYwODY2NzM4NzgxNzgyMQ==, dt=2025-11-13T01:12:27.000Z
+2025-11-13 20:06:53,396 - INFO - このレコードは存在します
+2025-11-13 20:06:53,396 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-13 22:58:33,553 - INFO - 処理開始 PROCESSID:20251113_225830
+2025-11-13 22:58:33,553 - INFO - 対象ユーザー: lapishsakurada
+2025-11-13 22:58:33,553 - INFO - 処理を開始します
+2025-11-13 22:58:33,614 - INFO - 選択されたプロファイル: Profile 10
+2025-11-13 22:58:33,614 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-13 22:58:37,998 - INFO - lapishsakurada のプロフィールページにアクセスします
+2025-11-13 22:58:49,695 - INFO - 最新投稿を読み込みます
+2025-11-13 22:58:54,941 - INFO - 選定: 非ピン留め https://www.instagram.com/lapishsakurada/p/DQ-k6MiAe9d/?hl=ja
+2025-11-13 22:58:59,336 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 22:59:02,698 - INFO - 最新投稿ページにアクセスしました
+2025-11-13 22:59:02,790 - INFO - datetime属性の抽出を開始します
+2025-11-13 22:59:02,816 - INFO - 抽出されたdatetime: 2025-11-13T01:12:27.000Z
+2025-11-13 22:59:02,816 - INFO - lapishsakurada の投稿日時: 2025-11-13T01:12:27.000Z
+2025-11-13 22:59:02,824 - INFO - date:2025-11-13 10:12:27+09:00
+2025-11-13 22:59:02,824 - INFO - post_date:20251113
+2025-11-13 22:59:02,895 - INFO - カルーセル推定: 1枚
+2025-11-13 22:59:02,945 - INFO - 検出(SINGLE): https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=V3LHjeZ9FH8Q7kNvwEna-bw&_nc_oc=AdnoVljaIGuyeNc1Rq7iFj5wbrfQgMg81dtWtY78WWE0D2WJFxYmhMRMrE-OEBqVZCo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=06Q3iFptCHQYWWc-_vTbZw&oh=00_AfjBxTVygXZm-bavGqLTlx53GqcroLESxnOTCxZlOfi75w&oe=691C32E4
+2025-11-13 22:59:02,945 - INFO - 1枚目: https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/576128552_18386654965176972_7979199206909121745_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2NDYwODY2NzM4NzgxNzgyMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjg1NHg4NTQuc2RyLkMzIn0%3D&_nc_ohc=V3LHjeZ9FH8Q7kNvwEna-bw&_nc_oc=AdnoVljaIGuyeNc1Rq7iFj5wbrfQgMg81dtWtY78WWE0D2WJFxYmhMRMrE-OEBqVZCo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=06Q3iFptCHQYWWc-_vTbZw&oh=00_AfjBxTVygXZm-bavGqLTlx53GqcroLESxnOTCxZlOfi75w&oe=691C32E4
+2025-11-13 22:59:02,945 - INFO - [caption/by_username] 開始
+2025-11-13 22:59:03,099 - INFO - [caption/by_username] 説明文確定（先頭100）: 'これからもLapishをよろしくお願い致します！
+Lapishアシスタントの河合です！
+今回ご紹介するのは「ミルボン エルジューダ フリッズフィクサーエマルジョン」です！
+どんな人に向いてる？
+髪のう'
+2025-11-13 22:59:03,101 - INFO - [caption/by_username] 説明文を保存: media\lapishsakurada\description\20251113_225830
+2025-11-13 22:59:03,101 - INFO - 画像URLを取得しました
+2025-11-13 22:59:03,103 - INFO - DUP(with-key): user=lapishsakurada, key=Mzc2NDYwODY2NzM4NzgxNzgyMQ==, dt=2025-11-13T01:12:27.000Z
+2025-11-13 22:59:03,103 - INFO - このレコードは存在します
+2025-11-13 22:59:03,103 - INFO - 全件レコードが存在します

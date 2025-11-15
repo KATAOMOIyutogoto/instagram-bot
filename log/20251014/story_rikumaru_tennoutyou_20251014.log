@@ -1,0 +1,183 @@
+================================================================================
+2025-10-14 02:46:20,581 - INFO - 処理開始 PROCESSID:20251014_024613
+2025-10-14 02:46:20,582 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-10-14 02:46:20,582 - INFO - 処理を開始します
+2025-10-14 02:46:20,741 - INFO - 選択されたプロファイル: Profile 9
+2025-10-14 02:46:20,741 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-14 02:46:37,932 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-10-14 02:47:13,415 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 02:47:17,025 - INFO - rikumaru_tennoutyou: 動画を検出しました
+2025-10-14 02:47:17,025 - INFO - datetime属性の抽出を開始します
+2025-10-14 02:47:22,762 - INFO - 抽出されたdatetime: 2025-10-13T04:07:39.000Z
+2025-10-14 02:47:22,763 - INFO - rikumaru_tennoutyou の投稿日時: 2025-10-13T04:07:39.000Z
+2025-10-14 02:47:31,699 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t2/f2/m78/AQMrLzPrrBYPXyfNmQkYpN79BTMa81j8xU7AnK1rg-smG-g9nYSP0Pwi1MTCMleiyocQwnUOOvo5dVQS_0wOYMwT_wEqMlyPyqAEXgI.mp4?_nc_cat=110&_nc_oc=AdmQ1OL7zSYegPG7xRIIfQjV9aJg0dCgTXKNFzK6EaP4PLfcH5cjo2P0rT0hYI5IT9Y&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=FiCbQM7Vv5AQ7kNvwEymf0x&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyNDczMzEzNTY1OTY2OTY3OCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=fhtoRHj76p_ZcOj8y4Nt_Q&_nc_zt=28&oh=00_AfcZfTmV5czQ8QX2FkiZm0N4szDsjogcazxIeGFeZZrhxg&oe=68EF87EF&bytestart=0&byteend=458561
+2025-10-14 02:47:31,699 - INFO - 動画URLを取得しました
+2025-10-14 02:47:31,931 - INFO - INSERT(with-key): user=rikumaru_tennoutyou, key=AQMrLzPrrBYPXyfNmQkYpN79BTMa81j8xU7AnK1rg-smG-g9nYSP0Pwi1MTCMleiyocQwnUOOvo5dVQS_0wOYMwT_wEqMlyPyqAEXgI, dt=2025-10-13T04:07:39.000Z
+2025-10-14 02:47:33,983 - INFO - ダウンロードを開始します: media\rikumaru_tennoutyou\rikumaru_tennoutyou_20251014024733.mp4
+2025-10-14 02:47:34,497 - INFO - ダウンロード完了: media\rikumaru_tennoutyou\rikumaru_tennoutyou_20251014024733.mp4
+2025-10-14 02:47:48,305 - INFO - 処理終了
+2025-10-14 02:47:48,327 - INFO - 説明文_AI: None
+2025-10-14 02:47:48,327 - INFO - 説明文_最終: 
+================================================================================
+2025-10-14 02:48:02,163 - INFO - 処理開始: Mode=story, Username=rikumaru_tennoutyou, GBP=13128231858886333706
+2025-10-14 02:48:02,163 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxMzEyODIzMTg1ODg4NjMzMzcwNiJd.
+2025-10-14 02:48:59,585 - INFO - 元の動画サイズ: 360x640
+2025-10-14 02:48:59,585 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-14 02:48:59,585 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\rikumaru_tennoutyou\rikumaru_tennoutyou_20251014024733.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\rikumaru_tennoutyou\rikumaru_tennoutyou_20251014024733_resized.mp4
+2025-10-14 02:49:36,294 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\rikumaru_tennoutyou\rikumaru_tennoutyou_20251014024733_resized.mp4
+2025-10-14 02:49:36,294 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\rikumaru_tennoutyou\rikumaru_tennoutyou_20251014024733.mp4
+2025-10-14 02:49:36,294 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\rikumaru_tennoutyou\rikumaru_tennoutyou_20251014024733_resized.mp4
+2025-10-14 02:49:46,507 - INFO - 一時ファイルが見つかりません: media\rikumaru_tennoutyou\description\20251014_024613
+2025-10-14 02:49:46,507 - INFO - Looking for button section...
+2025-10-14 02:49:51,247 - INFO - Trying to select CALL option...
+2025-10-14 02:49:51,757 - INFO - CALL option successfully selected
+2025-10-14 02:49:53,758 - INFO - Clicking submit button...
+2025-10-14 02:50:04,391 - INFO - 処理完了
+================================================================================
+2025-10-14 08:16:06,094 - INFO - 処理開始 PROCESSID:20251014_081558
+2025-10-14 08:16:06,094 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-10-14 08:16:06,096 - INFO - 処理を開始します
+2025-10-14 08:16:06,229 - INFO - 選択されたプロファイル: Profile 10
+2025-10-14 08:16:06,229 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-14 08:16:19,158 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-10-14 08:16:47,343 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 08:16:50,602 - INFO - 動画の取得に失敗しました
+2025-10-14 08:16:50,603 - INFO - datetime属性の抽出を開始します
+2025-10-14 08:17:00,993 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdefea3+66515]
+	GetHandleVerifier [0x0xdefee4+66580]
+	(No symbol) [0x0xbddc48]
+	(No symbol) [0x0xc28704]
+	(No symbol) [0x0xc28aab]
+	(No symbol) [0x0xc6f482]
+	(No symbol) [0x0xc4b214]
+	(No symbol) [0x0xc6cba7]
+	(No symbol) [0x0xc4afc6]
+	(No symbol) [0x0xc1c2ca]
+	(No symbol) [0x0xc1d154]
+	GetHandleVerifier [0x0x10473d3+2521347]
+	GetHandleVerifier [0x0x1042353+2500739]
+	GetHandleVerifier [0x0xe17cf4+229924]
+	GetHandleVerifier [0x0xe08258+165768]
+	GetHandleVerifier [0x0xe0ed0d+193085]
+	GetHandleVerifier [0x0xdf81b8+100072]
+	GetHandleVerifier [0x0xdf8350+100480]
+	GetHandleVerifier [0x0xde260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-14 08:17:11,314 - INFO - 画像の取得に失敗しました
+2025-10-14 08:17:13,747 - INFO - 処理終了
+================================================================================
+2025-10-14 13:40:40,406 - INFO - 処理開始 PROCESSID:20251014_134033
+2025-10-14 13:40:40,406 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-10-14 13:40:40,406 - INFO - 処理を開始します
+2025-10-14 13:40:40,552 - INFO - 選択されたプロファイル: Profile 12
+2025-10-14 13:40:40,552 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-14 13:40:52,861 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-10-14 13:41:26,026 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 13:41:29,570 - INFO - 動画の取得に失敗しました
+2025-10-14 13:41:29,570 - INFO - datetime属性の抽出を開始します
+2025-10-14 13:41:39,824 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdefea3+66515]
+	GetHandleVerifier [0x0xdefee4+66580]
+	(No symbol) [0x0xbddc48]
+	(No symbol) [0x0xc28704]
+	(No symbol) [0x0xc28aab]
+	(No symbol) [0x0xc6f482]
+	(No symbol) [0x0xc4b214]
+	(No symbol) [0x0xc6cba7]
+	(No symbol) [0x0xc4afc6]
+	(No symbol) [0x0xc1c2ca]
+	(No symbol) [0x0xc1d154]
+	GetHandleVerifier [0x0x10473d3+2521347]
+	GetHandleVerifier [0x0x1042353+2500739]
+	GetHandleVerifier [0x0xe17cf4+229924]
+	GetHandleVerifier [0x0xe08258+165768]
+	GetHandleVerifier [0x0xe0ed0d+193085]
+	GetHandleVerifier [0x0xdf81b8+100072]
+	GetHandleVerifier [0x0xdf8350+100480]
+	GetHandleVerifier [0x0xde260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-14 13:41:50,058 - INFO - 画像の取得に失敗しました
+2025-10-14 13:41:56,231 - INFO - 処理終了
+================================================================================
+2025-10-14 18:39:51,493 - INFO - 処理開始 PROCESSID:20251014_183948
+2025-10-14 18:39:51,495 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-10-14 18:39:51,495 - INFO - 処理を開始します
+2025-10-14 18:39:51,551 - INFO - 選択されたプロファイル: Profile 10
+2025-10-14 18:39:51,551 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-14 18:39:55,955 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-10-14 18:40:18,316 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 18:40:21,452 - INFO - 動画の取得に失敗しました
+2025-10-14 18:40:21,453 - INFO - datetime属性の抽出を開始します
+2025-10-14 18:40:31,792 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xdefea3+66515]
+	GetHandleVerifier [0x0xdefee4+66580]
+	(No symbol) [0x0xbddc48]
+	(No symbol) [0x0xc28704]
+	(No symbol) [0x0xc28aab]
+	(No symbol) [0x0xc6f482]
+	(No symbol) [0x0xc4b214]
+	(No symbol) [0x0xc6cba7]
+	(No symbol) [0x0xc4afc6]
+	(No symbol) [0x0xc1c2ca]
+	(No symbol) [0x0xc1d154]
+	GetHandleVerifier [0x0x10473d3+2521347]
+	GetHandleVerifier [0x0x1042353+2500739]
+	GetHandleVerifier [0x0xe17cf4+229924]
+	GetHandleVerifier [0x0xe08258+165768]
+	GetHandleVerifier [0x0xe0ed0d+193085]
+	GetHandleVerifier [0x0xdf81b8+100072]
+	GetHandleVerifier [0x0xdf8350+100480]
+	GetHandleVerifier [0x0xde260a+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-14 18:40:42,092 - INFO - 画像の取得に失敗しました
+2025-10-14 18:40:44,493 - INFO - 処理終了
+================================================================================
+2025-10-14 22:29:58,796 - INFO - 処理開始 PROCESSID:20251014_222955
+2025-10-14 22:29:58,796 - INFO - 対象ユーザー: rikumaru_tennoutyou
+2025-10-14 22:29:58,796 - INFO - 処理を開始します
+2025-10-14 22:29:58,848 - INFO - 選択されたプロファイル: Profile 13
+2025-10-14 22:29:58,848 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-14 22:30:03,363 - INFO - rikumaru_tennoutyou のプロフィールページにアクセスします
+2025-10-14 22:30:27,399 - INFO - プロフィール写真のクリックに成功しました
+2025-10-14 22:30:30,513 - INFO - 動画の取得に失敗しました
+2025-10-14 22:30:30,513 - INFO - datetime属性の抽出を開始します
+2025-10-14 22:30:40,533 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x107fe83+66515]
+	GetHandleVerifier [0x0x107fec4+66580]
+	(No symbol) [0x0xe6dc48]
+	(No symbol) [0x0xeb8704]
+	(No symbol) [0x0xeb8aab]
+	(No symbol) [0x0xeff482]
+	(No symbol) [0x0xedb214]
+	(No symbol) [0x0xefcba7]
+	(No symbol) [0x0xedafc6]
+	(No symbol) [0x0xeac2ca]
+	(No symbol) [0x0xead154]
+	GetHandleVerifier [0x0x12d73b3+2521347]
+	GetHandleVerifier [0x0x12d2333+2500739]
+	GetHandleVerifier [0x0x10a7cd4+229924]
+	GetHandleVerifier [0x0x1098238+165768]
+	GetHandleVerifier [0x0x109eced+193085]
+	GetHandleVerifier [0x0x1088198+100072]
+	GetHandleVerifier [0x0x1088330+100480]
+	GetHandleVerifier [0x0x10725ea+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-14 22:30:50,821 - INFO - 画像の取得に失敗しました
+2025-10-14 22:30:53,203 - INFO - 処理終了

@@ -1,0 +1,370 @@
+================================================================================
+2025-11-04 00:34:32,274 - INFO - 処理開始 PROCESSID:20251104_003428
+2025-11-04 00:34:32,274 - INFO - 対象ユーザー: hfhsraffaello
+2025-11-04 00:34:32,274 - INFO - 処理を開始します
+2025-11-04 00:34:32,356 - INFO - 選択されたプロファイル: Profile 12
+2025-11-04 00:34:32,356 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-04 00:34:37,010 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-11-04 00:34:48,542 - INFO - 最新投稿を読み込みます
+2025-11-04 00:34:53,781 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-11-04 00:34:56,582 - INFO - ピン留めだが3日以上前(112日) → スキップ
+2025-11-04 00:34:56,582 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-11-04 00:34:58,685 - INFO - ピン留めだが3日以上前(502日) → スキップ
+2025-11-04 00:34:58,685 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/reel/DQk3BtCkmzq/?hl=ja
+2025-11-04 00:35:03,485 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 00:35:07,705 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 00:35:07,906 - INFO - datetime属性の抽出を開始します
+2025-11-04 00:35:07,996 - INFO - 抽出されたdatetime: 2025-11-03T01:30:05.000Z
+2025-11-04 00:35:07,996 - INFO - hfhsraffaello の投稿日時: 2025-11-03T01:30:05.000Z
+2025-11-04 00:35:08,129 - INFO - date:2025-11-03 10:30:05+09:00
+2025-11-04 00:35:08,129 - INFO - post_date:20251103
+2025-11-04 00:35:08,297 - INFO - 1枚目: blob:https://www.instagram.com/9b0ce00a-567c-4dcb-8adc-758934b06e3e
+2025-11-04 00:35:08,298 - INFO - [caption/by_username] 開始
+2025-11-04 00:35:08,436 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+イベント盛り沢山なお客様♪
+
+エドルクオンカラー　RED
+　　　　　✖️
+からーみゅーず　RED
+💄💋👠🌹🍓
+
+白髪多めだからこそ、髪色楽しみましょう😊
+いつもありがとうございます'
+2025-11-04 00:35:08,438 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251104_003428
+2025-11-04 00:35:10,094 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQNmQE1GlZBD5Owpw0xNoZqQCrBJazVKx-7iB5V3RHuvYuiht3rMukJ-R3trYyvPh2ycanmPyyHhPVTQmsnLHGtKmh5vWTa6dUb4DH0.mp4?_nc_cat=104&_nc_oc=Adn0ilek9CqRLn2IaesNbU-mFSKesZ8mkr-0IK6ez5g0RdZ9Zptj8bcnpxiyo9cgH50&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=Jg1Ap2B6IhwQ7kNvwGuTMKE&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjI0Mzc1MjI3OTY2Njc2MzgsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=KD1aRXKLy6fpVl4x4eVnxA&_nc_zt=28&oh=00_Afhy_4ykj9dGMSJ-9xjAu_5IgDSZG70RSI-OH5TxvTVZ1w&oe=690B0E74&bytestart=0&byteend=2160395
+2025-11-04 00:35:10,099 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=hfhsraffaello, key=AQNmQE1GlZBD5Owpw0xNoZqQCrBJazVKx-7iB5V3RHuvYuiht3rMukJ-R3trYyvPh2ycanmPyyHhPVTQmsnLHGtKmh5vWTa6dUb4DH0, dt=2025-11-03T01:30:05.000Z, url=https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQNmQE1GlZBD5Owpw0xNoZqQCrBJazVKx-7iB5V3RHuvYuiht3rMukJ-R3trYyvPh2ycanmPyyHhPVTQmsnLHGtKmh5vWTa6dUb4DH0.mp4?_nc_cat=104&_nc_oc=Adn0ilek9CqRLn2IaesNbU-mFSKesZ8mkr-0IK6ez5g0RdZ9Zptj8bcnpxiyo9cgH50&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=Jg1Ap2B6IhwQ7kNvwGuTMKE&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjI0Mzc1MjI3OTY2Njc2MzgsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=KD1aRXKLy6fpVl4x4eVnxA&_nc_zt=28&oh=00_Afhy_4ykj9dGMSJ-9xjAu_5IgDSZG70RSI-OH5TxvTVZ1w&oe=690B0E74&bytestart=0&byteend=2160395, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('hfhsraffaello', 'AQNmQE1GlZBD5Owpw0xNoZqQCrBJazVKx-7iB5V3RHuvYuiht3rMukJ-R3trYyvPh2ycanmPyyHhPVTQmsnLHGtKmh5vWTa6dUb4DH0', 'https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQNmQE1GlZBD5Owpw0xNoZqQCrBJazVKx-7iB5V3RHuvYuiht3rMukJ-R3trYyvPh2ycanmPyyHhPVTQmsnLHGtKmh5vWTa6dUb4DH0.mp4?_nc_cat=104&_nc_oc=Adn0ilek9CqRLn2IaesNbU-mFSKesZ8mkr-0IK6ez5g0RdZ9Zptj8bcnpxiyo9cgH50&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=Jg1Ap2B6IhwQ7kNvwGuTMKE&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjI0Mzc1MjI3OTY2Njc2MzgsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=KD1aRXKLy6fpVl4x4eVnxA&_nc_zt=28&oh=00_Afhy_4ykj9dGMSJ-9xjAu_5IgDSZG70RSI-OH5TxvTVZ1w&oe=690B0E74&bytestart=0&byteend=2160395', '2025-11-03T01:30:05.000Z')
+2025-11-04 00:35:10,100 - INFO - このレコードは存在します
+2025-11-04 00:35:10,100 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-04 03:37:59,222 - INFO - 処理開始 PROCESSID:20251104_033755
+2025-11-04 03:37:59,222 - INFO - 対象ユーザー: hfhsraffaello
+2025-11-04 03:37:59,224 - INFO - 処理を開始します
+2025-11-04 03:37:59,282 - INFO - 選択されたプロファイル: Profile 12
+2025-11-04 03:37:59,282 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-04 03:38:03,674 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-11-04 03:38:15,684 - INFO - 最新投稿を読み込みます
+2025-11-04 03:38:21,200 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-11-04 03:38:24,324 - INFO - ピン留めだが3日以上前(112日) → スキップ
+2025-11-04 03:38:24,324 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-11-04 03:38:27,288 - INFO - ピン留めだが3日以上前(503日) → スキップ
+2025-11-04 03:38:27,288 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DQnmvQcEsS3/?hl=ja
+2025-11-04 03:38:32,612 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 03:38:36,537 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 03:38:36,721 - INFO - datetime属性の抽出を開始します
+2025-11-04 03:38:36,919 - INFO - 抽出されたdatetime: 2025-11-04T03:05:05.000Z
+2025-11-04 03:38:36,919 - INFO - hfhsraffaello の投稿日時: 2025-11-04T03:05:05.000Z
+2025-11-04 03:38:37,039 - INFO - date:2025-11-04 12:05:05+09:00
+2025-11-04 03:38:37,039 - INFO - post_date:20251104
+2025-11-04 03:38:37,323 - INFO - 1枚目: blob:https://www.instagram.com/3a17d446-883c-41cf-8f30-7221f8a5053c
+2025-11-04 03:38:37,323 - INFO - [caption/by_username] 開始
+2025-11-04 03:38:37,733 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+美髪改善酸熱トリートメント
+定期的は施術頂き、艶髪keep✨
+これからの季節🍂
+乾燥によるパサつき、広がり、静電気…
+髪のお悩み色々ですが、
+美髪改善酸熱トリートメント是非お試しく'
+2025-11-04 03:38:37,736 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251104_033755
+2025-11-04 03:38:39,514 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQPWJuUeeudjuwx8woIM8YHd30U1MUM96K_5KRr8RTWvO4wgb4KUtnCw6hmRsOxgJed1OfgIwcPShecQsLqjGoaZ7yFo_vxBf08q6Nc.mp4?_nc_cat=101&_nc_oc=AdkLfP3dHi4wDwEZvDzASHmF1_F_ODZ0qrD35WxxmpINX-BmCtfdG0ft8vw-GknkBFM&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=z0JXk1SZa84Q7kNvwGUpd1R&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE2NDAyOTYzMTczNDMwMjIsImFzc2V0X2FnZV9kYXlzIjoxMCwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=9_Ekg_AWKDOxA_fKgWxwnA&_nc_zt=28&oh=00_AfgKLn3hlHsi4N2lpMkwiXdXOcAcC1MJGjbV9Wd7Jj3fqg&oe=690B5723&bytestart=0&byteend=4771941
+2025-11-04 03:38:39,546 - INFO - INSERT(with-key): user=hfhsraffaello, key=AQPWJuUeeudjuwx8woIM8YHd30U1MUM96K_5KRr8RTWvO4wgb4KUtnCw6hmRsOxgJed1OfgIwcPShecQsLqjGoaZ7yFo_vxBf08q6Nc, dt=2025-11-04T03:05:05.000Z
+2025-11-04 03:38:41,548 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251104033841.mp4
+2025-11-04 03:38:41,972 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251104033841.mp4
+2025-11-04 03:38:41,973 - INFO - 説明文:お客様photo📸
+美髪改善酸熱トリートメント
+定期的は施術頂き、艶髪keep✨
+これからの季節🍂
+乾燥によるパサつき、広がり、静電気…
+髪のお悩み色々ですが、
+美髪改善酸熱トリートメント是非お試しください☆
+しなやかな指通り、広がりを抑え、まとまる髪へ✨
+
+担当　雪乃
+
+======= renaissance hair RAFFAELLO =======
+
+【営業時間】
+平日　：9:00～19:00
+土日祝：8:30～19:00
+（パーマ・カラー受付　PM　18:00まで） 
+
+定休日
+第1日曜、第2火曜、第3日月連休、第4火曜、第5火曜定休日
+冬期休暇のお知らせ1月1・2・3日 
+
+◆ご予約はこちら↓
+ホットペッパービューティー
+https://beauty.hotpepper.jp/slnH000379634/
+
+住所📍
+栃木県足利市駒場町893-2
+
+============================
+
+#RAFFAELLO #美容室 #美容院 #美容師 #髪型 #ヘアカット #カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #縮毛矯正 #ヘアサロン #ヘッドスパ #足利市美容院 #足利市美容室 #足利市ヘアサロン #足利市ヘアカット #足利市髪質改善 #足利市美容室メンズ #足利市女性人気美容室 #足利市駒場町美容室 #足利市駒場町美容院 #美髪改善酸熱トリートメント #乾燥ケア #パサつき解消 #艶髪 #hfhsraffaello
+2025-11-04 03:38:44,394 - INFO - 処理終了
+================================================================================
+2025-11-04 03:38:50,405 - INFO - 処理開始: Mode=post, Username=hfhsraffaello, GBP=03056610151687686385
+2025-11-04 03:38:50,405 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwMzA1NjYxMDE1MTY4NzY4NjM4NSJd.
+2025-11-04 03:39:13,958 - INFO - 元の動画サイズ: 720x960
+2025-11-04 03:39:13,958 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-11-04 03:39:13,958 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251104033841.mp4
+2025-11-04 03:39:24,034 - INFO - Waiting for description field...
+2025-11-04 03:39:24,073 - INFO - Setting description via JS (no send_keys)...
+2025-11-04 03:39:25,169 - INFO - Looking for button section...
+2025-11-04 03:39:29,632 - INFO - Trying to select CALL option...
+2025-11-04 03:39:29,903 - INFO - CALL option successfully selected
+2025-11-04 03:39:31,903 - INFO - Clicking submit button...
+2025-11-04 03:39:40,635 - INFO - 処理完了
+================================================================================
+2025-11-04 06:39:40,079 - INFO - 処理開始 PROCESSID:20251104_063936
+2025-11-04 06:39:40,079 - INFO - 対象ユーザー: hfhsraffaello
+2025-11-04 06:39:40,081 - INFO - 処理を開始します
+2025-11-04 06:39:40,153 - INFO - 選択されたプロファイル: Profile 10
+2025-11-04 06:39:40,153 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-04 06:39:44,875 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-11-04 06:39:56,861 - INFO - 最新投稿を読み込みます
+2025-11-04 06:40:02,499 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-11-04 06:40:05,285 - INFO - ピン留めだが3日以上前(112日) → スキップ
+2025-11-04 06:40:05,285 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-11-04 06:40:07,620 - INFO - ピン留めだが3日以上前(503日) → スキップ
+2025-11-04 06:40:07,620 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DQnmvQcEsS3/?hl=ja
+2025-11-04 06:40:13,188 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 06:40:16,706 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 06:40:16,780 - INFO - datetime属性の抽出を開始します
+2025-11-04 06:40:16,823 - INFO - 抽出されたdatetime: 2025-11-04T03:05:05.000Z
+2025-11-04 06:40:16,823 - INFO - hfhsraffaello の投稿日時: 2025-11-04T03:05:05.000Z
+2025-11-04 06:40:16,953 - INFO - date:2025-11-04 12:05:05+09:00
+2025-11-04 06:40:16,954 - INFO - post_date:20251104
+2025-11-04 06:40:17,069 - INFO - 1枚目: blob:https://www.instagram.com/98d9ce33-f8d6-4a12-b3ce-4c1f9942d0af
+2025-11-04 06:40:17,069 - INFO - [caption/by_username] 開始
+2025-11-04 06:40:17,240 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+美髪改善酸熱トリートメント
+定期的は施術頂き、艶髪keep✨
+これからの季節🍂
+乾燥によるパサつき、広がり、静電気…
+髪のお悩み色々ですが、
+美髪改善酸熱トリートメント是非お試しく'
+2025-11-04 06:40:17,242 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251104_063936
+2025-11-04 06:40:18,752 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQPWJuUeeudjuwx8woIM8YHd30U1MUM96K_5KRr8RTWvO4wgb4KUtnCw6hmRsOxgJed1OfgIwcPShecQsLqjGoaZ7yFo_vxBf08q6Nc.mp4?_nc_cat=101&_nc_oc=AdkLfP3dHi4wDwEZvDzASHmF1_F_ODZ0qrD35WxxmpINX-BmCtfdG0ft8vw-GknkBFM&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=z0JXk1SZa84Q7kNvwGUpd1R&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE2NDAyOTYzMTczNDMwMjIsImFzc2V0X2FnZV9kYXlzIjoxMCwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=VGgZj98noKuLiSreZQnsaw&_nc_zt=28&oh=00_AfhpsaKR6fG_FTgn7bDGfueg6m25mg6ZdnVR4y1Y4A4rlw&oe=690B8F63&bytestart=0&byteend=4771941
+2025-11-04 06:40:18,756 - INFO - DUP(with-key): user=hfhsraffaello, key=AQPWJuUeeudjuwx8woIM8YHd30U1MUM96K_5KRr8RTWvO4wgb4KUtnCw6hmRsOxgJed1OfgIwcPShecQsLqjGoaZ7yFo_vxBf08q6Nc, dt=2025-11-04T03:05:05.000Z
+2025-11-04 06:40:18,757 - INFO - このレコードは存在します
+2025-11-04 06:40:18,757 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-04 09:44:54,724 - INFO - 処理開始 PROCESSID:20251104_094451
+2025-11-04 09:44:54,724 - INFO - 対象ユーザー: hfhsraffaello
+2025-11-04 09:44:54,724 - INFO - 処理を開始します
+2025-11-04 09:44:54,779 - INFO - 選択されたプロファイル: Profile 9
+2025-11-04 09:44:54,779 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-04 09:44:59,122 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-11-04 09:45:11,912 - INFO - 最新投稿を読み込みます
+2025-11-04 09:45:17,193 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-11-04 09:45:20,400 - INFO - ピン留めだが3日以上前(113日) → スキップ
+2025-11-04 09:45:20,401 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-11-04 09:45:23,125 - INFO - ピン留めだが3日以上前(503日) → スキップ
+2025-11-04 09:45:23,125 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DQnmvQcEsS3/?hl=ja
+2025-11-04 09:45:29,248 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 09:45:32,587 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 09:45:32,658 - INFO - datetime属性の抽出を開始します
+2025-11-04 09:45:32,690 - INFO - 抽出されたdatetime: 2025-11-04T03:05:05.000Z
+2025-11-04 09:45:32,690 - INFO - hfhsraffaello の投稿日時: 2025-11-04T03:05:05.000Z
+2025-11-04 09:45:32,698 - INFO - date:2025-11-04 12:05:05+09:00
+2025-11-04 09:45:32,698 - INFO - post_date:20251104
+2025-11-04 09:45:33,142 - INFO - 1枚目: blob:https://www.instagram.com/317f4049-b662-4a68-a277-f2468a6b7b1b
+2025-11-04 09:45:33,142 - INFO - [caption/by_username] 開始
+2025-11-04 09:45:33,430 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+美髪改善酸熱トリートメント
+定期的は施術頂き、艶髪keep✨
+これからの季節🍂
+乾燥によるパサつき、広がり、静電気…
+髪のお悩み色々ですが、
+美髪改善酸熱トリートメント是非お試しく'
+2025-11-04 09:45:33,434 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251104_094451
+2025-11-04 09:45:35,096 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQPWJuUeeudjuwx8woIM8YHd30U1MUM96K_5KRr8RTWvO4wgb4KUtnCw6hmRsOxgJed1OfgIwcPShecQsLqjGoaZ7yFo_vxBf08q6Nc.mp4?_nc_cat=101&_nc_oc=AdkLfP3dHi4wDwEZvDzASHmF1_F_ODZ0qrD35WxxmpINX-BmCtfdG0ft8vw-GknkBFM&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=z0JXk1SZa84Q7kNvwGUpd1R&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE2NDAyOTYzMTczNDMwMjIsImFzc2V0X2FnZV9kYXlzIjoxMCwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjE0LCJ3YXRjaF90aW1lX3MiOjI0NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=bcDE3_A3N1fvUj8YdFHmUw&_nc_zt=28&oh=00_AfgCtRDwiyLybafqmX_7qSBT08To8v9RaNCPCKIMtKg2Mg&oe=690B8F63&bytestart=0&byteend=4771941
+2025-11-04 09:45:35,098 - INFO - DUP(with-key): user=hfhsraffaello, key=AQPWJuUeeudjuwx8woIM8YHd30U1MUM96K_5KRr8RTWvO4wgb4KUtnCw6hmRsOxgJed1OfgIwcPShecQsLqjGoaZ7yFo_vxBf08q6Nc, dt=2025-11-04T03:05:05.000Z
+2025-11-04 09:45:35,098 - INFO - このレコードは存在します
+2025-11-04 09:45:35,099 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-04 13:11:38,350 - INFO - 処理開始 PROCESSID:20251104_131134
+2025-11-04 13:11:38,350 - INFO - 対象ユーザー: hfhsraffaello
+2025-11-04 13:11:38,350 - INFO - 処理を開始します
+2025-11-04 13:11:38,413 - INFO - 選択されたプロファイル: Profile 9
+2025-11-04 13:11:38,413 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-04 13:11:42,874 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-11-04 13:11:54,500 - INFO - 最新投稿を読み込みます
+2025-11-04 13:11:59,777 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-11-04 13:12:02,790 - INFO - ピン留めだが3日以上前(113日) → スキップ
+2025-11-04 13:12:02,790 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-11-04 13:12:06,184 - INFO - ピン留めだが3日以上前(503日) → スキップ
+2025-11-04 13:12:06,184 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DQnmvQcEsS3/?hl=ja
+2025-11-04 13:12:11,240 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 13:12:14,934 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 13:12:14,990 - INFO - datetime属性の抽出を開始します
+2025-11-04 13:12:15,050 - INFO - 抽出されたdatetime: 2025-11-04T03:05:05.000Z
+2025-11-04 13:12:15,050 - INFO - hfhsraffaello の投稿日時: 2025-11-04T03:05:05.000Z
+2025-11-04 13:12:15,072 - INFO - date:2025-11-04 12:05:05+09:00
+2025-11-04 13:12:15,073 - INFO - post_date:20251104
+2025-11-04 13:12:15,094 - INFO - 1枚目: blob:https://www.instagram.com/73e6ee35-6787-4a24-b1dd-2b44120c343d
+2025-11-04 13:12:15,094 - INFO - [caption/by_username] 開始
+2025-11-04 13:12:15,180 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+美髪改善酸熱トリートメント
+定期的は施術頂き、艶髪keep✨
+これからの季節🍂
+乾燥によるパサつき、広がり、静電気…
+髪のお悩み色々ですが、
+美髪改善酸熱トリートメント是非お試しく'
+2025-11-04 13:12:15,182 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251104_131134
+2025-11-04 13:12:16,615 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQPWJuUeeudjuwx8woIM8YHd30U1MUM96K_5KRr8RTWvO4wgb4KUtnCw6hmRsOxgJed1OfgIwcPShecQsLqjGoaZ7yFo_vxBf08q6Nc.mp4?_nc_cat=101&_nc_oc=AdkLfP3dHi4wDwEZvDzASHmF1_F_ODZ0qrD35WxxmpINX-BmCtfdG0ft8vw-GknkBFM&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=z0JXk1SZa84Q7kNvwGUpd1R&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE2NDAyOTYzMTczNDMwMjIsImFzc2V0X2FnZV9kYXlzIjoxMCwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Niq3NBwdmJ8A9UuWwjXn4A&_nc_zt=28&oh=00_Afi5Lpf2Nh74dld44QjubV6xsUwrwJ-UqlVRgW9sRcRQ9w&oe=690BC7A3&bytestart=0&byteend=4771941
+2025-11-04 13:12:16,619 - INFO - DUP(with-key): user=hfhsraffaello, key=AQPWJuUeeudjuwx8woIM8YHd30U1MUM96K_5KRr8RTWvO4wgb4KUtnCw6hmRsOxgJed1OfgIwcPShecQsLqjGoaZ7yFo_vxBf08q6Nc, dt=2025-11-04T03:05:05.000Z
+2025-11-04 13:12:16,619 - INFO - このレコードは存在します
+2025-11-04 13:12:16,619 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-04 16:11:27,874 - INFO - 処理開始 PROCESSID:20251104_161124
+2025-11-04 16:11:27,874 - INFO - 対象ユーザー: hfhsraffaello
+2025-11-04 16:11:27,874 - INFO - 処理を開始します
+2025-11-04 16:11:27,933 - INFO - 選択されたプロファイル: Profile 10
+2025-11-04 16:11:27,935 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-04 16:11:32,369 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-11-04 16:11:45,263 - INFO - 最新投稿を読み込みます
+2025-11-04 16:11:50,548 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-11-04 16:11:53,848 - INFO - ピン留めだが3日以上前(113日) → スキップ
+2025-11-04 16:11:53,848 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-11-04 16:11:56,734 - INFO - ピン留めだが3日以上前(503日) → スキップ
+2025-11-04 16:11:56,734 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DQnmvQcEsS3/?hl=ja
+2025-11-04 16:12:02,981 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 16:12:06,491 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 16:12:06,549 - INFO - datetime属性の抽出を開始します
+2025-11-04 16:12:06,575 - INFO - 抽出されたdatetime: 2025-11-04T03:05:05.000Z
+2025-11-04 16:12:06,576 - INFO - hfhsraffaello の投稿日時: 2025-11-04T03:05:05.000Z
+2025-11-04 16:12:06,582 - INFO - date:2025-11-04 12:05:05+09:00
+2025-11-04 16:12:06,582 - INFO - post_date:20251104
+2025-11-04 16:12:06,634 - INFO - 1枚目: blob:https://www.instagram.com/22c65ff1-1ad5-4f8e-8e52-da2f17cffd8e
+2025-11-04 16:12:06,634 - INFO - [caption/by_username] 開始
+2025-11-04 16:12:06,755 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+美髪改善酸熱トリートメント
+定期的は施術頂き、艶髪keep✨
+これからの季節🍂
+乾燥によるパサつき、広がり、静電気…
+髪のお悩み色々ですが、
+美髪改善酸熱トリートメント是非お試しく'
+2025-11-04 16:12:06,757 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251104_161124
+2025-11-04 16:12:08,115 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQOWxV6NOHHJ37i7IXJnYaOSTdbjUlbYpSqYjmjzEqeQvD2luVbQlLYm0vMDFZcCOn1687d4FPC4K7qQ3grRNhXCT_iRpBvibMYu62g.mp4?_nc_cat=108&_nc_oc=Adla9O_fEpRgZ4f0DQ3BgytrBnIawfBp2Sr17oowB5tgARMKY-2qbTWkwhRH7m7l_NM&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=RErGXO9ZkdkQ7kNvwEQmwCc&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8zX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE2NDAyOTYzMTczNDMwMjIsImFzc2V0X2FnZV9kYXlzIjoxMCwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=i2We3ovB7CEnus8Lt3yCXA&_nc_zt=28&oh=00_AfiXTss29qppNPxGdMmylDgl-H6_V5c8_rdP7DE598fgrA&oe=690BF1A0&bytestart=0&byteend=777756
+2025-11-04 16:12:08,145 - INFO - INSERT(with-key): user=hfhsraffaello, key=AQOWxV6NOHHJ37i7IXJnYaOSTdbjUlbYpSqYjmjzEqeQvD2luVbQlLYm0vMDFZcCOn1687d4FPC4K7qQ3grRNhXCT_iRpBvibMYu62g, dt=2025-11-04T03:05:05.000Z
+2025-11-04 16:12:10,147 - INFO - ダウンロードを開始します: media\hfhsraffaello\hfhsraffaello_20251104161210.mp4
+2025-11-04 16:12:10,433 - INFO - ダウンロード完了: media\hfhsraffaello\hfhsraffaello_20251104161210.mp4
+2025-11-04 16:12:10,434 - INFO - 説明文:お客様photo📸
+美髪改善酸熱トリートメント
+定期的は施術頂き、艶髪keep✨
+これからの季節🍂
+乾燥によるパサつき、広がり、静電気…
+髪のお悩み色々ですが、
+美髪改善酸熱トリートメント是非お試しください☆
+しなやかな指通り、広がりを抑え、まとまる髪へ✨
+
+担当　雪乃
+
+======= renaissance hair RAFFAELLO =======
+
+【営業時間】
+平日　：9:00～19:00
+土日祝：8:30～19:00
+（パーマ・カラー受付　PM　18:00まで） 
+
+定休日
+第1日曜、第2火曜、第3日月連休、第4火曜、第5火曜定休日
+冬期休暇のお知らせ1月1・2・3日 
+
+◆ご予約はこちら↓
+ホットペッパービューティー
+https://beauty.hotpepper.jp/slnH000379634/
+
+住所📍
+栃木県足利市駒場町893-2
+
+============================
+
+#RAFFAELLO #美容室 #美容院 #美容師 #髪型 #ヘアカット #カット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #縮毛矯正 #ヘアサロン #ヘッドスパ #足利市美容院 #足利市美容室 #足利市ヘアサロン #足利市ヘアカット #足利市髪質改善 #足利市美容室メンズ #足利市女性人気美容室 #足利市駒場町美容室 #足利市駒場町美容院 #美髪改善酸熱トリートメント #乾燥ケア #パサつき解消 #艶髪 #hfhsraffaello
+2025-11-04 16:12:13,833 - INFO - 処理終了
+================================================================================
+2025-11-04 16:12:19,971 - INFO - 処理開始: Mode=post, Username=hfhsraffaello, GBP=03056610151687686385
+2025-11-04 16:12:19,971 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwMzA1NjYxMDE1MTY4NzY4NjM4NSJd.
+2025-11-04 16:12:41,739 - INFO - 元の動画サイズ: 360x480
+2025-11-04 16:12:41,739 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-11-04 16:12:41,739 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251104161210.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251104161210_resized.mp4
+2025-11-04 16:12:49,123 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251104161210_resized.mp4
+2025-11-04 16:12:49,123 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251104161210.mp4
+2025-11-04 16:12:49,123 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\hfhsraffaello\hfhsraffaello_20251104161210_resized.mp4
+2025-11-04 16:12:59,307 - INFO - Waiting for description field...
+2025-11-04 16:12:59,343 - INFO - Setting description via JS (no send_keys)...
+2025-11-04 16:13:00,432 - INFO - Looking for button section...
+2025-11-04 16:13:04,879 - INFO - Trying to select CALL option...
+2025-11-04 16:13:05,131 - INFO - CALL option successfully selected
+2025-11-04 16:13:07,132 - INFO - Clicking submit button...
+2025-11-04 16:13:15,944 - INFO - 処理完了
+================================================================================
+2025-11-04 19:09:05,997 - INFO - 処理開始 PROCESSID:20251104_190902
+2025-11-04 19:09:05,998 - INFO - 対象ユーザー: hfhsraffaello
+2025-11-04 19:09:05,998 - INFO - 処理を開始します
+2025-11-04 19:09:06,056 - INFO - 選択されたプロファイル: Profile 9
+2025-11-04 19:09:06,056 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-04 19:09:10,408 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-11-04 19:09:21,960 - INFO - 最新投稿を読み込みます
+2025-11-04 19:09:27,237 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-11-04 19:09:29,799 - INFO - ピン留めだが3日以上前(113日) → スキップ
+2025-11-04 19:09:29,799 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-11-04 19:09:32,737 - INFO - ピン留めだが3日以上前(503日) → スキップ
+2025-11-04 19:09:32,737 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DQnmvQcEsS3/?hl=ja
+2025-11-04 19:09:38,142 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 19:09:42,097 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 19:09:42,178 - INFO - datetime属性の抽出を開始します
+2025-11-04 19:09:42,216 - INFO - 抽出されたdatetime: 2025-11-04T03:05:05.000Z
+2025-11-04 19:09:42,216 - INFO - hfhsraffaello の投稿日時: 2025-11-04T03:05:05.000Z
+2025-11-04 19:09:42,229 - INFO - date:2025-11-04 12:05:05+09:00
+2025-11-04 19:09:42,229 - INFO - post_date:20251104
+2025-11-04 19:09:42,273 - INFO - 1枚目: blob:https://www.instagram.com/590acd01-1655-4dbb-8a9f-6cba6ce4b10a
+2025-11-04 19:09:42,273 - INFO - [caption/by_username] 開始
+2025-11-04 19:09:42,423 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+美髪改善酸熱トリートメント
+定期的は施術頂き、艶髪keep✨
+これからの季節🍂
+乾燥によるパサつき、広がり、静電気…
+髪のお悩み色々ですが、
+美髪改善酸熱トリートメント是非お試しく'
+2025-11-04 19:09:42,426 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251104_190902
+2025-11-04 19:09:43,993 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQPWJuUeeudjuwx8woIM8YHd30U1MUM96K_5KRr8RTWvO4wgb4KUtnCw6hmRsOxgJed1OfgIwcPShecQsLqjGoaZ7yFo_vxBf08q6Nc.mp4?_nc_cat=101&_nc_oc=AdkLfP3dHi4wDwEZvDzASHmF1_F_ODZ0qrD35WxxmpINX-BmCtfdG0ft8vw-GknkBFM&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=z0JXk1SZa84Q7kNvwGUpd1R&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzEtQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE2NDAyOTYzMTczNDMwMjIsImFzc2V0X2FnZV9kYXlzIjoxMCwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=DNv6dz_hmc5Y5RRfFJBZow&_nc_zt=28&oh=00_AfjzW7_Uw3O7hoSyhUWMIGWv12LNEG91czPZDfN_-unOWg&oe=690C3823&bytestart=0&byteend=4771941
+2025-11-04 19:09:43,997 - INFO - DUP(with-key): user=hfhsraffaello, key=AQPWJuUeeudjuwx8woIM8YHd30U1MUM96K_5KRr8RTWvO4wgb4KUtnCw6hmRsOxgJed1OfgIwcPShecQsLqjGoaZ7yFo_vxBf08q6Nc, dt=2025-11-04T03:05:05.000Z
+2025-11-04 19:09:43,997 - INFO - このレコードは存在します
+2025-11-04 19:09:43,997 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-04 22:04:44,679 - INFO - 処理開始 PROCESSID:20251104_220441
+2025-11-04 22:04:44,679 - INFO - 対象ユーザー: hfhsraffaello
+2025-11-04 22:04:44,679 - INFO - 処理を開始します
+2025-11-04 22:04:44,749 - INFO - 選択されたプロファイル: Profile 10
+2025-11-04 22:04:44,749 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-11-04 22:04:49,192 - INFO - hfhsraffaello のプロフィールページにアクセスします
+2025-11-04 22:05:01,127 - INFO - 最新投稿を読み込みます
+2025-11-04 22:05:06,516 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/DMFPdVYJOwN/?hl=ja → 日付確認
+2025-11-04 22:05:09,637 - INFO - ピン留めだが3日以上前(113日) → スキップ
+2025-11-04 22:05:09,637 - INFO - 候補はピン留め: https://www.instagram.com/hfhsraffaello/p/C8YMnobyEJV/?hl=ja → 日付確認
+2025-11-04 22:05:11,301 - INFO - ピン留めだが3日以上前(503日) → スキップ
+2025-11-04 22:05:11,301 - INFO - 選定: 非ピン留め https://www.instagram.com/hfhsraffaello/p/DQnmvQcEsS3/?hl=ja
+2025-11-04 22:05:15,838 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 22:05:19,456 - INFO - 最新投稿ページにアクセスしました
+2025-11-04 22:05:19,567 - INFO - datetime属性の抽出を開始します
+2025-11-04 22:05:19,594 - INFO - 抽出されたdatetime: 2025-11-04T03:05:05.000Z
+2025-11-04 22:05:19,594 - INFO - hfhsraffaello の投稿日時: 2025-11-04T03:05:05.000Z
+2025-11-04 22:05:19,602 - INFO - date:2025-11-04 12:05:05+09:00
+2025-11-04 22:05:19,602 - INFO - post_date:20251104
+2025-11-04 22:05:19,671 - INFO - 1枚目: blob:https://www.instagram.com/475789c5-e7fb-4128-b823-06355a578c01
+2025-11-04 22:05:19,671 - INFO - [caption/by_username] 開始
+2025-11-04 22:05:19,897 - INFO - [caption/by_username] 説明文確定（先頭100）: 'お客様photo📸
+美髪改善酸熱トリートメント
+定期的は施術頂き、艶髪keep✨
+これからの季節🍂
+乾燥によるパサつき、広がり、静電気…
+髪のお悩み色々ですが、
+美髪改善酸熱トリートメント是非お試しく'
+2025-11-04 22:05:19,899 - INFO - [caption/by_username] 説明文を保存: media\hfhsraffaello\description\20251104_220441
+2025-11-04 22:05:21,381 - INFO - 生成URL:https://instagram.ficn2-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQPWJuUeeudjuwx8woIM8YHd30U1MUM96K_5KRr8RTWvO4wgb4KUtnCw6hmRsOxgJed1OfgIwcPShecQsLqjGoaZ7yFo_vxBf08q6Nc.mp4?_nc_cat=101&_nc_oc=AdkLfP3dHi4wDwEZvDzASHmF1_F_ODZ0qrD35WxxmpINX-BmCtfdG0ft8vw-GknkBFM&_nc_sid=9ca052&_nc_ht=instagram.ficn2-2.fna.fbcdn.net&_nc_ohc=z0JXk1SZa84Q7kNvwGUpd1R&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNhcm91c2VsX2l0ZW0uYzItQzMuZGFzaF9iYXNlbGluZV8xX3YxIiwidmlkZW9faWQiOm51bGwsIm9pbF91cmxnZW5fYXBwX2lkIjo5MzY2MTk3NDMzOTI0NTksImNsaWVudF9uYW1lIjoiaWciLCJ4cHZfYXNzZXRfaWQiOjE2NDAyOTYzMTczNDMwMjIsImFzc2V0X2FnZV9kYXlzIjoxMCwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=pATF9HjZWzK46zlCRxHpxQ&_nc_zt=28&oh=00_AfgdghHuCs4JI9eWf2T9ts9ODwd9t6nJN5_NFJdC2yT1ZA&oe=690C7063&bytestart=0&byteend=4771941
+2025-11-04 22:05:21,383 - INFO - DUP(with-key): user=hfhsraffaello, key=AQPWJuUeeudjuwx8woIM8YHd30U1MUM96K_5KRr8RTWvO4wgb4KUtnCw6hmRsOxgJed1OfgIwcPShecQsLqjGoaZ7yFo_vxBf08q6Nc, dt=2025-11-04T03:05:05.000Z
+2025-11-04 22:05:21,384 - INFO - このレコードは存在します
+2025-11-04 22:05:21,384 - INFO - 全件レコードが存在します

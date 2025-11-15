@@ -1,0 +1,184 @@
+================================================================================
+2025-10-21 06:11:43,598 - INFO - 処理開始 PROCESSID:20251021_061137
+2025-10-21 06:11:43,598 - INFO - 対象ユーザー: salvia_mihata02
+2025-10-21 06:11:43,598 - INFO - 処理を開始します
+2025-10-21 06:11:43,731 - INFO - 選択されたプロファイル: Profile 12
+2025-10-21 06:11:43,731 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-21 06:11:55,751 - INFO - salvia_mihata02 のプロフィールページにアクセスします
+2025-10-21 06:12:33,615 - INFO - 最新投稿を読み込みます
+2025-10-21 06:12:41,785 - INFO - 選定: 非ピン留め https://www.instagram.com/salvia_mihata02/p/DQDP8-tkigF/?hl=ja
+2025-10-21 06:12:48,096 - INFO - 最新投稿ページにアクセスしました
+2025-10-21 06:12:56,040 - INFO - 最新投稿ページにアクセスしました
+2025-10-21 06:13:18,186 - INFO - datetime属性の抽出を開始します
+2025-10-21 06:13:18,334 - INFO - 抽出されたdatetime: 2025-10-21T00:14:08.000Z
+2025-10-21 06:13:18,334 - INFO - salvia_mihata02 の投稿日時: 2025-10-21T00:14:08.000Z
+2025-10-21 06:13:18,379 - INFO - date:2025-10-21 09:14:08+09:00
+2025-10-21 06:13:18,379 - INFO - post_date:20251021
+2025-10-21 06:13:18,574 - INFO - カルーセル推定: 1枚
+2025-10-21 06:13:18,746 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/567801034_18098490565663204_1495526323204570253_n.webp?_nc_cat=105&ig_cache_key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Kq6iQTq1J4AQ7kNvwHkxft1&_nc_oc=AdkudtA2VaAVY1ZHfnz61FfoqlC0-cle8Eki1tlivHcP4znb1lnr8Vhi-r38C1MtkWg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=jWgcDJ6QrOu_hCS8VDmF9Q&oh=00_AffySlqVOymSjfXePYPbCMvVdSSQbIPqGkVPKZ99VdNnjg&oe=68FCE821
+2025-10-21 06:13:18,746 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/567801034_18098490565663204_1495526323204570253_n.webp?_nc_cat=105&ig_cache_key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Kq6iQTq1J4AQ7kNvwHkxft1&_nc_oc=AdkudtA2VaAVY1ZHfnz61FfoqlC0-cle8Eki1tlivHcP4znb1lnr8Vhi-r38C1MtkWg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=jWgcDJ6QrOu_hCS8VDmF9Q&oh=00_AffySlqVOymSjfXePYPbCMvVdSSQbIPqGkVPKZ99VdNnjg&oe=68FCE821
+2025-10-21 06:13:18,746 - INFO - [caption/by_username] 開始
+2025-10-21 06:13:19,342 - INFO - [caption/by_username] 説明文確定（先頭100）: '========== サルビア・リタ ==========
+エルジューダおすすめです。豊田
+【営業時間】
+火曜日～金曜日　9：30～18：30（最終受付18：00） 
+定休日	毎週月曜日・第1火曜日・'
+2025-10-21 06:13:19,343 - INFO - [caption/by_username] 説明文を保存: media\salvia_mihata02\description\20251021_061137
+2025-10-21 06:13:19,343 - INFO - 画像URLを取得しました
+2025-10-21 06:13:19,429 - INFO - INSERT(with-key): user=salvia_mihata02, key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ==, dt=2025-10-21T00:14:08.000Z
+2025-10-21 06:13:19,430 - INFO - メディアを取得します
+2025-10-21 06:13:21,431 - INFO - ダウンロードを開始します: media\salvia_mihata02\salvia_mihata02_20251021061321.jpg
+2025-10-21 06:13:22,707 - INFO - ダウンロード完了: media\salvia_mihata02\salvia_mihata02_20251021061321.jpg
+2025-10-21 06:13:24,130 - INFO - 元の画像サイズ: 1080x1080
+2025-10-21 06:13:24,130 - INFO - サイズ変更は不要です
+2025-10-21 06:13:24,138 - INFO - 説明文:========== サルビア・リタ ==========
+エルジューダおすすめです。豊田
+【営業時間】
+火曜日～金曜日　9：30～18：30（最終受付18：00） 
+定休日	毎週月曜日・第1火曜日・第3火曜日 
+
+◆ホットペッパービューティー
+美容室のご予約はこちら↓
+https://beauty.hotpepper.jp/slnH000476326/
+
+エステのご予約はこちら↓
+https://beauty.hotpepper.jp/kr/slnH000451984/
+　
+住所📍
+山形県山形市美畑町8-1 
+
+===================================
+
+#サルビア・リタ #salvia #美容室 #美容院 #理容室 #ヘアカット #カラー #パーマ #トリートメント #メンズカット #髪質改善 #ヘアサロン #エステサロン #脱毛 #ヒゲ脱毛 #ネイル #マツエク #山形市美容院 #山形市美容室 #山形市ヘアサロン #山形市カット #山形市髪質改善 #山形市メンズカット #山形市女性人気美容室 #山形市脱毛サロン #山形市マツエク #山形市ネイル #山形美容室 #山形美容院 #山形駅
+2025-10-21 06:13:29,656 - INFO - 処理終了
+================================================================================
+2025-10-21 06:13:47,770 - INFO - 処理開始: Mode=post, Username=salvia_mihata02, GBP=salviarita
+2025-10-21 06:13:47,770 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJzYWx2aWFyaXRhIl0.
+2025-10-21 06:14:50,393 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\salvia_mihata02\salvia_mihata02_20251021061321.jpg
+2025-10-21 06:14:54,515 - INFO - Waiting for description field...
+2025-10-21 06:14:55,120 - INFO - Setting description via JS (no send_keys)...
+2025-10-21 06:14:56,910 - INFO - Looking for button section...
+2025-10-21 06:15:04,171 - INFO - Trying to select CALL option...
+2025-10-21 06:15:07,466 - INFO - CALL option successfully selected
+2025-10-21 06:15:09,471 - INFO - Clicking submit button...
+2025-10-21 06:15:24,348 - INFO - 処理完了
+================================================================================
+2025-10-21 10:15:25,267 - INFO - 処理開始 PROCESSID:20251021_101522
+2025-10-21 10:15:25,269 - INFO - 対象ユーザー: salvia_mihata02
+2025-10-21 10:15:25,269 - INFO - 処理を開始します
+2025-10-21 10:15:25,328 - INFO - 選択されたプロファイル: Profile 9
+2025-10-21 10:15:25,330 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-21 10:15:29,895 - INFO - salvia_mihata02 のプロフィールページにアクセスします
+2025-10-21 10:15:41,713 - INFO - 最新投稿を読み込みます
+2025-10-21 10:15:47,151 - INFO - 選定: 非ピン留め https://www.instagram.com/salvia_mihata02/p/DQDP8-tkigF/?hl=ja
+2025-10-21 10:15:52,985 - INFO - 最新投稿ページにアクセスしました
+2025-10-21 10:15:56,758 - INFO - 最新投稿ページにアクセスしました
+2025-10-21 10:15:57,138 - INFO - datetime属性の抽出を開始します
+2025-10-21 10:15:57,167 - INFO - 抽出されたdatetime: 2025-10-21T00:14:08.000Z
+2025-10-21 10:15:57,168 - INFO - salvia_mihata02 の投稿日時: 2025-10-21T00:14:08.000Z
+2025-10-21 10:15:57,176 - INFO - date:2025-10-21 09:14:08+09:00
+2025-10-21 10:15:57,176 - INFO - post_date:20251021
+2025-10-21 10:15:57,235 - INFO - カルーセル推定: 1枚
+2025-10-21 10:15:57,299 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/567801034_18098490565663204_1495526323204570253_n.webp?_nc_cat=105&ig_cache_key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Kq6iQTq1J4AQ7kNvwHkxft1&_nc_oc=AdkudtA2VaAVY1ZHfnz61FfoqlC0-cle8Eki1tlivHcP4znb1lnr8Vhi-r38C1MtkWg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=wYm6zl43XguACfOGBQP4SA&oh=00_AfdBajCZiuFTsE9eqQDnXzV-h2ExBYNBHnOtAfs1YeVSzQ&oe=68FD2061
+2025-10-21 10:15:57,299 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/567801034_18098490565663204_1495526323204570253_n.webp?_nc_cat=105&ig_cache_key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Kq6iQTq1J4AQ7kNvwHkxft1&_nc_oc=AdkudtA2VaAVY1ZHfnz61FfoqlC0-cle8Eki1tlivHcP4znb1lnr8Vhi-r38C1MtkWg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=wYm6zl43XguACfOGBQP4SA&oh=00_AfdBajCZiuFTsE9eqQDnXzV-h2ExBYNBHnOtAfs1YeVSzQ&oe=68FD2061
+2025-10-21 10:15:57,299 - INFO - [caption/by_username] 開始
+2025-10-21 10:15:57,445 - INFO - [caption/by_username] 説明文確定（先頭100）: '========== サルビア・リタ ==========
+エルジューダおすすめです。豊田
+【営業時間】
+火曜日～金曜日　9：30～18：30（最終受付18：00） 
+定休日	毎週月曜日・第1火曜日・'
+2025-10-21 10:15:57,447 - INFO - [caption/by_username] 説明文を保存: media\salvia_mihata02\description\20251021_101522
+2025-10-21 10:15:57,447 - INFO - 画像URLを取得しました
+2025-10-21 10:15:57,449 - INFO - DUP(with-key): user=salvia_mihata02, key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ==, dt=2025-10-21T00:14:08.000Z
+2025-10-21 10:15:57,449 - INFO - このレコードは存在します
+2025-10-21 10:15:57,450 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-21 14:26:56,603 - INFO - 処理開始 PROCESSID:20251021_142653
+2025-10-21 14:26:56,603 - INFO - 対象ユーザー: salvia_mihata02
+2025-10-21 14:26:56,603 - INFO - 処理を開始します
+2025-10-21 14:26:56,662 - INFO - 選択されたプロファイル: Profile 9
+2025-10-21 14:26:56,662 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-21 14:27:01,242 - INFO - salvia_mihata02 のプロフィールページにアクセスします
+2025-10-21 14:27:12,850 - INFO - 最新投稿を読み込みます
+2025-10-21 14:27:18,164 - INFO - 選定: 非ピン留め https://www.instagram.com/salvia_mihata02/p/DQDP8-tkigF/?hl=ja
+2025-10-21 14:27:23,232 - INFO - 最新投稿ページにアクセスしました
+2025-10-21 14:27:27,662 - INFO - 最新投稿ページにアクセスしました
+2025-10-21 14:27:27,702 - INFO - datetime属性の抽出を開始します
+2025-10-21 14:27:27,829 - INFO - 抽出されたdatetime: 2025-10-21T00:14:08.000Z
+2025-10-21 14:27:27,829 - INFO - salvia_mihata02 の投稿日時: 2025-10-21T00:14:08.000Z
+2025-10-21 14:27:27,838 - INFO - date:2025-10-21 09:14:08+09:00
+2025-10-21 14:27:27,838 - INFO - post_date:20251021
+2025-10-21 14:27:27,899 - INFO - カルーセル推定: 1枚
+2025-10-21 14:27:27,951 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/567801034_18098490565663204_1495526323204570253_n.webp?_nc_cat=105&ig_cache_key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Kq6iQTq1J4AQ7kNvwHkxft1&_nc_oc=AdkudtA2VaAVY1ZHfnz61FfoqlC0-cle8Eki1tlivHcP4znb1lnr8Vhi-r38C1MtkWg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Ns53A7OcNGAbDOK85Q0djw&oh=00_AfdzFyrxJlMblHw_L0sKBhaxixadpBGknBPVLoVB1oxvhA&oe=68FD58A1
+2025-10-21 14:27:27,952 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/567801034_18098490565663204_1495526323204570253_n.webp?_nc_cat=105&ig_cache_key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Kq6iQTq1J4AQ7kNvwHkxft1&_nc_oc=AdkudtA2VaAVY1ZHfnz61FfoqlC0-cle8Eki1tlivHcP4znb1lnr8Vhi-r38C1MtkWg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Ns53A7OcNGAbDOK85Q0djw&oh=00_AfdzFyrxJlMblHw_L0sKBhaxixadpBGknBPVLoVB1oxvhA&oe=68FD58A1
+2025-10-21 14:27:27,952 - INFO - [caption/by_username] 開始
+2025-10-21 14:27:28,233 - INFO - [caption/by_username] 説明文確定（先頭100）: '========== サルビア・リタ ==========
+エルジューダおすすめです。豊田
+【営業時間】
+火曜日～金曜日　9：30～18：30（最終受付18：00） 
+定休日	毎週月曜日・第1火曜日・'
+2025-10-21 14:27:28,233 - INFO - [caption/by_username] 説明文を保存: media\salvia_mihata02\description\20251021_142653
+2025-10-21 14:27:28,235 - INFO - 画像URLを取得しました
+2025-10-21 14:27:28,235 - INFO - DUP(with-key): user=salvia_mihata02, key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ==, dt=2025-10-21T00:14:08.000Z
+2025-10-21 14:27:28,237 - INFO - このレコードは存在します
+2025-10-21 14:27:28,237 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-21 18:29:14,010 - INFO - 処理開始 PROCESSID:20251021_182910
+2025-10-21 18:29:14,010 - INFO - 対象ユーザー: salvia_mihata02
+2025-10-21 18:29:14,010 - INFO - 処理を開始します
+2025-10-21 18:29:14,070 - INFO - 選択されたプロファイル: Profile 9
+2025-10-21 18:29:14,070 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-21 18:29:18,553 - INFO - salvia_mihata02 のプロフィールページにアクセスします
+2025-10-21 18:29:30,684 - INFO - 最新投稿を読み込みます
+2025-10-21 18:29:36,260 - INFO - 選定: 非ピン留め https://www.instagram.com/salvia_mihata02/p/DQDP8-tkigF/?hl=ja
+2025-10-21 18:29:40,637 - INFO - 最新投稿ページにアクセスしました
+2025-10-21 18:29:44,982 - INFO - 最新投稿ページにアクセスしました
+2025-10-21 18:29:45,072 - INFO - datetime属性の抽出を開始します
+2025-10-21 18:29:45,120 - INFO - 抽出されたdatetime: 2025-10-21T00:14:08.000Z
+2025-10-21 18:29:45,120 - INFO - salvia_mihata02 の投稿日時: 2025-10-21T00:14:08.000Z
+2025-10-21 18:29:45,142 - INFO - date:2025-10-21 09:14:08+09:00
+2025-10-21 18:29:45,142 - INFO - post_date:20251021
+2025-10-21 18:29:45,229 - INFO - カルーセル推定: 1枚
+2025-10-21 18:29:45,310 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/567801034_18098490565663204_1495526323204570253_n.webp?_nc_cat=105&ig_cache_key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Kq6iQTq1J4AQ7kNvwHkxft1&_nc_oc=AdkudtA2VaAVY1ZHfnz61FfoqlC0-cle8Eki1tlivHcP4znb1lnr8Vhi-r38C1MtkWg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=TRQ1Q8kRTk5pZhnRXDItuA&oh=00_AffEJNaP-GlODaLwt0h7ijZS5YMZXvzyk9JRmsZv7wwZbw&oe=68FD90E1
+2025-10-21 18:29:45,310 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/567801034_18098490565663204_1495526323204570253_n.webp?_nc_cat=105&ig_cache_key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Kq6iQTq1J4AQ7kNvwHkxft1&_nc_oc=AdkudtA2VaAVY1ZHfnz61FfoqlC0-cle8Eki1tlivHcP4znb1lnr8Vhi-r38C1MtkWg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=TRQ1Q8kRTk5pZhnRXDItuA&oh=00_AffEJNaP-GlODaLwt0h7ijZS5YMZXvzyk9JRmsZv7wwZbw&oe=68FD90E1
+2025-10-21 18:29:45,310 - INFO - [caption/by_username] 開始
+2025-10-21 18:29:45,456 - INFO - [caption/by_username] 説明文確定（先頭100）: '========== サルビア・リタ ==========
+エルジューダおすすめです。豊田
+【営業時間】
+火曜日～金曜日　9：30～18：30（最終受付18：00） 
+定休日	毎週月曜日・第1火曜日・'
+2025-10-21 18:29:45,458 - INFO - [caption/by_username] 説明文を保存: media\salvia_mihata02\description\20251021_182910
+2025-10-21 18:29:45,458 - INFO - 画像URLを取得しました
+2025-10-21 18:29:45,460 - INFO - DUP(with-key): user=salvia_mihata02, key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ==, dt=2025-10-21T00:14:08.000Z
+2025-10-21 18:29:45,460 - INFO - このレコードは存在します
+2025-10-21 18:29:45,460 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-21 22:29:31,036 - INFO - 処理開始 PROCESSID:20251021_222927
+2025-10-21 22:29:31,036 - INFO - 対象ユーザー: salvia_mihata02
+2025-10-21 22:29:31,036 - INFO - 処理を開始します
+2025-10-21 22:29:31,098 - INFO - 選択されたプロファイル: Profile 12
+2025-10-21 22:29:31,098 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-21 22:29:35,553 - INFO - salvia_mihata02 のプロフィールページにアクセスします
+2025-10-21 22:29:46,915 - INFO - 最新投稿を読み込みます
+2025-10-21 22:29:52,215 - INFO - 選定: 非ピン留め https://www.instagram.com/salvia_mihata02/p/DQDP8-tkigF/?hl=ja
+2025-10-21 22:29:56,976 - INFO - 最新投稿ページにアクセスしました
+2025-10-21 22:30:01,164 - INFO - 最新投稿ページにアクセスしました
+2025-10-21 22:30:01,195 - INFO - datetime属性の抽出を開始します
+2025-10-21 22:30:01,218 - INFO - 抽出されたdatetime: 2025-10-21T00:14:08.000Z
+2025-10-21 22:30:01,218 - INFO - salvia_mihata02 の投稿日時: 2025-10-21T00:14:08.000Z
+2025-10-21 22:30:01,225 - INFO - date:2025-10-21 09:14:08+09:00
+2025-10-21 22:30:01,225 - INFO - post_date:20251021
+2025-10-21 22:30:01,277 - INFO - カルーセル推定: 1枚
+2025-10-21 22:30:01,318 - INFO - 検出(SINGLE): https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/567801034_18098490565663204_1495526323204570253_n.webp?_nc_cat=105&ig_cache_key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Kq6iQTq1J4AQ7kNvwHkxft1&_nc_oc=AdkudtA2VaAVY1ZHfnz61FfoqlC0-cle8Eki1tlivHcP4znb1lnr8Vhi-r38C1MtkWg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=SHDw1oqvNzZLBl3u7xtJKw&oh=00_AffOrzryYMN47i1ZRC1gUCJBpamhaW_bxSVTPn6xyQ855w&oe=68FDC921
+2025-10-21 22:30:01,318 - INFO - 1枚目: https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/567801034_18098490565663204_1495526323204570253_n.webp?_nc_cat=105&ig_cache_key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuQzMifQ%3D%3D&_nc_ohc=Kq6iQTq1J4AQ7kNvwHkxft1&_nc_oc=AdkudtA2VaAVY1ZHfnz61FfoqlC0-cle8Eki1tlivHcP4znb1lnr8Vhi-r38C1MtkWg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=SHDw1oqvNzZLBl3u7xtJKw&oh=00_AffOrzryYMN47i1ZRC1gUCJBpamhaW_bxSVTPn6xyQ855w&oe=68FDC921
+2025-10-21 22:30:01,318 - INFO - [caption/by_username] 開始
+2025-10-21 22:30:01,546 - INFO - [caption/by_username] 説明文確定（先頭100）: '========== サルビア・リタ ==========
+エルジューダおすすめです。豊田
+【営業時間】
+火曜日～金曜日　9：30～18：30（最終受付18：00） 
+定休日	毎週月曜日・第1火曜日・'
+2025-10-21 22:30:01,548 - INFO - [caption/by_username] 説明文を保存: media\salvia_mihata02\description\20251021_222927
+2025-10-21 22:30:01,549 - INFO - 画像URLを取得しました
+2025-10-21 22:30:01,551 - INFO - DUP(with-key): user=salvia_mihata02, key=Mzc0NzkwOTQ3NjEwNTIwMTY2OQ==, dt=2025-10-21T00:14:08.000Z
+2025-10-21 22:30:01,551 - INFO - このレコードは存在します
+2025-10-21 22:30:01,551 - INFO - 全件レコードが存在します

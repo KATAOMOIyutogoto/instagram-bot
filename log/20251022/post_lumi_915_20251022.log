@@ -1,0 +1,121 @@
+================================================================================
+2025-10-22 01:01:59,737 - INFO - 処理開始 PROCESSID:20251022_010156
+2025-10-22 01:01:59,737 - INFO - 対象ユーザー: lumi_915
+2025-10-22 01:01:59,738 - INFO - 処理を開始します
+2025-10-22 01:01:59,802 - INFO - 選択されたプロファイル: Profile 13
+2025-10-22 01:01:59,802 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-22 01:02:04,591 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-22 01:02:15,944 - INFO - 最新投稿を読み込みます
+2025-10-22 01:02:21,269 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/p/DP-Zr3TklVx/?hl=ja
+2025-10-22 01:02:24,476 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 01:02:28,701 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 01:02:28,774 - INFO - datetime属性の抽出を開始します
+2025-10-22 01:02:28,801 - INFO - 抽出されたdatetime: 2025-10-19T03:02:59.000Z
+2025-10-22 01:02:28,801 - INFO - lumi_915 の投稿日時: 2025-10-19T03:02:59.000Z
+2025-10-22 01:02:28,815 - INFO - date:2025-10-19 12:02:59+09:00
+2025-10-22 01:02:28,816 - INFO - post_date:20251019
+2025-10-22 01:02:28,839 - INFO - 1枚目: blob:https://www.instagram.com/be79fdea-6b08-43d0-8bc9-0fed8579c994
+2025-10-22 01:02:28,839 - INFO - [caption/by_username] 開始
+2025-10-22 01:02:29,167 - INFO - [caption/by_username] 説明文確定（先頭100）: 'ここ最近の営業風景になります！
+肌寒くなってきましたね。
+
+寒暖差が激しく体調を崩してしまったというお声をいただくことが増えました🥲
+
+皆様体調お気をつけてくださいませ！！
+
+————Lumi 高崎駅'
+2025-10-22 01:02:29,169 - INFO - [caption/by_username] 説明文を保存: media\lumi_915\description\20251022_010156
+2025-10-22 01:02:31,708 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Vml_edpN4xsQ7kNvwGjOK2E&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo0MzYxNTMwNzE3NDAzNzA0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UCThuVAHOim30tuHT32aLw&_nc_zt=28&oh=00_AfdKBAz9KW1E4W_fHFHrOg-oaoA4Xv_ZErHk0Yi7cxWyuA&oe=68FA2298&bytestart=0&byteend=1887381
+2025-10-22 01:02:31,710 - INFO - DUP(unique): 既存レコードにつき挿入スキップ | DB=MEO.db, table=meo, user=lumi_915, key=AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc, dt=2025-10-19T03:02:59.000Z, url=https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Vml_edpN4xsQ7kNvwGjOK2E&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo0MzYxNTMwNzE3NDAzNzA0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UCThuVAHOim30tuHT32aLw&_nc_zt=28&oh=00_AfdKBAz9KW1E4W_fHFHrOg-oaoA4Xv_ZErHk0Yi7cxWyuA&oe=68FA2298&bytestart=0&byteend=1887381, sql=INSERT INTO meo (user_name, cache_key, media_url, datetime_value) VALUES (?, ?, ?, ?), params=('lumi_915', 'AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc', 'https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMwVcOHV8Jkb0RGEelkidbh1qBToUDTQu3OP5dKwJDx2vz7H_O6qDxceHZQW2TROdZhdGp7MzHeVr01kvDtp00eUN0Cra6E5Zg5vfc.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Vml_edpN4xsQ7kNvwGjOK2E&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo0MzYxNTMwNzE3NDAzNzA0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UCThuVAHOim30tuHT32aLw&_nc_zt=28&oh=00_AfdKBAz9KW1E4W_fHFHrOg-oaoA4Xv_ZErHk0Yi7cxWyuA&oe=68FA2298&bytestart=0&byteend=1887381', '2025-10-19T03:02:59.000Z')
+2025-10-22 01:02:31,711 - INFO - このレコードは存在します
+2025-10-22 01:02:31,711 - INFO - 全件レコードが存在します
+================================================================================
+2025-10-22 05:11:54,239 - INFO - 処理開始 PROCESSID:20251022_051150
+2025-10-22 05:11:54,239 - INFO - 対象ユーザー: lumi_915
+2025-10-22 05:11:54,239 - INFO - 処理を開始します
+2025-10-22 05:11:54,298 - INFO - 選択されたプロファイル: Profile 10
+2025-10-22 05:11:54,300 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-22 05:11:58,928 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-22 05:12:11,262 - INFO - 最新投稿を読み込みます
+2025-10-22 05:12:16,735 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/p/DP-Zr3TklVx/?hl=ja
+2025-10-22 05:12:22,681 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 05:12:27,527 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 05:12:27,765 - INFO - datetime属性の抽出を開始します
+2025-10-22 05:12:27,821 - INFO - 抽出されたdatetime: 2025-10-19T03:02:59.000Z
+2025-10-22 05:12:27,821 - INFO - lumi_915 の投稿日時: 2025-10-19T03:02:59.000Z
+2025-10-22 05:12:27,830 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-19T03:02:59+00:00, age=3 days, 2:09:28.830652
+================================================================================
+2025-10-22 08:08:11,309 - INFO - 処理開始 PROCESSID:20251022_080807
+2025-10-22 08:08:11,309 - INFO - 対象ユーザー: lumi_915
+2025-10-22 08:08:11,309 - INFO - 処理を開始します
+2025-10-22 08:08:11,367 - INFO - 選択されたプロファイル: Profile 9
+2025-10-22 08:08:11,367 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-22 08:08:16,120 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-22 08:08:27,739 - INFO - 最新投稿を読み込みます
+2025-10-22 08:08:33,080 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/p/DP-Zr3TklVx/?hl=ja
+2025-10-22 08:08:39,212 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 08:08:42,802 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 08:08:42,993 - INFO - datetime属性の抽出を開始します
+2025-10-22 08:08:43,043 - INFO - 抽出されたdatetime: 2025-10-19T03:02:59.000Z
+2025-10-22 08:08:43,073 - INFO - lumi_915 の投稿日時: 2025-10-19T03:02:59.000Z
+2025-10-22 08:08:43,104 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-19T03:02:59+00:00, age=3 days, 5:05:44.104902
+================================================================================
+2025-10-22 12:15:46,218 - INFO - 処理開始 PROCESSID:20251022_121541
+2025-10-22 12:15:46,218 - INFO - 対象ユーザー: lumi_915
+2025-10-22 12:15:46,218 - INFO - 処理を開始します
+2025-10-22 12:15:46,273 - INFO - 選択されたプロファイル: Profile 10
+2025-10-22 12:15:46,273 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-22 12:15:51,052 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-22 12:16:03,240 - INFO - 最新投稿を読み込みます
+2025-10-22 12:16:08,824 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/p/DP-Zr3TklVx/?hl=ja
+2025-10-22 12:16:14,676 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 12:16:19,890 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 12:16:19,962 - INFO - datetime属性の抽出を開始します
+2025-10-22 12:16:20,054 - INFO - 抽出されたdatetime: 2025-10-19T03:02:59.000Z
+2025-10-22 12:16:20,054 - INFO - lumi_915 の投稿日時: 2025-10-19T03:02:59.000Z
+2025-10-22 12:16:20,134 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-19T03:02:59+00:00, age=3 days, 9:13:21.134523
+================================================================================
+2025-10-22 16:21:04,534 - INFO - 処理開始 PROCESSID:20251022_162101
+2025-10-22 16:21:04,534 - INFO - 対象ユーザー: lumi_915
+2025-10-22 16:21:04,534 - INFO - 処理を開始します
+2025-10-22 16:21:04,598 - INFO - 選択されたプロファイル: Profile 12
+2025-10-22 16:21:04,600 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-22 16:21:09,159 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-22 16:21:20,706 - INFO - 最新投稿を読み込みます
+2025-10-22 16:21:26,226 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/p/DP-Zr3TklVx/?hl=ja
+2025-10-22 16:21:32,347 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 16:21:37,663 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 16:21:37,755 - INFO - datetime属性の抽出を開始します
+2025-10-22 16:21:38,094 - INFO - 抽出されたdatetime: 2025-10-19T03:02:59.000Z
+2025-10-22 16:21:38,095 - INFO - lumi_915 の投稿日時: 2025-10-19T03:02:59.000Z
+2025-10-22 16:21:38,175 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-19T03:02:59+00:00, age=3 days, 13:18:39.175338
+================================================================================
+2025-10-22 20:18:09,794 - INFO - 処理開始 PROCESSID:20251022_201806
+2025-10-22 20:18:09,794 - INFO - 対象ユーザー: lumi_915
+2025-10-22 20:18:09,794 - INFO - 処理を開始します
+2025-10-22 20:18:09,862 - INFO - 選択されたプロファイル: Profile 12
+2025-10-22 20:18:09,862 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-22 20:18:14,385 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-22 20:18:26,731 - INFO - 最新投稿を読み込みます
+2025-10-22 20:18:32,203 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/p/DP-Zr3TklVx/?hl=ja
+2025-10-22 20:18:38,577 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 20:18:43,583 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 20:18:43,720 - INFO - datetime属性の抽出を開始します
+2025-10-22 20:18:43,769 - INFO - 抽出されたdatetime: 2025-10-19T03:02:59.000Z
+2025-10-22 20:18:43,769 - INFO - lumi_915 の投稿日時: 2025-10-19T03:02:59.000Z
+2025-10-22 20:18:43,777 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-19T03:02:59+00:00, age=3 days, 17:15:44.776141
+================================================================================
+2025-10-22 23:02:08,283 - INFO - 処理開始 PROCESSID:20251022_230204
+2025-10-22 23:02:08,284 - INFO - 対象ユーザー: lumi_915
+2025-10-22 23:02:08,284 - INFO - 処理を開始します
+2025-10-22 23:02:08,339 - INFO - 選択されたプロファイル: Profile 12
+2025-10-22 23:02:08,341 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-22 23:02:13,008 - INFO - lumi_915 のプロフィールページにアクセスします
+2025-10-22 23:02:24,676 - INFO - 最新投稿を読み込みます
+2025-10-22 23:02:30,026 - INFO - 選定: 非ピン留め https://www.instagram.com/lumi_915/p/DP-Zr3TklVx/?hl=ja
+2025-10-22 23:02:35,874 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 23:02:41,523 - INFO - 最新投稿ページにアクセスしました
+2025-10-22 23:02:41,862 - INFO - datetime属性の抽出を開始します
+2025-10-22 23:02:42,108 - INFO - 抽出されたdatetime: 2025-10-19T03:02:59.000Z
+2025-10-22 23:02:42,108 - INFO - lumi_915 の投稿日時: 2025-10-19T03:02:59.000Z
+2025-10-22 23:02:42,121 - INFO - 投稿日が 3日より古いためスキップ: posted=2025-10-19T03:02:59+00:00, age=3 days, 19:59:43.121402

@@ -1,0 +1,183 @@
+================================================================================
+2025-10-23 00:03:41,504 - INFO - 処理開始 PROCESSID:20251023_000338
+2025-10-23 00:03:41,504 - INFO - 対象ユーザー: mitake2514
+2025-10-23 00:03:41,504 - INFO - 処理を開始します
+2025-10-23 00:03:41,567 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 00:03:41,567 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 00:03:46,339 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-23 00:04:08,244 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 00:04:11,380 - INFO - 動画の取得に失敗しました
+2025-10-23 00:04:11,381 - INFO - datetime属性の抽出を開始します
+2025-10-23 00:04:21,773 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa6fe43+66515]
+	GetHandleVerifier [0x0xa6fe84+66580]
+	(No symbol) [0x0x85dc48]
+	(No symbol) [0x0x8a8704]
+	(No symbol) [0x0x8a8aab]
+	(No symbol) [0x0x8ef482]
+	(No symbol) [0x0x8cb214]
+	(No symbol) [0x0x8ecba7]
+	(No symbol) [0x0x8cafc6]
+	(No symbol) [0x0x89c2ca]
+	(No symbol) [0x0x89d154]
+	GetHandleVerifier [0x0xcc7353+2521315]
+	GetHandleVerifier [0x0xcc22d3+2500707]
+	GetHandleVerifier [0x0xa97c94+229924]
+	GetHandleVerifier [0x0xa881f8+165768]
+	GetHandleVerifier [0x0xa8ecad+193085]
+	GetHandleVerifier [0x0xa78158+100072]
+	GetHandleVerifier [0x0xa782f0+100480]
+	GetHandleVerifier [0x0xa625aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-23 00:04:32,133 - INFO - 画像の取得に失敗しました
+2025-10-23 00:04:34,563 - INFO - 処理終了
+================================================================================
+2025-10-23 04:15:43,594 - INFO - 処理開始 PROCESSID:20251023_041540
+2025-10-23 04:15:43,594 - INFO - 対象ユーザー: mitake2514
+2025-10-23 04:15:43,594 - INFO - 処理を開始します
+2025-10-23 04:15:43,665 - INFO - 選択されたプロファイル: Profile 10
+2025-10-23 04:15:43,665 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-23 04:15:48,532 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-23 04:16:11,040 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 04:16:11,717 - INFO - mitake2514: 動画を検出しました
+2025-10-23 04:16:11,717 - INFO - datetime属性の抽出を開始します
+2025-10-23 04:16:12,182 - INFO - 抽出されたdatetime: 2025-10-23T02:18:49.000Z
+2025-10-23 04:16:12,183 - INFO - mitake2514 の投稿日時: 2025-10-23T02:18:49.000Z
+2025-10-23 04:16:13,412 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQPOul_yhFjJruSvjUwzkTVNOJ3mWH3IPeEfd9ET02LAJqm8iWFwofMuo8TIQFSop0cyD2s2nMKzl8gW8EGdj8KBkWZSKOiJkvo5u0g.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=6mmYj-hYuYEQ7kNvwEG6rD_&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzNfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTgzMDU3NjU2NzU2NDA1MSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ROXvb_J11PuitiRr-T8Mig&_nc_zt=28&oh=00_AffJfuOGnXej5Lsu-guOZ0pjtfq2hnbZBIX2b0yTP_6ZtQ&oe=68FB9BF4&bytestart=0&byteend=472148
+2025-10-23 04:16:13,413 - INFO - 動画URLを取得しました
+2025-10-23 04:16:13,590 - INFO - INSERT(with-key): user=mitake2514, key=AQPOul_yhFjJruSvjUwzkTVNOJ3mWH3IPeEfd9ET02LAJqm8iWFwofMuo8TIQFSop0cyD2s2nMKzl8gW8EGdj8KBkWZSKOiJkvo5u0g, dt=2025-10-23T02:18:49.000Z
+2025-10-23 04:16:15,593 - INFO - ダウンロードを開始します: media\mitake2514\mitake2514_20251023041615.mp4
+2025-10-23 04:16:17,599 - INFO - ダウンロード完了: media\mitake2514\mitake2514_20251023041615.mp4
+2025-10-23 04:16:20,144 - INFO - 処理終了
+2025-10-23 04:16:20,144 - INFO - 説明文_AI: None
+2025-10-23 04:16:20,144 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 04:16:27,571 - INFO - 処理開始: Mode=story, Username=mitake2514, GBP=pa00039718
+2025-10-23 04:16:27,573 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJwYTAwMDM5NzE4Il0.
+2025-10-23 04:16:51,067 - INFO - 元の動画サイズ: 360x640
+2025-10-23 04:16:51,067 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-23 04:16:51,067 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\mitake2514\mitake2514_20251023041615.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\mitake2514\mitake2514_20251023041615_resized.mp4
+2025-10-23 04:16:56,612 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\mitake2514\mitake2514_20251023041615_resized.mp4
+2025-10-23 04:16:56,614 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\mitake2514\mitake2514_20251023041615.mp4
+2025-10-23 04:16:56,614 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\mitake2514\mitake2514_20251023041615_resized.mp4
+2025-10-23 04:17:06,934 - INFO - 一時ファイルが見つかりません: media\mitake2514\description\20251023_041540
+2025-10-23 04:17:06,934 - INFO - Looking for button section...
+2025-10-23 04:17:11,471 - INFO - Trying to select CALL option...
+2025-10-23 04:17:11,712 - INFO - CALL option successfully selected
+2025-10-23 04:17:13,713 - INFO - Clicking submit button...
+2025-10-23 04:17:22,471 - INFO - 処理完了
+================================================================================
+2025-10-23 08:25:02,821 - INFO - 処理開始 PROCESSID:20251023_082459
+2025-10-23 08:25:02,821 - INFO - 対象ユーザー: mitake2514
+2025-10-23 08:25:02,821 - INFO - 処理を開始します
+2025-10-23 08:25:02,881 - INFO - 選択されたプロファイル: Profile 12
+2025-10-23 08:25:02,881 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-23 08:25:07,615 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-23 08:25:29,814 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 08:25:30,778 - INFO - mitake2514: 動画を検出しました
+2025-10-23 08:25:30,778 - INFO - datetime属性の抽出を開始します
+2025-10-23 08:25:30,857 - INFO - 抽出されたdatetime: 2025-10-23T02:18:49.000Z
+2025-10-23 08:25:30,857 - INFO - mitake2514 の投稿日時: 2025-10-23T02:18:49.000Z
+2025-10-23 08:25:32,198 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m86/AQPlHy38GB2Eve2K67EUPkXdDOx9GfEpWYMF6QFgYkzukWn4RWJ_8SjyEU6Qnj0gGmW4fr5qGzHSUAWvGxo352WkXnKSBhGCmsWX6Uo.mp4?_nc_cat=109&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Thvyc5YaC3QQ7kNvwHQQ3YH&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxODMwNTc2NTY3NTY0MDUxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Oy1geqZFS0C8e4MNigNKtw&_nc_zt=28&oh=00_AfeTHjtBEQPGfbDA6R96ilM5y4_Vsgl69znQH5_bgd9CdQ&oe=68FBCA12&bytestart=0&byteend=1961751
+2025-10-23 08:25:32,199 - INFO - 動画URLを取得しました
+2025-10-23 08:25:32,342 - INFO - INSERT(with-key): user=mitake2514, key=AQPlHy38GB2Eve2K67EUPkXdDOx9GfEpWYMF6QFgYkzukWn4RWJ_8SjyEU6Qnj0gGmW4fr5qGzHSUAWvGxo352WkXnKSBhGCmsWX6Uo, dt=2025-10-23T02:18:49.000Z
+2025-10-23 08:25:34,349 - INFO - ダウンロードを開始します: media\mitake2514\mitake2514_20251023082534.mp4
+2025-10-23 08:25:36,785 - INFO - ダウンロード完了: media\mitake2514\mitake2514_20251023082534.mp4
+2025-10-23 08:25:39,352 - INFO - 処理終了
+2025-10-23 08:25:39,354 - INFO - 説明文_AI: None
+2025-10-23 08:25:39,354 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 08:25:45,489 - INFO - 処理開始: Mode=story, Username=mitake2514, GBP=pa00039718
+2025-10-23 08:25:45,489 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJwYTAwMDM5NzE4Il0.
+2025-10-23 08:26:09,034 - INFO - 元の動画サイズ: 720x1280
+2025-10-23 08:26:09,034 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-23 08:26:09,034 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\mitake2514\mitake2514_20251023082534.mp4
+2025-10-23 08:26:19,083 - INFO - 一時ファイルが見つかりません: media\mitake2514\description\20251023_082459
+2025-10-23 08:26:19,084 - INFO - Looking for button section...
+2025-10-23 08:26:23,839 - INFO - Trying to select CALL option...
+2025-10-23 08:26:24,078 - INFO - CALL option successfully selected
+2025-10-23 08:26:26,079 - INFO - Clicking submit button...
+2025-10-23 08:26:34,767 - INFO - 処理完了
+================================================================================
+2025-10-23 12:39:37,634 - INFO - 処理開始 PROCESSID:20251023_123934
+2025-10-23 12:39:37,634 - INFO - 対象ユーザー: mitake2514
+2025-10-23 12:39:37,634 - INFO - 処理を開始します
+2025-10-23 12:39:37,701 - INFO - 選択されたプロファイル: Profile 9
+2025-10-23 12:39:37,703 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-23 12:39:42,310 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-23 12:40:04,583 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 12:40:05,318 - INFO - mitake2514: 動画を検出しました
+2025-10-23 12:40:05,318 - INFO - datetime属性の抽出を開始します
+2025-10-23 12:40:05,360 - INFO - 抽出されたdatetime: 2025-10-23T02:18:49.000Z
+2025-10-23 12:40:05,360 - INFO - mitake2514 の投稿日時: 2025-10-23T02:18:49.000Z
+2025-10-23 12:40:06,647 - INFO - 生成URL:https://scontent-ams2-1.cdninstagram.com/o1/v/t2/f2/m78/AQOasAtgkVmboqQ1j3reuEzG5gyrstiJV1x7Rbr3qq94v-T2Is2MQdR4MGf4TWyJelAMx_SsIUXJMTJ7-wwg4TWfdoit3C0MLzK-F68.mp4?_nc_cat=104&_nc_sid=9ca052&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_ohc=Bf-rtvHoo_YQ7kNvwGYmd7V&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyNTI3Nzg2NTk5NTE1MDMwOSwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-ubm0h2EK80sEHBZmkr3vw&_nc_zt=28&oh=00_Afc_WAgmlw80y8jtinlkViJx-_PJ1AKUQeIQixg4lXXn5w&oe=68FBE8FD&bytestart=0&byteend=1280655
+2025-10-23 12:40:06,648 - INFO - 動画URLを取得しました
+2025-10-23 12:40:06,873 - INFO - INSERT(with-key): user=mitake2514, key=AQOasAtgkVmboqQ1j3reuEzG5gyrstiJV1x7Rbr3qq94v-T2Is2MQdR4MGf4TWyJelAMx_SsIUXJMTJ7-wwg4TWfdoit3C0MLzK-F68, dt=2025-10-23T02:18:49.000Z
+2025-10-23 12:40:08,885 - INFO - ダウンロードを開始します: media\mitake2514\mitake2514_20251023124008.mp4
+2025-10-23 12:40:11,283 - INFO - ダウンロード完了: media\mitake2514\mitake2514_20251023124008.mp4
+2025-10-23 12:40:13,856 - INFO - 処理終了
+2025-10-23 12:40:13,856 - INFO - 説明文_AI: None
+2025-10-23 12:40:13,856 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 12:40:19,910 - INFO - 処理開始: Mode=story, Username=mitake2514, GBP=pa00039718
+2025-10-23 12:40:19,910 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJwYTAwMDM5NzE4Il0.
+2025-10-23 12:40:44,295 - INFO - 元の動画サイズ: 720x1280
+2025-10-23 12:40:44,295 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-23 12:40:44,295 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\mitake2514\mitake2514_20251023124008.mp4
+2025-10-23 12:40:54,414 - INFO - 一時ファイルが見つかりません: media\mitake2514\description\20251023_123934
+2025-10-23 12:40:54,414 - INFO - Looking for button section...
+2025-10-23 12:40:58,971 - INFO - Trying to select CALL option...
+2025-10-23 12:40:59,202 - INFO - CALL option successfully selected
+2025-10-23 12:41:01,203 - INFO - Clicking submit button...
+2025-10-23 12:41:09,876 - INFO - 処理完了
+================================================================================
+2025-10-23 18:01:14,653 - INFO - 処理開始 PROCESSID:20251023_180111
+2025-10-23 18:01:14,653 - INFO - 対象ユーザー: mitake2514
+2025-10-23 18:01:14,653 - INFO - 処理を開始します
+2025-10-23 18:01:14,723 - INFO - 選択されたプロファイル: Profile 9
+2025-10-23 18:01:14,723 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-23 18:01:19,359 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-23 18:01:41,147 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 18:01:41,818 - INFO - mitake2514: 動画を検出しました
+2025-10-23 18:01:41,818 - INFO - datetime属性の抽出を開始します
+2025-10-23 18:01:41,842 - INFO - 抽出されたdatetime: 2025-10-23T02:18:49.000Z
+2025-10-23 18:01:41,842 - INFO - mitake2514 の投稿日時: 2025-10-23T02:18:49.000Z
+2025-10-23 18:01:43,162 - INFO - 生成URL:https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m86/AQPOul_yhFjJruSvjUwzkTVNOJ3mWH3IPeEfd9ET02LAJqm8iWFwofMuo8TIQFSop0cyD2s2nMKzl8gW8EGdj8KBkWZSKOiJkvo5u0g.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=6mmYj-hYuYEQ7kNvwEG6rD_&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxODMwNTc2NTY3NTY0MDUxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=2keGb89gdsis42pwsNFXWA&_nc_zt=28&oh=00_AffrfSx5wmXN9GZhw2ZLBJQXIa7ZX6OkVMT9_kK7nCySEw&oe=68FC44B4&bytestart=0&byteend=472148
+2025-10-23 18:01:43,162 - INFO - 動画URLを取得しました
+2025-10-23 18:01:43,164 - INFO - DUP(with-key): user=mitake2514, key=AQPOul_yhFjJruSvjUwzkTVNOJ3mWH3IPeEfd9ET02LAJqm8iWFwofMuo8TIQFSop0cyD2s2nMKzl8gW8EGdj8KBkWZSKOiJkvo5u0g, dt=2025-10-23T02:18:49.000Z
+================================================================================
+2025-10-23 21:59:33,122 - INFO - 処理開始 PROCESSID:20251023_215929
+2025-10-23 21:59:33,122 - INFO - 対象ユーザー: mitake2514
+2025-10-23 21:59:33,124 - INFO - 処理を開始します
+2025-10-23 21:59:33,183 - INFO - 選択されたプロファイル: Profile 13
+2025-10-23 21:59:33,183 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-23 21:59:37,683 - INFO - mitake2514 のプロフィールページにアクセスします
+2025-10-23 21:59:59,859 - INFO - プロフィール写真のクリックに成功しました
+2025-10-23 22:00:00,753 - INFO - mitake2514: 動画を検出しました
+2025-10-23 22:00:00,754 - INFO - datetime属性の抽出を開始します
+2025-10-23 22:00:00,791 - INFO - 抽出されたdatetime: 2025-10-23T02:18:49.000Z
+2025-10-23 22:00:00,791 - INFO - mitake2514 の投稿日時: 2025-10-23T02:18:49.000Z
+2025-10-23 22:00:02,078 - INFO - 生成URL:https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQOEWyhz-WxGO8zpDexGKsaYfY4ONCCWpyrN0_09jh405xhetgwEmngbTisc6wL2gwfyx4oWdB1AQt8WAcEeXcjkzp8O1HsQ3YvaT3U.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=nOVoLZb8W-cQ7kNvwGi_RRX&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjo4MjM3NDM0NTAwNDY1OTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=bKmgOrxUA7KC7-yCfKro_Q&_nc_zt=28&oh=00_AfcOuv3Rm0x5CBIdOBJq73qPwvmHCMPlFxMmSiSwpsADQg&oe=68FC9D02&bytestart=0&byteend=1909498
+2025-10-23 22:00:02,078 - INFO - 動画URLを取得しました
+2025-10-23 22:00:02,266 - INFO - INSERT(with-key): user=mitake2514, key=AQOEWyhz-WxGO8zpDexGKsaYfY4ONCCWpyrN0_09jh405xhetgwEmngbTisc6wL2gwfyx4oWdB1AQt8WAcEeXcjkzp8O1HsQ3YvaT3U, dt=2025-10-23T02:18:49.000Z
+2025-10-23 22:00:04,307 - INFO - ダウンロードを開始します: media\mitake2514\mitake2514_20251023220004.mp4
+2025-10-23 22:00:06,831 - INFO - ダウンロード完了: media\mitake2514\mitake2514_20251023220004.mp4
+2025-10-23 22:00:09,416 - INFO - 処理終了
+2025-10-23 22:00:09,418 - INFO - 説明文_AI: None
+2025-10-23 22:00:09,418 - INFO - 説明文_最終: 
+================================================================================
+2025-10-23 22:00:15,404 - INFO - 処理開始: Mode=story, Username=mitake2514, GBP=pa00039718
+2025-10-23 22:00:15,404 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJwYTAwMDM5NzE4Il0.
+2025-10-23 22:00:38,646 - INFO - 元の動画サイズ: 720x1280
+2025-10-23 22:00:38,646 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-23 22:00:38,646 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\mitake2514\mitake2514_20251023220004.mp4
+2025-10-23 22:00:48,710 - INFO - 一時ファイルが見つかりません: media\mitake2514\description\20251023_215929
+2025-10-23 22:00:48,711 - INFO - Looking for button section...
+2025-10-23 22:00:53,271 - INFO - Trying to select CALL option...
+2025-10-23 22:00:53,490 - INFO - CALL option successfully selected
+2025-10-23 22:00:55,491 - INFO - Clicking submit button...
+2025-10-23 22:01:04,127 - INFO - 処理完了

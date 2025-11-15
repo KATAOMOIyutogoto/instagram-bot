@@ -1,0 +1,132 @@
+================================================================================
+2025-10-22 00:54:33,718 - INFO - 処理開始 PROCESSID:20251022_005430
+2025-10-22 00:54:33,718 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-22 00:54:33,720 - INFO - 処理を開始します
+2025-10-22 00:54:33,773 - INFO - 選択されたプロファイル: Profile 13
+2025-10-22 00:54:33,773 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-22 00:54:38,421 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-22 00:55:00,214 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 00:55:03,348 - INFO - 動画の取得に失敗しました
+2025-10-22 00:55:03,349 - INFO - datetime属性の抽出を開始します
+2025-10-22 00:55:13,370 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x10ffe43+66515]
+	GetHandleVerifier [0x0x10ffe84+66580]
+	(No symbol) [0x0xeedc48]
+	(No symbol) [0x0xf38704]
+	(No symbol) [0x0xf38aab]
+	(No symbol) [0x0xf7f482]
+	(No symbol) [0x0xf5b214]
+	(No symbol) [0x0xf7cba7]
+	(No symbol) [0x0xf5afc6]
+	(No symbol) [0x0xf2c2ca]
+	(No symbol) [0x0xf2d154]
+	GetHandleVerifier [0x0x1357353+2521315]
+	GetHandleVerifier [0x0x13522d3+2500707]
+	GetHandleVerifier [0x0x1127c94+229924]
+	GetHandleVerifier [0x0x11181f8+165768]
+	GetHandleVerifier [0x0x111ecad+193085]
+	GetHandleVerifier [0x0x1108158+100072]
+	GetHandleVerifier [0x0x11082f0+100480]
+	GetHandleVerifier [0x0x10f25aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-22 00:55:23,653 - INFO - 画像の取得に失敗しました
+2025-10-22 00:55:26,064 - INFO - 処理終了
+================================================================================
+2025-10-22 05:03:55,071 - INFO - 処理開始 PROCESSID:20251022_050351
+2025-10-22 05:03:55,071 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-22 05:03:55,071 - INFO - 処理を開始します
+2025-10-22 05:03:55,135 - INFO - 選択されたプロファイル: Profile 13
+2025-10-22 05:03:55,136 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-22 05:03:59,759 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-22 05:04:22,359 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 05:04:25,582 - INFO - 動画の取得に失敗しました
+2025-10-22 05:04:25,583 - INFO - datetime属性の抽出を開始します
+2025-10-22 05:04:25,672 - INFO - 抽出されたdatetime: 2025-10-22T02:27:52.000Z
+2025-10-22 05:04:25,701 - INFO - 画像URLを取得しました
+2025-10-22 05:04:25,739 - INFO - INSERT(with-key): user=stastny.by.lumi, key=Mzc0ODcwMTU5MzE4MjEyNzQyOA==, dt=2025-10-22T02:27:52.000Z
+2025-10-22 05:04:27,744 - INFO - ダウンロードを開始します: media\stastny.by.lumi\stastny.by.lumi_20251022050427.jpg
+2025-10-22 05:04:29,045 - INFO - ダウンロード完了: media\stastny.by.lumi\stastny.by.lumi_20251022050427.jpg
+2025-10-22 05:04:29,163 - INFO - 元の画像サイズ: 480x853
+2025-10-22 05:04:29,163 - INFO - サイズ変更は不要です
+2025-10-22 05:04:31,552 - INFO - 処理終了
+2025-10-22 05:04:31,552 - INFO - 説明文_AI: None
+2025-10-22 05:04:31,552 - INFO - 説明文_最終: 
+================================================================================
+2025-10-22 05:04:37,722 - INFO - 処理開始: Mode=story, Username=stastny.by.lumi, GBP=MSHVAONG106412
+2025-10-22 05:04:37,722 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICJNU0hWQU9ORzEwNjQxMiJd.
+2025-10-22 05:05:01,126 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\stastny.by.lumi\stastny.by.lumi_20251022050427.jpg
+2025-10-22 05:05:04,265 - INFO - 一時ファイルが見つかりません: media\stastny.by.lumi\description\20251022_050351
+2025-10-22 05:05:04,265 - INFO - Looking for button section...
+2025-10-22 05:05:09,061 - INFO - Trying to select CALL option...
+2025-10-22 05:05:09,318 - INFO - CALL option successfully selected
+2025-10-22 05:05:11,329 - INFO - Clicking submit button...
+2025-10-22 05:05:20,029 - INFO - 処理完了
+================================================================================
+2025-10-22 08:01:01,360 - INFO - 処理開始 PROCESSID:20251022_080058
+2025-10-22 08:01:01,360 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-22 08:01:01,360 - INFO - 処理を開始します
+2025-10-22 08:01:01,424 - INFO - 選択されたプロファイル: Profile 12
+2025-10-22 08:01:01,426 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-22 08:01:06,495 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-22 08:01:28,475 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 08:01:31,625 - INFO - 動画の取得に失敗しました
+2025-10-22 08:01:31,627 - INFO - datetime属性の抽出を開始します
+2025-10-22 08:01:31,700 - INFO - 抽出されたdatetime: 2025-10-22T02:27:52.000Z
+2025-10-22 08:01:31,724 - INFO - 画像URLを取得しました
+2025-10-22 08:01:31,727 - INFO - DUP(with-key): user=stastny.by.lumi, key=Mzc0ODcwMTU5MzE4MjEyNzQyOA==, dt=2025-10-22T02:27:52.000Z
+================================================================================
+2025-10-22 12:07:55,236 - INFO - 処理開始 PROCESSID:20251022_120751
+2025-10-22 12:07:55,236 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-22 12:07:55,236 - INFO - 処理を開始します
+2025-10-22 12:07:55,300 - INFO - 選択されたプロファイル: Profile 10
+2025-10-22 12:07:55,300 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-22 12:08:00,148 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-22 12:08:22,576 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 12:08:25,879 - INFO - 動画の取得に失敗しました
+2025-10-22 12:08:25,879 - INFO - datetime属性の抽出を開始します
+2025-10-22 12:08:25,954 - INFO - 抽出されたdatetime: 2025-10-22T02:27:52.000Z
+2025-10-22 12:08:26,050 - INFO - 画像URLを取得しました
+2025-10-22 12:08:26,053 - INFO - DUP(with-key): user=stastny.by.lumi, key=Mzc0ODcwMTU5MzE4MjEyNzQyOA==, dt=2025-10-22T02:27:52.000Z
+================================================================================
+2025-10-22 16:14:20,988 - INFO - 処理開始 PROCESSID:20251022_161417
+2025-10-22 16:14:20,988 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-22 16:14:20,988 - INFO - 処理を開始します
+2025-10-22 16:14:21,051 - INFO - 選択されたプロファイル: Profile 9
+2025-10-22 16:14:21,051 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-22 16:14:25,830 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-22 16:14:48,389 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 16:14:51,429 - INFO - 動画の取得に失敗しました
+2025-10-22 16:14:51,431 - INFO - datetime属性の抽出を開始します
+2025-10-22 16:14:51,518 - INFO - 抽出されたdatetime: 2025-10-22T02:27:52.000Z
+2025-10-22 16:14:51,547 - INFO - 画像URLを取得しました
+2025-10-22 16:14:51,549 - INFO - DUP(with-key): user=stastny.by.lumi, key=Mzc0ODcwMTU5MzE4MjEyNzQyOA==, dt=2025-10-22T02:27:52.000Z
+================================================================================
+2025-10-22 20:11:27,042 - INFO - 処理開始 PROCESSID:20251022_201123
+2025-10-22 20:11:27,042 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-22 20:11:27,042 - INFO - 処理を開始します
+2025-10-22 20:11:27,103 - INFO - 選択されたプロファイル: Profile 10
+2025-10-22 20:11:27,103 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-22 20:11:31,758 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-22 20:11:53,969 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 20:11:57,082 - INFO - 動画の取得に失敗しました
+2025-10-22 20:11:57,084 - INFO - datetime属性の抽出を開始します
+2025-10-22 20:11:57,164 - INFO - 抽出されたdatetime: 2025-10-22T02:27:52.000Z
+2025-10-22 20:11:57,195 - INFO - 画像URLを取得しました
+2025-10-22 20:11:57,197 - INFO - DUP(with-key): user=stastny.by.lumi, key=Mzc0ODcwMTU5MzE4MjEyNzQyOA==, dt=2025-10-22T02:27:52.000Z
+================================================================================
+2025-10-22 22:55:25,414 - INFO - 処理開始 PROCESSID:20251022_225522
+2025-10-22 22:55:25,414 - INFO - 対象ユーザー: stastny.by.lumi
+2025-10-22 22:55:25,414 - INFO - 処理を開始します
+2025-10-22 22:55:25,468 - INFO - 選択されたプロファイル: Profile 10
+2025-10-22 22:55:25,468 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-22 22:55:30,135 - INFO - stastny.by.lumi のプロフィールページにアクセスします
+2025-10-22 22:55:51,889 - INFO - プロフィール写真のクリックに成功しました
+2025-10-22 22:55:55,070 - INFO - 動画の取得に失敗しました
+2025-10-22 22:55:55,070 - INFO - datetime属性の抽出を開始します
+2025-10-22 22:55:55,152 - INFO - 抽出されたdatetime: 2025-10-22T02:27:52.000Z
+2025-10-22 22:55:55,178 - INFO - 画像URLを取得しました
+2025-10-22 22:55:55,179 - INFO - DUP(with-key): user=stastny.by.lumi, key=Mzc0ODcwMTU5MzE4MjEyNzQyOA==, dt=2025-10-22T02:27:52.000Z

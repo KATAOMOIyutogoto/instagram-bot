@@ -1,0 +1,85 @@
+================================================================================
+2025-11-11 01:31:11,549 - INFO - 処理開始 PROCESSID:20251111_013108
+2025-11-11 01:31:11,549 - INFO - 対象ユーザー: accueillir_grace
+2025-11-11 01:31:11,551 - INFO - 処理を開始します
+2025-11-11 01:31:11,609 - INFO - 選択されたプロファイル: Profile 9
+2025-11-11 01:31:11,609 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-11 01:31:16,059 - INFO - accueillir_grace のプロフィールページにアクセスします
+2025-11-11 01:31:27,619 - INFO - 最新投稿を読み込みます
+2025-11-11 01:31:32,889 - INFO - 候補はピン留め: https://www.instagram.com/accueillir_grace/p/DLwZwD4ye9s/?hl=ja → 日付確認
+2025-11-11 01:31:35,269 - INFO - ピン留めだが3日以上前(127日) → スキップ
+2025-11-11 01:31:35,269 - INFO - 選定: 非ピン留め https://www.instagram.com/accueillir_recruit/p/DQ2sylVEsNu/?hl=ja
+2025-11-11 01:31:41,103 - INFO - 最新投稿ページにアクセスしました
+2025-11-11 01:31:44,702 - INFO - 最新投稿ページにアクセスしました
+2025-11-11 01:31:44,826 - INFO - datetime属性の抽出を開始します
+2025-11-11 01:31:44,859 - INFO - 抽出されたdatetime: 2025-11-09T23:47:24.000Z
+2025-11-11 01:31:44,859 - INFO - accueillir_grace の投稿日時: 2025-11-09T23:47:24.000Z
+2025-11-11 01:31:44,872 - INFO - date:2025-11-10 08:47:24+09:00
+2025-11-11 01:31:44,872 - INFO - post_date:20251110
+2025-11-11 01:31:44,973 - INFO - カルーセル推定: 1枚
+2025-11-11 01:31:45,047 - INFO - 検出(SINGLE): https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/580095276_18098397826813224_3582993033457344613_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc2MjM5MTUyODgxNjk1MjE3NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=IAN2Z2HaFskQ7kNvwGYFbir&_nc_oc=AdkbAW-pQudgkcpKXQwbYnswkjqEWXDfDPvRAKzgixfy6peg2w-8F6ijpy4JODBNHJg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_gid=NOf8WtYvH5VFs-0bRTh1YA&oh=00_Afi4p-LYb659GyKjsIXEO2QZIGJ8CKJiBywDRNsy3KTmdg&oe=69185CB5
+2025-11-11 01:31:45,047 - INFO - 1枚目: https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/580095276_18098397826813224_3582993033457344613_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzc2MjM5MTUyODgxNjk1MjE3NA%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=IAN2Z2HaFskQ7kNvwGYFbir&_nc_oc=AdkbAW-pQudgkcpKXQwbYnswkjqEWXDfDPvRAKzgixfy6peg2w-8F6ijpy4JODBNHJg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_gid=NOf8WtYvH5VFs-0bRTh1YA&oh=00_Afi4p-LYb659GyKjsIXEO2QZIGJ8CKJiBywDRNsy3KTmdg&oe=69185CB5
+2025-11-11 01:31:45,047 - INFO - [caption/by_username] 開始
+2025-11-11 01:33:06,221 - INFO - [caption/by_username] 説明文確定（先頭100）: '#長岡美容専門学校
+卒業のスタッフ✨
+
+アクイールグループは
+働き方でキャリアも家庭も両立できる働きやすいサロンです！　
+自分のペースで技術習得、先輩がしっかりついています！！
+新卒，中途・ブランクの'
+2025-11-11 01:33:06,233 - INFO - [caption/by_username] 説明文を保存: media\accueillir_grace\description\20251111_013108
+2025-11-11 01:33:06,233 - INFO - 画像URLを取得しました
+2025-11-11 01:33:06,266 - INFO - INSERT(with-key): user=accueillir_grace, key=Mzc2MjM5MTUyODgxNjk1MjE3NA==, dt=2025-11-09T23:47:24.000Z
+2025-11-11 01:33:06,267 - INFO - メディアを取得します
+2025-11-11 01:33:08,268 - INFO - ダウンロードを開始します: media\accueillir_grace\accueillir_grace_20251111013308.jpg
+2025-11-11 01:33:10,379 - INFO - ダウンロード完了: media\accueillir_grace\accueillir_grace_20251111013308.jpg
+2025-11-11 01:33:10,483 - INFO - 元の画像サイズ: 1440x1920
+2025-11-11 01:33:10,483 - INFO - サイズ変更は不要です
+2025-11-11 01:33:10,486 - INFO - 説明文:#長岡美容専門学校
+卒業のスタッフ✨
+
+アクイールグループは
+働き方でキャリアも家庭も両立できる働きやすいサロンです！　
+自分のペースで技術習得、先輩がしっかりついています！！
+新卒，中途・ブランクのある方・ママさんも大歓迎！✨
+プライベートも大事にしたい、限られた時間の中で好きな美容の仕事をしたい方
+技術やスキルUPをさせたい方、向上心のある方
+サロン見学、の希望も受け付けております。
+ぜひこちらのアカウントにDM・または各店のお電話等でお気軽にお問い合わせください♪
+
+ #新潟県ネイリスト求人#新潟県アイリスト求人#見附市ネイリスト就活#見附市アイリスト就活#見附市アイリスト#見附市ネイリスト#長岡市ネイリスト#長岡市アイリスト#三条市アイリスト#三条市ネイリスト
+#サロン見学#見附市ネイルサロン#見附市アイラッシュサロン
+#クレアヘアモード専門学校 #長岡美容専門学校 #国際ビューティーモード #新潟理美容専門学校
+#美容師 #アシスタント募集#長岡ネイリスト募集#長岡美容師
+#アクイールグループ #アクイール #アクイールグラッセ #アクイールピュールヘア#エクラヘア#スリールヘア#アクイールシュエット
+2025-11-11 01:33:12,924 - INFO - 処理終了
+================================================================================
+2025-11-11 01:33:18,954 - INFO - 処理開始: Mode=post, Username=accueillir_grace, GBP=18176898271205727261
+2025-11-11 01:33:18,954 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIxODE3Njg5ODI3MTIwNTcyNzI2MSJd.
+2025-11-11 01:33:46,345 - ERROR - Error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x5e58d3
+	0x5e5914
+	0x3fe76d
+	0x44a09d
+	0x44a47b
+	0x491802
+	0x46c9b4
+	0x48eea6
+	0x46c766
+	0x43dac0
+	0x43ede4
+	0x867974
+	0x862bea
+	0x60e5c4
+	0x5fdd38
+	0x604d9d
+	0x5edee8
+	0x5ee0ac
+	0x5d7d2a
+	0x763d5d49
+	0x7763cf0b
+	0x7763ce91
+
+2025-11-11 01:33:48,734 - ERROR - 投稿画面オープン失敗

@@ -1,0 +1,134 @@
+================================================================================
+2025-10-03 04:22:56,663 - INFO - 処理開始 PROCESSID:20251003_042253
+2025-10-03 04:22:56,663 - INFO - 対象ユーザー: fupao_kichijoji
+2025-10-03 04:22:56,663 - INFO - 処理を開始します
+2025-10-03 04:22:56,714 - INFO - 選択されたプロファイル: Profile 13
+2025-10-03 04:22:56,714 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-03 04:23:02,524 - INFO - fupao_kichijoji のプロフィールページにアクセスします
+2025-10-03 04:23:25,383 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 04:23:28,555 - INFO - 動画の取得に失敗しました
+2025-10-03 04:23:28,557 - INFO - datetime属性の抽出を開始します
+2025-10-03 04:23:38,997 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x104c333+65459]
+	GetHandleVerifier [0x0x104c374+65524]
+	(No symbol) [0x0xe6d973]
+	(No symbol) [0x0xeb76e7]
+	(No symbol) [0x0xeb7a8b]
+	(No symbol) [0x0xefdea2]
+	(No symbol) [0x0xed9e44]
+	(No symbol) [0x0xefb606]
+	(No symbol) [0x0xed9bf6]
+	(No symbol) [0x0xeab38e]
+	(No symbol) [0x0xeac274]
+	GetHandleVerifier [0x0x12ceda3+2697763]
+	GetHandleVerifier [0x0x12c9ec7+2677575]
+	GetHandleVerifier [0x0x1074194+228884]
+	GetHandleVerifier [0x0x10649f8+165496]
+	GetHandleVerifier [0x0x106b18d+192013]
+	GetHandleVerifier [0x0x10547d8+99416]
+	GetHandleVerifier [0x0x1054972+99826]
+	GetHandleVerifier [0x0x103ebea+10346]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-03 04:23:49,299 - INFO - 画像の取得に失敗しました
+2025-10-03 04:23:52,698 - INFO - 処理終了
+================================================================================
+2025-10-03 09:08:39,519 - INFO - 処理開始 PROCESSID:20251003_090835
+2025-10-03 09:08:39,519 - INFO - 対象ユーザー: fupao_kichijoji
+2025-10-03 09:08:39,519 - INFO - 処理を開始します
+2025-10-03 09:08:39,574 - INFO - 選択されたプロファイル: Profile 10
+2025-10-03 09:08:39,574 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-03 09:08:44,504 - INFO - fupao_kichijoji のプロフィールページにアクセスします
+2025-10-03 09:09:07,400 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 09:09:08,596 - INFO - fupao_kichijoji: 動画を検出しました
+2025-10-03 09:09:08,597 - INFO - datetime属性の抽出を開始します
+2025-10-03 09:09:08,667 - INFO - 抽出されたdatetime: 2025-10-03T08:03:41.000Z
+2025-10-03 09:09:08,667 - INFO - fupao_kichijoji の投稿日時: 2025-10-03T08:03:41.000Z
+2025-10-03 09:09:10,155 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m78/AQM1EwInuz72JegaDIdV9tJXrr3vFlGQ9gz_GxVc9VuIUxsgpgFUIMkALOg7QlI0Q4zlX8FHbgwhnuHF3IH7xXNT2Df2u-YFT_S-SbM.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=Hhhxxvxhx9sQ7kNvwEJj-lX&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmV4cGVyaW1lbnRhbC1DMy5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ2aWRlb19pZCI6bnVsbCwib2lsX3VybGdlbl9hcHBfaWQiOjkzNjYxOTc0MzM5MjQ1OSwiY2xpZW50X25hbWUiOiJpZyIsInhwdl9hc3NldF9pZCI6MTQ5MDQyNDM2MTk1ODM3OCwidmlfdXNlY2FzZV9pZCI6MTAxMDAsImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=L0gf7SFlIgqy5zgJxXUmUQ&_nc_zt=28&oh=00_AfcDSwyEERZd-w_3uQ9cyLmXk-Djbr41ZCGHVEpJsQfSug&oe=68E1888D&bytestart=0&byteend=1531925
+2025-10-03 09:09:10,155 - INFO - 動画URLを取得しました
+2025-10-03 09:09:10,203 - INFO - INSERT(with-key): user=fupao_kichijoji, key=AQM1EwInuz72JegaDIdV9tJXrr3vFlGQ9gz_GxVc9VuIUxsgpgFUIMkALOg7QlI0Q4zlX8FHbgwhnuHF3IH7xXNT2Df2u-YFT_S-SbM, dt=2025-10-03T08:03:41.000Z
+2025-10-03 09:09:12,204 - INFO - ダウンロードを開始します: media\fupao_kichijoji\fupao_kichijoji_20251003090912.mp4
+2025-10-03 09:09:12,779 - INFO - ダウンロード完了: media\fupao_kichijoji\fupao_kichijoji_20251003090912.mp4
+2025-10-03 09:09:17,473 - INFO - 処理終了
+2025-10-03 09:09:17,475 - INFO - 説明文_AI: None
+2025-10-03 09:09:17,475 - INFO - 説明文_最終: 
+================================================================================
+2025-10-03 09:09:25,131 - INFO - 処理開始: Mode=story, Username=fupao_kichijoji, GBP=03768888520840380176
+2025-10-03 09:09:25,131 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwMzc2ODg4ODUyMDg0MDM4MDE3NiJd.
+2025-10-03 09:10:20,975 - INFO - 元の動画サイズ: 720x1280
+2025-10-03 09:10:20,975 - INFO - 動画のサイズは要件を満たしており変換不要です
+2025-10-03 09:10:20,982 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_kichijoji\fupao_kichijoji_20251003090912.mp4
+2025-10-03 09:10:31,863 - INFO - 一時ファイルが見つかりません: media\fupao_kichijoji\description\20251003_090835
+2025-10-03 09:10:31,863 - INFO - Looking for button section...
+2025-10-03 09:10:37,580 - INFO - Trying to select CALL option...
+2025-10-03 09:10:38,757 - INFO - CALL option successfully selected
+2025-10-03 09:10:40,758 - INFO - Clicking submit button...
+2025-10-03 09:10:54,320 - INFO - 処理完了
+================================================================================
+2025-10-03 13:54:58,202 - INFO - 処理開始 PROCESSID:20251003_135445
+2025-10-03 13:54:58,202 - INFO - 対象ユーザー: fupao_kichijoji
+2025-10-03 13:54:58,211 - INFO - 処理を開始します
+2025-10-03 13:54:58,412 - INFO - 選択されたプロファイル: Profile 13
+2025-10-03 13:54:58,412 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-03 13:55:18,413 - INFO - fupao_kichijoji のプロフィールページにアクセスします
+2025-10-03 13:55:51,285 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 13:55:57,242 - INFO - fupao_kichijoji: 動画を検出しました
+2025-10-03 13:55:57,242 - INFO - datetime属性の抽出を開始します
+2025-10-03 13:55:58,554 - INFO - 抽出されたdatetime: 2025-10-03T08:03:41.000Z
+2025-10-03 13:55:58,554 - INFO - fupao_kichijoji の投稿日時: 2025-10-03T08:03:41.000Z
+2025-10-03 13:56:05,211 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m78/AQM1EwInuz72JegaDIdV9tJXrr3vFlGQ9gz_GxVc9VuIUxsgpgFUIMkALOg7QlI0Q4zlX8FHbgwhnuHF3IH7xXNT2Df2u-YFT_S-SbM.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=Hhhxxvxhx9sQ7kNvwEJj-lX&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNDkwNDI0MzYxOTU4Mzc4LCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=5qZKzIB3QZsIH8e_NxFCFg&_nc_zt=28&oh=00_AfeJWIafYNC5ZsjxzuA0QI6X8W4NYmDEt_ORbkwnKbWSDw&oe=68E1C0CD&bytestart=0&byteend=1531925
+2025-10-03 13:56:05,212 - INFO - 動画URLを取得しました
+2025-10-03 13:56:05,566 - INFO - DUP(with-key): user=fupao_kichijoji, key=AQM1EwInuz72JegaDIdV9tJXrr3vFlGQ9gz_GxVc9VuIUxsgpgFUIMkALOg7QlI0Q4zlX8FHbgwhnuHF3IH7xXNT2Df2u-YFT_S-SbM, dt=2025-10-03T08:03:41.000Z
+================================================================================
+2025-10-03 18:30:24,256 - INFO - 処理開始 PROCESSID:20251003_183020
+2025-10-03 18:30:24,256 - INFO - 対象ユーザー: fupao_kichijoji
+2025-10-03 18:30:24,256 - INFO - 処理を開始します
+2025-10-03 18:30:24,316 - INFO - 選択されたプロファイル: Profile 13
+2025-10-03 18:30:24,316 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-10-03 18:30:28,958 - INFO - fupao_kichijoji のプロフィールページにアクセスします
+2025-10-03 18:30:50,954 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 18:30:51,887 - INFO - fupao_kichijoji: 動画を検出しました
+2025-10-03 18:30:51,887 - INFO - datetime属性の抽出を開始します
+2025-10-03 18:30:51,987 - INFO - 抽出されたdatetime: 2025-10-03T08:03:41.000Z
+2025-10-03 18:30:51,987 - INFO - fupao_kichijoji の投稿日時: 2025-10-03T08:03:41.000Z
+2025-10-03 18:30:53,309 - INFO - 生成URL:https://scontent-hkg4-2.cdninstagram.com/o1/v/t2/f2/m78/AQMixoOeOyklqyvBENCFG44M1MSOM_B02SvI2DuaIa0lz1rJlTRIh1-lUbgZVBbN5YjbNDCh18QKToV09C52tmZYS2xsZQn2dJqwK4o.mp4?_nc_cat=111&_nc_sid=9ca052&_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_ohc=1zcisGYYJBAQ7kNvwGELgJE&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMxLUMzLmRhc2hfYmFzZWxpbmVfM192MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNDkwNDI0MzYxOTU4Mzc4LCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=4hMHhQtMMOdNUJmubijv5w&_nc_zt=28&oh=00_AfcXPvGDTLZy6GsWBwtihG_DlqAcPjo2_jO-0QaFtjgrwg&oe=68E1DC4C&bytestart=0&byteend=475520
+2025-10-03 18:30:53,309 - INFO - 動画URLを取得しました
+2025-10-03 18:30:53,446 - INFO - INSERT(with-key): user=fupao_kichijoji, key=AQMixoOeOyklqyvBENCFG44M1MSOM_B02SvI2DuaIa0lz1rJlTRIh1-lUbgZVBbN5YjbNDCh18QKToV09C52tmZYS2xsZQn2dJqwK4o, dt=2025-10-03T08:03:41.000Z
+2025-10-03 18:30:55,461 - INFO - ダウンロードを開始します: media\fupao_kichijoji\fupao_kichijoji_20251003183055.mp4
+2025-10-03 18:30:55,871 - INFO - ダウンロード完了: media\fupao_kichijoji\fupao_kichijoji_20251003183055.mp4
+2025-10-03 18:31:01,570 - INFO - 処理終了
+2025-10-03 18:31:01,573 - INFO - 説明文_AI: None
+2025-10-03 18:31:01,573 - INFO - 説明文_最終: 
+================================================================================
+2025-10-03 18:31:07,646 - INFO - 処理開始: Mode=story, Username=fupao_kichijoji, GBP=03768888520840380176
+2025-10-03 18:31:07,646 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwMzc2ODg4ODUyMDg0MDM4MDE3NiJd.
+2025-10-03 18:31:50,603 - INFO - 元の動画サイズ: 360x640
+2025-10-03 18:31:50,638 - INFO - 動画のサイズが要件を満たしていないため変換を実施します
+2025-10-03 18:31:50,647 - INFO - ffmpegコマンド: ffmpeg -i C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_kichijoji\fupao_kichijoji_20251003183055.mp4 -vf scale='if(lt(iw,400),trunc(400/2)*2,trunc(iw/2)*2)':'if(lt(ih,300),trunc(300/2)*2,trunc(ih/2)*2)' -c:a copy C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_kichijoji\fupao_kichijoji_20251003183055_resized.mp4
+2025-10-03 18:32:13,622 - INFO - 変換完了: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_kichijoji\fupao_kichijoji_20251003183055_resized.mp4
+2025-10-03 18:32:13,630 - INFO - 元ファイルを削除しました: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_kichijoji\fupao_kichijoji_20251003183055.mp4
+2025-10-03 18:32:13,630 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\fupao_kichijoji\fupao_kichijoji_20251003183055_resized.mp4
+2025-10-03 18:32:24,723 - INFO - 一時ファイルが見つかりません: media\fupao_kichijoji\description\20251003_183020
+2025-10-03 18:32:24,723 - INFO - Looking for button section...
+2025-10-03 18:32:30,155 - INFO - Trying to select CALL option...
+2025-10-03 18:32:30,418 - INFO - CALL option successfully selected
+2025-10-03 18:32:32,419 - INFO - Clicking submit button...
+2025-10-03 18:32:44,268 - INFO - 処理完了
+================================================================================
+2025-10-03 23:05:50,500 - INFO - 処理開始 PROCESSID:20251003_230546
+2025-10-03 23:05:50,502 - INFO - 対象ユーザー: fupao_kichijoji
+2025-10-03 23:05:50,502 - INFO - 処理を開始します
+2025-10-03 23:05:50,563 - INFO - 選択されたプロファイル: Profile 9
+2025-10-03 23:05:50,563 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-03 23:05:55,238 - INFO - fupao_kichijoji のプロフィールページにアクセスします
+2025-10-03 23:06:17,286 - INFO - プロフィール写真のクリックに成功しました
+2025-10-03 23:06:18,320 - INFO - fupao_kichijoji: 動画を検出しました
+2025-10-03 23:06:18,320 - INFO - datetime属性の抽出を開始します
+2025-10-03 23:06:18,551 - INFO - 抽出されたdatetime: 2025-10-03T08:03:41.000Z
+2025-10-03 23:06:18,552 - INFO - fupao_kichijoji の投稿日時: 2025-10-03T08:03:41.000Z
+2025-10-03 23:06:19,893 - INFO - 生成URL:https://scontent-hkg4-1.cdninstagram.com/o1/v/t2/f2/m78/AQM1EwInuz72JegaDIdV9tJXrr3vFlGQ9gz_GxVc9VuIUxsgpgFUIMkALOg7QlI0Q4zlX8FHbgwhnuHF3IH7xXNT2Df2u-YFT_S-SbM.mp4?_nc_cat=108&_nc_sid=9ca052&_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=Hhhxxvxhx9sQ7kNvwEJj-lX&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNDkwNDI0MzYxOTU4Mzc4LCJ2aV91c2VjYXNlX2lkIjoxMDEwMCwiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=ikafUodjM_HLf6TP2Ip7iw&_nc_zt=28&oh=00_AfeWNAmF9GcaGlcJvVY-6U3816Qw-GEZmu9xi-BuOu3Gfg&oe=68E2314D&bytestart=0&byteend=1531925
+2025-10-03 23:06:19,893 - INFO - 動画URLを取得しました
+2025-10-03 23:06:19,895 - INFO - DUP(with-key): user=fupao_kichijoji, key=AQM1EwInuz72JegaDIdV9tJXrr3vFlGQ9gz_GxVc9VuIUxsgpgFUIMkALOg7QlI0Q4zlX8FHbgwhnuHF3IH7xXNT2Df2u-YFT_S-SbM, dt=2025-10-03T08:03:41.000Z

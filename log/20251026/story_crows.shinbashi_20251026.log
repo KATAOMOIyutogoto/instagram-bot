@@ -1,0 +1,100 @@
+================================================================================
+2025-10-26 01:14:24,001 - INFO - 処理開始 PROCESSID:20251026_011420
+2025-10-26 01:14:24,001 - INFO - 対象ユーザー: crows.shinbashi
+2025-10-26 01:14:24,002 - INFO - 処理を開始します
+2025-10-26 01:14:24,062 - INFO - 選択されたプロファイル: Profile 12
+2025-10-26 01:14:24,062 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-26 01:14:30,735 - INFO - crows.shinbashi のプロフィールページにアクセスします
+2025-10-26 01:14:55,224 - INFO - プロフィール写真のクリックに成功しました
+2025-10-26 01:14:59,307 - INFO - 動画の取得に失敗しました
+2025-10-26 01:14:59,344 - INFO - datetime属性の抽出を開始します
+2025-10-26 01:15:00,346 - INFO - 抽出されたdatetime: 2025-10-25T11:03:05.000Z
+2025-10-26 01:15:00,854 - INFO - 画像URLを取得しました
+2025-10-26 01:15:00,864 - INFO - DUP(with-key): user=crows.shinbashi, key=Mzc1MTEzNTIyNzU1MDAwODU2Mg==, dt=2025-10-25T11:03:05.000Z
+================================================================================
+2025-10-26 07:20:51,146 - INFO - 処理開始 PROCESSID:20251026_072044
+2025-10-26 07:20:51,146 - INFO - 対象ユーザー: crows.shinbashi
+2025-10-26 07:20:51,146 - INFO - 処理を開始します
+2025-10-26 07:20:51,263 - INFO - 選択されたプロファイル: Profile 12
+2025-10-26 07:20:51,263 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-10-26 07:20:59,885 - INFO - crows.shinbashi のプロフィールページにアクセスします
+2025-10-26 07:21:22,110 - INFO - プロフィール写真のクリックに成功しました
+2025-10-26 07:21:25,667 - INFO - 動画の取得に失敗しました
+2025-10-26 07:21:25,670 - INFO - datetime属性の抽出を開始します
+2025-10-26 07:21:25,852 - INFO - 抽出されたdatetime: 2025-10-25T11:03:05.000Z
+2025-10-26 07:21:25,915 - INFO - 画像URLを取得しました
+2025-10-26 07:21:25,919 - INFO - DUP(with-key): user=crows.shinbashi, key=Mzc1MTEzNTIyNzU1MDAwODU2Mg==, dt=2025-10-25T11:03:05.000Z
+================================================================================
+2025-10-26 13:57:10,842 - INFO - 処理開始 PROCESSID:20251026_135707
+2025-10-26 13:57:10,842 - INFO - 対象ユーザー: crows.shinbashi
+2025-10-26 13:57:10,842 - INFO - 処理を開始します
+2025-10-26 13:57:10,901 - INFO - 選択されたプロファイル: Profile 9
+2025-10-26 13:57:10,901 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-10-26 13:57:16,845 - INFO - crows.shinbashi のプロフィールページにアクセスします
+2025-10-26 13:57:39,195 - INFO - プロフィール写真のクリックに成功しました
+2025-10-26 13:57:42,609 - INFO - 動画の取得に失敗しました
+2025-10-26 13:57:42,610 - INFO - datetime属性の抽出を開始します
+2025-10-26 13:57:52,905 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x121fe43+66515]
+	GetHandleVerifier [0x0x121fe84+66580]
+	(No symbol) [0x0x100dc48]
+	(No symbol) [0x0x1058704]
+	(No symbol) [0x0x1058aab]
+	(No symbol) [0x0x109f482]
+	(No symbol) [0x0x107b214]
+	(No symbol) [0x0x109cba7]
+	(No symbol) [0x0x107afc6]
+	(No symbol) [0x0x104c2ca]
+	(No symbol) [0x0x104d154]
+	GetHandleVerifier [0x0x1477353+2521315]
+	GetHandleVerifier [0x0x14722d3+2500707]
+	GetHandleVerifier [0x0x1247c94+229924]
+	GetHandleVerifier [0x0x12381f8+165768]
+	GetHandleVerifier [0x0x123ecad+193085]
+	GetHandleVerifier [0x0x1228158+100072]
+	GetHandleVerifier [0x0x12282f0+100480]
+	GetHandleVerifier [0x0x12125aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-26 13:58:03,295 - INFO - 画像の取得に失敗しました
+2025-10-26 13:58:07,197 - INFO - 処理終了
+================================================================================
+2025-10-26 19:52:53,038 - INFO - 処理開始 PROCESSID:20251026_195246
+2025-10-26 19:52:53,039 - INFO - 対象ユーザー: crows.shinbashi
+2025-10-26 19:52:53,039 - INFO - 処理を開始します
+2025-10-26 19:52:53,208 - INFO - 選択されたプロファイル: Profile 10
+2025-10-26 19:52:53,208 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 10
+2025-10-26 19:53:04,924 - INFO - crows.shinbashi のプロフィールページにアクセスします
+2025-10-26 19:53:45,792 - INFO - プロフィール写真のクリックに成功しました
+2025-10-26 19:53:49,416 - INFO - 動画の取得に失敗しました
+2025-10-26 19:53:49,444 - INFO - datetime属性の抽出を開始します
+2025-10-26 19:53:59,488 - WARNING - datetimeの抽出に失敗しました: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x121fe43+66515]
+	GetHandleVerifier [0x0x121fe84+66580]
+	(No symbol) [0x0x100dc48]
+	(No symbol) [0x0x1058704]
+	(No symbol) [0x0x1058aab]
+	(No symbol) [0x0x109f482]
+	(No symbol) [0x0x107b214]
+	(No symbol) [0x0x109cba7]
+	(No symbol) [0x0x107afc6]
+	(No symbol) [0x0x104c2ca]
+	(No symbol) [0x0x104d154]
+	GetHandleVerifier [0x0x1477353+2521315]
+	GetHandleVerifier [0x0x14722d3+2500707]
+	GetHandleVerifier [0x0x1247c94+229924]
+	GetHandleVerifier [0x0x12381f8+165768]
+	GetHandleVerifier [0x0x123ecad+193085]
+	GetHandleVerifier [0x0x1228158+100072]
+	GetHandleVerifier [0x0x12282f0+100480]
+	GetHandleVerifier [0x0x12125aa+11066]
+	BaseThreadInitThunk [0x0x763d5d49+25]
+	RtlInitializeExceptionChain [0x0x7763cf0b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7763ce91+561]
+
+2025-10-26 19:54:09,838 - INFO - 画像の取得に失敗しました
+2025-10-26 19:54:15,708 - INFO - 処理終了

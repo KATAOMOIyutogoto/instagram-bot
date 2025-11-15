@@ -1,0 +1,248 @@
+================================================================================
+2025-11-12 10:04:06,933 - INFO - 処理開始 PROCESSID:20251112_100403
+2025-11-12 10:04:06,933 - INFO - 対象ユーザー: furi_isezaki
+2025-11-12 10:04:06,933 - INFO - 処理を開始します
+2025-11-12 10:04:06,993 - INFO - 選択されたプロファイル: Profile 13
+2025-11-12 10:04:06,993 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-12 10:04:11,588 - INFO - furi_isezaki のプロフィールページにアクセスします
+2025-11-12 10:04:23,376 - INFO - 最新投稿を読み込みます
+2025-11-12 10:04:28,755 - INFO - 選定: 非ピン留め https://www.instagram.com/furi_isezaki/p/DQ6MJ0qgcqo/?hl=ja
+2025-11-12 10:04:32,084 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 10:04:35,292 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 10:04:35,363 - INFO - datetime属性の抽出を開始します
+2025-11-12 10:04:35,386 - INFO - 抽出されたdatetime: 2025-11-11T08:20:33.000Z
+2025-11-12 10:04:35,386 - INFO - furi_isezaki の投稿日時: 2025-11-11T08:20:33.000Z
+2025-11-12 10:04:35,393 - INFO - date:2025-11-11 17:20:33+09:00
+2025-11-12 10:04:35,393 - INFO - post_date:20251111
+2025-11-12 10:04:35,438 - INFO - カルーセル推定: 1枚
+2025-11-12 10:04:35,473 - INFO - 検出(SINGLE): https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/579961624_17892288738359945_5616343637997352715_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2MzM3Mzg5MDIwMjYxODUzNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=ZA-4yeM2hIkQ7kNvwH8aUll&_nc_oc=Adn_8nMMWkl0L-AmzWFPT0erYBelWc3OzifE7_13PbHYSZTiXMkPdh8sc_ARDl964NQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_gid=dlQJphNTgJI5w1mU9SZKUA&oh=00_AfiuI9BGJxq1lJJmzNpM1UGruJWMrjsIfmhGNmY_Hy1QUA&oe=691A225A
+2025-11-12 10:04:35,473 - INFO - 1枚目: https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/579961624_17892288738359945_5616343637997352715_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzc2MzM3Mzg5MDIwMjYxODUzNg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTkyMC5zZHIuQzMifQ%3D%3D&_nc_ohc=ZA-4yeM2hIkQ7kNvwH8aUll&_nc_oc=Adn_8nMMWkl0L-AmzWFPT0erYBelWc3OzifE7_13PbHYSZTiXMkPdh8sc_ARDl964NQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&_nc_gid=dlQJphNTgJI5w1mU9SZKUA&oh=00_AfiuI9BGJxq1lJJmzNpM1UGruJWMrjsIfmhGNmY_Hy1QUA&oe=691A225A
+2025-11-12 10:04:35,473 - INFO - [caption/by_username] 開始
+2025-11-12 10:04:35,565 - INFO - [caption/by_username] 説明文確定（先頭100）: 'いつもありがとうございます😊
+
+本日は、中央と伊勢佐木町
+お席に余裕が有ります✨
+
+中央の焼き手は、今日と明日はレオです❗️
+木曜日からヒデ✨
+来週は、少しずつ伊勢佐木町から大将が出向して来ます😊
+
+'
+2025-11-12 10:04:35,567 - INFO - [caption/by_username] 説明文を保存: media\furi_isezaki\description\20251112_100403
+2025-11-12 10:04:35,567 - INFO - 画像URLを取得しました
+2025-11-12 10:04:35,607 - INFO - INSERT(with-key): user=furi_isezaki, key=Mzc2MzM3Mzg5MDIwMjYxODUzNg==, dt=2025-11-11T08:20:33.000Z
+2025-11-12 10:04:35,607 - INFO - メディアを取得します
+2025-11-12 10:04:37,608 - INFO - ダウンロードを開始します: media\furi_isezaki\furi_isezaki_20251112100437.jpg
+2025-11-12 10:04:39,516 - INFO - ダウンロード完了: media\furi_isezaki\furi_isezaki_20251112100437.jpg
+2025-11-12 10:04:39,631 - INFO - 元の画像サイズ: 1440x1920
+2025-11-12 10:04:39,631 - INFO - サイズ変更は不要です
+2025-11-12 10:04:39,634 - INFO - 説明文:いつもありがとうございます😊
+
+本日は、中央と伊勢佐木町
+お席に余裕が有ります✨
+
+中央の焼き手は、今日と明日はレオです❗️
+木曜日からヒデ✨
+来週は、少しずつ伊勢佐木町から大将が出向して来ます😊
+
+————焼鳥 風里 ふうり 横須賀中央店————
+
+営業時間
+OPEN 17:00 CLOSE 23:00
+※L.O. 料理22:00 ドリンク22:30
+
+食べログ⤵
+https://tabelog.com/kanagawa/A1406/A140601/14066989/
+
+〒238-0008
+神奈川県横須賀市大滝町2丁目9 STビル 2F
+最寄り駅: 横須賀中央駅
+定休日︰なし
+⁡
+———————————
+#焼鳥風里ふうり横須賀中央店 #横須賀中央居酒屋 #横須賀中央焼き鳥 #横須賀中央焼鳥 #横須賀中央やきとり #横須賀中央グルメ #横須賀中央駅居酒屋 #横須賀中央居酒屋喫煙可 #横須賀中央飲み放題 #横須賀中央夜ご飯 #横須賀中央 #横須賀中央貸切 #横須賀中央駅 #横須賀中央飲み屋 #横須賀中央ご飯 #横須賀焼き鳥 #横須賀中央飲み #横須賀中央デート #横須賀中央ディナー #横須賀中央飲食店 #横須賀中央宴会 #横須賀ディナー #横須賀宴会 #横須賀中央ごはん #横須賀中央居酒屋おすすめ #焼き鳥好きな人と繋がりたい #居酒屋好きな人と繋がりたい #横須賀中央日本酒 #居酒屋 #焼き鳥
+2025-11-12 10:04:42,282 - INFO - 処理終了
+================================================================================
+2025-11-12 10:04:48,246 - INFO - 処理開始: Mode=post, Username=furi_isezaki, GBP=01485230283266226163
+2025-11-12 10:04:48,246 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwMTQ4NTIzMDI4MzI2NjIyNjE2MyJd.
+2025-11-12 10:05:11,221 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\furi_isezaki\furi_isezaki_20251112100437.jpg
+2025-11-12 10:05:14,465 - INFO - Waiting for description field...
+2025-11-12 10:05:14,512 - INFO - Setting description via JS (no send_keys)...
+2025-11-12 10:05:15,607 - INFO - Looking for button section...
+2025-11-12 10:05:20,113 - INFO - Trying to select CALL option...
+2025-11-12 10:05:20,368 - INFO - CALL option successfully selected
+2025-11-12 10:05:22,369 - INFO - Clicking submit button...
+2025-11-12 10:05:31,054 - INFO - 処理完了
+================================================================================
+2025-11-12 13:06:02,724 - INFO - 処理開始 PROCESSID:20251112_130559
+2025-11-12 13:06:02,724 - INFO - 対象ユーザー: furi_isezaki
+2025-11-12 13:06:02,724 - INFO - 処理を開始します
+2025-11-12 13:06:02,785 - INFO - 選択されたプロファイル: Profile 13
+2025-11-12 13:06:02,785 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 13
+2025-11-12 13:06:07,138 - INFO - furi_isezaki のプロフィールページにアクセスします
+2025-11-12 13:06:19,152 - INFO - 最新投稿を読み込みます
+2025-11-12 13:06:24,600 - INFO - 選定: 非ピン留め https://www.instagram.com/furi_isezaki/p/DQ89-E_AQrh/?hl=ja
+2025-11-12 13:06:28,267 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 13:06:32,002 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 13:06:32,145 - INFO - datetime属性の抽出を開始します
+2025-11-12 13:06:32,189 - INFO - 抽出されたdatetime: 2025-11-12T10:12:58.000Z
+2025-11-12 13:06:32,189 - INFO - furi_isezaki の投稿日時: 2025-11-12T10:12:58.000Z
+2025-11-12 13:06:32,267 - INFO - date:2025-11-12 19:12:58+09:00
+2025-11-12 13:06:32,268 - INFO - post_date:20251112
+2025-11-12 13:06:32,322 - INFO - カルーセル推定: 1枚
+2025-11-12 13:06:32,374 - INFO - 検出(SINGLE): https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/576106442_17892403005359945_5586816289377236010_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc2NDE1NTkzNTM3MTYyNzIzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=lgfZjJ6lJrgQ7kNvwEtajLy&_nc_oc=AdnKqAdLDFlwc88UaYJWFLBwYogflPTDJYU_1LP4vVJMzlC1VSX2p2QRZTwLA60piIs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=5n_PIZzhxwTqwBSDRCbskg&oh=00_AfidvYOmykx6FNFqk9QdpYxfBf6PrfkLZbQxHDANBAmSIw&oe=691A4014
+2025-11-12 13:06:32,374 - INFO - 1枚目: https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/576106442_17892403005359945_5586816289377236010_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc2NDE1NTkzNTM3MTYyNzIzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=lgfZjJ6lJrgQ7kNvwEtajLy&_nc_oc=AdnKqAdLDFlwc88UaYJWFLBwYogflPTDJYU_1LP4vVJMzlC1VSX2p2QRZTwLA60piIs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=5n_PIZzhxwTqwBSDRCbskg&oh=00_AfidvYOmykx6FNFqk9QdpYxfBf6PrfkLZbQxHDANBAmSIw&oe=691A4014
+2025-11-12 13:06:32,374 - INFO - [caption/by_username] 開始
+2025-11-12 13:06:32,467 - INFO - [caption/by_username] 説明文確定（先頭100）: '————焼鳥 風里 ふうり 伊勢佐木町店————
+
+営業時間
+
+月曜日～金曜日・祝前日・祝後日
+OPEN 18:00 CLOSE 23:30
+※L.O. 料理22:30 ドリンク23:00
+
+土曜日・'
+2025-11-12 13:06:32,469 - INFO - [caption/by_username] 説明文を保存: media\furi_isezaki\description\20251112_130559
+2025-11-12 13:06:32,470 - INFO - 画像URLを取得しました
+2025-11-12 13:06:32,505 - INFO - INSERT(with-key): user=furi_isezaki, key=Mzc2NDE1NTkzNTM3MTYyNzIzMw==, dt=2025-11-12T10:12:58.000Z
+2025-11-12 13:06:32,505 - INFO - メディアを取得します
+2025-11-12 13:06:34,506 - INFO - ダウンロードを開始します: media\furi_isezaki\furi_isezaki_20251112130634.jpg
+2025-11-12 13:06:36,421 - INFO - ダウンロード完了: media\furi_isezaki\furi_isezaki_20251112130634.jpg
+2025-11-12 13:06:36,514 - INFO - 元の画像サイズ: 1440x1440
+2025-11-12 13:06:36,514 - INFO - サイズ変更は不要です
+2025-11-12 13:06:36,515 - INFO - 説明文:————焼鳥 風里 ふうり 伊勢佐木町店————
+
+営業時間
+
+月曜日～金曜日・祝前日・祝後日
+OPEN 18:00 CLOSE 23:30
+※L.O. 料理22:30 ドリンク23:00
+
+土曜日・日曜日・祝日
+OPEN 17:00 CLOSE 23:30
+※L.O. 料理22:30 ドリンク23:00
+
+食べログ⤵
+https://tabelog.com/kanagawa/A1401/A140104/14099031/
+
+〒231-0033
+神奈川県横浜市中区長者町6丁目94
+最寄り駅: 伊勢佐木長者町駅・関内駅
+定休日：なし
+⁡
+———————————
+#焼鳥風里ふうり伊勢佐木町店 #関内居酒屋 #関内焼き鳥 #関内焼鳥 #関内やきとり #関内グルメ #関内駅居酒屋 #関内居酒屋喫煙可 #関内接待 #関内夜ご飯 #関内 #関内会食 #関内駅 #関内飲み屋 #関内ご飯 #伊勢佐木町焼き鳥 #関内飲み #関内デート #関内ディナー #関内飲食店 #伊勢佐木町居酒屋 #関内宴会 #関内飲み会 #関内和食 #関内居酒屋おすすめ #焼き鳥好きな人と繋がりたい #居酒屋好きな人と繋がりたい #関内日本酒 #居酒屋 #焼き鳥
+2025-11-12 13:06:39,024 - INFO - 処理終了
+================================================================================
+2025-11-12 13:06:45,228 - INFO - 処理開始: Mode=post, Username=furi_isezaki, GBP=01485230283266226163
+2025-11-12 13:06:45,228 - INFO - エンコードURL:https://business.google.com/locations/search?hl=ja&lq=W251bGwsIG51bGwsIG51bGwsIDEsIG51bGwsIG51bGwsICIwMTQ4NTIzMDI4MzI2NjIyNjE2MyJd.
+2025-11-12 13:07:07,785 - INFO - アップロード中のファイル: C:\Users\adminadmin\Desktop\MEO-main\dev\media\furi_isezaki\furi_isezaki_20251112130634.jpg
+2025-11-12 13:07:10,899 - INFO - Waiting for description field...
+2025-11-12 13:07:10,942 - INFO - Setting description via JS (no send_keys)...
+2025-11-12 13:07:12,011 - INFO - Looking for button section...
+2025-11-12 13:07:16,562 - INFO - Trying to select CALL option...
+2025-11-12 13:07:16,862 - INFO - CALL option successfully selected
+2025-11-12 13:07:18,863 - INFO - Clicking submit button...
+2025-11-12 13:07:27,479 - INFO - 処理完了
+================================================================================
+2025-11-12 16:03:10,307 - INFO - 処理開始 PROCESSID:20251112_160307
+2025-11-12 16:03:10,307 - INFO - 対象ユーザー: furi_isezaki
+2025-11-12 16:03:10,307 - INFO - 処理を開始します
+2025-11-12 16:03:10,366 - INFO - 選択されたプロファイル: Profile 12
+2025-11-12 16:03:10,366 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-12 16:03:14,518 - INFO - furi_isezaki のプロフィールページにアクセスします
+2025-11-12 16:03:26,692 - INFO - 最新投稿を読み込みます
+2025-11-12 16:03:32,160 - INFO - 選定: 非ピン留め https://www.instagram.com/furi_isezaki/p/DQ89-E_AQrh/?hl=ja
+2025-11-12 16:03:36,578 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 16:03:41,014 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 16:03:41,076 - INFO - datetime属性の抽出を開始します
+2025-11-12 16:03:41,112 - INFO - 抽出されたdatetime: 2025-11-12T10:12:58.000Z
+2025-11-12 16:03:41,112 - INFO - furi_isezaki の投稿日時: 2025-11-12T10:12:58.000Z
+2025-11-12 16:03:41,119 - INFO - date:2025-11-12 19:12:58+09:00
+2025-11-12 16:03:41,119 - INFO - post_date:20251112
+2025-11-12 16:03:41,161 - INFO - カルーセル推定: 1枚
+2025-11-12 16:03:41,203 - INFO - 検出(SINGLE): https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/576106442_17892403005359945_5586816289377236010_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc2NDE1NTkzNTM3MTYyNzIzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=lgfZjJ6lJrgQ7kNvwEtajLy&_nc_oc=AdnKqAdLDFlwc88UaYJWFLBwYogflPTDJYU_1LP4vVJMzlC1VSX2p2QRZTwLA60piIs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=4rfPSG2EiMOf44UHkK7Ehg&oh=00_AfgKGx2nTa892kCXTDvptJOFb1szN4vaF8Xl_we7fw_eug&oe=691A7854
+2025-11-12 16:03:41,203 - INFO - 1枚目: https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/576106442_17892403005359945_5586816289377236010_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc2NDE1NTkzNTM3MTYyNzIzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=lgfZjJ6lJrgQ7kNvwEtajLy&_nc_oc=AdnKqAdLDFlwc88UaYJWFLBwYogflPTDJYU_1LP4vVJMzlC1VSX2p2QRZTwLA60piIs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=4rfPSG2EiMOf44UHkK7Ehg&oh=00_AfgKGx2nTa892kCXTDvptJOFb1szN4vaF8Xl_we7fw_eug&oe=691A7854
+2025-11-12 16:03:41,203 - INFO - [caption/by_username] 開始
+2025-11-12 16:03:41,357 - INFO - [caption/by_username] 説明文確定（先頭100）: '————焼鳥 風里 ふうり 伊勢佐木町店————
+
+営業時間
+
+月曜日～金曜日・祝前日・祝後日
+OPEN 18:00 CLOSE 23:30
+※L.O. 料理22:30 ドリンク23:00
+
+土曜日・'
+2025-11-12 16:03:41,358 - INFO - [caption/by_username] 説明文を保存: media\furi_isezaki\description\20251112_160307
+2025-11-12 16:03:41,359 - INFO - 画像URLを取得しました
+2025-11-12 16:03:41,360 - INFO - DUP(with-key): user=furi_isezaki, key=Mzc2NDE1NTkzNTM3MTYyNzIzMw==, dt=2025-11-12T10:12:58.000Z
+2025-11-12 16:03:41,361 - INFO - このレコードは存在します
+2025-11-12 16:03:41,361 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-12 18:58:25,798 - INFO - 処理開始 PROCESSID:20251112_185822
+2025-11-12 18:58:25,798 - INFO - 対象ユーザー: furi_isezaki
+2025-11-12 18:58:25,798 - INFO - 処理を開始します
+2025-11-12 18:58:25,856 - INFO - 選択されたプロファイル: Profile 12
+2025-11-12 18:58:25,856 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 12
+2025-11-12 18:58:30,155 - INFO - furi_isezaki のプロフィールページにアクセスします
+2025-11-12 18:58:41,692 - INFO - 最新投稿を読み込みます
+2025-11-12 18:58:46,988 - INFO - 選定: 非ピン留め https://www.instagram.com/furi_isezaki/p/DQ89-E_AQrh/?hl=ja
+2025-11-12 18:58:50,761 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 18:58:55,110 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 18:58:55,146 - INFO - datetime属性の抽出を開始します
+2025-11-12 18:58:55,218 - INFO - 抽出されたdatetime: 2025-11-12T10:12:58.000Z
+2025-11-12 18:58:55,218 - INFO - furi_isezaki の投稿日時: 2025-11-12T10:12:58.000Z
+2025-11-12 18:58:55,319 - INFO - date:2025-11-12 19:12:58+09:00
+2025-11-12 18:58:55,320 - INFO - post_date:20251112
+2025-11-12 18:58:55,359 - INFO - カルーセル推定: 1枚
+2025-11-12 18:58:55,417 - INFO - 検出(SINGLE): https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/576106442_17892403005359945_5586816289377236010_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc2NDE1NTkzNTM3MTYyNzIzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=lgfZjJ6lJrgQ7kNvwEtajLy&_nc_oc=AdnKqAdLDFlwc88UaYJWFLBwYogflPTDJYU_1LP4vVJMzlC1VSX2p2QRZTwLA60piIs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=vuO1L3FTC1EP3yhoMxbjKA&oh=00_AfhhVJfwwnMM17Qe0f8TgD9fYrvMlViWL3qHPpAnCHHuJA&oe=691AB094
+2025-11-12 18:58:55,417 - INFO - 1枚目: https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/576106442_17892403005359945_5586816289377236010_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc2NDE1NTkzNTM3MTYyNzIzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=lgfZjJ6lJrgQ7kNvwEtajLy&_nc_oc=AdnKqAdLDFlwc88UaYJWFLBwYogflPTDJYU_1LP4vVJMzlC1VSX2p2QRZTwLA60piIs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=vuO1L3FTC1EP3yhoMxbjKA&oh=00_AfhhVJfwwnMM17Qe0f8TgD9fYrvMlViWL3qHPpAnCHHuJA&oe=691AB094
+2025-11-12 18:58:55,418 - INFO - [caption/by_username] 開始
+2025-11-12 18:58:55,513 - INFO - [caption/by_username] 説明文確定（先頭100）: '————焼鳥 風里 ふうり 伊勢佐木町店————
+
+営業時間
+
+月曜日～金曜日・祝前日・祝後日
+OPEN 18:00 CLOSE 23:30
+※L.O. 料理22:30 ドリンク23:00
+
+土曜日・'
+2025-11-12 18:58:55,516 - INFO - [caption/by_username] 説明文を保存: media\furi_isezaki\description\20251112_185822
+2025-11-12 18:58:55,516 - INFO - 画像URLを取得しました
+2025-11-12 18:58:55,518 - INFO - DUP(with-key): user=furi_isezaki, key=Mzc2NDE1NTkzNTM3MTYyNzIzMw==, dt=2025-11-12T10:12:58.000Z
+2025-11-12 18:58:55,518 - INFO - このレコードは存在します
+2025-11-12 18:58:55,518 - INFO - 全件レコードが存在します
+================================================================================
+2025-11-12 21:51:33,293 - INFO - 処理開始 PROCESSID:20251112_215130
+2025-11-12 21:51:33,293 - INFO - 対象ユーザー: furi_isezaki
+2025-11-12 21:51:33,293 - INFO - 処理を開始します
+2025-11-12 21:51:33,355 - INFO - 選択されたプロファイル: Profile 9
+2025-11-12 21:51:33,355 - INFO - 使用するパス: C:\Users\adminadmin\Desktop\profiel_file\Profile 9
+2025-11-12 21:51:37,700 - INFO - furi_isezaki のプロフィールページにアクセスします
+2025-11-12 21:51:49,546 - INFO - 最新投稿を読み込みます
+2025-11-12 21:51:54,885 - INFO - 選定: 非ピン留め https://www.instagram.com/furi_isezaki/p/DQ89-E_AQrh/?hl=ja
+2025-11-12 21:51:59,226 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 21:52:02,846 - INFO - 最新投稿ページにアクセスしました
+2025-11-12 21:52:02,907 - INFO - datetime属性の抽出を開始します
+2025-11-12 21:52:02,949 - INFO - 抽出されたdatetime: 2025-11-12T10:12:58.000Z
+2025-11-12 21:52:02,950 - INFO - furi_isezaki の投稿日時: 2025-11-12T10:12:58.000Z
+2025-11-12 21:52:02,963 - INFO - date:2025-11-12 19:12:58+09:00
+2025-11-12 21:52:02,963 - INFO - post_date:20251112
+2025-11-12 21:52:03,055 - INFO - カルーセル推定: 1枚
+2025-11-12 21:52:03,126 - INFO - 検出(SINGLE): https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/576106442_17892403005359945_5586816289377236010_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc2NDE1NTkzNTM3MTYyNzIzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=lgfZjJ6lJrgQ7kNvwEtajLy&_nc_oc=AdnKqAdLDFlwc88UaYJWFLBwYogflPTDJYU_1LP4vVJMzlC1VSX2p2QRZTwLA60piIs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=aGyCgFxqC11QOgyPHOIpXg&oh=00_AfiBE8HshzbIUtaGv5G93WTRzkF0YAsHog0beDe1g54XOw&oe=691AE8D4
+2025-11-12 21:52:03,127 - INFO - 1枚目: https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/576106442_17892403005359945_5586816289377236010_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzc2NDE1NTkzNTM3MTYyNzIzMw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzMifQ%3D%3D&_nc_ohc=lgfZjJ6lJrgQ7kNvwEtajLy&_nc_oc=AdnKqAdLDFlwc88UaYJWFLBwYogflPTDJYU_1LP4vVJMzlC1VSX2p2QRZTwLA60piIs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=aGyCgFxqC11QOgyPHOIpXg&oh=00_AfiBE8HshzbIUtaGv5G93WTRzkF0YAsHog0beDe1g54XOw&oe=691AE8D4
+2025-11-12 21:52:03,127 - INFO - [caption/by_username] 開始
+2025-11-12 21:52:03,219 - INFO - [caption/by_username] 説明文確定（先頭100）: '————焼鳥 風里 ふうり 伊勢佐木町店————
+
+営業時間
+
+月曜日～金曜日・祝前日・祝後日
+OPEN 18:00 CLOSE 23:30
+※L.O. 料理22:30 ドリンク23:00
+
+土曜日・'
+2025-11-12 21:52:03,220 - INFO - [caption/by_username] 説明文を保存: media\furi_isezaki\description\20251112_215130
+2025-11-12 21:52:03,221 - INFO - 画像URLを取得しました
+2025-11-12 21:52:03,224 - INFO - DUP(with-key): user=furi_isezaki, key=Mzc2NDE1NTkzNTM3MTYyNzIzMw==, dt=2025-11-12T10:12:58.000Z
+2025-11-12 21:52:03,224 - INFO - このレコードは存在します
+2025-11-12 21:52:03,224 - INFO - 全件レコードが存在します
