@@ -441,8 +441,10 @@ def main():
         logger.info(f"候補数: {len(candidates)}件")
 
         # すべての候補について投稿日時を取得して、最新のものを選択
+        # 日付が分かっていない投稿は全て日時を確認した後に最新の投稿を検索する
         post_with_dates = []  # (href, pinned, post_datetime) のリスト
         
+        logger.info(f"全{len(candidates)}件の候補について日時を取得します")
         for i, (href, pinned) in enumerate(candidates, 1):
             logger.info(f"[{i}/{len(candidates)}] 候補 {href} (ピン留め: {pinned}) の日付取得を開始")
             
@@ -509,11 +511,15 @@ def main():
                     # エラーが続く場合は次の候補に進む
                     continue
 
+        # すべての候補について日時を取得した後、最新の投稿を検索
+        logger.info(f"日時取得完了: {len(post_with_dates)}件の候補から日時を取得しました")
+        
         # 投稿日時が最新のものを選択
         latest_post_url = None
         if post_with_dates:
             # 投稿日時でソート（新しい順）
             post_with_dates.sort(key=lambda x: x[2], reverse=True)
+            logger.info(f"日時でソート完了。最新の投稿から順に確認します")
             
             # MAX_AGE_DAYSのチェック
             now_utc = dt.now(timezone.utc)
@@ -526,6 +532,8 @@ def main():
                     latest_post_url = href
                     logger.info(f"選定: {href} (ピン留め: {pinned}, 投稿日時: {post_dt}, 経過日数: {age.days}日)")
                     break
+        else:
+            logger.warning("日時を取得できた候補がありませんでした")
 
         # 採用できたらそのページへ、できなければ終了
         if latest_post_url:
