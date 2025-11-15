@@ -16,7 +16,7 @@ import time as _time
 
 # Seleniumに関連するインポート
 from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException, InvalidSessionIdException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -210,29 +210,32 @@ def get_page_caption(driver, username, timeout=12):
     ))
 
     XPATHS = [
-        # 既存（残す）
-        f"(//div[.//a[contains(@href,'/{username}/')] and .//time]"
+        # article要素内に限定して説明文を取得
+        f"(//article//div[.//a[contains(@href,'/{username}/')] and .//time]"
         f"/following-sibling::span)[1]",
 
-        f"(//a[contains(@href,'/{username}/')]/ancestor::div[1]"
+        f"(//article//a[contains(@href,'/{username}/')]/ancestor::div[1]"
         f"/following-sibling::span)[1]",
 
-        f"(//div[.//a[contains(@href,'/{username}/')]]"
+        f"(//article//div[.//a[contains(@href,'/{username}/')]]"
         f"//time/parent::span/following-sibling::span)[1]",
 
-        # 追加: time を起点に「次に現れるキャプション候補」を広めに拾う
-        # 兄弟 → それ以降 の順で探索
-        "(//time/ancestor::div[1]/following-sibling::*"
+        # 追加: time を起点に「次に現れるキャプション候補」を広めに拾う（article内に限定）
+        "(//article//time/ancestor::div[1]/following-sibling::*"
         "//h1[contains(@class,'_ap3a')] | "
-        "//time/ancestor::div[1]/following-sibling::*"
+        "//article//time/ancestor::div[1]/following-sibling::*"
         "//span[contains(@class,'_ap3a')])[1]",
 
-        # 追加: time から前進して最初の「テキストを持つ span」
-        "(//time/ancestor::div[1]/following::span"
+        # 追加: time から前進して最初の「テキストを持つ span」（article内に限定）
+        "(//article//time/ancestor::div[1]/following::span"
         "[normalize-space()][1])",
 
-        # 追加: ハッシュタグの a が含まれるブロックの直近の親（タグが無い投稿でも次の候補が当たるため前のXPATHで拾える）
-        "(//a[contains(@href,'/explore/tags')]/ancestor::span[1])[1]",
+        # 追加: ハッシュタグの a が含まれるブロックの直近の親（article内に限定）
+        "(//article//a[contains(@href,'/explore/tags')]/ancestor::span[1])[1]",
+        
+        # フォールバック: article要素がない場合の既存のXPath
+        f"(//div[.//a[contains(@href,'/{username}/')] and .//time]"
+        f"/following-sibling::span)[1]",
     ]
 
     cap_el = None
@@ -243,6 +246,13 @@ def get_page_caption(driver, username, timeout=12):
             if not txt:
                 # 中身が空のラッパ要素対策：子要素側の可視テキストを読む
                 txt = (el.text or "").strip()
+            
+            # 「Meta」のみの場合はスキップして次のXPathを試す
+            if txt:
+                txt_lower = txt.lower().strip()
+                if txt_lower == "meta" or (txt_lower.startswith("meta") and len(txt.strip()) <= 10):
+                    continue  # この要素をスキップして次のXPathを試す
+            
             if txt:
                 cap_el = el
                 break
@@ -252,22 +262,54 @@ def get_page_caption(driver, username, timeout=12):
     if cap_el is None:
         return None
 
-    # 「もっと見る」を広めに検出（言語違い・三点リーダ対応）
-    try:
-        more = cap_el.find_element(
-            By.XPATH,
-            ".//*[contains(text(),'もっと見る') or contains(text(),'more') or contains(text(),'See more') or contains(.,'…')]"
-        )
-        driver.execute_script("arguments[0].click()", more)
-        # 展開後にテキストが増えるまで少し待つ
-        WebDriverWait(driver, 3).until(
-            lambda d: (cap_el.get_attribute('innerText') or cap_el.text or '').strip() != ''
-        )
-    except Exception:
-        pass
+    # 「もっと見る」を複数回クリックして全文を取得
+    max_clicks = 5  # 最大5回までクリックを試みる
+    for _ in range(max_clicks):
+        try:
+            more = cap_el.find_element(
+                By.XPATH,
+                ".//*[contains(text(),'もっと見る') or contains(text(),'more') or contains(text(),'See more') or contains(.,'…')]"
+            )
+            # ボタンが表示されているか確認
+            if more.is_displayed():
+                driver.execute_script("arguments[0].click()", more)
+                time.sleep(0.5)  # 展開を待つ
+            else:
+                break  # ボタンが表示されていない場合は終了
+        except Exception:
+            break  # 「もっと見る」ボタンが見つからない場合は終了
 
+    # 説明文の全文を取得（innerTextで子要素のテキストも含めて取得）
     txt = (cap_el.get_attribute("innerText") or cap_el.text or "").strip()
-    return html.unescape(txt)
+    
+    # innerTextが空の場合は、すべての子要素のテキストを結合
+    if not txt:
+        try:
+            # すべての子要素のテキストを取得
+            child_texts = []
+            # すべてのテキストノードを含む要素を取得
+            for child in cap_el.find_elements(By.XPATH, ".//*"):
+                child_text = (child.get_attribute("innerText") or child.text or "").strip()
+                if child_text and child_text not in child_texts:
+                    child_texts.append(child_text)
+            if child_texts:
+                # 親要素のテキストも含めて結合
+                txt = " ".join(child_texts).strip()
+        except Exception:
+            pass
+    
+    txt = html.unescape(txt)
+    
+    # 「Meta」のみ、または「Meta」で始まる短いテキストの場合は空文字列として扱う
+    txt_lower = txt.lower().strip()
+    if txt_lower == "meta" or txt_lower.startswith("meta") and len(txt.strip()) <= 10:
+        return ""
+    
+    # 説明文が非常に短い場合（4文字以下）で「Meta」を含む場合は除外
+    if len(txt.strip()) <= 4 and "meta" in txt_lower:
+        return ""
+    
+    return txt
 
 
 def get_caption_by_username(driver, username, logger=None, timeout=12):
@@ -296,12 +338,52 @@ def get_caption_by_username(driver, username, logger=None, timeout=12):
                 continue
 
         if cap_el:
-            try:
-                more = cap_el.find_element(By.XPATH, ".//*[contains(text(),'もっと見る') or contains(text(),'more') or contains(.,'…')]")
-                driver.execute_script("arguments[0].click()", more)
-            except Exception:
-                pass
-            return (cap_el.get_attribute("innerText") or cap_el.text or "").strip()
+            # 「もっと見る」を複数回クリックして全文を取得
+            max_clicks = 5  # 最大5回までクリックを試みる
+            for _ in range(max_clicks):
+                try:
+                    more = cap_el.find_element(
+                        By.XPATH,
+                        ".//*[contains(text(),'もっと見る') or contains(text(),'more') or contains(text(),'See more') or contains(.,'…')]"
+                    )
+                    # ボタンが表示されているか確認
+                    if more.is_displayed():
+                        driver.execute_script("arguments[0].click()", more)
+                        time.sleep(0.5)  # 展開を待つ
+                    else:
+                        break  # ボタンが表示されていない場合は終了
+                except Exception:
+                    break  # 「もっと見る」ボタンが見つからない場合は終了
+            
+            # 説明文の全文を取得（innerTextで子要素のテキストも含めて取得）
+            txt = (cap_el.get_attribute("innerText") or cap_el.text or "").strip()
+            
+            # innerTextが空の場合は、すべての子要素のテキストを結合
+            if not txt:
+                try:
+                    # すべての子要素のテキストを取得
+                    child_texts = []
+                    # すべてのテキストノードを含む要素を取得
+                    for child in cap_el.find_elements(By.XPATH, ".//*"):
+                        child_text = (child.get_attribute("innerText") or child.text or "").strip()
+                        if child_text and child_text not in child_texts:
+                            child_texts.append(child_text)
+                    if child_texts:
+                        # 親要素のテキストも含めて結合
+                        txt = " ".join(child_texts).strip()
+                except Exception:
+                    pass
+            
+            # 「Meta」のみ、または「Meta」で始まる短いテキストの場合は空文字列として扱う
+            txt_lower = txt.lower().strip()
+            if txt_lower == "meta" or txt_lower.startswith("meta") and len(txt.strip()) <= 10:
+                return ""
+            
+            # 説明文が非常に短い場合（4文字以下）で「Meta」を含む場合は除外
+            if len(txt.strip()) <= 4 and "meta" in txt_lower:
+                return ""
+            
+            return txt
 
         # どうしても見つからなければページ版にフォールバック
         return get_page_caption(driver, username, timeout)
@@ -507,32 +589,77 @@ def main():
                 finally:
                     # プロフィールページに戻る
                     try:
+                        # セッションが有効かチェック
+                        try:
+                            _ = driver.current_url
+                        except (InvalidSessionIdException, Exception) as session_error:
+                            logger.error(f"ブラウザセッションが無効になりました: {session_error} → この候補をスキップして処理を終了します")
+                            break  # ループを抜ける
+                        
                         driver.back()
                         wait.until(EC.presence_of_all_elements_located(
                             (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
                         ))
-                    except Exception as back_error:
-                        logger.error(f"プロフィールページに戻れませんでした: {back_error}")
-                        # プロフィールページに直接アクセス
-                        driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
-                        time.sleep(5)
-            except Exception as e:
-                logger.error(f"候補 {href} - 投稿ページへのアクセスでエラー: {e} → スキップ")
-                # プロフィールページに戻る
-                try:
-                    if driver.current_url != current_url:
-                        driver.back()
-                        wait.until(EC.presence_of_all_elements_located(
-                            (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
-                        ))
-                except Exception as back_error:
-                    logger.error(f"プロフィールページに戻れませんでした: {back_error}")
-                    # プロフィールページに直接アクセス
-                    driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
-                    time.sleep(5)
+                    except (InvalidSessionIdException, Exception) as back_error:
+                        error_msg = str(back_error)
+                        if "invalid session id" in error_msg.lower() or "target frame detached" in error_msg.lower() or "session deleted" in error_msg.lower():
+                            logger.error(f"ブラウザセッションが無効になりました: {back_error} → この候補をスキップして処理を終了します")
+                            break  # ループを抜ける
+                        else:
+                            logger.error(f"プロフィールページに戻れませんでした: {back_error}")
+                            # プロフィールページに直接アクセス
+                            try:
+                                driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
+                                time.sleep(5)
+                            except (InvalidSessionIdException, Exception) as get_error:
+                                logger.error(f"プロフィールページへのアクセスも失敗しました: {get_error} → 処理を終了します")
+                                break  # ループを抜ける
+            except (InvalidSessionIdException, Exception) as e:
+                error_msg = str(e)
+                if "invalid session id" in error_msg.lower() or "target frame detached" in error_msg.lower() or "session deleted" in error_msg.lower():
+                    logger.error(f"ブラウザセッションが無効になりました: {e} → この候補をスキップして処理を終了します")
+                    break  # ループを抜ける
+                else:
+                    logger.error(f"候補 {href} - 投稿ページへのアクセスでエラー: {e} → スキップ")
+                    # プロフィールページに戻る
+                    try:
+                        # セッションが有効かチェック
+                        try:
+                            _ = driver.current_url
+                        except (InvalidSessionIdException, Exception) as session_error:
+                            logger.error(f"ブラウザセッションが無効になりました: {session_error} → 処理を終了します")
+                            break  # ループを抜ける
+                        
+                        if driver.current_url != current_url:
+                            driver.back()
+                            wait.until(EC.presence_of_all_elements_located(
+                                (By.CSS_SELECTOR, 'a._a6hd[href*="/p/"], a._a6hd[href*="/reel/"]')
+                            ))
+                    except (InvalidSessionIdException, Exception) as back_error:
+                        error_msg = str(back_error)
+                        if "invalid session id" in error_msg.lower() or "target frame detached" in error_msg.lower() or "session deleted" in error_msg.lower():
+                            logger.error(f"ブラウザセッションが無効になりました: {back_error} → 処理を終了します")
+                            break  # ループを抜ける
+                        else:
+                            logger.error(f"プロフィールページに戻れませんでした: {back_error}")
+                            # プロフィールページに直接アクセス
+                            try:
+                                driver.get(f"https://www.instagram.com/{USERNAME}/?hl=ja")
+                                time.sleep(5)
+                            except (InvalidSessionIdException, Exception) as get_error:
+                                logger.error(f"プロフィールページへのアクセスも失敗しました: {get_error} → 処理を終了します")
+                                break  # ループを抜ける
 
         # すべての候補について日時を取得した後、最新の投稿を検索
         logger.info(f"日時取得完了: {len(post_with_dates)}件の候補から日時を取得しました")
+        
+        # セッションが無効になっている可能性があるため、チェック
+        session_valid = True
+        try:
+            _ = driver.current_url
+        except (InvalidSessionIdException, Exception):
+            session_valid = False
+            logger.warning("ブラウザセッションが無効になっていますが、取得できた候補から最新投稿を選定します")
         
         # 投稿日時が最新のものを選択
         latest_post_url = None
@@ -557,13 +684,37 @@ def main():
 
         # 採用できたらそのページへ、できなければ終了
         if latest_post_url:
-            driver.get(latest_post_url)
-            time.sleep(2)
-            print(f"最新投稿のURL: {latest_post_url}")
-            logger.info("最新投稿ページにアクセスしました")
+            if session_valid:
+                try:
+                    driver.get(latest_post_url)
+                    time.sleep(2)
+                    print(f"最新投稿のURL: {latest_post_url}")
+                    logger.info("最新投稿ページにアクセスしました")
+                except (InvalidSessionIdException, Exception) as e:
+                    error_msg = str(e)
+                    if "invalid session id" in error_msg.lower() or "target frame detached" in error_msg.lower() or "session deleted" in error_msg.lower():
+                        logger.error(f"ブラウザセッションが無効のため、最新投稿ページにアクセスできませんでした: {e}")
+                        try:
+                            driver.quit()
+                        except:
+                            pass
+                        return 1
+                    else:
+                        raise
+            else:
+                logger.error("ブラウザセッションが無効のため、最新投稿ページにアクセスできませんでした")
+                try:
+                    driver.quit()
+                except:
+                    pass
+                return 1
         else:
             logger.info(f"条件に合致する投稿が見つかりませんでした（すべての候補が{MAX_AGE_DAYS}日より古い等）")
-            driver.quit()
+            if session_valid:
+                try:
+                    driver.quit()
+                except:
+                    pass
             return 1
 
     except Exception as e:
@@ -762,8 +913,10 @@ def main():
             logger.info("[caption/by_username] 開始")
            
             description = get_caption_by_username(driver, USERNAME, logger=logger, timeout=20)
+            # Noneの場合は空文字列として扱う
             if description is None:
-                raise RuntimeError("caption is None")
+                logger.warning("[caption/by_username] 説明文が取得できませんでした（None）。空文字列として処理します")
+                description = ""
 
             if description == "":
                 logger.info("[caption/by_username] 説明文は空（正常継続）")
