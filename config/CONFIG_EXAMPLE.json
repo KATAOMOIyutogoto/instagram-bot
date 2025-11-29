@@ -1,0 +1,59 @@
+{
+  "instagram": {
+    "username": "your_instagram_username",
+    "password": "your_instagram_password",
+    "session_file": "session.json"
+  },
+  "targets": {
+    "companies": [
+      {
+        "instagram_id": "harebare0819",
+        "google_business_locations": [
+          {
+            "account_id": "123456789",
+            "location_id": "987654321"
+          }
+        ]
+      },
+      {
+        "instagram_id": "lumi_915",
+        "google_business_locations": [
+          {
+            "account_id": "123456789",
+            "location_id": "987654322"
+          }
+        ]
+      }
+    ],
+    "download_limit": {
+      "posts": 6,
+      "stories": 10
+    }
+  },
+  "download": {
+    "base_directory": "downloads",
+    "organize_by_company": true,
+    "organize_by_date": true,
+    "download_posts": true,
+    "download_stories": true
+  },
+  "settings": {
+    "retry_attempts": 3,
+    "retry_delay": 5,
+    "delay_between_requests": 2
+  },
+  "upload": {
+    "auto_upload": true,
+    "mock_mode": false,
+    "start_date": "2025-11-23 00:00:00",
+    "google_business": {
+      "credentials_path": "credentials.json",
+      "token_path": "token.json",
+      "gcs_bucket": "",
+      "use_direct_upload": true
+    }
+  }
+}
+
+
+

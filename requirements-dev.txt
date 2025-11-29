@@ -1,0 +1,16 @@
+# 開発用依存パッケージ
+# インストール: pip install -r requirements-dev.txt
+
+# Linter（コード品質チェック）
+ruff>=0.1.0  # 高速なPython linter（flake8 + isort + auto-fix）
+
+# Formatter（コード整形）
+black>=23.0.0  # コードフォーマッター
+
+# Type checker（型チェック）
+mypy>=1.0.0  # 静的型チェッカー
+
+# テスト
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
