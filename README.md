@@ -355,7 +355,12 @@ python -m src.scheduler --once
             "account_id": "Google Business ProfileのアカウントID",
             "location_id": "Google Business ProfileのロケーションID"
           }
-        ]
+        ],
+        "user_id": "ユーザーID（自動取得される）",
+        "download_posts": true,
+        "download_stories": true,
+        "upload_posts": true,
+        "upload_stories": true
       }
     ],
     "download_limit": {
@@ -392,6 +397,11 @@ python -m src.scheduler --once
 - **`targets.companies`**: 処理対象のInstagramアカウントリスト
   - `instagram_id`: ターゲットのInstagram ID
   - `google_business_locations`: Google Business Profileのロケーション情報
+  - `user_id`: ユーザーID（自動取得される。手動で設定も可能）
+  - `download_posts`: 投稿をダウンロードするか（`true`/`false`、省略時はグローバル設定を使用）
+  - `download_stories`: ストーリーをダウンロードするか（`true`/`false`、省略時はグローバル設定を使用）
+  - `upload_posts`: 投稿をアップロードするか（`true`/`false`、省略時は`true`）
+  - `upload_stories`: ストーリーをアップロードするか（`true`/`false`、省略時は`true`）
 
 - **`upload.auto_upload`**: 自動アップロードを有効にするか（`true`/`false`）
 - **`upload.mock_mode`**: モックモード（`true`の場合は実際にはアップロードしない）

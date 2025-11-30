@@ -314,14 +314,23 @@ class InstagramDownloadBot:
 
         logger.info(f"企業のダウンロードを開始: {identifier}")
 
+        # 企業設定を初期化（デフォルトはNone）
+        company_config = None
+        
         # 数値のみの場合は既にユーザーIDと判断
         if identifier.isdigit():
             user_id = identifier
             logger.info(f"ユーザーIDとして認識: {identifier}")
+            
+            # ユーザーIDから企業設定を検索
+            if self.companies_config:
+                for company in self.companies_config:
+                    if company.get("user_id") == identifier:
+                        company_config = company
+                        break
         else:
             # config.jsonからユーザーIDを取得（既に保存されている場合）
             user_id = None
-            company_config = None
             
             # 新しい形式の設定から該当する企業の設定を探す
             if self.companies_config:
@@ -370,14 +379,20 @@ class InstagramDownloadBot:
         # 表示用のユーザー名を取得（ユーザーIDの場合はそのまま使用）
         display_name = identifier if not identifier.isdigit() else user_id
 
+        # 企業設定から投稿・ストーリーのダウンロード設定を取得（個別設定がある場合は優先）
+        # company_configは既に上で取得されているので再利用
+        # 企業ごとの個別設定を取得（設定がない場合はグローバル設定を使用）
+        download_posts = company_config.get("download_posts") if company_config and "download_posts" in company_config else self.download_posts
+        download_stories = company_config.get("download_stories") if company_config and "download_stories" in company_config else self.download_stories
+
         # ダウンロード実行
         download_error = None
         try:
             results = self.downloader.download_all(
                 display_name,
                 user_id,
-                self.download_posts,
-                self.download_stories,
+                download_posts,
+                download_stories,
                 self.posts_limit,
                 self.stories_limit,
             )
@@ -385,10 +400,16 @@ class InstagramDownloadBot:
             posts_count = len(results.get("posts", []))
             stories_count = len(results.get("stories", []))
 
+            # 個別設定が使用されている場合はログに表示
+            settings_info = ""
+            if company_config:
+                if "download_posts" in company_config or "download_stories" in company_config:
+                    settings_info = f" [設定: 投稿={download_posts}, ストーリー={download_stories}]"
+            
             logger.info(
                 f"ダウンロード完了: {display_name} "
                 f"(投稿: {posts_count}件, "
-                f"ストーリー: {stories_count}件)"
+                f"ストーリー: {stories_count}件){settings_info}"
             )
         except Exception as e:
             download_error = str(e)
@@ -409,17 +430,10 @@ class InstagramDownloadBot:
                 locations = []  # [{"account_id": "...", "location_id": "..."}, ...]
 
                 # 新しい形式: companiesがオブジェクトのリストの場合
-                if self.companies_config:
-                    # display_name（instagram_id）に一致する企業設定を検索
-                    company_config = None
-                    for company in self.companies_config:
-                        if company.get("instagram_id") == display_name:
-                            company_config = company
-                            break
-
-                    if company_config:
-                        # google_business_locationsから直接取得
-                        locations = company_config.get("google_business_locations", [])
+                # company_configは既に上で取得されているので再利用
+                if company_config:
+                    # google_business_locationsから直接取得
+                    locations = company_config.get("google_business_locations", [])
 
                 # 旧形式（後方互換性）: store_mappingを使用
                 if not locations:
@@ -450,8 +464,13 @@ class InstagramDownloadBot:
 
                 upload_results = {"posts": {}, "stories": {}}
 
-                # 投稿をアップロード
-                if results.get("posts") and locations:
+                # 企業設定からアップロード設定を取得（個別設定がある場合は優先）
+                # 企業設定がない場合は、グローバル設定を使用（デフォルトでは投稿・ストーリー両方アップロード）
+                upload_posts = company_config.get("upload_posts") if company_config and "upload_posts" in company_config else True
+                upload_stories = company_config.get("upload_stories") if company_config and "upload_stories" in company_config else True
+
+                # 投稿をアップロード（設定が有効な場合のみ）
+                if upload_posts and results.get("posts") and locations:
                     upload_results["posts"] = self.upload_manager.process_downloaded_posts(
                         display_name, results["posts"], locations=locations
                     )
@@ -459,8 +478,8 @@ class InstagramDownloadBot:
                     upload_failed_count += upload_results["posts"].get("failed", 0)
                     upload_skipped_count += upload_results["posts"].get("skipped", 0)
 
-                # ストーリーをアップロード
-                if results.get("stories") and locations:
+                # ストーリーをアップロード（設定が有効な場合のみ）
+                if upload_stories and results.get("stories") and locations:
                     upload_results["stories"] = self.upload_manager.process_downloaded_stories(
                         display_name, results["stories"], locations=locations
                     )
@@ -470,10 +489,16 @@ class InstagramDownloadBot:
 
                 results["upload"] = upload_results
 
+                # 個別設定が使用されている場合はログに表示
+                upload_settings_info = ""
+                if company_config:
+                    if "upload_posts" in company_config or "upload_stories" in company_config:
+                        upload_settings_info = f" [アップロード設定: 投稿={upload_posts}, ストーリー={upload_stories}]"
+                
                 logger.info(
                     f"アップロード完了: {display_name} "
                     f"(投稿: {upload_results['posts'].get('success', 0)}件, "
-                    f"ストーリー: {upload_results['stories'].get('success', 0)}件)"
+                    f"ストーリー: {upload_results['stories'].get('success', 0)}件){upload_settings_info}"
                 )
             except Exception as e:
                 upload_error = str(e)

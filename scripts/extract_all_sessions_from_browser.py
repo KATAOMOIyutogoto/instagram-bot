@@ -33,9 +33,21 @@ try:
     SELENIUM_AVAILABLE = True
 except ImportError as e:
     SELENIUM_AVAILABLE = False
-    print(f"[ERROR] Seleniumライブラリがインストールされていません: {e}")
-    print("以下のコマンドでインストールしてください:")
-    print("pip install selenium webdriver-manager undetected-chromedriver")
+    error_msg = str(e)
+    
+    # distutils関連のエラーの場合は特別なメッセージを表示
+    if "distutils" in error_msg.lower() or "No module named 'distutils'" in error_msg:
+        print(f"[ERROR] distutilsモジュールが見つかりません: {e}")
+        print("Python 3.12以降ではdistutilsが削除されているため、setuptoolsが必要です。")
+        print("以下のコマンドでインストールしてください:")
+        print("pip install setuptools")
+        print()
+        print("その後、再度以下のコマンドを実行してください:")
+        print("pip install -r requirements.txt")
+    else:
+        print(f"[ERROR] Seleniumライブラリがインストールされていません: {e}")
+        print("以下のコマンドでインストールしてください:")
+        print("pip install -r requirements.txt")
     sys.exit(1)
 
 # 既存の関数をインポート
