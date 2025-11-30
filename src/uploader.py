@@ -1,6 +1,6 @@
 """
 Google Business Platformへのアップロード機能
-モックモードと実際のGoogle Business Profile APIの両方に対応
+Seleniumアップロードとモックモードに対応
 """
 
 import logging
@@ -35,47 +35,65 @@ class GoogleBusinessUploader:
         db: UploadDatabase,
         mock_mode: bool = True,
         mock_delay: float = 0.5,
-        credentials_path: str | None = None,
-        token_path: str | None = None,
-        gcs_bucket: str | None = None,
         location_mapping: dict[str, str] | None = None,
-        use_direct_upload: bool = True,
+        video_conversion_enabled: bool = True,
+        video_min_width: int = 400,
+        video_min_height: int = 300,
+        use_selenium: bool = False,
+        chrome_profile_path: str | None = None,
+        profile_name_gbp: str | None = None,
     ):
         """
         Args:
             db: アップロード履歴データベース
             mock_mode: モックモード（Trueの場合は実際にはアップロードしない）
             mock_delay: モックアップロード時の遅延時間（秒）
-            credentials_path: Google API認証情報ファイルのパス（サービスアカウント用）
-            token_path: OAuth2トークンファイルのパス
-            gcs_bucket: Google Cloud Storageバケット名（画像アップロード用）
             location_mapping: 店舗IDとGoogle Business ProfileのロケーションIDのマッピング
+            video_conversion_enabled: 動画変換を有効にするか
+            video_min_width: 動画の最小幅
+            video_min_height: 動画の最小高さ
+            use_selenium: Seleniumを使用してアップロードするか
+            chrome_profile_path: Chromeプロファイルのパス（Selenium用）
+            profile_name_gbp: GBP用のプロファイル名（Selenium用）
         """
         self.db = db
         self.mock_mode = mock_mode
         self.mock_delay = mock_delay
-        self.gcs_bucket = gcs_bucket
         # location_mapping: 後方互換性のため保持（現在は使用されていない）
         self.location_mapping = location_mapping or {}
 
-        # Google Business Profile API クライアント（モックモードでない場合のみ初期化）
-        self.api_client = None
-        if not mock_mode:
-            try:
-                from google_business_api import GoogleBusinessProfileAPI
+        # 動画変換設定
+        self.video_conversion_enabled = video_conversion_enabled
+        self.video_min_width = video_min_width
+        self.video_min_height = video_min_height
 
-                self.api_client = GoogleBusinessProfileAPI(
-                    credentials_path=credentials_path, token_path=token_path
+        # Selenium設定
+        self.use_selenium = use_selenium
+        self.selenium_uploader = None
+        if use_selenium:
+            try:
+                from .selenium_gbp_uploader import SeleniumGBPUploader
+
+                self.selenium_uploader = SeleniumGBPUploader(
+                    chrome_profile_path=chrome_profile_path,
+                    profile_name_gbp=profile_name_gbp,
                 )
-                logger.info("Google Business Profile API クライアントを初期化しました")
+                logger.info("Selenium GBP アップローダーを初期化しました")
             except ImportError as e:
-                logger.error(f"Google Business Profile API の初期化エラー: {e}")
-                logger.warning("モックモードにフォールバックします")
+                logger.error(f"Selenium アップローダーの初期化エラー: {e}")
+                logger.warning("Seleniumアップロードは使用できません。モックモードにフォールバックします。")
+                self.use_selenium = False
                 self.mock_mode = True
             except Exception as e:
-                logger.error(f"Google Business Profile API の初期化エラー: {e}")
-                logger.warning("モックモードにフォールバックします")
+                logger.error(f"Selenium アップローダーの初期化エラー: {e}")
+                logger.warning("Seleniumアップロードは使用できません。モックモードにフォールバックします。")
+                self.use_selenium = False
                 self.mock_mode = True
+
+        # Seleniumが使用できない、かつモックモードでない場合はエラー
+        if not mock_mode and not use_selenium:
+            logger.warning("Seleniumアップロードが無効で、モックモードも無効です。モックモードにフォールバックします。")
+            self.mock_mode = True
 
     def upload_post(
         self,
@@ -102,10 +120,11 @@ class GoogleBusinessUploader:
         Returns:
             アップロード結果の辞書
         """
-        # 重複チェック（日時ベース）
-        if self.db.is_post_uploaded(taken_at, instagram_id, location_id):
+        # 重複チェック（日時ベース + Post IDベース）
+        if self.db.is_post_uploaded(taken_at, instagram_id, location_id, post_id=post_id):
             logger.info(
                 f"投稿は既にアップロード済みです: {taken_at} ({instagram_id}, {location_id})"
+                + (f" [Post ID: {post_id}]" if post_id else "")
             )
 
             # スキップされた場合もログに記録
@@ -174,6 +193,154 @@ class GoogleBusinessUploader:
                     "error": error_msg,
                 }
 
+            # 動画変換処理と画像最適化処理
+            converted_file_paths = []
+            if self.video_conversion_enabled:
+                from .utils import ensure_video_resolution, optimize_image_size
+
+                for file_path in file_paths:
+                    path = Path(file_path)
+                    is_video = path.suffix.lower() in [".mp4", ".mov", ".avi", ".wmv", ".webm", ".mkv"]
+                    is_image = path.suffix.lower() in [".jpg", ".jpeg", ".png", ".gif", ".webp"]
+                    
+                    if is_video:
+                        logger.info(f"動画の解像度チェックを実行: {file_path}")
+                        converted_path = ensure_video_resolution(
+                            file_path,
+                            min_width=self.video_min_width,
+                            min_height=self.video_min_height,
+                        )
+                        converted_file_paths.append(converted_path)
+                    elif is_image:
+                        logger.info(f"画像のサイズ最適化を実行: {file_path}")
+                        optimized_path = optimize_image_size(file_path)
+                        converted_file_paths.append(optimized_path)
+                    else:
+                        converted_file_paths.append(file_path)
+            else:
+                # 動画変換が無効でも画像最適化は実行
+                from .utils import optimize_image_size
+                for file_path in file_paths:
+                    path = Path(file_path)
+                    is_image = path.suffix.lower() in [".jpg", ".jpeg", ".png", ".gif", ".webp"]
+                    if is_image:
+                        logger.info(f"画像のサイズ最適化を実行: {file_path}")
+                        optimized_path = optimize_image_size(file_path)
+                        converted_file_paths.append(optimized_path)
+                    else:
+                        converted_file_paths.append(file_path)
+
+            # Seleniumアップロードを使用する場合
+            if self.use_selenium and self.selenium_uploader:
+                try:
+                    # メタデータファイルのパスを取得（metadataから）
+                    metadata_path = None
+                    if metadata and isinstance(metadata, dict):
+                        metadata_path = metadata.get("file_path")
+
+                    # キャプションを取得
+                    caption = None
+                    if metadata and isinstance(metadata, dict):
+                        metadata_content = metadata.get("content", "")
+                        if metadata_content:
+                            lines = metadata_content.split("\n")
+                            in_caption = False
+                            caption_lines = []
+
+                            for line in lines:
+                                if "--- キャプション ---" in line:
+                                    in_caption = True
+                                    continue
+                                if in_caption:
+                                    if line.startswith("---") and "キャプション" not in line:
+                                        break
+                                    else:
+                                        caption_lines.append(line)
+
+                            if caption_lines:
+                                while caption_lines and not caption_lines[-1].strip():
+                                    caption_lines.pop()
+                                caption_text = "\n".join(caption_lines).strip()
+                                # 空文字列でない場合のみキャプションを設定
+                                if caption_text:
+                                    caption = caption_text
+
+                    result = self.selenium_uploader.upload_post_via_selenium(
+                        location_id=location_id,
+                        file_paths=converted_file_paths,
+                        metadata_path=metadata_path,
+                        caption=caption,
+                    )
+
+                    if result.get("success"):
+                        # アップロード履歴を記録
+                        self.db.record_post_upload(
+                            taken_at,
+                            instagram_id,
+                            location_id,
+                            converted_file_paths[0] if converted_file_paths else "",
+                            post_id=post_id,
+                            upload_status="success",
+                            upload_date=datetime.now(),
+                        )
+                        logger.info(f"Seleniumアップロード成功: {taken_at} ({instagram_id}, {location_id})")
+                        return {
+                            "success": True,
+                            "taken_at": (
+                                taken_at.isoformat() if isinstance(taken_at, datetime) else str(taken_at)
+                            ),
+                            "post_id": post_id,
+                            "instagram_id": instagram_id,
+                            "account_id": account_id,
+                            "location_id": location_id,
+                            "uploaded_files": converted_file_paths,
+                            "caption": caption,
+                            "upload_date": datetime.now().isoformat(),
+                            "method": "selenium",
+                            "message": "Seleniumアップロード成功",
+                        }
+                    else:
+                        # エラーを記録
+                        self.db.record_post_upload(
+                            taken_at,
+                            instagram_id,
+                            location_id,
+                            converted_file_paths[0] if converted_file_paths else "",
+                            post_id=post_id,
+                            upload_status="failed",
+                        )
+                        return {
+                            "success": False,
+                            "taken_at": (
+                                taken_at.isoformat() if isinstance(taken_at, datetime) else str(taken_at)
+                            ),
+                            "post_id": post_id,
+                            "account_id": account_id,
+                            "location_id": location_id,
+                            "error": result.get("error", "Seleniumアップロード失敗"),
+                        }
+                except Exception as selenium_error:
+                    logger.error(f"Seleniumアップロードエラー: {selenium_error}")
+                    # エラーを記録
+                    self.db.record_post_upload(
+                        taken_at,
+                        instagram_id,
+                        location_id,
+                        converted_file_paths[0] if converted_file_paths else "",
+                        post_id=post_id,
+                        upload_status="failed",
+                    )
+                    return {
+                        "success": False,
+                        "taken_at": (
+                            taken_at.isoformat() if isinstance(taken_at, datetime) else str(taken_at)
+                        ),
+                        "post_id": post_id,
+                        "account_id": account_id,
+                        "location_id": location_id,
+                        "error": str(selenium_error),
+                    }
+
             # モックアップロード処理
             if self.mock_mode:
                 logger.debug(
@@ -212,9 +379,31 @@ class GoogleBusinessUploader:
                                 caption_lines.pop()
                             caption = "\n".join(caption_lines).strip()
 
+                # 動画変換処理（モックモードでも変換は実行）
+                if self.video_conversion_enabled:
+                    from .utils import ensure_video_resolution
+
+                    converted_file_paths_for_mock = []
+                    for file_path in file_paths:
+                        path = Path(file_path)
+                        is_video = path.suffix.lower() in [".mp4", ".mov", ".avi", ".wmv", ".webm", ".mkv"]
+                        
+                        if is_video:
+                            logger.info(f"動画の解像度チェックを実行: {file_path}")
+                            converted_path = ensure_video_resolution(
+                                file_path,
+                                min_width=self.video_min_width,
+                                min_height=self.video_min_height,
+                            )
+                            converted_file_paths_for_mock.append(converted_path)
+                        else:
+                            converted_file_paths_for_mock.append(file_path)
+                else:
+                    converted_file_paths_for_mock = file_paths
+
                 # アップロードしたファイルのURLを生成（モック用）
                 uploaded_urls = []
-                for file_path in file_paths:
+                for file_path in converted_file_paths_for_mock:
                     # ローカルファイルパスをURL形式に変換（モック用）
                     # 実際の実装では、Google Business PlatformのURLが返される
                     file_url = f"file:///{Path(file_path).absolute().as_posix()}"
@@ -280,154 +469,27 @@ class GoogleBusinessUploader:
                     f"投稿のアップロード完了: {taken_at} ({instagram_id}, {account_id}/{location_id})"
                 )
                 return upload_result
-            else:
-                # 実際のGoogle Business Profile API呼び出し
-                try:
-                    # キャプションを取得
-                    caption = ""
-                    if metadata and isinstance(metadata, dict):
-                        metadata_content = metadata.get("content", "")
-                        if metadata_content:
-                            lines = metadata_content.split("\n")
-                            in_caption = False
-                            caption_lines = []
 
-                            for line in lines:
-                                if "--- キャプション ---" in line:
-                                    in_caption = True
-                                    continue
-                                if in_caption:
-                                    if line.startswith("---") and "キャプション" not in line:
-                                        break
-                                    else:
-                                        caption_lines.append(line)
-
-                            if caption_lines:
-                                while caption_lines and not caption_lines[-1].strip():
-                                    caption_lines.pop()
-                                caption = "\n".join(caption_lines).strip()
-
-                    # 画像・動画をアップロードしてURLを取得
-                    media_urls = []
-                    for file_path in file_paths:
-                        path = Path(file_path)
-                        # ファイル拡張子からメディアタイプを判定
-                        is_video = path.suffix.lower() in [".mp4", ".mov", ".avi", ".webm", ".mkv"]
-                        media_format = "VIDEO" if is_video else "PHOTO"
-
-                        try:
-                            if self.use_direct_upload and self.api_client:
-                                # 方法1: Google Business Profile APIに直接アップロード（GCS不要）
-                                media_url = self.api_client.upload_media_direct(
-                                    account_id=account_id,
-                                    location_id=location_id,
-                                    file_path=file_path,
-                                    media_format=media_format,
-                                )
-                                # メディア情報を辞書形式で保存（URLとフォーマット）
-                                media_urls.append({"url": media_url, "format": media_format})
-                            elif self.gcs_bucket and self.api_client:
-                                # 方法2: GCSにアップロードしてURLを取得
-                                media_url = self.api_client.upload_media_to_gcs(
-                                    file_path=file_path,
-                                    bucket_name=self.gcs_bucket,
-                                    object_name=f"{account_id}/{location_id}/{Path(file_path).name}",
-                                )
-                                # メディア情報を辞書形式で保存（URLとフォーマット）
-                                media_urls.append({"url": media_url, "format": media_format})
-                        except Exception as e:
-                            logger.warning(
-                                f"メディア（{'動画' if is_video else '画像'}）のアップロードに失敗: {file_path} - {e}"
-                            )
-                            # 直接アップロードに失敗した場合、GCSにフォールバック（use_direct_uploadの場合）
-                            if self.use_direct_upload and self.gcs_bucket and self.api_client:
-                                try:
-                                    media_url = self.api_client.upload_media_to_gcs(
-                                        file_path=file_path,
-                                        bucket_name=self.gcs_bucket,
-                                        object_name=f"{account_id}/{location_id}/{Path(file_path).name}",
-                                    )
-                                    media_urls.append({"url": media_url, "format": media_format})
-                                except Exception as gcs_error:
-                                    logger.warning(f"GCSアップロードも失敗: {gcs_error}")
-                                    # アップロードに失敗しても続行（URLなしで投稿）
-
-                    # Google Business Profile APIで投稿を作成
-                    post_result = self.api_client.create_post(
-                        account_id=account_id,
-                        location_id=location_id,
-                        summary=caption,
-                        media_urls=media_urls if media_urls else None,
-                    )
-
-                    # アップロード結果を構築
-                    upload_result = {
-                        "success": True,
-                        "taken_at": (
-                            taken_at.isoformat()
-                            if isinstance(taken_at, datetime)
-                            else str(taken_at)
-                        ),
-                        "post_id": post_id,
-                        "instagram_id": instagram_id,
-                        "account_id": account_id,
-                        "location_id": location_id,
-                        "uploaded_files": file_paths,
-                        "uploaded_urls": media_urls,
-                        "caption": caption,
-                        "upload_date": datetime.now().isoformat(),
-                        "google_post_id": post_result.get("name") if post_result else None,
-                        "mock": False,
-                        "message": "Google Business Profile API アップロード成功",
-                    }
-
-                    logger.info(
-                        f"[Google Business Profile API] 投稿を作成: {taken_at} ({account_id}/{location_id})\n"
-                        f"  投稿ID: {post_result.get('name') if post_result else 'N/A'}\n"
-                        f"  画像URL: {', '.join(str(m) for m in media_urls) if media_urls else 'なし'}\n"
-                        f"  キャプション: {caption[:100]}{'...' if len(caption) > 100 else ''}"
-                    )
-
-                    # アップロードログに記録（モックモードの場合のみ）
-                    if self.mock_mode:
-                        try:
-                            log_viewer = get_upload_log_viewer()
-                            log_viewer.add_upload_log(
-                                upload_type="post",
-                                taken_at=taken_at,
-                                instagram_id=instagram_id,
-                                account_id=account_id,
-                                location_id=location_id,
-                                uploaded_urls=media_urls,
-                                caption=caption,
-                                post_id=post_id,
-                                metadata=metadata,
-                                target_files=file_paths,
-                                skipped=False,
-                                upload_status="uploaded",
-                            )
-                        except Exception as e:
-                            logger.debug(f"アップロードログ記録エラー: {e}")
-
-                except Exception as api_error:
-                    logger.error(f"Google Business Profile API エラー: {api_error}")
-                    raise
-
-            # アップロード履歴を記録
+            # Seleniumが使用できない、かつモックモードでない場合はエラー
+            logger.error("Seleniumアップロードが無効で、モックモードも無効です。アップロードできません。")
             self.db.record_post_upload(
                 taken_at,
                 instagram_id,
                 location_id,
                 file_paths[0] if file_paths else "",
                 post_id=post_id,
-                upload_status="success" if upload_result["success"] else "failed",
-                upload_date=datetime.now(),
+                upload_status="failed",
             )
-
-            logger.info(
-                f"投稿のアップロード完了: {taken_at} ({instagram_id}, {location_id})"
-            )
-            return upload_result
+            return {
+                "success": False,
+                "taken_at": (
+                    taken_at.isoformat() if isinstance(taken_at, datetime) else str(taken_at)
+                ),
+                "post_id": post_id,
+                "account_id": account_id,
+                "location_id": location_id,
+                "error": "Seleniumアップロードが無効で、モックモードも無効です",
+            }
 
         except Exception as e:
             logger.error(
@@ -477,10 +539,11 @@ class GoogleBusinessUploader:
         Returns:
             アップロード結果の辞書
         """
-        # 重複チェック（日時ベース）
-        if self.db.is_story_uploaded(taken_at, instagram_id, location_id):
+        # 重複チェック（日時ベース + Story IDベース）
+        if self.db.is_story_uploaded(taken_at, instagram_id, location_id, story_id=story_id):
             logger.info(
                 f"ストーリーは既にアップロード済みです: {taken_at} ({instagram_id}, {location_id})"
+                + (f" [Story ID: {story_id}]" if story_id else "")
             )
 
             # スキップされた場合もログに記録
@@ -566,6 +629,101 @@ class GoogleBusinessUploader:
                     "error": error_msg,
                 }
 
+            # 動画変換処理
+            converted_file_path = file_path
+            if self.video_conversion_enabled:
+                from .utils import ensure_video_resolution
+
+                path = Path(file_path)
+                is_video = path.suffix.lower() in [".mp4", ".mov", ".avi", ".wmv", ".webm", ".mkv"]
+                
+                if is_video:
+                    logger.info(f"動画の解像度チェックを実行: {file_path}")
+                    converted_file_path = ensure_video_resolution(
+                        file_path,
+                        min_width=self.video_min_width,
+                        min_height=self.video_min_height,
+                    )
+
+            # Seleniumアップロードを使用する場合（投稿と同じフォームでアップロード）
+            if self.use_selenium and self.selenium_uploader:
+                try:
+                    # ストーリーも投稿と同じフォームでアップロード（キャプションなし）
+                    result = self.selenium_uploader.upload_post_via_selenium(
+                        location_id=location_id,
+                        file_paths=[converted_file_path],
+                        metadata_path=None,
+                        caption=None,  # ストーリーにはキャプションなし
+                    )
+
+                    if result.get("success"):
+                        # アップロード履歴を記録
+                        self.db.record_story_upload(
+                            taken_at,
+                            instagram_id,
+                            location_id,
+                            converted_file_path,
+                            story_id=story_id,
+                            upload_status="success",
+                            upload_date=datetime.now(),
+                        )
+                        logger.info(f"Seleniumアップロード成功: {taken_at} ({instagram_id}, {location_id})")
+                        return {
+                            "success": True,
+                            "taken_at": (
+                                taken_at.isoformat() if isinstance(taken_at, datetime) else str(taken_at)
+                            ),
+                            "story_id": story_id,
+                            "instagram_id": instagram_id,
+                            "account_id": account_id,
+                            "location_id": location_id,
+                            "uploaded_file": converted_file_path,
+                            "upload_date": datetime.now().isoformat(),
+                            "method": "selenium",
+                            "message": "Seleniumアップロード成功",
+                        }
+                    else:
+                        # エラーを記録
+                        self.db.record_story_upload(
+                            taken_at,
+                            instagram_id,
+                            location_id,
+                            converted_file_path,
+                            story_id=story_id,
+                            upload_status="failed",
+                        )
+                        return {
+                            "success": False,
+                            "taken_at": (
+                                taken_at.isoformat() if isinstance(taken_at, datetime) else str(taken_at)
+                            ),
+                            "story_id": story_id,
+                            "account_id": account_id,
+                            "location_id": location_id,
+                            "error": result.get("error", "Seleniumアップロード失敗"),
+                        }
+                except Exception as selenium_error:
+                    logger.error(f"Seleniumアップロードエラー: {selenium_error}")
+                    # エラーを記録
+                    self.db.record_story_upload(
+                        taken_at,
+                        instagram_id,
+                        location_id,
+                        converted_file_path,
+                        story_id=story_id,
+                        upload_status="failed",
+                    )
+                    return {
+                        "success": False,
+                        "taken_at": (
+                            taken_at.isoformat() if isinstance(taken_at, datetime) else str(taken_at)
+                        ),
+                        "story_id": story_id,
+                        "account_id": account_id,
+                        "location_id": location_id,
+                        "error": str(selenium_error),
+                    }
+
             # モックアップロード処理
             if self.mock_mode:
                 logger.debug(
@@ -576,7 +734,7 @@ class GoogleBusinessUploader:
                 # アップロードしたファイルのURLを生成（モック用）
                 # ローカルファイルパスをURL形式に変換（モック用）
                 # 実際の実装では、Google Business PlatformのURLが返される
-                file_url = f"file:///{Path(file_path).absolute().as_posix()}"
+                file_url = f"file:///{Path(converted_file_path).absolute().as_posix()}"
 
                 # モックでは常に成功とする
                 upload_result = {
@@ -636,115 +794,27 @@ class GoogleBusinessUploader:
                     f"ストーリーのアップロード完了: {taken_at} ({instagram_id}, {account_id}/{location_id})"
                 )
                 return upload_result
-            else:
-                # 実際のGoogle Business Profile API呼び出し
-                try:
-                    # 画像をアップロードしてURLを取得
-                    media_url = None
-                    path = Path(file_path)
-                    is_video = path.suffix.lower() in [".mp4", ".mov", ".avi", ".webm", ".mkv"]
-                    media_format = "VIDEO" if is_video else "PHOTO"
 
-                    if self.use_direct_upload and self.api_client:
-                        try:
-                            media_url = self.api_client.upload_media_direct(
-                                account_id=account_id,
-                                location_id=location_id,
-                                file_path=file_path,
-                                media_format=media_format,
-                            )
-                        except Exception as e:
-                            logger.warning(f"メディアの直接アップロードに失敗: {file_path} - {e}")
-                            # 直接アップロードに失敗した場合、GCSにフォールバック
-                            if self.gcs_bucket and self.api_client:
-                                try:
-                                    media_url = self.api_client.upload_media_to_gcs(
-                                        file_path=file_path,
-                                        bucket_name=self.gcs_bucket,
-                                        object_name=f"{account_id}/{location_id}/{Path(file_path).name}",
-                                    )
-                                except Exception as gcs_error:
-                                    logger.warning(f"GCSアップロードも失敗: {gcs_error}")
-                    elif self.gcs_bucket and self.api_client:
-                        try:
-                            media_url = self.api_client.upload_media_to_gcs(
-                                file_path=file_path,
-                                bucket_name=self.gcs_bucket,
-                                object_name=f"{account_id}/{location_id}/{Path(file_path).name}",
-                            )
-                        except Exception as e:
-                            logger.warning(f"画像のGCSアップロードに失敗: {file_path} - {e}")
-
-                    # Google Business Profile APIで投稿を作成（ストーリーは画像のみ）
-                    post_result = self.api_client.create_post(
-                        account_id=account_id,
-                        location_id=location_id,
-                        summary="",  # ストーリーにはキャプションなし
-                        media_urls=[media_url] if media_url else None,
-                    )
-
-                    # アップロード結果を構築
-                    upload_result = {
-                        "success": True,
-                        "taken_at": (
-                            taken_at.isoformat()
-                            if isinstance(taken_at, datetime)
-                            else str(taken_at)
-                        ),
-                        "story_id": story_id,
-                        "instagram_id": instagram_id,
-                        "account_id": account_id,
-                        "location_id": location_id,
-                        "uploaded_file": file_path,
-                        "uploaded_url": media_url,
-                        "upload_date": datetime.now().isoformat(),
-                        "google_post_id": post_result.get("name") if post_result else None,
-                        "mock": False,
-                        "message": "Google Business Profile API アップロード成功",
-                    }
-
-                    logger.info(
-                        f"[Google Business Profile API] ストーリーを投稿: {taken_at} ({account_id}/{location_id})\n"
-                        f"  投稿ID: {post_result.get('name') if post_result else 'N/A'}\n"
-                        f"  画像URL: {media_url if media_url else 'なし'}"
-                    )
-
-                    # アップロードログに記録
-                    try:
-                        log_viewer = get_upload_log_viewer()
-                        log_viewer.add_upload_log(
-                            upload_type="story",
-                            taken_at=taken_at,
-                            instagram_id=instagram_id,
-                            account_id=account_id,
-                            location_id=location_id,
-                            uploaded_urls=[media_url] if media_url else [],
-                            caption="",  # ストーリーにはキャプションなし
-                            story_id=story_id,
-                            metadata=metadata,
-                        )
-                    except Exception as e:
-                        logger.debug(f"アップロードログ記録エラー: {e}")
-
-                except Exception as api_error:
-                    logger.error(f"Google Business Profile API エラー: {api_error}")
-                    raise
-
-            # アップロード履歴を記録
+            # Seleniumが使用できない、かつモックモードでない場合はエラー
+            logger.error("Seleniumアップロードが無効で、モックモードも無効です。アップロードできません。")
             self.db.record_story_upload(
                 taken_at,
                 instagram_id,
                 location_id,
-                file_path,
+                converted_file_path,
                 story_id=story_id,
-                upload_status="success" if upload_result["success"] else "failed",
-                upload_date=datetime.now(),
+                upload_status="failed",
             )
-
-            logger.info(
-                f"ストーリーのアップロード完了: {taken_at} ({instagram_id}, {location_id})"
-            )
-            return upload_result
+            return {
+                "success": False,
+                "taken_at": (
+                    taken_at.isoformat() if isinstance(taken_at, datetime) else str(taken_at)
+                ),
+                "story_id": story_id,
+                "account_id": account_id,
+                "location_id": location_id,
+                "error": "Seleniumアップロードが無効で、モックモードも無効です",
+            }
 
         except Exception as e:
             logger.error(

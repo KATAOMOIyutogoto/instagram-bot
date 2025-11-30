@@ -6,8 +6,8 @@
   },
   "instagram_accounts": [
     {
-      "username": "g_l_2026_1",
-      "password": "adminadmin7.265",
+      "username": "g_l_2026_2",
+      "password": "adminadmin7.26",
       "session_file": "data/session_account1.json"
     },
     {
@@ -52,6 +52,16 @@
           }
         ],
         "user_id": "2002303603"
+      },      
+      {
+        "instagram_id": "hidanetest",
+        "google_business_locations": [
+          {
+            "account_id": "",
+            "location_id": "16739471645260047887"
+          }
+        ],
+        "user_id": ""
       },
       {
         "instagram_id": "nishiazabu_fxloop",
@@ -1579,7 +1589,7 @@
       }
     ],
     "download_limit": {
-      "posts": 15,
+      "posts": 5,
       "stories": 6
     }
   },
@@ -1604,6 +1614,16 @@
       "token_path": "config/token.json",
       "gcs_bucket": "",
       "use_direct_upload": true
+    },
+    "video_conversion": {
+      "enabled": true,
+      "min_width": 400,
+      "min_height": 300
+    },
+    "selenium": {
+      "enabled": false,
+      "chrome_profile_path": "",
+      "profile_name_gbp": ""
     }
   }
 }

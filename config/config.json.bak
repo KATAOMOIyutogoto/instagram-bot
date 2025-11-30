@@ -1,0 +1,1629 @@
+{
+  "instagram": {
+    "username": "g_l_2026_1",
+    "password": "adminadmin7.26",
+    "session_file": "data/session.json"
+  },
+  "instagram_accounts": [
+    {
+      "username": "g_l_2026_2",
+      "password": "adminadmin7.26",
+      "session_file": "data/session_account1.json"
+    },
+    {
+      "username": "g_l_2026_3",
+      "password": "adminadmin7.265",
+      "session_file": "data/session_account3.json"
+    },
+    {
+      "username": "g_l_2026_4",
+      "password": "adminadmin7.265",
+      "session_file": "data/session_account4.json"
+    },
+    {
+      "username": "g_l_2026_5",
+      "password": "adminadmin7.26",
+      "session_file": "data/session_account5.json"
+    },
+    {
+      "username": "forloop_1",
+      "password": "adminadmin7.26",
+      "session_file": "data/session_account6.json"
+    },
+    {
+      "username": "forloop_2",
+      "password": "adminadmin7.267",
+      "session_file": "data/session_account7.json"
+    },
+    {
+      "username": "forloop_3",
+      "password": "adminadmin7.26",
+      "session_file": "data/session_account8.json"
+    }
+  ],
+  "targets": {
+    "companies": [
+      // {
+      //   "instagram_id": "nishiazabu_fxloop",
+      //   "google_business_locations": [
+      //     {
+      //       "account_id": "",
+      //       "location_id": "retty:100000930973"
+      //     }
+      //   ],
+      //   "user_id": "2002303603"
+      // },      
+      {
+        "instagram_id": "hidanetest",
+        "google_business_locations": [
+          {
+            "account_id": "",
+            "location_id": "16739471645260047887"
+          }
+        ],
+        "user_id": ""
+      }
+  //     {
+  //       "instagram_id": "nishiazabu_fxloop",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSUZQCLK516049"
+  //         }
+  //       ],
+  //       "user_id": "2002303603"
+  //     },
+  //     {
+  //       "instagram_id": "kome_0604",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSECBACR910020"
+  //         }
+  //       ],
+  //       "user_id": "2139060682"
+  //     },
+  //     {
+  //       "instagram_id": "fupao_y.higashiguchi",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "03980893373086383185"
+  //         }
+  //       ],
+  //       "user_id": "68986985371"
+  //     },
+  //     {
+  //       "instagram_id": "urutora.yokohama",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSIVTFWA178995"
+  //         }
+  //       ],
+  //       "user_id": "2024981214"
+  //     },
+  //     {
+  //       "instagram_id": "1983_chigasaki",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSNUZAMJ250391"
+  //         }
+  //       ],
+  //       "user_id": "5674578975"
+  //     },
+  //     {
+  //       "instagram_id": "torikin_kinshicho",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSERRFGQ159040"
+  //         }
+  //       ],
+  //       "user_id": "65124292638"
+  //     },
+  //     {
+  //       "instagram_id": "kushiraku_kinshicho",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSLALRIA466915"
+  //         }
+  //       ],
+  //       "user_id": "64742111258"
+  //     },
+  //     {
+  //       "instagram_id": "torisin.yokosuka.chuou",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSPEWKQH557136"
+  //         }
+  //       ],
+  //       "user_id": "53651280609"
+  //     },
+  //     {
+  //       "instagram_id": "torisin.kurihama",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSDSSGRZ985420"
+  //         }
+  //       ],
+  //       "user_id": "65202581367"
+  //     },
+  //     {
+  //       "instagram_id": "torisin.kanazawabunko",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSMEJDMP083320"
+  //         }
+  //       ],
+  //       "user_id": "7147389850"
+  //     },
+  //     {
+  //       "instagram_id": "torisin.sinsugita",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSYSCJOL485079"
+  //         }
+  //       ],
+  //       "user_id": "65358798296"
+  //     },
+  //     {
+  //       "instagram_id": "hinotori_honten",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSTXXPKU403482"
+  //         }
+  //       ],
+  //       "user_id": "5679960928"
+  //     },
+  //     {
+  //       "instagram_id": "teppannakata",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSLKBQXT045881"
+  //         }
+  //       ],
+  //       "user_id": "61062258085"
+  //     },
+  //     {
+  //       "instagram_id": "zekko_cho_nishifunabashi",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSMTDTLM552029"
+  //         }
+  //       ],
+  //       "user_id": "26489864611"
+  //     },
+  //     {
+  //       "instagram_id": "zekkocho.sonohachi",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSKZHABD228338"
+  //         }
+  //       ],
+  //       "user_id": "56340423810"
+  //     },
+  //     {
+  //       "instagram_id": "zekko_cho_mizue",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSEJDINT276913"
+  //         }
+  //       ],
+  //       "user_id": "9551182297"
+  //     },
+  //     {
+  //       "instagram_id": "monpin.mizue",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "02447203754229547034"
+  //         }
+  //       ],
+  //       "user_id": "49352049142"
+  //     },
+  //     {
+  //       "instagram_id": "zekkoucho.naha",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSVOQDNO454813"
+  //         }
+  //       ],
+  //       "user_id": "65113238424"
+  //     },
+  //     {
+  //       "instagram_id": "zekko_cho_motoyawata",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "16135988500272634063"
+  //         }
+  //       ],
+  //       "user_id": "59468289094"
+  //     },
+  //     {
+  //       "instagram_id": "zekko_cho_nishikasai",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSCBDQBL314364"
+  //         }
+  //       ],
+  //       "user_id": "6940426337"
+  //     },
+  //     {
+  //       "instagram_id": "hakatashouten.shibuya",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSIBXEWD360917"
+  //         }
+  //       ],
+  //       "user_id": "66887188614"
+  //     },
+  //     {
+  //       "instagram_id": "yukinomura_shinbashi",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSHSMXWW829348"
+  //         }
+  //       ],
+  //       "user_id": "67093326314"
+  //     },
+  //     {
+  //       "instagram_id": "chines_restauratrin",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSAZMGNT649219"
+  //         }
+  //       ],
+  //       "user_id": "60604461065"
+  //     },
+  //     {
+  //       "instagram_id": "sumibiyaki.esuto7",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "01757299593825392879"
+  //         }
+  //       ],
+  //       "user_id": "67482731365"
+  //     },
+  //     {
+  //       "instagram_id": "toridensetsu.0925",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSVLAEHF357630"
+  //         }
+  //       ],
+  //       "user_id": "21051863009"
+  //     },
+  //     {
+  //       "instagram_id": "spicymonkeys_kamioooka",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSMELSHP271892"
+  //         }
+  //       ],
+  //       "user_id": "14045115823"
+  //     },
+  //     {
+  //       "instagram_id": "Kaburaya_Takatsuki",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSWJRLKG379490"
+  //         }
+  //       ],
+  //       "user_id": "70087471983"
+  //     },
+  //     {
+  //       "instagram_id": "Kaburaya_Ikebukuro2go",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSDQAIHX391959"
+  //         }
+  //       ],
+  //       "user_id": "70135459009"
+  //     },
+  //     {
+  //       "instagram_id": "makibar.perca",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSCPNHCQ189597"
+  //         }
+  //       ],
+  //       "user_id": "67658211619"
+  //     },
+  //     {
+  //       "instagram_id": "manmaru_motosumi",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSJHJHRC366767"
+  //         }
+  //       ],
+  //       "user_id": "7910817598"
+  //     },
+  //     {
+  //       "instagram_id": "kushikatsu_ichiro2",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSJYQHNT273990"
+  //         }
+  //       ],
+  //       "user_id": "69790986265"
+  //     },
+  //     {
+  //       "instagram_id": "shintomi_uosen",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSZXEVLO637580"
+  //         }
+  //       ],
+  //       "user_id": "60331328329"
+  //     },
+  //     {
+  //       "instagram_id": "yakinikucozou",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSIDYXDL066653"
+  //         }
+  //       ],
+  //       "user_id": "61600250633"
+  //     },
+  //     {
+  //       "instagram_id": "sushidocorosou",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "SUSHIDOKOROSOU"
+  //         }
+  //       ],
+  //       "user_id": "49276936893"
+  //     },
+  //     {
+  //       "instagram_id": "lienlien_770",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSAOXISC102656"
+  //         }
+  //       ],
+  //       "user_id": "65599632505"
+  //     },
+  //     {
+  //       "instagram_id": "izakaya__micchan",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSMOOBZW339660"
+  //         }
+  //       ],
+  //       "user_id": "6303854202"
+  //     },
+  //     {
+  //       "instagram_id": "ichirin_1129",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSYKESSA050995"
+  //         }
+  //       ],
+  //       "user_id": "30878190980"
+  //     },
+  //     {
+  //       "instagram_id": "horumonngunsou",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSFCEPCP343813"
+  //         }
+  //       ],
+  //       "user_id": "49461449837"
+  //     },
+  //     {
+  //       "instagram_id": "warayun.noge",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSZCYXZX986574"
+  //         }
+  //       ],
+  //       "user_id": "38758646142"
+  //     },
+  //     {
+  //       "instagram_id": "mangetsunogesaku",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSLTIKLE044079"
+  //         }
+  //       ],
+  //       "user_id": "68978224712"
+  //     },
+  //     {
+  //       "instagram_id": "taisyuu_sakaba_otanisouten",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "04003646983832926575"
+  //         }
+  //       ],
+  //       "user_id": "62343229822"
+  //     },
+  //     {
+  //       "instagram_id": "yakinikuotani",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSHISZLR721112"
+  //         }
+  //       ],
+  //       "user_id": "62702825275"
+  //     },
+  //     {
+  //       "instagram_id": "yakitori_kabukiya",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "16964559831099077251"
+  //         }
+  //       ],
+  //       "user_id": "7896396473"
+  //     },
+  //     {
+  //       "instagram_id": "taishusakaba.aozora",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "08387731804851918717"
+  //         }
+  //       ],
+  //       "user_id": "52234080987"
+  //     },
+  //     {
+  //       "instagram_id": "maruhachi_8",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSSXJJAC690677"
+  //         }
+  //       ],
+  //       "user_id": "8990277859"
+  //     },
+  //     {
+  //       "instagram_id": "amourmiyazaki",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "amourmiyazaki"
+  //         }
+  //       ],
+  //       "user_id": "5464455884"
+  //     },
+  //     {
+  //       "instagram_id": "pm_201519",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "preciousmoments"
+  //         }
+  //       ],
+  //       "user_id": "75583465944"
+  //     },
+  //     {
+  //       "instagram_id": "sunaloha1997",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSCGBHUA902002"
+  //         }
+  //       ],
+  //       "user_id": "3895911504"
+  //     },
+  //     {
+  //       "instagram_id": "poteribakery_tokyo",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "14791663704074647750"
+  //         }
+  //       ],
+  //       "user_id": "67661511368"
+  //     },
+  //     {
+  //       "instagram_id": "supreme_ogaki",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "12113204799622535387"
+  //         }
+  //       ],
+  //       "user_id": "1997919722"
+  //     },
+  //     {
+  //       "instagram_id": "arsha_shaving.eyelash",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "00494077501792798024"
+  //         }
+  //       ],
+  //       "user_id": "65788381103"
+  //     },
+  //     {
+  //       "instagram_id": "classynail",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "05189865232820637202"
+  //         }
+  //       ],
+  //       "user_id": "2273748445"
+  //     },
+  //     {
+  //       "instagram_id": "enoshima_cafe_akua",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSSWKXDJ720981"
+  //         }
+  //       ],
+  //       "user_id": "63209665766"
+  //     },
+  //     {
+  //       "instagram_id": "nailsr.5",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "00425414159923481687"
+  //         }
+  //       ],
+  //       "user_id": "62983635458"
+  //     },
+  //     {
+  //       "instagram_id": "tanno_seitaisitu",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSHMNARH164294"
+  //         }
+  //       ],
+  //       "user_id": "56737597457"
+  //     },
+  //     {
+  //       "instagram_id": "nikunosato_yokohama",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSLMLJBC604219"
+  //         }
+  //       ],
+  //       "user_id": "63899473356"
+  //     },
+  //     {
+  //       "instagram_id": "lucidotanaka",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "04871588532018820912"
+  //         }
+  //       ],
+  //       "user_id": "7986951333"
+  //     },
+  //     {
+  //       "instagram_id": "arucuhr.maeda",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "03922472194507756362"
+  //         }
+  //       ],
+  //       "user_id": "34030250864"
+  //     },
+  //     {
+  //       "instagram_id": "igagurishokudo",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSEZKZPU057595"
+  //         }
+  //       ],
+  //       "user_id": "51855749962"
+  //     },
+  //     {
+  //       "instagram_id": "nail_la_mano_mie",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "lamanomiebeautyokinawa"
+  //         }
+  //       ],
+  //       "user_id": "66427951233"
+  //     },
+  //     {
+  //       "instagram_id": "kakurega_naru_izakaya",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSQUTWZX512601"
+  //         }
+  //       ],
+  //       "user_id": "12564483200"
+  //     },
+  //     {
+  //       "instagram_id": "kusabi_ibukey",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSSBUNFG596317"
+  //         }
+  //       ],
+  //       "user_id": "249599096"
+  //     },
+  //     {
+  //       "instagram_id": "kushikatsubilly",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSYFGDXK661231"
+  //         }
+  //       ],
+  //       "user_id": "9887212156"
+  //     },
+  //     {
+  //       "instagram_id": "tsu_cestbien",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "cestbien"
+  //         }
+  //       ],
+  //       "user_id": "4692204641"
+  //     },
+  //     {
+  //       "instagram_id": "amonde_0410",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "amond"
+  //         }
+  //       ],
+  //       "user_id": "4512839424"
+  //     },
+  //     {
+  //       "instagram_id": "pixiebob_hairsalon",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "pixiebob"
+  //         }
+  //       ],
+  //       "user_id": "48089259246"
+  //     },
+  //     {
+  //       "instagram_id": "oshareclub26",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "05029153779597449482"
+  //         }
+  //       ],
+  //       "user_id": "66563682393"
+  //     },
+  //     {
+  //       "instagram_id": "hfhsp2c",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "16579664487385497265"
+  //         }
+  //       ],
+  //       "user_id": "2977793893"
+  //     },
+  //     {
+  //       "instagram_id": "hfhsraffaello",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "03056610151687686385"
+  //         }
+  //       ],
+  //       "user_id": "2999309615"
+  //     },
+  //     {
+  //       "instagram_id": "hairmake_hanale",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "aohanale"
+  //         }
+  //       ],
+  //       "user_id": "41901764286"
+  //     },
+  //     {
+  //       "instagram_id": "hairmakeao_c_al",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "aocal"
+  //         }
+  //       ],
+  //       "user_id": "43079467335"
+  //     },
+  //     {
+  //       "instagram_id": "hairmakeao_tiam",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "aotiam"
+  //         }
+  //       ],
+  //       "user_id": "43266421079"
+  //     },
+  //     {
+  //       "instagram_id": "tgloss_kumamoto",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "tgloss"
+  //         }
+  //       ],
+  //       "user_id": "1599445669"
+  //     },
+  //     {
+  //       "instagram_id": "bonita_saga_eyelash.brow",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "bonitaogi"
+  //         }
+  //       ],
+  //       "user_id": "5716683851"
+  //     },
+  //     {
+  //       "instagram_id": "mitake2514",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "pa00039718"
+  //         }
+  //       ],
+  //       "user_id": "53716395723"
+  //     },
+  //     {
+  //       "instagram_id": "popular_este",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "populareste"
+  //         }
+  //       ],
+  //       "user_id": "11917433493"
+  //     },
+  //     {
+  //       "instagram_id": "popular_zenkunen",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "S484"
+  //         }
+  //       ],
+  //       "user_id": "3231330399"
+  //     },
+  //     {
+  //       "instagram_id": "cuthouse_hiragishi",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "cuthousehiragishi"
+  //         }
+  //       ],
+  //       "user_id": "4565142154"
+  //     },
+  //     {
+  //       "instagram_id": "cabinetr",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSTYAHYP942433"
+  //         }
+  //       ],
+  //       "user_id": "4040782629"
+  //     },
+  //     {
+  //       "instagram_id": "r.m.c_R_",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSFQQLKQ745882"
+  //         }
+  //       ],
+  //       "user_id": "58230192975"
+  //     },
+  //     {
+  //       "instagram_id": "aga.tha04",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "agatha"
+  //         }
+  //       ],
+  //       "user_id": "7441913129"
+  //     },
+  //     {
+  //       "instagram_id": "aburiya_maruko",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSTVKOPH045232"
+  //         }
+  //       ],
+  //       "user_id": "6278599407"
+  //     },
+  //     {
+  //       "instagram_id": "zekko_cho_shitaya",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "03074687295375004085"
+  //         }
+  //       ],
+  //       "user_id": "70989639204"
+  //     },
+  //     {
+  //       "instagram_id": "salvia_mihata02",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "salviarita"
+  //         }
+  //       ],
+  //       "user_id": "19797495203"
+  //     },
+  //     {
+  //       "instagram_id": "lapishsakurada",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "lapishsakurada"
+  //         }
+  //       ],
+  //       "user_id": "5509080971"
+  //     },
+  //     {
+  //       "instagram_id": "crows.shinbashi",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSQRGNPN304962"
+  //         }
+  //       ],
+  //       "user_id": "60017394082"
+  //     },
+  //     {
+  //       "instagram_id": "shinka_tokyo_roppongi",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSYVNUUS301045"
+  //         }
+  //       ],
+  //       "user_id": "27212564130"
+  //     },
+  //     {
+  //       "instagram_id": "fupao_sotetsu",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSSSZYJJ081884"
+  //         }
+  //       ],
+  //       "user_id": "63863360752"
+  //     },
+  //     {
+  //       "instagram_id": "begokko_no_karubi",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "pa00014356"
+  //         }
+  //       ],
+  //       "user_id": "57843762063"
+  //     },
+  //     {
+  //       "instagram_id": "wadining_124",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "wadining124"
+  //         }
+  //       ],
+  //       "user_id": "3560919633"
+  //     },
+  //     {
+  //       "instagram_id": "teppanyaki_124",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "teppanyaki124"
+  //         }
+  //       ],
+  //       "user_id": "6514104580"
+  //     },
+  //     {
+  //       "instagram_id": "harebare0819",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "02832951489499358954"
+  //         }
+  //       ],
+  //       "user_id": "68343678457"
+  //     },
+  //     {
+  //       "instagram_id": "sakaba_hiyoshimaru",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSKFXPDD482373"
+  //         }
+  //       ],
+  //       "user_id": "76891918273"
+  //     },
+  //     {
+  //       "instagram_id": "lucidostyle.bigen_eyelash",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "a-sam-1-2"
+  //         }
+  //       ],
+  //       "user_id": "12292835015"
+  //     },
+  //     {
+  //       "instagram_id": "ginza_fukagawa_gen.an",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "11479221059209665981"
+  //         }
+  //       ],
+  //       "user_id": "53123760741"
+  //     },
+  //     {
+  //       "instagram_id": "robatayaki.shin",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "15589418398766094563"
+  //         }
+  //       ],
+  //       "user_id": "72741536473"
+  //     },
+  //     {
+  //       "instagram_id": "nikunosato_tennoutyou",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "08170759229822101404"
+  //         }
+  //       ],
+  //       "user_id": "73307877988"
+  //     },
+  //     {
+  //       "instagram_id": "rikumaru_tennoutyou",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "13128231858886333706"
+  //         }
+  //       ],
+  //       "user_id": "73509929789"
+  //     },
+  //     {
+  //       "instagram_id": "ichinokura2006",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "08099762805091084942"
+  //         }
+  //       ],
+  //       "user_id": "64509526533"
+  //     },
+  //     {
+  //       "instagram_id": "fupao_yokohama",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSUFJECB290807"
+  //         }
+  //       ],
+  //       "user_id": "41799811221"
+  //     },
+  //     {
+  //       "instagram_id": "fupao_turuyacho",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSFCRPIN859859"
+  //         }
+  //       ],
+  //       "user_id": "48399578482"
+  //     },
+  //     {
+  //       "instagram_id": "fupao_noge_",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSENKHCS473598"
+  //         }
+  //       ],
+  //       "user_id": "50622050637"
+  //     },
+  //     {
+  //       "instagram_id": "seiryu_mangetu",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSRFCZAI542650"
+  //         }
+  //       ],
+  //       "user_id": "16915690896"
+  //     },
+  //     {
+  //       "instagram_id": "fupao_kichijoji",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "03768888520840380176"
+  //         }
+  //       ],
+  //       "user_id": "73389146614"
+  //     },
+  //     {
+  //       "instagram_id": "kusi_hiro94",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "09518804713242814919"
+  //         }
+  //       ],
+  //       "user_id": "63650581763"
+  //     },
+  //     {
+  //       "instagram_id": "kunitachi_zaemon",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "10681705115677728036"
+  //         }
+  //       ],
+  //       "user_id": "73840489179"
+  //     },
+  //     {
+  //       "instagram_id": "flap_isahaya_nagasaki_esthe",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "9358261580099535918"
+  //         },
+  //         {
+  //           "account_id": "",
+  //           "location_id": "6599067720642690765"
+  //         }
+  //       ],
+  //       "user_id": "4178254490"
+  //     },
+  //     {
+  //       "instagram_id": "salon_de_prink",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "13979425843239774052"
+  //         }
+  //       ],
+  //       "user_id": "50086048300"
+  //     },
+  //     {
+  //       "instagram_id": "marumaru_shinbashihonten",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSLWCLVG811384"
+  //         }
+  //       ],
+  //       "user_id": "74270659212"
+  //     },
+  //     {
+  //       "instagram_id": "accueillir_grace",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "18176898271205727261"
+  //         }
+  //       ],
+  //       "user_id": "7071313879"
+  //     },
+  //     {
+  //       "instagram_id": "accueillir_hair",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "5885884166360848152"
+  //         }
+  //       ],
+  //       "user_id": "7036588541"
+  //     },
+  //     {
+  //       "instagram_id": "eclat_hair_nagaoka",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "12916630420176941152"
+  //         }
+  //       ],
+  //       "user_id": "46619689417"
+  //     },
+  //     {
+  //       "instagram_id": "aizusoba_genbu",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "16016950539354741102"
+  //         }
+  //       ],
+  //       "user_id": "47765533391"
+  //     },
+  //     {
+  //       "instagram_id": "yakitori_fuuri_yokosuka",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSYLWJBR160099"
+  //         }
+  //       ],
+  //       "user_id": "14098897470"
+  //     },
+  //     {
+  //       "instagram_id": "furi_isezaki",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "01485230283266226163"
+  //         }
+  //       ],
+  //       "user_id": "70741327944"
+  //     },
+  //     {
+  //       "instagram_id": "torigin_yonegahama",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MRS002"
+  //         }
+  //       ],
+  //       "user_id": "33257338887"
+  //     },
+  //     {
+  //       "instagram_id": "yatto_hanare",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSHDQJYE519888"
+  //         }
+  //       ],
+  //       "user_id": "74552883196"
+  //     },
+  //     {
+  //       "instagram_id": "anartsoho_shun",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "5450809710664299854"
+  //         }
+  //       ],
+  //       "user_id": "230897611"
+  //     },
+  //     {
+  //       "instagram_id": "gobugobu.0601",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "07382031859519319796"
+  //         }
+  //       ],
+  //       "user_id": "74848848989"
+  //     },
+  //     {
+  //       "instagram_id": "atelier_ojo",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "12377236434271904578"
+  //         }
+  //       ],
+  //       "user_id": "51728477290"
+  //     },
+  //     {
+  //       "instagram_id": "hair__mind",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSLINKRN649144"
+  //         }
+  //       ],
+  //       "user_id": "57217386637"
+  //     },
+  //     {
+  //       "instagram_id": "fupaokawasaki",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSKSPTVF842595"
+  //         }
+  //       ],
+  //       "user_id": "61340506051"
+  //     },
+  //     {
+  //       "instagram_id": "nikunosato_odakyusagamihara",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSIMTPKY443259"
+  //         }
+  //       ],
+  //       "user_id": "62407700157"
+  //     },
+  //     {
+  //       "instagram_id": "nikunosato_honatsugi",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSIJEJPN602017"
+  //         }
+  //       ],
+  //       "user_id": "62082834284"
+  //     },
+  //     {
+  //       "instagram_id": "nikunosato_ebina",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSAIWDHF448536"
+  //         }
+  //       ],
+  //       "user_id": "62419987169"
+  //     },
+  //     {
+  //       "instagram_id": "nikunosato_fujisawa",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSNOFFRY050886"
+  //         }
+  //       ],
+  //       "user_id": "62450000320"
+  //     },
+  //     {
+  //       "instagram_id": "zekkocho_shitaya",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "01814005751503458388"
+  //         }
+  //       ],
+  //       "user_id": "76080265326"
+  //     },
+  //     {
+  //       "instagram_id": "lumi_915",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "12567354535638384359"
+  //         }
+  //       ],
+  //       "user_id": "61313718938"
+  //     },
+  //     {
+  //       "instagram_id": "fupao_tsurumi",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "08026063317982521246"
+  //         }
+  //       ],
+  //       "user_id": "75973682459"
+  //     },
+  //     {
+  //       "instagram_id": "phalaeno_white",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "10372927115853808431"
+  //         }
+  //       ],
+  //       "user_id": "55006206088"
+  //     },
+  //     {
+  //       "instagram_id": "hamburgrikishi",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "09630704539913258202"
+  //         }
+  //       ],
+  //       "user_id": "73352270882"
+  //     },
+  //     {
+  //       "instagram_id": "wagaya4_21_6",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "11861244852215407014"
+  //         }
+  //       ],
+  //       "user_id": "74027582363"
+  //     },
+  //     {
+  //       "instagram_id": "stastny.by.lumi",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSHVAONG106412"
+  //         }
+  //       ],
+  //       "user_id": "39692327600"
+  //     },
+  //     {
+  //       "instagram_id": "lumi_kamiooka",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "12318248629162589537"
+  //         }
+  //       ],
+  //       "user_id": "72209660179"
+  //     },
+  //     {
+  //       "instagram_id": "monpin.hirai",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "12228038855684062084"
+  //         }
+  //       ],
+  //       "user_id": "76807293419"
+  //     },
+  //     {
+  //       "instagram_id": "fupao_tsunashima",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "05142975195351475627"
+  //         }
+  //       ],
+  //       "user_id": "75789609930"
+  //     },
+  //     {
+  //       "instagram_id": "kaburaya_esaka",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "16994253892420487151"
+  //         }
+  //       ],
+  //       "user_id": "74101193175"
+  //     },
+  //     {
+  //       "instagram_id": "horumoncenter_otani_shouten",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "06953997897083521604"
+  //         }
+  //       ],
+  //       "user_id": "76749477004"
+  //     },
+  //     {
+  //       "instagram_id": "shisha_shee",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "13337750764817328930"
+  //         }
+  //       ],
+  //       "user_id": "76154628088"
+  //     },
+  //     {
+  //       "instagram_id": "sumibi_nao_yamato",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSIOXWFX771716"
+  //         }
+  //       ],
+  //       "user_id": "54627584295"
+  //     },
+  //     {
+  //       "instagram_id": "don.napoli1110",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSDKSAXK487159"
+  //         }
+  //       ],
+  //       "user_id": "5601969825"
+  //     },
+  //     {
+  //       "instagram_id": "chohakkai_no_daidokoro",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSOPUKBF469936"
+  //         }
+  //       ],
+  //       "user_id": "7097793377"
+  //     },
+  //     {
+  //       "instagram_id": "pepek_0503",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSINKCAD955265"
+  //         }
+  //       ],
+  //       "user_id": "58738119497"
+  //     },
+  //     {
+  //       "instagram_id": "poteribakery_yokohama",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "16786272527627027539"
+  //         }
+  //       ],
+  //       "user_id": "77329394398"
+  //     },
+  //     {
+  //       "instagram_id": "bistro.campari",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "07256913001757806659"
+  //         }
+  //       ],
+  //       "user_id": "12179013797"
+  //     },
+  //     {
+  //       "instagram_id": "mangetu_yokohama",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSGNWPCD818899"
+  //         }
+  //       ],
+  //       "user_id": "9003878640"
+  //     },
+  //     {
+  //       "instagram_id": "mangetsu_hanare",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSNNDJHM823733"
+  //         }
+  //       ],
+  //       "user_id": "8703480062"
+  //     },
+  //     {
+  //       "instagram_id": "mangetu_ibuki",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSVIOXEA239452"
+  //         }
+  //       ],
+  //       "user_id": "35379979389"
+  //     },
+  //     {
+  //       "instagram_id": "il_mare_azzurro_",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "16025621277951972552"
+  //         }
+  //       ],
+  //       "user_id": "7033827792"
+  //     },
+  //     {
+  //       "instagram_id": "fupao_takadanobaba",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "15793563084212795871"
+  //         }
+  //       ],
+  //       "user_id": "77661214504"
+  //     },
+  //     {
+  //       "instagram_id": "lumi.hairsalon",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "1208234769854629990"
+  //         }
+  //       ],
+  //       "user_id": "11532553137"
+  //     },
+  //     {
+  //       "instagram_id": "odenyahinata322",
+  //       "google_business_locations": [
+  //         {
+  //           "account_id": "",
+  //           "location_id": "MSOUNZBR824319"
+  //         }
+  //       ],
+  //       "user_id": "12755522835"
+  //     }
+    ],
+    "download_limit": {
+      "posts": 5,
+      "stories": 6
+    }
+  },
+  "download": {
+    "base_directory": "downloads",
+    "organize_by_company": true,
+    "organize_by_date": true,
+    "download_posts": true,
+    "download_stories": true
+  },
+  "settings": {
+    "retry_attempts": 3,
+    "retry_delay": 5,
+    "delay_between_requests": 2
+  },
+  "upload": {
+    "auto_upload": true,
+    "mock_mode": true,
+    "start_date": "2025-11-23 00:00:00",
+    "google_business": {
+      "credentials_path": "config/credentials.json",
+      "token_path": "config/token.json",
+      "gcs_bucket": "",
+      "use_direct_upload": true
+    },
+    "video_conversion": {
+      "enabled": true,
+      "min_width": 400,
+      "min_height": 300
+    },
+    "selenium": {
+      "enabled": false,
+      "chrome_profile_path": "",
+      "profile_name_gbp": ""
+    }
+  }
+}

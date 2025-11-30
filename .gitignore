@@ -24,10 +24,9 @@ wheels/
 *.egg
 
 # Instagram Session
-# session.json
-# *.session
-# data/session.json
-# セッションファイルはGitに含める
+session.json
+*.session
+data/session.json
 
 # Log files
 *.log

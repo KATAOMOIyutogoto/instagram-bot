@@ -217,7 +217,10 @@ class Scheduler:
             if not bot.instagram_accounts or len(bot.instagram_accounts) == 1:
                 # 単一アカウントの場合のみ初期化
                 if not bot.initialize():
-                    logger.error("Botの初期化に失敗しました")
+                    logger.error(
+                        "Botの初期化に失敗しました。チャレンジ認証が必要な可能性があります。"
+                        "セッション情報を更新する場合は、scripts/extract_session_from_browser.py を使用してください。"
+                    )
                     return False
 
             # すべての企業のコンテンツをダウンロード

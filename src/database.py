@@ -100,6 +100,21 @@ class UploadDatabase:
             """
             )
 
+            # Post ID/Story IDベースの重複チェック用インデックス（location_idも含む）
+            cursor.execute(
+                """
+                CREATE INDEX IF NOT EXISTS idx_posts_post_id_location 
+                ON uploaded_posts(post_id, location_id, upload_status)
+            """
+            )
+
+            cursor.execute(
+                """
+                CREATE INDEX IF NOT EXISTS idx_stories_story_id_location 
+                ON uploaded_stories(story_id, location_id, upload_status)
+            """
+            )
+
             # 実行ログテーブル
             cursor.execute(
                 """
@@ -358,15 +373,16 @@ class UploadDatabase:
             return []
 
     def is_post_uploaded(
-        self, taken_at: datetime, instagram_id: str, location_id: str
+        self, taken_at: datetime, instagram_id: str, location_id: str, post_id: str | None = None
     ) -> bool:
         """
-        投稿が既にアップロードされているかチェック（日時ベース）
+        投稿が既にアップロードされているかチェック（日時ベース + Post IDベース）
 
         Args:
             taken_at: 投稿のアップロード日時
             instagram_id: Instagramのユーザー名またはID
             location_id: Google Business Profile のロケーションID
+            post_id: 投稿ID（オプション、提供されている場合はPost IDベースでチェック）
 
         Returns:
             アップロード済みの場合True
@@ -375,6 +391,21 @@ class UploadDatabase:
             conn = sqlite3.connect(self.db_path)
             cursor = conn.cursor()
 
+            # Post IDが提供されている場合、同じlocation_idでPost IDベースでチェック
+            if post_id:
+                cursor.execute(
+                    """
+                    SELECT COUNT(*) FROM uploaded_posts
+                    WHERE post_id = ? AND location_id = ? AND upload_status = 'success'
+                """,
+                    (post_id, location_id),
+                )
+                count = cursor.fetchone()[0]
+                if count > 0:
+                    conn.close()
+                    return True
+
+            # 日時ベースのチェック（既存のロジック）
             cursor.execute(
                 """
                 SELECT COUNT(*) FROM uploaded_posts
@@ -394,15 +425,16 @@ class UploadDatabase:
             return False
 
     def is_story_uploaded(
-        self, taken_at: datetime, instagram_id: str, location_id: str
+        self, taken_at: datetime, instagram_id: str, location_id: str, story_id: str | None = None
     ) -> bool:
         """
-        ストーリーが既にアップロードされているかチェック（日時ベース）
+        ストーリーが既にアップロードされているかチェック（日時ベース + Story IDベース）
 
         Args:
             taken_at: ストーリーのアップロード日時
             instagram_id: Instagramのユーザー名またはID
             location_id: Google Business Profile のロケーションID
+            story_id: ストーリーID（オプション、提供されている場合はStory IDベースでチェック）
 
         Returns:
             アップロード済みの場合True
@@ -411,6 +443,21 @@ class UploadDatabase:
             conn = sqlite3.connect(self.db_path)
             cursor = conn.cursor()
 
+            # Story IDが提供されている場合、同じlocation_idでStory IDベースでチェック
+            if story_id:
+                cursor.execute(
+                    """
+                    SELECT COUNT(*) FROM uploaded_stories
+                    WHERE story_id = ? AND location_id = ? AND upload_status = 'success'
+                """,
+                    (story_id, location_id),
+                )
+                count = cursor.fetchone()[0]
+                if count > 0:
+                    conn.close()
+                    return True
+
+            # 日時ベースのチェック（既存のロジック）
             cursor.execute(
                 """
                 SELECT COUNT(*) FROM uploaded_stories

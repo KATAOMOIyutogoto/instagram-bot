@@ -23,11 +23,13 @@ class UploadManager:
         mock_mode: bool = True,
         mock_delay: float = 0.5,
         start_date: datetime | None = None,
-        credentials_path: str | None = None,
-        token_path: str | None = None,
-        gcs_bucket: str | None = None,
         location_mapping: dict[str, str] | None = None,
-        use_direct_upload: bool = True,
+        video_conversion_enabled: bool = True,
+        video_min_width: int = 400,
+        video_min_height: int = 300,
+        use_selenium: bool = False,
+        chrome_profile_path: str | None = None,
+        profile_name_gbp: str | None = None,
     ):
         """
         Args:
@@ -35,10 +37,13 @@ class UploadManager:
             mock_mode: モックモード（Trueの場合は実際にはアップロードしない）
             mock_delay: モックアップロード時の遅延時間（秒）
             start_date: アップロード開始日時（この日時以降の投稿/ストーリーのみをアップロード）
-            credentials_path: Google API認証情報ファイルのパス（サービスアカウント用）
-            token_path: OAuth2トークンファイルのパス
-            gcs_bucket: Google Cloud Storageバケット名（画像アップロード用）
             location_mapping: Google Business Profileのロケーション情報のマッピング（非推奨、config.jsonで直接設定）
+            video_conversion_enabled: 動画変換を有効にするか
+            video_min_width: 動画の最小幅
+            video_min_height: 動画の最小高さ
+            use_selenium: Seleniumを使用してアップロードするか
+            chrome_profile_path: Chromeプロファイルのパス（Selenium用）
+            profile_name_gbp: GBP用のプロファイル名（Selenium用）
         """
         self.db = UploadDatabase(db_path)
         self.location_mapping = location_mapping or {}
@@ -46,11 +51,13 @@ class UploadManager:
             self.db,
             mock_mode=mock_mode,
             mock_delay=mock_delay,
-            credentials_path=credentials_path,
-            token_path=token_path,
-            gcs_bucket=gcs_bucket,
             location_mapping=self.location_mapping,
-            use_direct_upload=use_direct_upload,
+            video_conversion_enabled=video_conversion_enabled,
+            video_min_width=video_min_width,
+            video_min_height=video_min_height,
+            use_selenium=use_selenium,
+            chrome_profile_path=chrome_profile_path,
+            profile_name_gbp=profile_name_gbp,
         )
 
         # アップロード開始日時（この日時以降の投稿/ストーリーのみをアップロード）

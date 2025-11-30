@@ -89,7 +89,11 @@ class InstagramBot:
                 return False
 
             except ChallengeRequired:
-                logger.warning("チャレンジ認証が必要です。手動で対応してください")
+                logger.warning(
+                    f"チャレンジ認証が必要です（アカウント: {self.username}）。"
+                    "このアカウントはスキップされ、次のアカウントで処理を続行します。"
+                    "セッション情報を更新する場合は、scripts/extract_session_from_browser.py を使用してください。"
+                )
                 return False
 
             except LoginRequired:

@@ -230,17 +230,21 @@ class InstagramDownloadBot:
 
             # UploadManagerを初期化
             upload_config = self.config.get("upload", {})
-            google_business_config = upload_config.get("google_business", {})
+            video_conversion_config = upload_config.get("video_conversion", {})
+            selenium_config = upload_config.get("selenium", {})
+            
             self.upload_manager = UploadManager(
                 db_path="data/upload_history.db",
                 mock_mode=self.upload_mock_mode,
                 mock_delay=0.5,
                 start_date=self.upload_start_date,
-                credentials_path=google_business_config.get("credentials_path"),
-                token_path=google_business_config.get("token_path"),
-                gcs_bucket=google_business_config.get("gcs_bucket"),
                 location_mapping={},  # 初期化時は空（後で動的に設定）
-                use_direct_upload=google_business_config.get("use_direct_upload", True),
+                video_conversion_enabled=video_conversion_config.get("enabled", True),
+                video_min_width=video_conversion_config.get("min_width", 400),
+                video_min_height=video_conversion_config.get("min_height", 300),
+                use_selenium=selenium_config.get("enabled", False),
+                chrome_profile_path=selenium_config.get("chrome_profile_path"),
+                profile_name_gbp=selenium_config.get("profile_name_gbp"),
             )
 
             logger.info("Botの初期化が完了しました")
@@ -692,7 +696,10 @@ class InstagramDownloadBot:
                 self.session_file = account["session_file"]
                 
                 if not self.initialize():
-                    logger.error(f"アカウント{current_account_idx + 1}の初期化に失敗しました")
+                    logger.warning(
+                        f"アカウント{current_account_idx + 1} ({account['username']}) の初期化に失敗しました。"
+                        "チャレンジ認証が必要な可能性があります。このアカウントをスキップして、次のアカウントで処理を続行します。"
+                    )
                     # このアカウントを失敗リストに追加
                     failed_accounts.add(current_account_idx)
                     # このアカウントの残りの企業を他のアカウントに再割り当て
@@ -735,7 +742,10 @@ class InstagramDownloadBot:
             if self.bot is None or self.downloader is None:
                 logger.warning(f"アカウント{current_account_idx + 1}が初期化されていません。再初期化します")
                 if not self.initialize():
-                    logger.error(f"アカウント{current_account_idx + 1}の再初期化に失敗しました")
+                    logger.warning(
+                        f"アカウント{current_account_idx + 1} ({self.username}) の再初期化に失敗しました。"
+                        "チャレンジ認証が必要な可能性があります。このアカウントをスキップして、次のアカウントで処理を続行します。"
+                    )
                     failed_accounts.add(current_account_idx)
                     # 残りの企業を他のアカウントに再割り当て
                     remaining_companies = account_company_list[start_idx:]
@@ -880,7 +890,10 @@ def main():
         if not bot.instagram_accounts or len(bot.instagram_accounts) == 1:
             # 単一アカウントの場合のみ初期化
             if not bot.initialize():
-                logger.error("Botの初期化に失敗しました")
+                logger.error(
+                    "Botの初期化に失敗しました。チャレンジ認証が必要な可能性があります。"
+                    "セッション情報を更新する場合は、scripts/extract_session_from_browser.py を使用してください。"
+                )
                 sys.exit(1)
 
         # すべての企業のコンテンツをダウンロード
