@@ -51,6 +51,16 @@ class InstagramBot:
                     logger.info("セッションファイルが有効です。ログイン不要")
                     self.is_logged_in = True
                     return True
+                except ChallengeRequired:
+                    logger.warning(
+                        f"セッションファイル読み込み時にチャレンジ認証が必要です（アカウント: {self.username}）。"
+                        "セッションファイルを削除します。次回実行時（1時間後）にユーザー名とパスワードで再ログインを試みます。"
+                    )
+                    # セッションファイルを削除（次回実行時にユーザー名とパスワードで再ログインを試みるため）
+                    Path(self.session_file).unlink()
+                    logger.info("チャレンジ認証が必要なため、セッションファイルを削除しました")
+                    # 新しいクライアントインスタンスを作成
+                    self.client = Client()
                 except (LoginRequired, Exception) as e:
                     logger.warning(f"セッションファイルが無効です: {e}。再ログインを試みます")
                     # 無効なセッションファイルを削除
@@ -91,9 +101,12 @@ class InstagramBot:
             except ChallengeRequired:
                 logger.warning(
                     f"チャレンジ認証が必要です（アカウント: {self.username}）。"
-                    "このアカウントはスキップされ、次のアカウントで処理を続行します。"
-                    "セッション情報を更新する場合は、scripts/extract_session_from_browser.py を使用してください。"
+                    "セッションファイルを削除します。次回実行時（1時間後）にユーザー名とパスワードで再ログインを試みます。"
                 )
+                # セッションファイルを削除（次回実行時にユーザー名とパスワードで再ログインを試みるため）
+                if Path(self.session_file).exists():
+                    Path(self.session_file).unlink()
+                    logger.info("チャレンジ認証が必要なため、セッションファイルを削除しました")
                 return False
 
             except LoginRequired:
